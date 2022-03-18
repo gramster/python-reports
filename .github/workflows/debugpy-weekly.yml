@@ -2,7 +2,7 @@ name: 'Generate Weekly Full Report for debugpy'
 
 on:
   schedule:
-    - cron: 6 * * * 1    
+    - cron: * 6 * * 1    
   workflow_dispatch:
   
 permissions:

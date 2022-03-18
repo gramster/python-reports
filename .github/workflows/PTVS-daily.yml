@@ -2,7 +2,7 @@ name: 'Generate Daily Report for PTVS'
 
 on:
   schedule:
-    - cron: 5 30 * * *    
+    - cron: 30 5 * * *    
   workflow_dispatch:
   
 permissions:

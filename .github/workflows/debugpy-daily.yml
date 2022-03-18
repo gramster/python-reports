@@ -2,7 +2,7 @@ name: 'Generate Daily Report for debugpy'
 
 on:
   schedule:
-    - cron: 6 30 * * *    
+    - cron: 30 6 * * *    
   workflow_dispatch:
   
 permissions:
