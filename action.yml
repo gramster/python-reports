@@ -27,17 +27,17 @@ runs:
       if: inputs.weekly == 'true'
       uses: gramster/github-issue-reporter@main
       with:
-        repository: env.REPO
+        repository: ${{ env.REPO }}
         githubToken: ${{ inputs.githubToken }}
         reportNameTemplate: 'fullreport.md'
         reportPath: ${{ inputs.repository }}
         all: true
-        team: env.TEAM
+        team: ${{ env.TEAM }}
     - name: Generate limited report
       if: inputs.weekly != 'true'
       uses: gramster/github-issue-reporter@main
       with:
-        repository: env.REPO
+        repository: ${{ env.REPO }}
         githubToken: ${{ inputs.githubToken }}
         reportPath: ${{ inputs.repository }}
-        team: env.TEAM
+        team: ${{ env.TEAM }}
