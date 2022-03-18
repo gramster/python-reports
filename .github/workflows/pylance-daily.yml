@@ -19,7 +19,7 @@ jobs:
         with:
           repository: 'microsoft/pylance-release'
           githubToken: ${{ secrets.PAT }}
-          reportPath: .
+          reportPath: pylance
           team: '+savannahostrowski,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
  
 

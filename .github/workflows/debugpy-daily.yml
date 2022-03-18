@@ -19,6 +19,6 @@ jobs:
         with:
           repository: 'microsoft/debugpy'
           githubToken: ${{ secrets.PAT }}
-          reportPath: .
+          reportPath: debugpy
           team: '+fabioz,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
         

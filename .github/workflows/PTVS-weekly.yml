@@ -20,7 +20,7 @@ jobs:
           repository: 'microsoft/PTVS'
           githubToken: ${{ secrets.PAT }}
           reportNameTemplate: 'fullreport.md'
-          reportPath: .
+          reportPath: PTVS
           all: true
           team: '+fabioz,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
       
