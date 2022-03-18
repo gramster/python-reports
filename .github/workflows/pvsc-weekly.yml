@@ -20,4 +20,5 @@ jobs:
           repository: 'vscode-python'
           githubToken: ${{ secrets.PAT }}
           weekly: true
+          count: 15
         

@@ -19,4 +19,5 @@ jobs:
         with:
           repository: 'vscode-python'
           githubToken: ${{ secrets.PAT }}
+          count: 15
         
