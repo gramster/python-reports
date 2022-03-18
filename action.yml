@@ -14,7 +14,7 @@ inputs:
     required: false
     default: false
   count:
-    description: "Batch size for calls to Github API.i Use if jobs are failing due to timeouts."
+    description: "Batch size for calls to Github API. Use if jobs are failing due to timeouts."
     required: false
     default: '25'
 
