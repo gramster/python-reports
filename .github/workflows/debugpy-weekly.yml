@@ -15,12 +15,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - id: report
-        uses: gramster/github-issue-reporter@main
+        uses: gramster/python-reports@main
         with:
-          repository: 'microsoft/debugpy'
+          repository: 'debugpy'
           githubToken: ${{ secrets.PAT }}
-          reportPath: debugpy
-          reportNameTemplate: 'fullreport.md'
-          all: true
-          team: '+fabioz,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
-      
+          weekly: true
+        

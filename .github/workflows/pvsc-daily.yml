@@ -1,6 +1,8 @@
-name: 'Generate Test for jupyter'
+name: 'Generate Daily Report for PVSC'
 
 on:
+  schedule:
+    - cron: 30 3 * * *    
   workflow_dispatch:
   
 permissions:
@@ -15,6 +17,6 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'vscode-jupyter'
+          repository: 'vscode-python'
           githubToken: ${{ secrets.PAT }}
         

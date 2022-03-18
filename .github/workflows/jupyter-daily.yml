@@ -1,8 +1,8 @@
-name: 'Generate Daily Report for debugpy'
+name: 'Generate Daily Report for jupyter'
 
 on:
   schedule:
-    - cron: 30 6 * * *    
+    - cron: 30 4 * * *    
   workflow_dispatch:
   
 permissions:
@@ -17,6 +17,6 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'debugpy'
+          repository: 'vscode-jupyter'
           githubToken: ${{ secrets.PAT }}
         
