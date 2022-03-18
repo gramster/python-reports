@@ -22,5 +22,5 @@ jobs:
           reportNameTemplate: 'fullreport.md'
           reportPath: pylance
           all: true
-          team: '+savannahostrowski,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
+          team: '+erictraut,jakebailey,savannahostrowski,luabud,ijoosong,heejaechang,zooba,brettcannon,kieferrm,ronglums,DonJayamanne,kimadeline,int19h,gramster,qubitron,rchiodo,greazer,ericsnowcurrently,judej,paulacamargo25,bschnurr,karthiknadig,JoshuaPartlow,AdamYoblick,karrtikr,StellaHuang95'
   
