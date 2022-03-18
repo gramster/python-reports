@@ -2,7 +2,7 @@ name: 'Generate Weekly Full Report for PTVS'
 
 on:
   schedule:
-    - cron: * 5 * * 1    
+    - cron: 0 5 * * 1    
   workflow_dispatch:
   
 permissions:
