@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-03-18 using: stale=30, all=0
+Generated on 2022-03-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [6926](https://github.com/microsoft/PTVS/issues/6926 "No Longer Able to Set Python Editor for different file extensions in VS2022"): needs an initial team response (1 days old)
-
-### Issues in PTVS that have no external responses since team response in 30+ days:
-
-
-\* [6885](https://github.com/microsoft/PTVS/issues/6885 "Visual Studio 2022 intellisense autocomplete erroneous deletions"): team response was last response and no others in 30 days
+\* [6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”."): needs an initial team response (1 days old)
