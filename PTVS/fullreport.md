@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-04-06 using: stale=30, all=1
+Generated on 2022-04-11 using: stale=30, all=1
 
 
 * marks items that are new to report in past 1 day(s)
@@ -14,14 +14,14 @@ Generated on 2022-04-06 using: stale=30, all=1
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-  [6463](https://github.com/microsoft/PTVS/issues/6463 "Debugger is not attached after several hangs in internal python module"): OP responded 236 days ago but team last responded 237 days ago
+  [6463](https://github.com/microsoft/PTVS/issues/6463 "Debugger is not attached after several hangs in internal python module"): OP responded 241 days ago but team last responded 242 days ago
 
-  [6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled."): OP responded 32 days ago but team last responded 33 days ago
+  [6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled."): OP responded 37 days ago but team last responded 38 days ago
 
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-  [6932](https://github.com/microsoft/PTVS/issues/6932 "Failed to hit the breakpoint when attach a running python.exe."): 3rd party responded 8 days ago but team last responded 11 days ago
+  [6932](https://github.com/microsoft/PTVS/issues/6932 "Failed to hit the breakpoint when attach a running python.exe."): 3rd party responded 14 days ago but team last responded 16 days ago
 
 ---
 
@@ -31,159 +31,157 @@ Generated on 2022-04-06 using: stale=30, all=1
 ### Issues in PTVS that need a response from team:
 
 
-  [6632](https://github.com/microsoft/PTVS/issues/6632 "Publish Now in project properties should auto save first"): needs an initial team response (246 days old)
+  [6632](https://github.com/microsoft/PTVS/issues/6632 "Publish Now in project properties should auto save first"): needs an initial team response (251 days old)
 
-  [6684](https://github.com/microsoft/PTVS/issues/6684 "VS will restart with System.AccessViolationException."): needs an initial team response (224 days old)
+  [6684](https://github.com/microsoft/PTVS/issues/6684 "VS will restart with System.AccessViolationException."): needs an initial team response (229 days old)
 
-  [6685](https://github.com/microsoft/PTVS/issues/6685 "Failed to Run Tests and Debug Test from Solution Explorer window."): needs an initial team response (224 days old)
+  [6685](https://github.com/microsoft/PTVS/issues/6685 "Failed to Run Tests and Debug Test from Solution Explorer window."): needs an initial team response (229 days old)
 
-  [6697](https://github.com/microsoft/PTVS/issues/6697 "After adding the file as a link first, the file will not be added to the project."): needs an initial team response (222 days old)
+  [6697](https://github.com/microsoft/PTVS/issues/6697 "After adding the file as a link first, the file will not be added to the project."): needs an initial team response (227 days old)
 
-  [6715](https://github.com/microsoft/PTVS/issues/6715 "An error message &quot;This project &quot;PythonApplication3&quot; has a reference to a missing Conda environment &quot;env3&quot;&quot; always pops up when restart the VS."): needs an initial team response (207 days old)
+  [6715](https://github.com/microsoft/PTVS/issues/6715 "An error message &quot;This project &quot;PythonApplication3&quot; has a reference to a missing Conda environment &quot;env3&quot;&quot; always pops up when restart the VS."): needs an initial team response (212 days old)
 
-  [6717](https://github.com/microsoft/PTVS/issues/6717 "Missing package check doesn't understand flask requirements"): needs an initial team response (207 days old)
+  [6717](https://github.com/microsoft/PTVS/issues/6717 "Missing package check doesn't understand flask requirements"): needs an initial team response (212 days old)
 
-  [6718](https://github.com/microsoft/PTVS/issues/6718 "Set as current option should be checked and disabled when project uses default"): needs an initial team response (200 days old)
+  [6718](https://github.com/microsoft/PTVS/issues/6718 "Set as current option should be checked and disabled when project uses default"): needs an initial team response (205 days old)
 
-  [6760](https://github.com/microsoft/PTVS/issues/6760 "Evaluates all the expressions in interactive windows ignore the Completion Mode setting."): needs an initial team response (168 days old)
+  [6760](https://github.com/microsoft/PTVS/issues/6760 "Evaluates all the expressions in interactive windows ignore the Completion Mode setting."): needs an initial team response (173 days old)
 
-  [6761](https://github.com/microsoft/PTVS/issues/6761 "It can not auto-detect but let you customize all parameters when add custom environment which install from Microsoft Store."): needs an initial team response (168 days old)
+  [6761](https://github.com/microsoft/PTVS/issues/6761 "It can not auto-detect but let you customize all parameters when add custom environment which install from Microsoft Store."): needs an initial team response (173 days old)
 
-  [6762](https://github.com/microsoft/PTVS/issues/6762 "Unchecked &quot;Parameter information&quot; still has signature help."): needs an initial team response (168 days old)
+  [6762](https://github.com/microsoft/PTVS/issues/6762 "Unchecked &quot;Parameter information&quot; still has signature help."): needs an initial team response (173 days old)
 
-  [6769](https://github.com/microsoft/PTVS/issues/6769 "Profiling:Error prompted the parameter cannot be null when it is set in profiling standalone script."): needs an initial team response (161 days old)
+  [6769](https://github.com/microsoft/PTVS/issues/6769 "Profiling:Error prompted the parameter cannot be null when it is set in profiling standalone script."): needs an initial team response (167 days old)
 
-  [6774](https://github.com/microsoft/PTVS/issues/6774 "The Python installed from Microsoft Store couldn't view installed packages when first use the environment."): needs an initial team response (151 days old)
+  [6774](https://github.com/microsoft/PTVS/issues/6774 "The Python installed from Microsoft Store couldn't view installed packages when first use the environment."): needs an initial team response (157 days old)
 
-  [6775](https://github.com/microsoft/PTVS/issues/6775 "Profiling: Error prompted , Python install from Microsoft Store."): needs an initial team response (151 days old)
+  [6775](https://github.com/microsoft/PTVS/issues/6775 "Profiling: Error prompted , Python install from Microsoft Store."): needs an initial team response (156 days old)
 
-  [6799](https://github.com/microsoft/PTVS/issues/6799 "Python configuration hard coded into MSBuild config for CPython extension projects "): needs an initial team response (134 days old)
+  [6799](https://github.com/microsoft/PTVS/issues/6799 "Python configuration hard coded into MSBuild config for CPython extension projects "): needs an initial team response (139 days old)
 
-  [6802](https://github.com/microsoft/PTVS/issues/6802 "Python 3.9 is not in the list of language version."): needs an initial team response (126 days old)
+  [6802](https://github.com/microsoft/PTVS/issues/6802 "Python 3.9 is not in the list of language version."): needs an initial team response (131 days old)
 
-  [6819](https://github.com/microsoft/PTVS/issues/6819 "Unexpected error when adding python environment"): needs an initial team response (117 days old)
+  [6819](https://github.com/microsoft/PTVS/issues/6819 "Unexpected error when adding python environment"): needs an initial team response (122 days old)
 
-  [6828](https://github.com/microsoft/PTVS/issues/6828 "The &quot;Add new item&quot; windows jumped out again after add new item in Django project."): needs an initial team response (105 days old)
+  [6828](https://github.com/microsoft/PTVS/issues/6828 "The &quot;Add new item&quot; windows jumped out again after add new item in Django project."): needs an initial team response (111 days old)
 
-  [6838](https://github.com/microsoft/PTVS/issues/6838 "Unable to Create DjangoWebProject after following Configuration Read Me for setting up SuperUser: devenv.exe project issue tracker says:>"): needs an initial team response (96 days old)
+  [6838](https://github.com/microsoft/PTVS/issues/6838 "Unable to Create DjangoWebProject after following Configuration Read Me for setting up SuperUser: devenv.exe project issue tracker says:>"): needs an initial team response (102 days old)
 
-  [6842](https://github.com/microsoft/PTVS/issues/6842 "Django functions in context menu can only be used once"): needs an initial team response (90 days old)
+  [6842](https://github.com/microsoft/PTVS/issues/6842 "Django functions in context menu can only be used once"): needs an initial team response (95 days old)
 
-  [6843](https://github.com/microsoft/PTVS/issues/6843 "When adding new item in the workspace, the &quot;Save File As&quot; window will pop up. "): needs an initial team response (89 days old)
+  [6846](https://github.com/microsoft/PTVS/issues/6846 "The VS is no response after choose &quot;I will install them myself&quot; when create Blank Django Web Project."): needs an initial team response (93 days old)
 
-  [6846](https://github.com/microsoft/PTVS/issues/6846 "The VS is no response after choose &quot;I will install them myself&quot; when create Blank Django Web Project."): needs an initial team response (88 days old)
+  [6853](https://github.com/microsoft/PTVS/issues/6853 "Unable to install suggested module when using IPython interactive mode."): needs an initial team response (82 days old)
 
-  [6853](https://github.com/microsoft/PTVS/issues/6853 "Unable to install suggested module when using IPython interactive mode."): needs an initial team response (77 days old)
+  [6872](https://github.com/microsoft/PTVS/issues/6872 "Cannot use Cookiecutter to load template."): needs an initial team response (71 days old)
 
-  [6872](https://github.com/microsoft/PTVS/issues/6872 "Cannot use Cookiecutter to load template."): needs an initial team response (66 days old)
+  [6901](https://github.com/microsoft/PTVS/issues/6901 "Live Share: A warning appears when joining a shared window via VS."): needs an initial team response (37 days old)
 
-  [6901](https://github.com/microsoft/PTVS/issues/6901 "Live Share: A warning appears when joining a shared window via VS."): needs an initial team response (32 days old)
+  [6903](https://github.com/microsoft/PTVS/issues/6903 "No response when start debug"): needs an initial team response (35 days old)
 
-  [6903](https://github.com/microsoft/PTVS/issues/6903 "No response when start debug"): needs an initial team response (29 days old)
+  [6905](https://github.com/microsoft/PTVS/issues/6905 "Unexpected error pops up when Python remote"): needs an initial team response (34 days old)
 
-  [6905](https://github.com/microsoft/PTVS/issues/6905 "Unexpected error pops up when Python remote"): needs an initial team response (29 days old)
+  [6906](https://github.com/microsoft/PTVS/issues/6906 "Invalid symbols in Django projects."): needs an initial team response (34 days old)
 
-  [6906](https://github.com/microsoft/PTVS/issues/6906 "Invalid symbols in Django projects."): needs an initial team response (29 days old)
+  [6908](https://github.com/microsoft/PTVS/issues/6908 "Failed to close VS."): needs an initial team response (33 days old)
 
-  [6908](https://github.com/microsoft/PTVS/issues/6908 "Failed to close VS."): needs an initial team response (28 days old)
+  [6915](https://github.com/microsoft/PTVS/issues/6915 "Can't hide navigation bar vs22"): needs an initial team response (28 days old)
 
-  [6915](https://github.com/microsoft/PTVS/issues/6915 "Can't hide navigation bar vs22"): needs an initial team response (23 days old)
+  [6926](https://github.com/microsoft/PTVS/issues/6926 "No Longer Able to Set Python Editor for different file extensions in VS2022"): needs an initial team response (25 days old)
 
-  [6926](https://github.com/microsoft/PTVS/issues/6926 "No Longer Able to Set Python Editor for different file extensions in VS2022"): needs an initial team response (20 days old)
+  [6931](https://github.com/microsoft/PTVS/issues/6931 "(from visualstudio-docs repo) &quot;Call the DLL from Python&quot; example not working"): needs an initial team response (20 days old)
 
-  [6931](https://github.com/microsoft/PTVS/issues/6931 "(from visualstudio-docs repo) &quot;Call the DLL from Python&quot; example not working"): needs an initial team response (15 days old)
+  [6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”."): needs an initial team response (18 days old)
 
-  [6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”."): needs an initial team response (13 days old)
+  [6942](https://github.com/microsoft/PTVS/issues/6942 "Failed to set startup file when create new project from existing python code."): needs an initial team response (12 days old)
 
-  [6942](https://github.com/microsoft/PTVS/issues/6942 "Failed to set startup file when create new project from existing python code."): needs an initial team response (7 days old)
-
-  [6943](https://github.com/microsoft/PTVS/issues/6943 "Some intellisense don't work well in interactive window"): needs an initial team response (6 days old)
+  [6952](https://github.com/microsoft/PTVS/issues/6952 "Pytest with ini file with testpaths returns tests in project that don't match the specified path."): needs an initial team response (3 days old)
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-  [6551](https://github.com/microsoft/PTVS/issues/6551 "Navigation bar is not working"): OP responded 95 days ago but team last responded 300 days ago
+  [6551](https://github.com/microsoft/PTVS/issues/6551 "Navigation bar is not working"): OP responded 100 days ago but team last responded 305 days ago
 
-  [6638](https://github.com/microsoft/PTVS/issues/6638 "Refactor rename incorrect when the referenced method is defined in another project. "): OP responded 95 days ago but team last responded 245 days ago
+  [6638](https://github.com/microsoft/PTVS/issues/6638 "Refactor rename incorrect when the referenced method is defined in another project. "): OP responded 100 days ago but team last responded 250 days ago
 
-  [6639](https://github.com/microsoft/PTVS/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder."): OP responded 90 days ago but team last responded 228 days ago
+  [6639](https://github.com/microsoft/PTVS/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder."): OP responded 96 days ago but team last responded 233 days ago
 
-  [6682](https://github.com/microsoft/PTVS/issues/6682 "Cannot use IPython interactive mode on python3.9"): OP responded 95 days ago but team last responded 216 days ago
+  [6682](https://github.com/microsoft/PTVS/issues/6682 "Cannot use IPython interactive mode on python3.9"): OP responded 100 days ago but team last responded 221 days ago
 
-  [6683](https://github.com/microsoft/PTVS/issues/6683 "After deleting and re-creating, conda env will not appear in the list."): OP responded 84 days ago but team last responded 216 days ago
+  [6683](https://github.com/microsoft/PTVS/issues/6683 "After deleting and re-creating, conda env will not appear in the list."): OP responded 89 days ago but team last responded 221 days ago
 
-  [6712](https://github.com/microsoft/PTVS/issues/6712 "The option &quot;Python/Native Debugging&quot; is missing."): OP responded 131 days ago but team last responded 140 days ago
+  [6712](https://github.com/microsoft/PTVS/issues/6712 "The option &quot;Python/Native Debugging&quot; is missing."): OP responded 136 days ago but team last responded 145 days ago
 
-  [6713](https://github.com/microsoft/PTVS/issues/6713 "reportMissingModuleSource: Even if the module is successfully installed, a warning will still be displayed in the output."): OP responded 95 days ago but team last responded 180 days ago
+  [6713](https://github.com/microsoft/PTVS/issues/6713 "reportMissingModuleSource: Even if the module is successfully installed, a warning will still be displayed in the output."): OP responded 100 days ago but team last responded 185 days ago
 
-  [6750](https://github.com/microsoft/PTVS/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. "): OP responded 96 days ago but team last responded 160 days ago
+  [6750](https://github.com/microsoft/PTVS/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. "): OP responded 101 days ago but team last responded 165 days ago
 
-  [6752](https://github.com/microsoft/PTVS/issues/6752 "An error message &quot;Invalid path mode '\' in: No newline at end of file&quot; pops up when for formatting document."): OP responded 95 days ago but team last responded 169 days ago
+  [6752](https://github.com/microsoft/PTVS/issues/6752 "An error message &quot;Invalid path mode '\' in: No newline at end of file&quot; pops up when for formatting document."): OP responded 100 days ago but team last responded 174 days ago
 
-  [6765](https://github.com/microsoft/PTVS/issues/6765 "Live Share: Cannot enter the sharing window through the browser, and a warning appears when opened through VS."): OP responded 95 days ago but team last responded 151 days ago
+  [6765](https://github.com/microsoft/PTVS/issues/6765 "Live Share: Cannot enter the sharing window through the browser, and a warning appears when opened through VS."): OP responded 100 days ago but team last responded 156 days ago
 
-  [6829](https://github.com/microsoft/PTVS/issues/6829 "IntelliSense which is modified manually does not work after restart the VS."): OP responded 7 days ago but team last responded 55 days ago
+  [6829](https://github.com/microsoft/PTVS/issues/6829 "IntelliSense which is modified manually does not work after restart the VS."): OP responded 12 days ago but team last responded 60 days ago
 
-  [6839](https://github.com/microsoft/PTVS/issues/6839 "The type information displayed wrong for sys.exc_info with the latest typeshed"): OP responded 85 days ago but team last responded 89 days ago
+  [6839](https://github.com/microsoft/PTVS/issues/6839 "The type information displayed wrong for sys.exc_info with the latest typeshed"): OP responded 90 days ago but team last responded 94 days ago
 
-  [6937](https://github.com/microsoft/PTVS/issues/6937 "An error &quot;Cannot access a disposed object...&quot; pops up when save Python Project File."): OP responded 7 days ago but team last responded 12 days ago
+  [6937](https://github.com/microsoft/PTVS/issues/6937 "An error &quot;Cannot access a disposed object...&quot; pops up when save Python Project File."): OP responded 3 days ago but team last responded 17 days ago
 
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-  [6466](https://github.com/microsoft/PTVS/issues/6466 " IronPython WPF Application project is missing on build 15.9.35 and 16.4.21."): 3rd party responded 203 days ago but team last responded 321 days ago
+  [6466](https://github.com/microsoft/PTVS/issues/6466 " IronPython WPF Application project is missing on build 15.9.35 and 16.4.21."): 3rd party responded 208 days ago but team last responded 326 days ago
 
-  [6706](https://github.com/microsoft/PTVS/issues/6706 "Need python fstring support. It's not rendering correctly"): 3rd party responded 211 days ago but team last responded 216 days ago
+  [6706](https://github.com/microsoft/PTVS/issues/6706 "Need python fstring support. It's not rendering correctly"): 3rd party responded 216 days ago but team last responded 221 days ago
 
-  [6784](https://github.com/microsoft/PTVS/issues/6784 "Visual Studio Community 2022 - UTF-8 cpdec problem"): 3rd party responded 68 days ago but team last responded 140 days ago
+  [6784](https://github.com/microsoft/PTVS/issues/6784 "Visual Studio Community 2022 - UTF-8 cpdec problem"): 3rd party responded 73 days ago but team last responded 145 days ago
 
-  [6786](https://github.com/microsoft/PTVS/issues/6786 "Autocomplete after open brackets replaces entire line of code"): 3rd party responded 24 days ago but team last responded 29 days ago
+  [6786](https://github.com/microsoft/PTVS/issues/6786 "Autocomplete after open brackets replaces entire line of code"): 3rd party responded 29 days ago but team last responded 34 days ago
 
-  [6796](https://github.com/microsoft/PTVS/issues/6796 "Breakpoints in tests can't be hit"): 3rd party responded 28 days ago but team last responded 137 days ago
+  [6796](https://github.com/microsoft/PTVS/issues/6796 "Breakpoints in tests can't be hit"): 3rd party responded 33 days ago but team last responded 143 days ago
 
-  [6797](https://github.com/microsoft/PTVS/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor"): 3rd party responded 83 days ago but team last responded 137 days ago
+  [6797](https://github.com/microsoft/PTVS/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor"): 3rd party responded 88 days ago but team last responded 142 days ago
 
-  [6833](https://github.com/microsoft/PTVS/issues/6833 "Python intellisense removes code"): 3rd party responded 85 days ago but team last responded 90 days ago
+  [6833](https://github.com/microsoft/PTVS/issues/6833 "Python intellisense removes code"): 3rd party responded 90 days ago but team last responded 95 days ago
 
-  [6836](https://github.com/microsoft/PTVS/issues/6836 "UnitTestRootDirectory setting in PythonSettings.json is ignored"): 3rd party responded 18 days ago but team last responded 90 days ago
+  [6836](https://github.com/microsoft/PTVS/issues/6836 "UnitTestRootDirectory setting in PythonSettings.json is ignored"): 3rd party responded 23 days ago but team last responded 95 days ago
 
-  [6837](https://github.com/microsoft/PTVS/issues/6837 "Please Python encode the file as utf-8 and save it."): 3rd party responded 82 days ago but team last responded 90 days ago
+  [6837](https://github.com/microsoft/PTVS/issues/6837 "Please Python encode the file as utf-8 and save it."): 3rd party responded 87 days ago but team last responded 95 days ago
 
-  [6884](https://github.com/microsoft/PTVS/issues/6884 "bugs"): 3rd party responded 32 days ago but team last responded 54 days ago
+  [6884](https://github.com/microsoft/PTVS/issues/6884 "bugs"): 3rd party responded 37 days ago but team last responded 59 days ago
 
-  [6924](https://github.com/microsoft/PTVS/issues/6924 "can not debug both python and C code"): 3rd party responded 15 days ago but team last responded 20 days ago
+  [6924](https://github.com/microsoft/PTVS/issues/6924 "can not debug both python and C code"): 3rd party responded 20 days ago but team last responded 25 days ago
 
-  [6944](https://github.com/microsoft/PTVS/issues/6944 "Visual Studio 2022 crashes when i try to open &quot;manage python packages&quot;"): 3rd party responded 2 days ago but team last responded 6 days ago
+  [6944](https://github.com/microsoft/PTVS/issues/6944 "Visual Studio 2022 crashes when i try to open &quot;manage python packages&quot;"): 3rd party responded 8 days ago but team last responded 11 days ago
 
 ### Issues in PTVS that have no external responses since team response in 30+ days:
 
 
-  [6518](https://github.com/microsoft/PTVS/issues/6518 "Variables in the Autos window/Locals view are missing with attach"): team response was last response and no others in 159 days
+  [6518](https://github.com/microsoft/PTVS/issues/6518 "Variables in the Autos window/Locals view are missing with attach"): team response was last response and no others in 164 days
 
-  [6530](https://github.com/microsoft/PTVS/issues/6530 "Some functions are missing in Dev17."): team response was last response and no others in 190 days
+  [6530](https://github.com/microsoft/PTVS/issues/6530 "Some functions are missing in Dev17."): team response was last response and no others in 195 days
 
-  [6535](https://github.com/microsoft/PTVS/issues/6535 "There is no warning message before running the project even though the project contains error."): team response was last response and no others in 307 days
+  [6535](https://github.com/microsoft/PTVS/issues/6535 "There is no warning message before running the project even though the project contains error."): team response was last response and no others in 312 days
 
-  [6538](https://github.com/microsoft/PTVS/issues/6538 "No static analysis suggestions in Interactive window."): team response was last response and no others in 307 days
+  [6538](https://github.com/microsoft/PTVS/issues/6538 "No static analysis suggestions in Interactive window."): team response was last response and no others in 312 days
 
-  [6539](https://github.com/microsoft/PTVS/issues/6539 "Module changes in interactive window are not working"): team response was last response and no others in 307 days
+  [6539](https://github.com/microsoft/PTVS/issues/6539 "Module changes in interactive window are not working"): team response was last response and no others in 312 days
 
-  [6543](https://github.com/microsoft/PTVS/issues/6543 "No variables in Auto window when debug."): team response was last response and no others in 308 days
+  [6543](https://github.com/microsoft/PTVS/issues/6543 "No variables in Auto window when debug."): team response was last response and no others in 313 days
 
-  [6629](https://github.com/microsoft/PTVS/issues/6629 "Django completions in html file does not work."): team response was last response and no others in 237 days
+  [6629](https://github.com/microsoft/PTVS/issues/6629 "Django completions in html file does not work."): team response was last response and no others in 242 days
 
-  [6782](https://github.com/microsoft/PTVS/issues/6782 "Syntax Highlighting for 'in', 'not in', and 'is' appears to be missing"): team response was last response and no others in 138 days
+  [6782](https://github.com/microsoft/PTVS/issues/6782 "Syntax Highlighting for 'in', 'not in', and 'is' appears to be missing"): team response was last response and no others in 143 days
 
-  [6794](https://github.com/microsoft/PTVS/issues/6794 "Live Share: The error &quot;'intelliCodeCppPackage' package did not load correctly&quot; pops up when join live share Session."): team response was last response and no others in 138 days
+  [6794](https://github.com/microsoft/PTVS/issues/6794 "Live Share: The error &quot;'intelliCodeCppPackage' package did not load correctly&quot; pops up when join live share Session."): team response was last response and no others in 143 days
 
-  [6818](https://github.com/microsoft/PTVS/issues/6818 "Unexpected error dialog in Python debugger"): team response was last response and no others in 117 days
+  [6818](https://github.com/microsoft/PTVS/issues/6818 "Unexpected error dialog in Python debugger"): team response was last response and no others in 122 days
 
-  [6821](https://github.com/microsoft/PTVS/issues/6821 "The new Python debugger in version 2022 won't stop with Flask routes"): team response was last response and no others in 90 days
+  [6821](https://github.com/microsoft/PTVS/issues/6821 "The new Python debugger in version 2022 won't stop with Flask routes"): team response was last response and no others in 95 days
 
-  [6831](https://github.com/microsoft/PTVS/issues/6831 "Even though the &quot;Ignore system-wide PYTHONPATH variable&quot; option is checked, it will become unchecked after restart the VS."): team response was last response and no others in 90 days
+  [6831](https://github.com/microsoft/PTVS/issues/6831 "Even though the &quot;Ignore system-wide PYTHONPATH variable&quot; option is checked, it will become unchecked after restart the VS."): team response was last response and no others in 95 days
 
-  [6852](https://github.com/microsoft/PTVS/issues/6852 "An error &quot;Error HRESULT E_FALL has been returned from a call to a COM component&quot; when copy and cut."): team response was last response and no others in 69 days
+  [6852](https://github.com/microsoft/PTVS/issues/6852 "An error &quot;Error HRESULT E_FALL has been returned from a call to a COM component&quot; when copy and cut."): team response was last response and no others in 74 days
 
-  [6876](https://github.com/microsoft/PTVS/issues/6876 "Extract method only works on one line and rename doesn't work at all"): team response was last response and no others in 229 days
+  [6876](https://github.com/microsoft/PTVS/issues/6876 "Extract method only works on one line and rename doesn't work at all"): team response was last response and no others in 234 days
 
-  [6885](https://github.com/microsoft/PTVS/issues/6885 "Visual Studio 2022 intellisense autocomplete erroneous deletions"): team response was last response and no others in 49 days
+  [6885](https://github.com/microsoft/PTVS/issues/6885 "Visual Studio 2022 intellisense autocomplete erroneous deletions"): team response was last response and no others in 54 days
