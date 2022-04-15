@@ -2,18 +2,25 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-04-08 using: stale=30, all=0
+Generated on 2022-04-15 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in debugpy that have no external responses since team response in 30+ days:
-
-
-\* [712](https://github.com/microsoft/debugpy/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;."): team response was last response and no others in 30 days
-
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in debugpy that need a response from team:
+
+
+\* [908](https://github.com/microsoft/debugpy/issues/908 "Create persistent custom commands"): needs an initial team response (1 days old)
+
+\* [912](https://github.com/microsoft/debugpy/issues/912 "[BUG] - Single Quotes Escaped with \ On Linux"): needs an initial team response (0 days old)
+
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [870](https://github.com/microsoft/debugpy/issues/870 "Provide APIs to stop listening / stop debugger"): OP responded 1 days ago but team last responded 13 days ago
