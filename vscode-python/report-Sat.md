@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-04-09 using: stale=30, all=0
+Generated on 2022-04-16 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,16 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [18759](https://github.com/microsoft/vscode-python/issues/18759 "Linting more than just my code in an infinite loop"): OP responded 1 days ago but team last responded 3 days ago
-
-\* [18844](https://github.com/microsoft/vscode-python/issues/18844 "Test discovery can't add two subdirectories with a third different directory (Multiple raw data nodes had the same id)"): OP responded 0 days ago but team last responded 3 days ago
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): 3rd party responded 0 days ago but team last responded 1 days ago
-
-\* [18829](https://github.com/microsoft/vscode-python/issues/18829 "Invalid regular expression logging error occurs when file paths contain special characters"): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [18830](https://github.com/microsoft/vscode-python/issues/18830 "pytest: error in one directory affects another directory"): OP responded 1 days ago but team last responded 10 days ago
 
 ---
 
@@ -33,15 +24,25 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [18889](https://github.com/microsoft/vscode-python/issues/18889 "Testing panel does not tell you there is a syntax error in the tests"): needs an initial team response (0 days old)
+\* [18929](https://github.com/microsoft/vscode-python/issues/18929 "No linting with mypy"): needs an initial team response (1 days old)
 
-\* [18893](https://github.com/microsoft/vscode-python/issues/18893 "isort pycln support"): needs an initial team response (0 days old)
+\* [18935](https://github.com/microsoft/vscode-python/issues/18935 "debugger/output window closes on run/debug python"): needs an initial team response (0 days old)
+
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [18927](https://github.com/microsoft/vscode-python/issues/18927 "Terminal source activate twice, once before and once after conda activate"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [3836](https://github.com/microsoft/vscode-python/issues/3836 "Run linter on all files in a workspace, even the unopened ones"): 3rd party responded 0 days ago but team last responded 252 days ago
+\* [481](https://github.com/microsoft/vscode-python/issues/481 "Improve auto-indentation behaviour"): 3rd party responded 0 days ago but team last responded 940 days ago
 
-\* [7583](https://github.com/microsoft/vscode-python/issues/7583 "'Run All Tests' button does not invoke Auto Save "): 3rd party responded 0 days ago but team last responded 889 days ago
+\* [18647](https://github.com/microsoft/vscode-python/issues/18647 "Add an option to turn off auto environment discovery if an interpreter is explicitly selected"): 3rd party responded 0 days ago but team last responded 35 days ago
 
-\* [18804](https://github.com/microsoft/vscode-python/issues/18804 "be able to switch `JustMyCode` for the debugger on the UI panel quickly?"): 3rd party responded 1 days ago but team last responded 10 days ago
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [18690](https://github.com/microsoft/vscode-python/issues/18690 "I would like to request for CodeLens integration for better code navigating"): team response was last response and no others in 30 days
+
+\* [18696](https://github.com/microsoft/vscode-python/issues/18696 "Manually add a specific python interpreter permanently"): team response was last response and no others in 30 days
