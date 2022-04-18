@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-04-11 using: stale=30, all=0
+Generated on 2022-04-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,16 +16,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [18895](https://github.com/microsoft/vscode-python/issues/18895 "Intellisense Issue"): needs an initial team response (1 days old)
+\* [18936](https://github.com/microsoft/vscode-python/issues/18936 "Virtual environment activation with `/bin/sh`"): needs an initial team response (0 days old)
 
-\* [18896](https://github.com/microsoft/vscode-python/issues/18896 "Ignore Patterns option does not disable type checking. "): needs an initial team response (1 days old)
+\* [18937](https://github.com/microsoft/vscode-python/issues/18937 "venv not showing bottomr right"): needs an initial team response (0 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [18938](https://github.com/microsoft/vscode-python/issues/18938 "Show breadcrumbs whilst debugging"): needs an initial team response (0 days old)
 
-
-\* [18887](https://github.com/microsoft/vscode-python/issues/18887 "Unable to download the Python Interpreter"): OP responded 0 days ago but team last responded 2 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18647](https://github.com/microsoft/vscode-python/issues/18647 "Add an option to turn off auto environment discovery if an interpreter is explicitly selected"): team response was last response and no others in 30 days
+\* [18714](https://github.com/microsoft/vscode-python/issues/18714 "isort over Languange Server Protocol"): 3rd party responded 1 days ago but team last responded 31 days ago
