@@ -2,25 +2,26 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-04-11 using: stale=30, all=0
+Generated on 2022-04-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [2505](https://github.com/microsoft/pylance-release/issues/2505 "Always require restart when installing new package and cannot find python interpreter... further update#2501"): OP responded 0 days ago but team last responded 17 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2555](https://github.com/microsoft/pylance-release/issues/2555 "Pylance not working in WSL2 (Ubuntu)"): needs an initial team response (0 days old)
-
-\* [2556](https://github.com/microsoft/pylance-release/issues/2556 "some django model fields has no color hilight"): needs an initial team response (0 days old)
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [525](https://github.com/microsoft/pylance-release/issues/525 "Automatically add f in beginning of string when adding curly braces within a string statement (i.e. creating f-strings)"): team response was last response and no others in 30 days
+\* [2572](https://github.com/microsoft/pylance-release/issues/2572 "Intellisense not working for Panel package with Pylance Language Server"): OP responded 1 days ago but team last responded 1 days ago
