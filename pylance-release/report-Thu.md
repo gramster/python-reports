@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-04-14 using: stale=30, all=0
+Generated on 2022-04-21 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [1782](https://github.com/microsoft/pylance-release/issues/1782 "Diagnostics appear in stdlib in open file mode with Windows Store interpreter"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [2559](https://github.com/microsoft/pylance-release/issues/2559 "Django stubs completely broken after upgrade to 2022.4.0"): OP responded 0 days ago but team last responded 0 days ago
+\* [2133](https://github.com/microsoft/pylance-release/issues/2133 "Pylance + Pandas"): 3rd party responded 1 days ago but team last responded 138 days ago
 
 ---
 
@@ -26,14 +24,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2255](https://github.com/microsoft/pylance-release/issues/2255 "Pyright CLI and problem tab gives different results. "): OP responded 1 days ago but team last responded 1 days ago
+\* [997](https://github.com/microsoft/pylance-release/issues/997 "&quot;Go to Symbol in Workspace&quot; (⌘T) becomes very slow in seemingly inconsistent ways due to indexing"): OP responded 1 days ago but team last responded 9 days ago
+
+\* [2522](https://github.com/microsoft/pylance-release/issues/2522 "Linux - The Python Tools server crashed 5 times in the last 3 minutes. The server will not be restarted."): OP responded 0 days ago but team last responded 1 days ago
+
+\* [2686](https://github.com/microsoft/pylance-release/issues/2686 "High IO zombie processes"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [2690](https://github.com/microsoft/pylance-release/issues/2690 "Showing LaTeX formulas in python help pop-up"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2342](https://github.com/microsoft/pylance-release/issues/2342 "pandas  module Not found"): 3rd party responded 0 days ago but team last responded 0 days ago
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [740](https://github.com/microsoft/pylance-release/issues/740 "Support `typing.no_type_check`"): team response was last response and no others in 30 days
+\* [249](https://github.com/microsoft/pylance-release/issues/249 "Bug in bundled django stubs"): 3rd party responded 1 days ago but team last responded 30 days ago
