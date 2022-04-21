@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-04-14 using: stale=30, all=0
+Generated on 2022-04-21 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in PTVS that have comments from 3rd party after last team response:
+
+
+\* [6943](https://github.com/microsoft/PTVS/issues/6943 "Some intellisense don't work well in interactive window"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ---
 
@@ -16,8 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-\* [6834](https://github.com/microsoft/PTVS/issues/6834 "Cannot change font color for python"): 3rd party responded 0 days ago but team last responded 105 days ago
+\* [6944](https://github.com/microsoft/PTVS/issues/6944 "Visual Studio 2022 crashes when i try to open &quot;manage python packages&quot;"): 3rd party responded 0 days ago but team last responded 7 days ago
 
-\* [6944](https://github.com/microsoft/PTVS/issues/6944 "Visual Studio 2022 crashes when i try to open &quot;manage python packages&quot;"): 3rd party responded 0 days ago but team last responded 0 days ago
+### Issues in PTVS that have no external responses since team response in 30+ days:
 
-\* [6947](https://github.com/microsoft/PTVS/issues/6947 "LSP getSemanticToken constantly being requested by client"): 3rd party responded 1 days ago but team last responded 14 days ago
+
+\* [6749](https://github.com/microsoft/PTVS/issues/6749 "The Python version is display wrong when use the latest python to create Conda environment."): team response was last response and no others in 30 days
