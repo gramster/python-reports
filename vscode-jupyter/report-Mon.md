@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-04-18 using: stale=30, all=0
+Generated on 2022-04-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,12 +14,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [9695](https://github.com/microsoft/vscode-jupyter/issues/9695 "Built-in renderer does not render <moviepy.video.io.html_tools.HTML2 object> correctly"): needs an initial team response (1 days old)
+\* [9757](https://github.com/microsoft/vscode-jupyter/issues/9757 "Assign to variable from commented-out magic command"): needs an initial team response (0 days old)
 
-\* [9696](https://github.com/microsoft/vscode-jupyter/issues/9696 "Interactive window doesn't stick to bottom when printing lines"): needs an initial team response (1 days old)
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
-\* [9697](https://github.com/microsoft/vscode-jupyter/issues/9697 "Plot isn't rendered when using %matplotlib widget"): needs an initial team response (0 days old)
 
-\* [9698](https://github.com/microsoft/vscode-jupyter/issues/9698 "VIM navigation shortcuts don't work within code block"): needs an initial team response (0 days old)
+\* [5041](https://github.com/microsoft/vscode-jupyter/issues/5041 "PATH returned by interactive session is different from iPython launched from terminal"): 3rd party responded 0 days ago but team last responded 11 days ago
+
+\* [9448](https://github.com/microsoft/vscode-jupyter/issues/9448 "Notebook outline should only list the title, not all the markdown contents"): 3rd party responded 1 days ago but team last responded 33 days ago
 
 ---
