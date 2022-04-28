@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-04-21 using: stale=30, all=0
+Generated on 2022-04-28 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,50 +11,40 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
+### Issues in vscode-python that need a response from team:
 
 
-\* [18844](https://github.com/microsoft/vscode-python/issues/18844 "Test discovery can't add two subdirectories with a third different directory (Multiple raw data nodes had the same id)"): OP responded 0 days ago but team last responded 7 days ago
+\* [19001](https://github.com/microsoft/vscode-python/issues/19001 "Conda environment unclear dialog actions"): needs an initial team response (1 days old)
+
+\* [19006](https://github.com/microsoft/vscode-python/issues/19006 "workspace name not referenced"): needs an initial team response (1 days old)
+
+\* [19007](https://github.com/microsoft/vscode-python/issues/19007 "switching language server to none does not display expected message"): needs an initial team response (1 days old)
+
+\* [19008](https://github.com/microsoft/vscode-python/issues/19008 "language servers aren't changing after several times"): needs an initial team response (1 days old)
+
+\* [19009](https://github.com/microsoft/vscode-python/issues/19009 "Only see starting Jedi language server for one of multiple folders"): needs an initial team response (1 days old)
+
+\* [19010](https://github.com/microsoft/vscode-python/issues/19010 "No notification when pylance is uninstalled"): needs an initial team response (1 days old)
+
+\* [19013](https://github.com/microsoft/vscode-python/issues/19013 "No Python Channel in Web"): needs an initial team response (1 days old)
+
+\* [19014](https://github.com/microsoft/vscode-python/issues/19014 "Switching to JEDI returns one-time error"): needs an initial team response (1 days old)
+
+\* [19015](https://github.com/microsoft/vscode-python/issues/19015 "Spammed with error notifications using Jedi in web"): needs an initial team response (1 days old)
+
+\* [19022](https://github.com/microsoft/vscode-python/issues/19022 "Pylance not installed - Revert to Jedi requires reload"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18189](https://github.com/microsoft/vscode-python/issues/18189 "The link is invalid when debugging in docker. "): 3rd party responded 1 days ago but team last responded 21 days ago
-
-\* [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): 3rd party responded 0 days ago but team last responded 13 days ago
-
-\* [18929](https://github.com/microsoft/vscode-python/issues/18929 "No linting with mypy"): 3rd party responded 0 days ago but team last responded 2 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [18719](https://github.com/microsoft/vscode-python/issues/18719 "Bug on virtual enviroment interpreter"): team response was last response and no others in 30 days
+\* [19012](https://github.com/microsoft/vscode-python/issues/19012 "Refresh tests button is shown twice"): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
-
-
-\* [18961](https://github.com/microsoft/vscode-python/issues/18961 "Error [object Object] when using unittest Test Debugging"): needs an initial team response (0 days old)
-
-\* [18968](https://github.com/microsoft/vscode-python/issues/18968 "BUG:Always need to 'install tensorboard'"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [18650](https://github.com/microsoft/vscode-python/issues/18650 "Add multiroot-workspace variable scoping for `python.defaultInterpreterPath`"): OP responded 0 days ago but team last responded 2 days ago
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [693](https://github.com/microsoft/vscode-python/issues/693 "Debugger doesn't stop at breakpoints with pytest if pytest-cov is used"): 3rd party responded 0 days ago but team last responded 1518 days ago
-
-\* [18806](https://github.com/microsoft/vscode-python/issues/18806 "Distinguished settings for running individual or all tests"): 3rd party responded 0 days ago but team last responded 22 days ago
-
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): team response was last response and no others in 30 days
+\* [18781](https://github.com/microsoft/vscode-python/issues/18781 "Provide assertEquals difference View as the PyCharm does"): team response was last response and no others in 30 days
