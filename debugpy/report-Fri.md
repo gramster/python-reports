@@ -2,10 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-04-22 using: stale=30, all=0
+Generated on 2022-04-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [743](https://github.com/microsoft/debugpy/issues/743 "Regression compared to ptvsd: debugging python running in a bazel runtime sandbox causes duplicate tabs to open"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [920](https://github.com/microsoft/debugpy/issues/920 "remote debugger `pathMappings` issue? is it possible to add more than one mapping?"): OP responded 0 days ago but team last responded 0 days ago
