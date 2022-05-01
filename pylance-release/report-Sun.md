@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-04-24 using: stale=30, all=0
+Generated on 2022-05-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,11 +16,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [2736](https://github.com/microsoft/pylance-release/issues/2736 "suggestion and autocompletion of magic (dunder) methods"): needs an initial team response (0 days old)
+\* [2754](https://github.com/microsoft/pylance-release/issues/2754 "goto definition actually open pyi file instead of the actual py file"): needs an initial team response (1 days old)
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2231](https://github.com/microsoft/pylance-release/issues/2231 "markdown rendering issues"): OP responded 1 days ago but team last responded 2 days ago
-
-\* [2264](https://github.com/microsoft/pylance-release/issues/2264 "Help window tooltip **bold** rendering"): OP responded 1 days ago but team last responded 2 days ago
+\* [2434](https://github.com/microsoft/pylance-release/issues/2434 "Activating IntelliCode for Python failed."): 3rd party responded 0 days ago but team last responded 31 days ago
