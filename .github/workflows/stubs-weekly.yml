@@ -1,0 +1,18 @@
+name: 'Generate Weekly Full Report for python-type-stubs'
+
+on:
+  schedule:
+    - cron: 0 10 * * 1    
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 10
+    steps:
+      - id: report
+        uses: gramster/python-reports@main
+        with:
+          repository: 'python-type-stubs'
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          weekly: true
