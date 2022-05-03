@@ -14,5 +14,5 @@ jobs:
         uses: gramster/python-reports@main
         with:
           repository: 'python-type-stubs'
-          weekly: true
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          weekly: true
