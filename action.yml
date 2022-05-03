@@ -8,7 +8,8 @@ inputs:
     required: true
   githubToken:
     description: "The Github token or PAT token (preferred) for API access."
-    required: true
+    required: false
+    default: ${{ secrets.GITHUB_TOKEN }}
   weekly:
     description: "Whether to generate a weekly report (else daily)."
     required: false
