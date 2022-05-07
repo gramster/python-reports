@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-04-30 using: stale=30, all=0
+Generated on 2022-05-07 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,19 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19009](https://github.com/microsoft/vscode-python/issues/19009 "Only see starting Jedi language server for one of multiple folders"): OP responded 0 days ago but team last responded 0 days ago
+\* [18431](https://github.com/microsoft/vscode-python/issues/18431 "Pytest discovery fails if something is printed to stderr"): 3rd party responded 0 days ago but team last responded 3 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [18241](https://github.com/microsoft/vscode-python/issues/18241 "Virtual environment created from CLI not available for selection "): team response was last response and no others in 30 days
+
+\* [18702](https://github.com/microsoft/vscode-python/issues/18702 "&quot;Python extension loading...&quot; forever on windows only."): team response was last response and no others in 30 days
+
+\* [18744](https://github.com/microsoft/vscode-python/issues/18744 "Creating a python venv does not prompt VSCode to recognize that venv"): team response was last response and no others in 30 days
 
 ---
 
@@ -24,22 +33,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19038](https://github.com/microsoft/vscode-python/issues/19038 "VS Code ignores the 2 space indent setting"): needs an initial team response (1 days old)
-
-\* [19039](https://github.com/microsoft/vscode-python/issues/19039 "allow path to binary to be used with python.formatting.provider"): needs an initial team response (0 days old)
-
-\* [19040](https://github.com/microsoft/vscode-python/issues/19040 "Add colors for format elements in raw strings"): needs an initial team response (0 days old)
-
-\* [19044](https://github.com/microsoft/vscode-python/issues/19044 "Suppress debug launch command in terminal"): needs an initial team response (0 days old)
-
-\* [19046](https://github.com/microsoft/vscode-python/issues/19046 "Support for VS Code Testing - Auto Run"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [18828](https://github.com/microsoft/vscode-python/issues/18828 "Running debugger under `conda` fails to load `_sqlite3`"): OP responded 1 days ago but team last responded 3 days ago
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 0 days ago but team last responded 39 days ago
+\* [19086](https://github.com/microsoft/vscode-python/issues/19086 "Flake8 Fails Silently if Path to Binary Wrong"): needs an initial team response (0 days old)
