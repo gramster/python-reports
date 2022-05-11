@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-05-04 using: stale=30, all=0
+Generated on 2022-05-11 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,18 +14,12 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [18854](https://github.com/microsoft/vscode-python/issues/18854 "VSCode debugger looks for python in a directory that does not exist even though python is being run from another environment that is active"): OP responded 0 days ago but team last responded 0 days ago
-
-\* [19008](https://github.com/microsoft/vscode-python/issues/19008 "language servers aren't changing after several times if using Jedi and Python 2.7"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [19009](https://github.com/microsoft/vscode-python/issues/19009 "Only see starting Jedi language server for one of multiple folders"): OP responded 1 days ago but team last responded 1 days ago
+\* [19069](https://github.com/microsoft/vscode-python/issues/19069 "Pytest fails to use the correct conda environment path for testing"): OP responded 0 days ago but team last responded 5 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): 3rd party responded 1 days ago but team last responded 26 days ago
-
-\* [18980](https://github.com/microsoft/vscode-python/issues/18980 "Conda processes left running"): 3rd party responded 0 days ago but team last responded 8 days ago
+\* [18671](https://github.com/microsoft/vscode-python/issues/18671 "Ensure language server is not blocked on discovery"): 3rd party responded 0 days ago but team last responded 21 days ago
 
 ---
 
@@ -35,16 +29,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19062](https://github.com/microsoft/vscode-python/issues/19062 "Python pre-release notification won't go away on codespaces"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [18315](https://github.com/microsoft/vscode-python/issues/18315 "execSelectionInTerminal to run in now active terminal"): OP responded 0 days ago but team last responded 33 days ago
+\* [19124](https://github.com/microsoft/vscode-python/issues/19124 "Find all refrences gets stuck when the method is named as 'to_dict()'"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [14287](https://github.com/microsoft/vscode-python/issues/14287 "Activate selected directory's environment within a multi-root workspace with different environments"): 3rd party responded 0 days ago but team last responded 83 days ago
+\* [1248](https://github.com/microsoft/vscode-python/issues/1248 "Can't expand to check the data of a Variable when debugging pytorch code"): 3rd party responded 1 days ago but team last responded 654 days ago
 
-\* [19046](https://github.com/microsoft/vscode-python/issues/19046 "Support for VS Code Testing - Auto Run"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [4922](https://github.com/microsoft/vscode-python/issues/4922 "Need a way to find tools (linters, formatters) via PATH"): 3rd party responded 0 days ago but team last responded 0 days ago
+
+\* [17510](https://github.com/microsoft/vscode-python/issues/17510 "Add inlay hints"): 3rd party responded 0 days ago but team last responded 96 days ago
