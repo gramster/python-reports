@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-05-06 using: stale=30, all=0
+Generated on 2022-05-13 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [927](https://github.com/microsoft/debugpy/issues/927 "Specifying python interpreter in launch.json doesn't work on all configurations."): needs an initial team response (1 days old)
+\* [930](https://github.com/microsoft/debugpy/issues/930 "VSCode remote ssh + debugging not working anymore"): needs an initial team response (1 days old)
 
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [926](https://github.com/microsoft/debugpy/issues/926 "VSCode debugger looks for python in a directory that does not exist even though python is being run from another environment that is active"): OP responded 0 days ago but team last responded 2 days ago
+\* [931](https://github.com/microsoft/debugpy/issues/931 "Displaying the type (class) of variables in the &quot;Variables&quot; panel during debugging, as implemented in PyCharm"): needs an initial team response (1 days old)
