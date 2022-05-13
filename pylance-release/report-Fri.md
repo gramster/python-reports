@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-05-06 using: stale=30, all=0
+Generated on 2022-05-13 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,15 +13,26 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in pylance-release that need a response from team:
+
+
+\* [2808](https://github.com/microsoft/pylance-release/issues/2808 "Formatting when using flash will separate the comment from the flash tag by two lines"): needs an initial team response (0 days old)
+
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2756](https://github.com/microsoft/pylance-release/issues/2756 "Pylance extension consistenly uses 100% CPU in macOS"): OP responded 0 days ago but team last responded 1 days ago
+\* [2803](https://github.com/microsoft/pylance-release/issues/2803 "Pylance semantic highlighting not working on dev container"): OP responded 0 days ago but team last responded 0 days ago
 
-\* [2765](https://github.com/microsoft/pylance-release/issues/2765 "Error: command 'pyright.createtypestub' already exists"): OP responded 1 days ago but team last responded 1 days ago
+\* [2807](https://github.com/microsoft/pylance-release/issues/2807 "Certain chromeOptions cause code to be unreachable for all following statements. "): OP responded 0 days ago but team last responded 0 days ago
 
-\* [2775](https://github.com/microsoft/pylance-release/issues/2775 "constant definition in __init__"): OP responded 0 days ago but team last responded 1 days ago
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
-\* [2777](https://github.com/microsoft/pylance-release/issues/2777 "Dead code detection broken"): OP responded 0 days ago but team last responded 0 days ago
 
-\* [2778](https://github.com/microsoft/pylance-release/issues/2778 "PyRight doesn't see arguments of constructor for class inherited from pandas.DataFrame"): OP responded 0 days ago but team last responded 0 days ago
+\* [2765](https://github.com/microsoft/pylance-release/issues/2765 "Error: command 'pyright.createtypestub' already exists"): 3rd party responded 0 days ago but team last responded 5 days ago
+
+\* [2783](https://github.com/microsoft/pylance-release/issues/2783 "Jupyter notebooks freeze on typing or executing"): 3rd party responded 0 days ago but team last responded 0 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [489](https://github.com/microsoft/pylance-release/issues/489 "Semantic highlighting for cached_property?"): team response was last response and no others in 30 days
