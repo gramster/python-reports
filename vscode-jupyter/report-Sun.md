@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-05-08 using: stale=30, all=0
+Generated on 2022-05-15 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,38 +11,45 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [10028](https://github.com/microsoft/vscode-jupyter/issues/10028 "Notebook freezes when using any imported module."): needs an initial team response (0 days old)
+
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [9816](https://github.com/microsoft/vscode-jupyter/issues/9816 "Export for HTML and PDF fails"): OP responded 1 days ago but team last responded 8 days ago
+\* [9995](https://github.com/microsoft/vscode-jupyter/issues/9995 "Magic installs cause imports to return `ModuleNotFoundError`"): OP responded 1 days ago but team last responded 2 days ago
 
-\* [9928](https://github.com/microsoft/vscode-jupyter/issues/9928 "Couldn't detect a venv in a dropbox synced folder"): OP responded 0 days ago but team last responded 1 days ago
+\* [9998](https://github.com/microsoft/vscode-jupyter/issues/9998 "Closing Interactive window opens terminal"): OP responded 1 days ago but team last responded 2 days ago
+
+\* [10004](https://github.com/microsoft/vscode-jupyter/issues/10004 "The help pop up does not show up for method chains"): OP responded 1 days ago but team last responded 2 days ago
+
+\* [10022](https://github.com/microsoft/vscode-jupyter/issues/10022 "Enter not working for local jupyter instance specification"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [5041](https://github.com/microsoft/vscode-jupyter/issues/5041 "PATH returned by interactive session is different from iPython launched from terminal"): 3rd party responded 1 days ago but team last responded 4 days ago
-
-\* [9886](https://github.com/microsoft/vscode-jupyter/issues/9886 "Jupyter notebook debugger fails using some conda kernels (but not others) "): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [10019](https://github.com/microsoft/vscode-jupyter/issues/10019 "VS Code window hangs on notebook imports"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [9620](https://github.com/microsoft/vscode-jupyter/issues/9620 "Line breaks for multi-line comments in Markdown cells are broken (interactive Python)"): team response was last response and no others in 30 days
+\* [9678](https://github.com/microsoft/vscode-jupyter/issues/9678 "TensorBoard failed to launch due to local and virtual environment problems"): team response was last response and no others in 30 days
+
+\* [9686](https://github.com/microsoft/vscode-jupyter/issues/9686 "jupyter.jupyterServerType config value not respected in user or remote config files."): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [9936](https://github.com/microsoft/vscode-jupyter/issues/9936 "Window Freezes when typing in Interactive Python Console"): needs an initial team response (0 days old)
+\* [10001](https://github.com/microsoft/vscode-jupyter/issues/10001 "Improve rendering of variables view"): OP responded 1 days ago but team last responded 2 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1527](https://github.com/microsoft/vscode-jupyter/issues/1527 "Make cells (# %%) collapsible python files"): 3rd party responded 1 days ago but team last responded 211 days ago
-
-\* [9676](https://github.com/microsoft/vscode-jupyter/issues/9676 "Localize using vscode-loc"): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [4555](https://github.com/microsoft/vscode-jupyter/issues/4555 "Auto refresh imports (support %autoreload magic) "): 3rd party responded 0 days ago but team last responded 30 days ago
