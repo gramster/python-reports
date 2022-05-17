@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-05-10 using: stale=30, all=0
+Generated on 2022-05-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that need a response from team:
 
 
-\* [869](https://github.com/microsoft/debugpy/issues/869 "ipython support: provide a way to debug code only called from some frame"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [933](https://github.com/microsoft/debugpy/issues/933 "Input from external file doesn't work with Microsoft Python VS Code extension while debugging"): needs an initial team response (1 days old)
