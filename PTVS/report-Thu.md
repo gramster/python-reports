@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-05-19 using: stale=30, all=0
+Generated on 2022-05-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7007](https://github.com/microsoft/PTVS/issues/7007 "Project structure is not displayed in SE windows under non-administrators."): needs an initial team response (0 days old)
+\* [7016](https://github.com/microsoft/PTVS/issues/7016 "Collapse to definitions is broken in VS 2022"): needs an initial team response (0 days old)
+
+\* [7017](https://github.com/microsoft/PTVS/issues/7017 "Intellisense forgets imports during editing"): needs an initial team response (0 days old)
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [7008](https://github.com/microsoft/PTVS/issues/7008 "Failed to launch debug adapter.  Additional information may be available in the output window. An unexpected error occurred in devenv.exe "): OP responded 0 days ago but team last responded 0 days ago
+\* [7018](https://github.com/microsoft/PTVS/issues/7018 "Can't run Python tests and apps in VisualStudio due to import"): OP responded 0 days ago but team last responded 0 days ago
