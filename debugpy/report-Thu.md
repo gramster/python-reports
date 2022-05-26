@@ -2,18 +2,10 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-05-19 using: stale=30, all=0
+Generated on 2022-05-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in debugpy that have no external responses since team response in 30+ days:
-
-
-\* [887](https://github.com/microsoft/debugpy/issues/887 "Debugging python code run via embedded python interpreter does not work"): team response was last response and no others in 30 days
 
 ---
