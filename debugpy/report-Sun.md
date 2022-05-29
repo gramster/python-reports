@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-05-22 using: stale=30, all=0
+Generated on 2022-05-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,12 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from OP after last team response:
+### Issues in debugpy that need a response from team:
 
 
-\* [936](https://github.com/microsoft/debugpy/issues/936 "Cannot remote debug Python through SSH"): OP responded 1 days ago but team last responded 1 days ago
+\* [945](https://github.com/microsoft/debugpy/issues/945 "Running Windows shim from debuggee fails"): needs an initial team response (1 days old)
+
+### Issues in debugpy that have no external responses since team response in 30+ days:
+
+
+\* [914](https://github.com/microsoft/debugpy/issues/914 "Python initialisation issues with django-request - no issue with legacy debugger"): team response was last response and no others in 30 days
