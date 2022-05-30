@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-05-23 using: stale=30, all=0
+Generated on 2022-05-30 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,15 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [19104](https://github.com/microsoft/vscode-python/issues/19104 "select interpreter crash"): 3rd party responded 0 days ago but team last responded 5 days ago
+
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [18972](https://github.com/microsoft/vscode-python/issues/18972 "RUNNING PYTHON CODE IN TERMINAL DOES NOT WORK "): team response was last response and no others in 30 days
-
-\* [18979](https://github.com/microsoft/vscode-python/issues/18979 "Update wiki regarding `python.defaultInterpreterPath` setting"): team response was last response and no others in 30 days
+\* [18998](https://github.com/microsoft/vscode-python/issues/18998 "Unable to run/debug unit tests"): team response was last response and no others in 30 days
 
 ---
 
@@ -26,11 +29,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19178](https://github.com/microsoft/vscode-python/issues/19178 "Discover tests in file only when filtering with @doc"): needs an initial team response (0 days old)
+\* [19203](https://github.com/microsoft/vscode-python/issues/19203 "<Feature request> Adding a new option in python.analysis"): needs an initial team response (0 days old)
 
-\* [19179](https://github.com/microsoft/vscode-python/issues/19179 "Run only filtered tests"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18889](https://github.com/microsoft/vscode-python/issues/18889 "Improve discoverability of the Python Test Log output channel"): team response was last response and no others in 30 days
+\* [11039](https://github.com/microsoft/vscode-python/issues/11039 "Use new vsc API to activate terminal without running any commands in terminal"): 3rd party responded 0 days ago but team last responded 172 days ago
+
+\* [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): 3rd party responded 1 days ago but team last responded 12 days ago
