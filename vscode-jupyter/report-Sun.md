@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-05-29 using: stale=30, all=0
+Generated on 2022-06-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,38 +14,39 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10171](https://github.com/microsoft/vscode-jupyter/issues/10171 "Typo in &quot;Failure to start kernel due to failures in importing modules&quot; wiki page"): needs an initial team response (0 days old)
+\* [10307](https://github.com/microsoft/vscode-jupyter/issues/10307 "Reduce web bundle size"): needs an initial team response (1 days old)
 
-\* [10172](https://github.com/microsoft/vscode-jupyter/issues/10172 "&quot;Maximum call stack size exceeded&quot; instead of reporting actual error"): needs an initial team response (0 days old)
+\* [10310](https://github.com/microsoft/vscode-jupyter/issues/10310 "De-reference the constructor from the rendering of VariableExplorerButtonCellFormatter"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [10317](https://github.com/microsoft/vscode-jupyter/issues/10317 "Data Viewer fails to start for Pytorch tensor in deep call stack"): needs an initial team response (0 days old)
 
+\* [10318](https://github.com/microsoft/vscode-jupyter/issues/10318 "`_repr_latex_()` does not work with equations enclosed in `\[` and `\]`."): needs an initial team response (0 days old)
 
-\* [10159](https://github.com/microsoft/vscode-jupyter/issues/10159 "jupyter does not provide correct completion suggestions"): OP responded 1 days ago but team last responded 1 days ago
+\* [10319](https://github.com/microsoft/vscode-jupyter/issues/10319 "bug with jupyter.widgetScriptSources"): needs an initial team response (0 days old)
+
+\* [10320](https://github.com/microsoft/vscode-jupyter/issues/10320 "Add separation between the text and the scroll bar on the right"): needs an initial team response (0 days old)
+
+\* [10321](https://github.com/microsoft/vscode-jupyter/issues/10321 "Variables view should show that it is waiting for the running cell"): needs an initial team response (0 days old)
+
+\* [10322](https://github.com/microsoft/vscode-jupyter/issues/10322 "Hitting Enter on `Jupyter: Specify Jupyter server for connections` doesn't do anything"): needs an initial team response (0 days old)
+
+\* [10323](https://github.com/microsoft/vscode-jupyter/issues/10323 "Unable to copy link location"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [4364](https://github.com/microsoft/vscode-jupyter/issues/4364 "Plotly graph animations do not work in jupyter notebook"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [1012](https://github.com/microsoft/vscode-jupyter/issues/1012 "IPython.display.Audio not working for WAV audio"): 3rd party responded 1 days ago but team last responded 208 days ago
 
-\* [9467](https://github.com/microsoft/vscode-jupyter/issues/9467 "tensorboard integration failed to start"): 3rd party responded 0 days ago but team last responded 65 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [9821](https://github.com/microsoft/vscode-jupyter/issues/9821 "Jupyter extension: ipywidgets Combo options display in status bar"): team response was last response and no others in 30 days
+\* [9801](https://github.com/microsoft/vscode-jupyter/issues/9801 "vscode.dev constantly pings the remote jupyter server with forbidden requests"): 3rd party responded 1 days ago but team last responded 29 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [10170](https://github.com/microsoft/vscode-jupyter/issues/10170 "Test Variable Viewer in the web"): needs an initial team response (1 days old)
-
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [9822](https://github.com/microsoft/vscode-jupyter/issues/9822 "can not connect to remote jupyter server"): team response was last response and no others in 30 days
+\* [8692](https://github.com/microsoft/vscode-jupyter/issues/8692 "Ability to re-run last commands in IPython Interactive Windows by pressing &quot;up&quot; arrow key."): team response was last response and no others in 30 days
+
+\* [9914](https://github.com/microsoft/vscode-jupyter/issues/9914 "Python interactive window delete last cell output shortcut/button"): team response was last response and no others in 30 days
