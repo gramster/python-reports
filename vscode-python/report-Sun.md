@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-05-29 using: stale=30, all=0
+Generated on 2022-06-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,11 +16,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19201](https://github.com/microsoft/vscode-python/issues/19201 "Autocomplete not working properly for inherited classes"): needs an initial team response (1 days old)
+\* [19234](https://github.com/microsoft/vscode-python/issues/19234 "Depletes inotify limit on remote session"): needs an initial team response (1 days old)
 
-\* [19202](https://github.com/microsoft/vscode-python/issues/19202 "vscode can't discover tests that use pytest-describe"): needs an initial team response (1 days old)
+\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): needs an initial team response (0 days old)
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): 3rd party responded 0 days ago but team last responded 11 days ago
+\* [19239](https://github.com/microsoft/vscode-python/issues/19239 "I am using VS Code in windows 10 to connect to local HyperV Centos 7 (Connect to host...)."): needs an initial team response (0 days old)
