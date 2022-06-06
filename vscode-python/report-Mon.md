@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-05-30 using: stale=30, all=0
+Generated on 2022-06-06 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,12 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19104](https://github.com/microsoft/vscode-python/issues/19104 "select interpreter crash"): 3rd party responded 0 days ago but team last responded 5 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [18998](https://github.com/microsoft/vscode-python/issues/18998 "Unable to run/debug unit tests"): team response was last response and no others in 30 days
+\* [4300](https://github.com/microsoft/vscode-python/issues/4300 "Activate environment before debugging tests"): 3rd party responded 0 days ago but team last responded 385 days ago
 
 ---
 
@@ -29,11 +24,10 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19203](https://github.com/microsoft/vscode-python/issues/19203 "<Feature request> Adding a new option in python.analysis"): needs an initial team response (0 days old)
+\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): needs an initial team response (1 days old)
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
+\* [19239](https://github.com/microsoft/vscode-python/issues/19239 "I am using VS Code in windows 10 to connect to local HyperV Centos 7 (Connect to host...)."): needs an initial team response (1 days old)
 
+\* [19240](https://github.com/microsoft/vscode-python/issues/19240 "Python Extension Crashes Powershell Terminal on Install"): needs an initial team response (0 days old)
 
-\* [11039](https://github.com/microsoft/vscode-python/issues/11039 "Use new vsc API to activate terminal without running any commands in terminal"): 3rd party responded 0 days ago but team last responded 172 days ago
-
-\* [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): 3rd party responded 1 days ago but team last responded 12 days ago
+\* [19241](https://github.com/microsoft/vscode-python/issues/19241 "Can't select intepreter when using venv"): needs an initial team response (0 days old)
