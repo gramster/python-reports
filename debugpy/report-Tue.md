@@ -2,23 +2,10 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-06-07 using: stale=30, all=0
+Generated on 2022-06-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [946](https://github.com/microsoft/debugpy/issues/946 "In conda environment, breakpoints in pytest cannot be hit."): OP responded 0 days ago but team last responded 4 days ago
-
-### Issues in debugpy that have comments from 3rd party after last team response:
-
-
-\* [460](https://github.com/microsoft/debugpy/issues/460 "Cannot Attach again after disconnect"): 3rd party responded 0 days ago but team last responded 578 days ago
