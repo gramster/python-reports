@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-06-08 using: stale=30, all=0
+Generated on 2022-06-15 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,28 +14,31 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10350](https://github.com/microsoft/vscode-jupyter/issues/10350 "Resizing variable view column doesn't resize all cells in the column together"): needs an initial team response (0 days old)
+\* [10455](https://github.com/microsoft/vscode-jupyter/issues/10455 "Flakey tests"): needs an initial team response (0 days old)
 
-\* [10351](https://github.com/microsoft/vscode-jupyter/issues/10351 "Variable View doesn't use the full panel width by default"): needs an initial team response (0 days old)
-
-\* [10352](https://github.com/microsoft/vscode-jupyter/issues/10352 "Filter doesn't work in Data Viewer"): needs an initial team response (0 days old)
+\* [10461](https://github.com/microsoft/vscode-jupyter/issues/10461 "ipytree Jupyter Widget not working in notebook editor"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10201](https://github.com/microsoft/vscode-jupyter/issues/10201 "allowed to switch to a kernel that already has had its session disposed of"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [10319](https://github.com/microsoft/vscode-jupyter/issues/10319 "[HELP NEEDED] %%javascript magic fails"): OP responded 0 days ago but team last responded 0 days ago
-
-\* [10328](https://github.com/microsoft/vscode-jupyter/issues/10328 "Interrupt & Restart buttons do not work for Julia on jupyter"): OP responded 1 days ago but team last responded 1 days ago
+\* [10452](https://github.com/microsoft/vscode-jupyter/issues/10452 "Plot settings are not applied in the first run, but works in the subsequent runs. "): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6054](https://github.com/microsoft/vscode-jupyter/issues/6054 "IPyWidget issues - `nbextension/...` modules not defined and `element` variable not defined"): 3rd party responded 1 days ago but team last responded 89 days ago
+\* [5041](https://github.com/microsoft/vscode-jupyter/issues/5041 "PATH returned by interactive session is different from iPython launched from terminal"): 3rd party responded 0 days ago but team last responded 30 days ago
 
-\* [9701](https://github.com/microsoft/vscode-jupyter/issues/9701 "Users shouldn't be expected to read the Jupyter log"): 3rd party responded 1 days ago but team last responded 36 days ago
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
-\* [10064](https://github.com/microsoft/vscode-jupyter/issues/10064 "Same display name for different venv kernels"): 3rd party responded 1 days ago but team last responded 19 days ago
+
+\* [9953](https://github.com/microsoft/vscode-jupyter/issues/9953 "Installing additional python packages in running container is no longer recognised by vscode jupyter"): team response was last response and no others in 30 days
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+
+
+\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 0 days ago but team last responded 402 days ago
