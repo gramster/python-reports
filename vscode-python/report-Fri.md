@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-06-10 using: stale=30, all=0
+Generated on 2022-06-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,16 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [10398](https://github.com/microsoft/vscode-python/issues/10398 "Debug of parametrized pytest fails to find test when using zsh shells"): 3rd party responded 0 days ago but team last responded 826 days ago
-
-\* [17681](https://github.com/microsoft/vscode-python/issues/17681 "Extra newline added to cells after formatting with any formatter"): 3rd party responded 0 days ago but team last responded 51 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [18935](https://github.com/microsoft/vscode-python/issues/18935 "debugger/output window closes on run/debug python"): team response was last response and no others in 30 days
-
-\* [19086](https://github.com/microsoft/vscode-python/issues/19086 "Flake8 Fails Silently if Path to Binary Wrong"): team response was last response and no others in 30 days
+\* [18913](https://github.com/microsoft/vscode-python/issues/18913 "Testing side bar loses focus when running tests"): 3rd party responded 1 days ago but team last responded 65 days ago
 
 ---
 
@@ -33,9 +24,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19272](https://github.com/microsoft/vscode-python/issues/19272 "Run does not produce expected result, debug works however."): needs an initial team response (0 days old)
+\* [19318](https://github.com/microsoft/vscode-python/issues/19318 "Failed pytest includes [undefined] in title"): needs an initial team response (0 days old)
+
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [19317](https://github.com/microsoft/vscode-python/issues/19317 "`python.testing.pytestPath` does not work with test discovery."): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [408](https://github.com/microsoft/vscode-python/issues/408 "Implement linting on change"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [944](https://github.com/microsoft/vscode-python/issues/944 "Use environment variables defined in `.env` file when running code in a terminal"): 3rd party responded 1 days ago but team last responded 149 days ago
+
+\* [3836](https://github.com/microsoft/vscode-python/issues/3836 "Run linter on all files in a workspace, even the unopened ones"): 3rd party responded 0 days ago but team last responded 321 days ago
+
+\* [19280](https://github.com/microsoft/vscode-python/issues/19280 "Provide a build target that disables localization"): 3rd party responded 0 days ago but team last responded 0 days ago
