@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-06-10 using: stale=30, all=0
+Generated on 2022-06-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2150](https://github.com/microsoft/pylance-release/issues/2150 "exported name not exposed from workspace package even though listed in __all__"): OP responded 0 days ago but team last responded 16 days ago
+\* [2765](https://github.com/microsoft/pylance-release/issues/2765 "Error: command 'pyright.createtypestub' already exists"): 3rd party responded 0 days ago but team last responded 10 days ago
 
 ---
 
@@ -24,11 +24,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [2903](https://github.com/microsoft/pylance-release/issues/2903 "Python Refactoring Move to file/to new file"): needs an initial team response (0 days old)
+\* [2935](https://github.com/microsoft/pylance-release/issues/2935 "Pylance stops working on tensorflow"): needs an initial team response (1 days old)
 
-\* [2905](https://github.com/microsoft/pylance-release/issues/2905 "Failed to complete the word when type a few letters of the word."): needs an initial team response (0 days old)
+\* [2945](https://github.com/microsoft/pylance-release/issues/2945 "One dot is missing for leading ellipsis in doc markdown"): needs an initial team response (1 days old)
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [2932](https://github.com/microsoft/pylance-release/issues/2932 "Pylance Symbol Search is slow"): OP responded 0 days ago but team last responded 1 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2575](https://github.com/microsoft/pylance-release/issues/2575 "Could we support `add a type hint` action in VSCode like the PyCharm does?"): 3rd party responded 1 days ago but team last responded 19 days ago
+\* [2803](https://github.com/microsoft/pylance-release/issues/2803 "Pylance semantic highlighting not working on dev container"): 3rd party responded 1 days ago but team last responded 10 days ago
