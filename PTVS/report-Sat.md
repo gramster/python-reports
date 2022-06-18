@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-06-11 using: stale=30, all=0
+Generated on 2022-06-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,15 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from OP after last team response:
+### Issues in PTVS that have no external responses since team response in 30+ days:
 
 
-\* [6774](https://github.com/microsoft/PTVS/issues/6774 "The Python installed from Microsoft Store couldn't view installed packages when first use the environment."): OP responded 1 days ago but team last responded 2 days ago
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [7032](https://github.com/microsoft/PTVS/issues/7032 "python editor code-folding for def and class code blocks not working properly in release 17.2.3"): 3rd party responded 0 days ago but team last responded 2 days ago
+\* [6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled."): team response was last response and no others in 30 days
 
 ---
 
@@ -29,14 +24,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7045](https://github.com/microsoft/PTVS/issues/7045 "Failed to start a decorator and show potential decorators when type @."): needs an initial team response (0 days old)
+\* [7049](https://github.com/microsoft/PTVS/issues/7049 "Is there a way to have &quot;Find in Files&quot; skip the env folder when searching the project or solution?"): needs an initial team response (1 days old)
+
+\* [7050](https://github.com/microsoft/PTVS/issues/7050 "An error was reported in the output window when creating the env."): needs an initial team response (0 days old)
+
+\* [7051](https://github.com/microsoft/PTVS/issues/7051 "Error List doesn't display errors or warnings "): needs an initial team response (0 days old)
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [6974](https://github.com/microsoft/PTVS/issues/6974 "No IntelliSense when import folder under the workspace."): OP responded 0 days ago but team last responded 1 days ago
+\* [6639](https://github.com/microsoft/PTVS/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder."): OP responded 1 days ago but team last responded 301 days ago
 
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-\* [7031](https://github.com/microsoft/PTVS/issues/7031 "Pytorch package debugging unavailable due file naming"): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [6797](https://github.com/microsoft/PTVS/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor"): 3rd party responded 0 days ago but team last responded 210 days ago
