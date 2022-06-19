@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-06-12 using: stale=30, all=0
+Generated on 2022-06-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [956](https://github.com/microsoft/debugpy/issues/956 "Breakpoint not Hit on Remote Subprocess that Spawned a Child Thread"): needs an initial team response (0 days old)
+\* [958](https://github.com/microsoft/debugpy/issues/958 "Support exeuctable directory argument"): needs an initial team response (1 days old)
