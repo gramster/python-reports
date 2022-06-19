@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-06-12 using: stale=30, all=0
+Generated on 2022-06-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,17 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): OP responded 0 days ago but team last responded 1 days ago
-
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [11736](https://github.com/microsoft/vscode-python/issues/11736 "Argument filtering for pytest fails to handle custom arguments"): 3rd party responded 1 days ago but team last responded 117 days ago
-
-\* [17681](https://github.com/microsoft/vscode-python/issues/17681 "Extra newline added to cells after formatting with any formatter"): 3rd party responded 1 days ago but team last responded 53 days ago
+\* [19282](https://github.com/microsoft/vscode-python/issues/19282 "New unittest discovery code doesn't discover all tests"): 3rd party responded 0 days ago but team last responded 5 days ago
 
 ---
 
@@ -31,23 +24,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19276](https://github.com/microsoft/vscode-python/issues/19276 "VS Code `python.envFile` does not seem to work with `python.defaultInterpreterPath`"): needs an initial team response (1 days old)
+\* [19321](https://github.com/microsoft/vscode-python/issues/19321 "Allow pytest to be invoked as a module"): needs an initial team response (1 days old)
 
-\* [19277](https://github.com/microsoft/vscode-python/issues/19277 "Extension is watching files outside of the workspace"): needs an initial team response (1 days old)
+\* [19328](https://github.com/microsoft/vscode-python/issues/19328 "Debugging matplotlib in VSCode encounters TypeError: 'NoneType' object is not callable"): needs an initial team response (0 days old)
 
-\* [19278](https://github.com/microsoft/vscode-python/issues/19278 "Plot images while connected remotely"): needs an initial team response (1 days old)
+### Issues in vscode-python that have comments from OP after last team response:
 
-\* [19279](https://github.com/microsoft/vscode-python/issues/19279 "PyTest discovery fails when pytest.ini contains parameters for pytest plugin  "): needs an initial team response (1 days old)
 
-\* [19280](https://github.com/microsoft/vscode-python/issues/19280 "Failed to load message bundle. See console for details. across everything"): needs an initial team response (1 days old)
+\* [19323](https://github.com/microsoft/vscode-python/issues/19323 "Respect interpreter in `PATH`"): OP responded 1 days ago but team last responded 1 days ago
 
-\* [19281](https://github.com/microsoft/vscode-python/issues/19281 "Recognize r'<string>' literals as Python does"): needs an initial team response (1 days old)
-
-\* [19284](https://github.com/microsoft/vscode-python/issues/19284 "Extension causes high cpu load"): needs an initial team response (0 days old)
-
-\* [19285](https://github.com/microsoft/vscode-python/issues/19285 "Test discovery fails with &quot; [n [Error]: & was unexpected at this time.&quot;"): needs an initial team response (0 days old)
+\* [19327](https://github.com/microsoft/vscode-python/issues/19327 "In Python files, &quot;Rename symbol&quot; inserts excessive newlines."): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [19135](https://github.com/microsoft/vscode-python/issues/19135 "Multiple `envFile`s"): team response was last response and no others in 30 days
+\* [19166](https://github.com/microsoft/vscode-python/issues/19166 "Support symlink Python environments "): team response was last response and no others in 30 days
