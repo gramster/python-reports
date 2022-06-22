@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-06-15 using: stale=30, all=0
+Generated on 2022-06-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2894](https://github.com/microsoft/pylance-release/issues/2894 "error squiggle when using `%pip` in interactive window"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [2948](https://github.com/microsoft/pylance-release/issues/2948 "Docstring missing on @overload methods (but not plain functions)"): OP responded 1 days ago but team last responded 4 days ago
 
 ---
 
@@ -24,18 +24,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [2931](https://github.com/microsoft/pylance-release/issues/2931 "Improve &quot;Definition Preview Hover&quot; rendering and layout (similiar to JetBrains IDEs)"): needs an initial team response (0 days old)
+\* [2958](https://github.com/microsoft/pylance-release/issues/2958 "Pylance incorrectly reports no arguments expected to pandas context manager"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2881](https://github.com/microsoft/pylance-release/issues/2881 "Poor performance with syntax highlighting."): OP responded 0 days ago but team last responded 1 days ago
-
-\* [2891](https://github.com/microsoft/pylance-release/issues/2891 " __init__.py is handled differently than python files in the same path"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [2913](https://github.com/microsoft/pylance-release/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function"): OP responded 1 days ago but team last responded 1 days ago
+\* [2953](https://github.com/microsoft/pylance-release/issues/2953 "&quot;Parameter&quot; is not exported from module &quot;torch.nn&quot;"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2529](https://github.com/microsoft/pylance-release/issues/2529 "Prompted to reload window every time on devcontainer open"): 3rd party responded 0 days ago but team last responded 4 days ago
+\* [639](https://github.com/microsoft/pylance-release/issues/639 "Pylance can't resolve .pyw imports"): 3rd party responded 0 days ago but team last responded 553 days ago
+
+\* [2914](https://github.com/microsoft/pylance-release/issues/2914 "Extension is watching files outside of the workspace"): 3rd party responded 1 days ago but team last responded 5 days ago
