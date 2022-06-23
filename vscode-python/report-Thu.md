@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-06-16 using: stale=30, all=0
+Generated on 2022-06-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,17 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [19334](https://github.com/microsoft/vscode-python/issues/19334 "Pytest node issue during test discovery "): OP responded 1 days ago but team last responded 1 days ago
+
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18913](https://github.com/microsoft/vscode-python/issues/18913 "Testing side bar loses focus when running tests"): 3rd party responded 0 days ago but team last responded 64 days ago
+\* [10722](https://github.com/microsoft/vscode-python/issues/10722 "Debugging test in VS Code does not work"): 3rd party responded 0 days ago but team last responded 639 days ago
+
+\* [18671](https://github.com/microsoft/vscode-python/issues/18671 "Ensure language server is not blocked on discovery in the first session"): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -24,18 +31,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19314](https://github.com/microsoft/vscode-python/issues/19314 "Integrate Python environment management code from Python Environment Manager fork"): needs an initial team response (0 days old)
+\* [19338](https://github.com/microsoft/vscode-python/issues/19338 "run multipe python files "): needs an initial team response (1 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 1 days ago but team last responded 275 days ago
-
-\* [944](https://github.com/microsoft/vscode-python/issues/944 "Use environment variables defined in `.env` file when running code in a terminal"): 3rd party responded 0 days ago but team last responded 148 days ago
-
-\* [19280](https://github.com/microsoft/vscode-python/issues/19280 "Provide a build target that disables localization"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [10612](https://github.com/microsoft/vscode-python/issues/10612 "Add 'Quick Fix' suggestions for errors and warnings thrown by Pylint  "): 3rd party responded 1 days ago but team last responded 145 days ago
 
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [19038](https://github.com/microsoft/vscode-python/issues/19038 "VS Code ignores the 2 space indent setting"): team response was last response and no others in 30 days
+\* [19178](https://github.com/microsoft/vscode-python/issues/19178 "Discover tests in file only when filtering with @doc"): team response was last response and no others in 30 days
+
+\* [19179](https://github.com/microsoft/vscode-python/issues/19179 "Run only filtered tests"): team response was last response and no others in 30 days
