@@ -2,33 +2,27 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-06-21 using: stale=30, all=0
+Generated on 2022-06-28 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-
-\* [2948](https://github.com/microsoft/pylance-release/issues/2948 "Docstring missing on @overload methods (but not plain functions)"): OP responded 0 days ago but team last responded 3 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that need a response from team:
 
 
-\* [2913](https://github.com/microsoft/pylance-release/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function"): OP responded 1 days ago but team last responded 7 days ago
+\* [2970](https://github.com/microsoft/pylance-release/issues/2970 "Feature: code operations for inlay hints"): needs an initial team response (1 days old)
 
-\* [2953](https://github.com/microsoft/pylance-release/issues/2953 "&quot;Parameter&quot; is not exported from module &quot;torch.nn&quot;"): OP responded 0 days ago but team last responded 0 days ago
+\* [2972](https://github.com/microsoft/pylance-release/issues/2972 "Support hiding certain class methods from Intellisense"): needs an initial team response (0 days old)
+
+\* [2974](https://github.com/microsoft/pylance-release/issues/2974 "Pylance ignores files.watcherExclude"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [2914](https://github.com/microsoft/pylance-release/issues/2914 "Extension is watching files outside of the workspace"): 3rd party responded 0 days ago but team last responded 4 days ago
+\* [639](https://github.com/microsoft/pylance-release/issues/639 "Pylance can't resolve .pyw imports"): 3rd party responded 0 days ago but team last responded 559 days ago
