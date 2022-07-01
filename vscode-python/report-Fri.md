@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-06-24 using: stale=30, all=0
+Generated on 2022-07-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,27 +14,26 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [16705](https://github.com/microsoft/vscode-python/issues/16705 "Test Discovery assumes wrong encoding for stdout"): OP responded 0 days ago but team last responded 232 days ago
-
-\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): OP responded 0 days ago but team last responded 13 days ago
-
-\* [19347](https://github.com/microsoft/vscode-python/issues/19347 "Rogue conda processes left running after closing vscode (do not use `conda run` for fetching env variables)"): OP responded 0 days ago but team last responded 1 days ago
+\* [19384](https://github.com/microsoft/vscode-python/issues/19384 "Duplicate environments after fixing python"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [10722](https://github.com/microsoft/vscode-python/issues/10722 "Debugging test in VS Code does not work"): 3rd party responded 1 days ago but team last responded 640 days ago
+\* [3318](https://github.com/microsoft/vscode-python/issues/3318 "Formatting Python code with Black fails silently when there are syntax errors in code"): 3rd party responded 0 days ago but team last responded 1 days ago
 
-\* [18671](https://github.com/microsoft/vscode-python/issues/18671 "Ensure language server is not blocked on discovery in the first session"): 3rd party responded 1 days ago but team last responded 2 days ago
-
-\* [18961](https://github.com/microsoft/vscode-python/issues/18961 "Error [object Object] when using unittest Test Debugging"): 3rd party responded 0 days ago but team last responded 62 days ago
+\* [11638](https://github.com/microsoft/vscode-python/issues/11638 "PowerShell does not support automatic activation of conda virtual environment"): 3rd party responded 0 days ago but team last responded 622 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [19186](https://github.com/microsoft/vscode-python/issues/19186 "Blue formatter"): team response was last response and no others in 30 days
+\* [19166](https://github.com/microsoft/vscode-python/issues/19166 "Support symlink Python environments "): OP responded 0 days ago but team last responded 42 days ago
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [18559](https://github.com/microsoft/vscode-python/issues/18559 "show class hierarchy or method override like pycharm"): 3rd party responded 1 days ago but team last responded 70 days ago
