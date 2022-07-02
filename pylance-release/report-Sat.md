@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-06-25 using: stale=30, all=0
+Generated on 2022-07-02 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,14 +13,16 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2966](https://github.com/microsoft/pylance-release/issues/2966 "Add move refactor for methods and classes"): needs an initial team response (0 days old)
+\* [2881](https://github.com/microsoft/pylance-release/issues/2881 "Poor performance with semantic highlighting."): OP responded 1 days ago but team last responded 2 days ago
 
-\* [2967](https://github.com/microsoft/pylance-release/issues/2967 "Go to definition actually goes to stubs"): needs an initial team response (0 days old)
+\* [2983](https://github.com/microsoft/pylance-release/issues/2983 "Extension causes high cpu load"): OP responded 1 days ago but team last responded 1 days ago
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+\* [2984](https://github.com/microsoft/pylance-release/issues/2984 "Generic type parameters don't work with Union types"): OP responded 1 days ago but team last responded 1 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [2535](https://github.com/microsoft/pylance-release/issues/2535 "Remove auto-import when typing the letter d to avoid being serenaded with The Zen of Python"): 3rd party responded 1 days ago but team last responded 80 days ago
+\* [2868](https://github.com/microsoft/pylance-release/issues/2868 "Autocomplete not working properly for inherited classes - Ubuntu"): team response was last response and no others in 30 days
