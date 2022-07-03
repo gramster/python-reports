@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-06-26 using: stale=30, all=0
+Generated on 2022-07-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,12 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from OP after last team response:
+### Issues in PTVS that have no external responses since team response in 30+ days:
 
 
-\* [7006](https://github.com/microsoft/PTVS/issues/7006 "Live Share: The 'TerminalWindowPackage' package did not load correctly. "): OP responded 1 days ago but team last responded 17 days ago
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [7036](https://github.com/microsoft/PTVS/issues/7036 "Visual Studio 2022 freezes during python debugging session"): 3rd party responded 1 days ago but team last responded 3 days ago
+\* [7022](https://github.com/microsoft/PTVS/issues/7022 "Go To All does not work."): team response was last response and no others in 30 days
