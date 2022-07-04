@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-06-27 using: stale=30, all=0
+Generated on 2022-07-04 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,6 +16,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [2968](https://github.com/microsoft/pylance-release/issues/2968 "Style variables in docstring shown on hover"): needs an initial team response (0 days old)
+\* [2991](https://github.com/microsoft/pylance-release/issues/2991 "Pylance can not auto import python modules"): needs an initial team response (1 days old)
 
-\* [2970](https://github.com/microsoft/pylance-release/issues/2970 "Feature: code operations for inlay hints"): needs an initial team response (0 days old)
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [837](https://github.com/microsoft/pylance-release/issues/837 "How can I disable the bundled SQLAlchemy stubs?"): OP responded 1 days ago but team last responded 3 days ago
