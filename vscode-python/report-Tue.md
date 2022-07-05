@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-06-28 using: stale=30, all=0
+Generated on 2022-07-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19369](https://github.com/microsoft/vscode-python/issues/19369 "Extension not loaded"): needs an initial team response (0 days old)
+\* [18199](https://github.com/microsoft/vscode-python/issues/18199 "Extension not using launch.json config when you press the UI button &quot;Debug Python File&quot;"): 3rd party responded 1 days ago but team last responded 67 days ago
 
 ---
 
@@ -24,9 +24,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19372](https://github.com/microsoft/vscode-python/issues/19372 "Python interperter name/button  missing from status bar"): needs an initial team response (1 days old)
+\* [19401](https://github.com/microsoft/vscode-python/issues/19401 "[Pytest] Add an inline error indicating the location in code where test discovery failed"): needs an initial team response (0 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [19402](https://github.com/microsoft/vscode-python/issues/19402 "No Module Found, But Site-Packages has already install the Libs"): needs an initial team response (0 days old)
+
+\* [19403](https://github.com/microsoft/vscode-python/issues/19403 "Request textDocument/semanticTokens/full failed"): needs an initial team response (0 days old)
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19376](https://github.com/microsoft/vscode-python/issues/19376 "vscode.python - Syntax coloring wrong for pattern matching keywords &quot;match&quot; and &quot;case&quot;"): OP responded 0 days ago but team last responded 0 days ago
+\* [8542](https://github.com/microsoft/vscode-python/issues/8542 "Drop compatibility aliases."): 3rd party responded 0 days ago but team last responded 965 days ago
