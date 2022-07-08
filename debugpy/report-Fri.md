@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-07-01 using: stale=30, all=0
+Generated on 2022-07-08 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,7 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that have comments from 3rd party after last team response:
 
 
-\* [524](https://github.com/microsoft/debugpy/issues/524 "Debugging on a remote machine doesn't work"): 3rd party responded 0 days ago but team last responded 72 days ago
+\* [68](https://github.com/microsoft/debugpy/issues/68 "Attach to local process not working in VS Code on Windows with venv "): 3rd party responded 0 days ago but team last responded 7 days ago
 
 ---
 
@@ -24,4 +24,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [968](https://github.com/microsoft/debugpy/issues/968 "Difficulty debugging Rust's tokio spawned-thread"): OP responded 0 days ago but team last responded 0 days ago
+\* [974](https://github.com/microsoft/debugpy/issues/974 "Debugpy stops working after running `nc` to detect when its port is up"): OP responded 0 days ago but team last responded 0 days ago
