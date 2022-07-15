@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-07-08 using: stale=30, all=0
+Generated on 2022-07-15 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,17 +11,14 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that need a response from team:
 
 
-\* [68](https://github.com/microsoft/debugpy/issues/68 "Attach to local process not working in VS Code on Windows with venv "): 3rd party responded 0 days ago but team last responded 7 days ago
-
----
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
+\* [985](https://github.com/microsoft/debugpy/issues/985 "Evaluate request returns `null` result if variable has `None` value."): needs an initial team response (0 days old)
 
 ### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [974](https://github.com/microsoft/debugpy/issues/974 "Debugpy stops working after running `nc` to detect when its port is up"): OP responded 0 days ago but team last responded 0 days ago
+\* [952](https://github.com/microsoft/debugpy/issues/952 "Debugger stuck trying to load variables"): OP responded 0 days ago but team last responded 0 days ago
+
+---
