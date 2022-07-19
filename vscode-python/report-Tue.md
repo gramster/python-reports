@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-07-12 using: stale=30, all=0
+Generated on 2022-07-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,15 +16,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19441](https://github.com/microsoft/vscode-python/issues/19441 "Debugging in python 3.6 broken"): needs an initial team response (0 days old)
+\* [19489](https://github.com/microsoft/vscode-python/issues/19489 "Feature request: copy reference "): needs an initial team response (1 days old)
 
-\* [19442](https://github.com/microsoft/vscode-python/issues/19442 "Running Python Files in Interactive Mode"): needs an initial team response (0 days old)
+\* [19493](https://github.com/microsoft/vscode-python/issues/19493 "[Issue] Interrupt Kernel Prompt - Multiple Cancel Buttons"): needs an initial team response (0 days old)
 
-\* [19445](https://github.com/microsoft/vscode-python/issues/19445 "The lib path is completely gone"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [19321](https://github.com/microsoft/vscode-python/issues/19321 "Allow pytest to be invoked as a module"): 3rd party responded 1 days ago but team last responded 20 days ago
-
-\* [19427](https://github.com/microsoft/vscode-python/issues/19427 "Run and debug not running after update Python and Pylance extensions"): 3rd party responded 1 days ago but team last responded 3 days ago
+\* [19494](https://github.com/microsoft/vscode-python/issues/19494 "Run and Debug Doesn't Work In 2022.10.*"): needs an initial team response (0 days old)
