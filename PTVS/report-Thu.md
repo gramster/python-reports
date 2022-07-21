@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-07-14 using: stale=30, all=0
+Generated on 2022-07-21 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,19 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7082](https://github.com/microsoft/PTVS/issues/7082 "VS2022 Python Fonts and Colors Customization Regression from VS2019, Defies Microsoft Documentation"): needs an initial team response (1 days old)
-
-### Issues in PTVS that have comments from OP after last team response:
-
-
-\* [6974](https://github.com/microsoft/PTVS/issues/6974 "No IntelliSense when import folder under the workspace."): OP responded 1 days ago but team last responded 1 days ago
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [7036](https://github.com/microsoft/PTVS/issues/7036 "Visual Studio 2022 freezes during python debugging session"): 3rd party responded 1 days ago but team last responded 1 days ago
-
-### Issues in PTVS that have no external responses since team response in 30+ days:
-
-
-\* [125](https://github.com/microsoft/PTVS/issues/125 "Automatically attach to subprocesses when debugging"): team response was last response and no others in 30 days
+\* [7092](https://github.com/microsoft/PTVS/issues/7092 "Stub paths setting not observed"): needs an initial team response (0 days old)
