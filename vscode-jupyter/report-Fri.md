@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-07-15 using: stale=30, all=0
+Generated on 2022-07-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,41 +14,26 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10826](https://github.com/microsoft/vscode-jupyter/issues/10826 "VS Code Jupyter Notebook Session Cannot Generate Request"): needs an initial team response (0 days old)
-
-\* [10827](https://github.com/microsoft/vscode-jupyter/issues/10827 "Kernel crashed while executing "): needs an initial team response (0 days old)
+\* [10886](https://github.com/microsoft/vscode-jupyter/issues/10886 "Scrolling issue when mouse hover on HTML output"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10721](https://github.com/microsoft/vscode-jupyter/issues/10721 "Jupyter notebook does not connect to kernel"): OP responded 1 days ago but team last responded 3 days ago
+\* [10755](https://github.com/microsoft/vscode-jupyter/issues/10755 "Jupyter environment variables load only once ever per kernel."): OP responded 0 days ago but team last responded 4 days ago
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [4406](https://github.com/microsoft/vscode-jupyter/issues/4406 "Scroll settings are not honored in Native Notebook"): 3rd party responded 0 days ago but team last responded 486 days ago
-
-\* [9644](https://github.com/microsoft/vscode-jupyter/issues/9644 "No progress indicator when starting kernels for IW"): 3rd party responded 1 days ago but team last responded 95 days ago
-
-\* [10110](https://github.com/microsoft/vscode-jupyter/issues/10110 "&quot;Failed to start kernel&quot; with Jupyter Extension v2022.4.1021342353"): 3rd party responded 0 days ago but team last responded 41 days ago
-
-\* [10200](https://github.com/microsoft/vscode-jupyter/issues/10200 "Data viewer window launched from the variables view is empty"): 3rd party responded 1 days ago but team last responded 36 days ago
+\* [10517](https://github.com/microsoft/vscode-jupyter/issues/10517 "Data Viewer displays int64 from dataframe incorrect (last digits wrong)"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [10808](https://github.com/microsoft/vscode-jupyter/issues/10808 "Interactive Window creation and restore"): OP responded 0 days ago but team last responded 0 days ago
-
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 1 days ago but team last responded 432 days ago
+\* [1121](https://github.com/microsoft/vscode-jupyter/issues/1121 "Add support for parameters and/or tags assignment (papermill) (Add support for cell metadata)"): 3rd party responded 1 days ago but team last responded 507 days ago
 
-\* [1463](https://github.com/microsoft/vscode-jupyter/issues/1463 "When exporting a notebook to Python, the default filename of the script should mirror the notebook filename"): 3rd party responded 0 days ago but team last responded 1001 days ago
-
-\* [10765](https://github.com/microsoft/vscode-jupyter/issues/10765 "support configurable start port instead of a magic number 9000"): 3rd party responded 1 days ago but team last responded 3 days ago
+\* [6812](https://github.com/microsoft/vscode-jupyter/issues/6812 "Jupyter: move cell up/down buttons"): 3rd party responded 1 days ago but team last responded 359 days ago
