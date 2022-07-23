@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-07-16 using: stale=30, all=0
+Generated on 2022-07-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,20 +16,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3042](https://github.com/microsoft/pylance-release/issues/3042 "DOUBLE language server started in vscode with conda"): needs an initial team response (1 days old)
-
-\* [3054](https://github.com/microsoft/pylance-release/issues/3054 "Switch to finalized notebookEditor API"): needs an initial team response (0 days old)
-
-\* [3055](https://github.com/microsoft/pylance-release/issues/3055 "VSCode: Auto import/import suggestions for Python dependencies from external libraries"): needs an initial team response (1 days old)
+\* [3085](https://github.com/microsoft/pylance-release/issues/3085 "No folding of parenth_form expressions without commas"): needs an initial team response (1 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3049](https://github.com/microsoft/pylance-release/issues/3049 "Pylance doesn't work on my vscode！"): OP responded 0 days ago but team last responded 0 days ago
+\* [2880](https://github.com/microsoft/pylance-release/issues/2880 "Python Intellisense stops working when connected via SSH to AWS EC2 Instance"): OP responded 1 days ago but team last responded 51 days ago
+
+\* [3084](https://github.com/microsoft/pylance-release/issues/3084 "Stubs not found for installed typed library"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [597](https://github.com/microsoft/pylance-release/issues/597 "'reportMissingModuleSource' warning for requests.packages.*"): 3rd party responded 0 days ago but team last responded 26 days ago
-
-\* [3017](https://github.com/microsoft/pylance-release/issues/3017 "Import can not be resolved error in pylance jupyter notebook for importing .py file in same directory as notebook"): 3rd party responded 1 days ago but team last responded 4 days ago
+\* [844](https://github.com/microsoft/pylance-release/issues/844 "Intellisense is messed up. Function information and type checking is useless for matplotlib (and other modules like numpy) "): 3rd party responded 1 days ago but team last responded 92 days ago
