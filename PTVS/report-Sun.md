@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-07-17 using: stale=30, all=0
+Generated on 2022-07-24 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7084](https://github.com/microsoft/PTVS/issues/7084 "Exception Thrown: The _imaging extension was built for another version of Pillow or PIL"): needs an initial team response (1 days old)
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”."): 3rd party responded 1 days ago but team last responded 36 days ago
+\* [7093](https://github.com/microsoft/PTVS/issues/7093 "Error: missing params.textDocument.text"): needs an initial team response (1 days old)
