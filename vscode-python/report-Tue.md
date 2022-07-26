@@ -2,22 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-07-19 using: stale=30, all=0
+Generated on 2022-07-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [19516](https://github.com/microsoft/vscode-python/issues/19516 "python.exe file in venv not being recognised by interpreter selector"): OP responded 1 days ago but team last responded 4 days ago
+
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in vscode-python that need a response from team:
-
-
-\* [19489](https://github.com/microsoft/vscode-python/issues/19489 "Feature request: copy reference "): needs an initial team response (1 days old)
-
-\* [19493](https://github.com/microsoft/vscode-python/issues/19493 "[Issue] Interrupt Kernel Prompt - Multiple Cancel Buttons"): needs an initial team response (0 days old)
-
-\* [19494](https://github.com/microsoft/vscode-python/issues/19494 "Run and Debug Doesn't Work In 2022.10.*"): needs an initial team response (0 days old)
