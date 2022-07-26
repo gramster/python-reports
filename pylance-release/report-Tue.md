@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-07-19 using: stale=30, all=0
+Generated on 2022-07-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that need a response from team:
+
+
+\* [3100](https://github.com/microsoft/pylance-release/issues/3100 "Improvements for type aliases"): needs an initial team response (1 days old)
 
 ---
 
@@ -16,10 +24,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3062](https://github.com/microsoft/pylance-release/issues/3062 "IntelliSense not works for submodules"): needs an initial team response (1 days old)
+\* [3093](https://github.com/microsoft/pylance-release/issues/3093 "Docstring tooltip not shown for nested imports"): needs an initial team response (1 days old)
 
-\* [3065](https://github.com/microsoft/pylance-release/issues/3065 "No module named 'requests'   File &quot;C:\Users\Owner\AppData\Local\Temp\Temp1_pin-cracker-main.zip\pin-cracker-main\cracker.py&quot;, line 1, in <module>     import requests"): needs an initial team response (0 days old)
-
-\* [3066](https://github.com/microsoft/pylance-release/issues/3066 "Standard library collection/generics-supported-type from an alias-defined-module does not works as type-hinting"): needs an initial team response (0 days old)
-
-\* [3067](https://github.com/microsoft/pylance-release/issues/3067 "PYTHONPATH not working with Remote-SSH"): needs an initial team response (0 days old)
+\* [3094](https://github.com/microsoft/pylance-release/issues/3094 "Pylance does not recognize members of onnx.*Proto classes"): needs an initial team response (1 days old)
