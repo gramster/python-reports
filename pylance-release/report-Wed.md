@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-07-20 using: stale=30, all=0
+Generated on 2022-07-27 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [3061](https://github.com/microsoft/pylance-release/issues/3061 "Symbol renaming in Jupyter notebooks only works in a single cell"): OP responded 0 days ago but team last responded 7 days ago
 
 ---
 
@@ -16,13 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3066](https://github.com/microsoft/pylance-release/issues/3066 "Standard library collection/generics-supported-type from an alias-defined-module does not works as type-hinting"): needs an initial team response (1 days old)
+\* [3101](https://github.com/microsoft/pylance-release/issues/3101 "Error with string formating and parameters autocomplete"): needs an initial team response (0 days old)
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3034](https://github.com/microsoft/pylance-release/issues/3034 "pylance resolves zmq.async symbol to wrong object"): OP responded 0 days ago but team last responded 4 days ago
-
-\* [3067](https://github.com/microsoft/pylance-release/issues/3067 "PYTHONPATH not working with Remote-SSH"): OP responded 0 days ago but team last responded 0 days ago
-
-\* [3070](https://github.com/microsoft/pylance-release/issues/3070 "Code completion unavailable for some dunder methods (e.g. __setitem__ and __len__)"): OP responded 0 days ago but team last responded 0 days ago
+\* [639](https://github.com/microsoft/pylance-release/issues/639 "Pylance can't resolve .pyw imports"): 3rd party responded 0 days ago but team last responded 588 days ago
