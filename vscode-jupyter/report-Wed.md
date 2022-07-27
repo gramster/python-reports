@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-07-20 using: stale=30, all=0
+Generated on 2022-07-27 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,21 +14,29 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10846](https://github.com/microsoft/vscode-jupyter/issues/10846 "Opening Interactive window results in duplicates in the symbols list (suggestions, autocomplete, ...)"): needs an initial team response (1 days old)
+\* [10921](https://github.com/microsoft/vscode-jupyter/issues/10921 "Web PlotViewer: Save As saving Python files as .ipynb instead of .png files"): needs an initial team response (1 days old)
 
-\* [10864](https://github.com/microsoft/vscode-jupyter/issues/10864 "Output is not updated from background thread"): needs an initial team response (0 days old)
+\* [10922](https://github.com/microsoft/vscode-jupyter/issues/10922 "Web PlotViewer: &quot;Export to different formats&quot; failing with &quot;Opening Local Folders is Unsupported&quot;"): needs an initial team response (1 days old)
+
+\* [10948](https://github.com/microsoft/vscode-jupyter/issues/10948 "disconnect SSH caused kernel being killed"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10757](https://github.com/microsoft/vscode-jupyter/issues/10757 "VSC fails to connect to (any) python kernel."): OP responded 1 days ago but team last responded 8 days ago
+\* [10757](https://github.com/microsoft/vscode-jupyter/issues/10757 "VSC fails to connect to (any) python kernel."): OP responded 0 days ago but team last responded 3 days ago
+
+\* [10905](https://github.com/microsoft/vscode-jupyter/issues/10905 "Jupyter Notebook will not render ipyaggrid."): OP responded 0 days ago but team last responded 1 days ago
+
+\* [10941](https://github.com/microsoft/vscode-jupyter/issues/10941 "Creation of dataviewer fails if base python class names are reassigned as a variable after launching from github desktop"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [10088](https://github.com/microsoft/vscode-jupyter/issues/10088 "the background color of inline figure out of control"): 3rd party responded 1 days ago but team last responded 57 days ago
+\* [9678](https://github.com/microsoft/vscode-jupyter/issues/9678 "TensorBoard failed to launch due to local and virtual environment problems"): 3rd party responded 1 days ago but team last responded 46 days ago
 
-\* [10629](https://github.com/microsoft/vscode-jupyter/issues/10629 "Failed to start the Kernel. "): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 0 days ago but team last responded 40 days ago
+
+\* [10596](https://github.com/microsoft/vscode-jupyter/issues/10596 "Cell debugging not working anymore"): 3rd party responded 1 days ago but team last responded 29 days ago
 
 ---
 
@@ -38,18 +46,23 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10866](https://github.com/microsoft/vscode-jupyter/issues/10866 "[Plot Viewer] Implement export to PDF on the web"): needs an initial team response (0 days old)
+\* [10919](https://github.com/microsoft/vscode-jupyter/issues/10919 "TestPlan: PlotViewer on the web"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [10925](https://github.com/microsoft/vscode-jupyter/issues/10925 "Test: Interactive Window hot exit"): needs an initial team response (1 days old)
 
+\* [10930](https://github.com/microsoft/vscode-jupyter/issues/10930 "Qualify `interactiveWindow.hotExit` setting"): needs an initial team response (0 days old)
 
-\* [10860](https://github.com/microsoft/vscode-jupyter/issues/10860 "Flaky test: Kernel.IKernelConnection Events"): OP responded 0 days ago but team last responded 0 days ago
+\* [10931](https://github.com/microsoft/vscode-jupyter/issues/10931 "`interactiveWindow.hotExit`: why is it called hotExit"): needs an initial team response (0 days old)
+
+\* [10932](https://github.com/microsoft/vscode-jupyter/issues/10932 "interactiveWindow.hotExit: Improve description"): needs an initial team response (0 days old)
+
+\* [10947](https://github.com/microsoft/vscode-jupyter/issues/10947 "Show variable in Data Viewer doesn't always open the editor to the side"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1121](https://github.com/microsoft/vscode-jupyter/issues/1121 "Add support for parameters and/or tags assignment (papermill) (Add support for cell metadata)"): 3rd party responded 1 days ago but team last responded 505 days ago
+\* [1121](https://github.com/microsoft/vscode-jupyter/issues/1121 "Add support for parameters and/or tags assignment (papermill) (Add support for cell metadata)"): 3rd party responded 1 days ago but team last responded 512 days ago
 
-\* [9691](https://github.com/microsoft/vscode-jupyter/issues/9691 "python.envFile is not respected by Python code executed in Notebook and IW"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [10942](https://github.com/microsoft/vscode-jupyter/issues/10942 "Data Viewer: open the same variable from variable doesn't reuse Data Viewer"): 3rd party responded 0 days ago but team last responded 0 days ago
 
-\* [9986](https://github.com/microsoft/vscode-jupyter/issues/9986 "Enhance the data viewer for Pandas dataframes in VSCode"): 3rd party responded 1 days ago but team last responded 68 days ago
+\* [10943](https://github.com/microsoft/vscode-jupyter/issues/10943 "No auto refresh with Data Viewer"): 3rd party responded 0 days ago but team last responded 0 days ago
