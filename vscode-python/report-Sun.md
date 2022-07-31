@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-07-24 using: stale=30, all=0
+Generated on 2022-07-31 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,7 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): OP responded 1 days ago but team last responded 16 days ago
+\* [19238](https://github.com/microsoft/vscode-python/issues/19238 "numpy ImportError in VS Code (using virtualenvs)"): OP responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -24,24 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19530](https://github.com/microsoft/vscode-python/issues/19530 "Comment does not fold with function body if at end of function"): needs an initial team response (1 days old)
-
-\* [19532](https://github.com/microsoft/vscode-python/issues/19532 "Debugger causes numpy import error (mkl-server)"): needs an initial team response (1 days old)
-
-\* [19534](https://github.com/microsoft/vscode-python/issues/19534 "Conda environment fails to activate with Git Bash"): needs an initial team response (1 days old)
-
-\* [19535](https://github.com/microsoft/vscode-python/issues/19535 "Debugger does not start with conda environment other than base after v2022.8.0"): needs an initial team response (1 days old)
-
-\* [19537](https://github.com/microsoft/vscode-python/issues/19537 "Run python button executing in WSL instead of powershell or cmd"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [19525](https://github.com/microsoft/vscode-python/issues/19525 "VSCode unittest error discovering unittest tests"): OP responded 1 days ago but team last responded 1 days ago
+\* [19589](https://github.com/microsoft/vscode-python/issues/19589 "python interactive kernel interup has two cancel buttons"): needs an initial team response (1 days old)
 
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [19344](https://github.com/microsoft/vscode-python/issues/19344 "Game window won't open"): team response was last response and no others in 30 days
-
-\* [19349](https://github.com/microsoft/vscode-python/issues/19349 "Allow another command to run `pytest` tests."): team response was last response and no others in 30 days
+\* [19030](https://github.com/microsoft/vscode-python/issues/19030 "Restart test debugger with &quot;purpose&quot;==[&quot;debug-test&quot;] doesn't work with test-config in launch.json"): team response was last response and no others in 30 days
