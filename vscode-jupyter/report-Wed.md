@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-07-27 using: stale=30, all=0
+Generated on 2022-08-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,55 +14,32 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10921](https://github.com/microsoft/vscode-jupyter/issues/10921 "Web PlotViewer: Save As saving Python files as .ipynb instead of .png files"): needs an initial team response (1 days old)
+\* [10997](https://github.com/microsoft/vscode-jupyter/issues/10997 "VScode Jupyter plugin - Display Dataframe as HTML table"): needs an initial team response (1 days old)
 
-\* [10922](https://github.com/microsoft/vscode-jupyter/issues/10922 "Web PlotViewer: &quot;Export to different formats&quot; failing with &quot;Opening Local Folders is Unsupported&quot;"): needs an initial team response (1 days old)
-
-\* [10948](https://github.com/microsoft/vscode-jupyter/issues/10948 "disconnect SSH caused kernel being killed"): needs an initial team response (0 days old)
+\* [11032](https://github.com/microsoft/vscode-jupyter/issues/11032 "Colored outputs being unreadable in text editor"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10757](https://github.com/microsoft/vscode-jupyter/issues/10757 "VSC fails to connect to (any) python kernel."): OP responded 0 days ago but team last responded 3 days ago
+\* [9912](https://github.com/microsoft/vscode-jupyter/issues/9912 "Interrupt kernel action appears disabled"): OP responded 0 days ago but team last responded 0 days ago
 
-\* [10905](https://github.com/microsoft/vscode-jupyter/issues/10905 "Jupyter Notebook will not render ipyaggrid."): OP responded 0 days ago but team last responded 1 days ago
-
-\* [10941](https://github.com/microsoft/vscode-jupyter/issues/10941 "Creation of dataviewer fails if base python class names are reassigned as a variable after launching from github desktop"): OP responded 0 days ago but team last responded 0 days ago
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [9678](https://github.com/microsoft/vscode-jupyter/issues/9678 "TensorBoard failed to launch due to local and virtual environment problems"): 3rd party responded 1 days ago but team last responded 46 days ago
-
-\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 0 days ago but team last responded 40 days ago
-
-\* [10596](https://github.com/microsoft/vscode-jupyter/issues/10596 "Cell debugging not working anymore"): 3rd party responded 1 days ago but team last responded 29 days ago
+\* [11010](https://github.com/microsoft/vscode-jupyter/issues/11010 "Jupyter server restarts when the `ipynb` file is renamed"): OP responded 1 days ago but team last responded 1 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10919](https://github.com/microsoft/vscode-jupyter/issues/10919 "TestPlan: PlotViewer on the web"): needs an initial team response (1 days old)
-
-\* [10925](https://github.com/microsoft/vscode-jupyter/issues/10925 "Test: Interactive Window hot exit"): needs an initial team response (1 days old)
-
-\* [10930](https://github.com/microsoft/vscode-jupyter/issues/10930 "Qualify `interactiveWindow.hotExit` setting"): needs an initial team response (0 days old)
-
-\* [10931](https://github.com/microsoft/vscode-jupyter/issues/10931 "`interactiveWindow.hotExit`: why is it called hotExit"): needs an initial team response (0 days old)
-
-\* [10932](https://github.com/microsoft/vscode-jupyter/issues/10932 "interactiveWindow.hotExit: Improve description"): needs an initial team response (0 days old)
-
-\* [10947](https://github.com/microsoft/vscode-jupyter/issues/10947 "Show variable in Data Viewer doesn't always open the editor to the side"): needs an initial team response (0 days old)
+\* [11027](https://github.com/microsoft/vscode-jupyter/issues/11027 "data viewer right click is broken"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1121](https://github.com/microsoft/vscode-jupyter/issues/1121 "Add support for parameters and/or tags assignment (papermill) (Add support for cell metadata)"): 3rd party responded 1 days ago but team last responded 512 days ago
+\* [1138](https://github.com/microsoft/vscode-jupyter/issues/1138 "Data Viewer/Variable Explorer support for non-array like objects (such as nested dicts)"): 3rd party responded 0 days ago but team last responded 929 days ago
 
-\* [10942](https://github.com/microsoft/vscode-jupyter/issues/10942 "Data Viewer: open the same variable from variable doesn't reuse Data Viewer"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 1 days ago but team last responded 451 days ago
 
-\* [10943](https://github.com/microsoft/vscode-jupyter/issues/10943 "No auto refresh with Data Viewer"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [10968](https://github.com/microsoft/vscode-jupyter/issues/10968 "Opening a dib file with .NET Interactive prompts the user with a suggestion to install python"): 3rd party responded 0 days ago but team last responded 5 days ago
