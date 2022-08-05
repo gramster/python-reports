@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-07-29 using: stale=30, all=0
+Generated on 2022-08-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,32 +11,15 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [10969](https://github.com/microsoft/vscode-jupyter/issues/10969 "Cannot connect to Remote jupyter server on MacOS 13 Ventura."): needs an initial team response (0 days old)
-
-\* [10973](https://github.com/microsoft/vscode-jupyter/issues/10973 "Fail to render the cells & type with the cursor not moving (weird!)"): needs an initial team response (0 days old)
-
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [10328](https://github.com/microsoft/vscode-jupyter/issues/10328 "Interrupt & Restart buttons do not work for Julia on jupyter"): OP responded 0 days ago but team last responded 2 days ago
-
-\* [10637](https://github.com/microsoft/vscode-jupyter/issues/10637 "Remote jupyterhub kernel fails to launch: &quot;waiting for kernel to be idle&quot;"): OP responded 1 days ago but team last responded 28 days ago
-
-\* [10691](https://github.com/microsoft/vscode-jupyter/issues/10691 "matplotlib vmin/vmax and norm simultaneously passed"): OP responded 0 days ago but team last responded 1 days ago
-
-\* [10846](https://github.com/microsoft/vscode-jupyter/issues/10846 "Opening Interactive window results in duplicates in the symbols list (suggestions, autocomplete, ...)"): OP responded 0 days ago but team last responded 3 days ago
-
-\* [10956](https://github.com/microsoft/vscode-jupyter/issues/10956 "bogus URL should be removed "): OP responded 1 days ago but team last responded 1 days ago
+\* [7661](https://github.com/microsoft/vscode-jupyter/issues/7661 "Remove Interrupt buttons and commands from Jupyter"): OP responded 0 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [4406](https://github.com/microsoft/vscode-jupyter/issues/4406 "Scroll settings are not honored in Native Notebook"): 3rd party responded 1 days ago but team last responded 500 days ago
-
-\* [10696](https://github.com/microsoft/vscode-jupyter/issues/10696 "Change our &quot;Install Python&quot; command to use the Python contributed command"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [11031](https://github.com/microsoft/vscode-jupyter/issues/11031 "There is no output after the running model crashes. How can I get it"): 3rd party responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -46,13 +29,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [1237](https://github.com/microsoft/vscode-jupyter/issues/1237 "Support for MyST and R Markdown-based notebooks"): OP responded 0 days ago but team last responded 659 days ago
+\* [7427](https://github.com/microsoft/vscode-jupyter/issues/7427 "Programatically launch the data viewer for specified dataframe "): OP responded 1 days ago but team last responded 164 days ago
 
-\* [10943](https://github.com/microsoft/vscode-jupyter/issues/10943 "No auto refresh with Data Viewer"): OP responded 1 days ago but team last responded 2 days ago
+\* [8289](https://github.com/microsoft/vscode-jupyter/issues/8289 "Provide a way to skip diagnostics in the interactive window"): OP responded 0 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1566](https://github.com/microsoft/vscode-jupyter/issues/1566 "Install modules from the missing module error"): 3rd party responded 1 days ago but team last responded 156 days ago
+\* [1138](https://github.com/microsoft/vscode-jupyter/issues/1138 "Data Viewer/Variable Explorer support for non-array like objects (such as nested dicts)"): 3rd party responded 1 days ago but team last responded 931 days ago
 
-\* [6812](https://github.com/microsoft/vscode-jupyter/issues/6812 "Jupyter: move cell up/down buttons"): 3rd party responded 0 days ago but team last responded 366 days ago
+\* [9930](https://github.com/microsoft/vscode-jupyter/issues/9930 "[interactive-window] &quot;Create Interactive Window&quot; command does not open in the current work directory"): 3rd party responded 0 days ago but team last responded 87 days ago
