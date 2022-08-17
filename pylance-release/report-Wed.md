@@ -2,19 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-08-10 using: stale=30, all=0
+Generated on 2022-08-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that need a response from team:
-
-
-\* [3159](https://github.com/microsoft/pylance-release/issues/3159 "code folding issues post v2022.1.3"): needs an initial team response (1 days old)
 
 ---
 
@@ -24,16 +16,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3166](https://github.com/microsoft/pylance-release/issues/3166 "TypedDict type inference failing since v2022.8.10"): needs an initial team response (0 days old)
+\* [3201](https://github.com/microsoft/pylance-release/issues/3201 "pylance does not work depending on the location when receiving multiple inheritance of class"): needs an initial team response (0 days old)
 
-### Issues in pylance-release that have comments from OP after last team response:
+\* [3204](https://github.com/microsoft/pylance-release/issues/3204 "Import module error"): needs an initial team response (0 days old)
 
-
-\* [3144](https://github.com/microsoft/pylance-release/issues/3144 "Unexpected, unnecessary removal of in-use though unreferenced imports in .py files nothing to do with jupyter and/or pylance"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [3160](https://github.com/microsoft/pylance-release/issues/3160 "Not all pylance problems listed in the &quot;Problems&quot; section are annotated/decorated with large amounts of problems"): OP responded 0 days ago but team last responded 0 days ago
+\* [3205](https://github.com/microsoft/pylance-release/issues/3205 "Pylance erroneously marks `async` in `async for` as invalid in Jupyter notebook"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3136](https://github.com/microsoft/pylance-release/issues/3136 "Pylance 2022.08.10 crashes with Jupytext"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [3017](https://github.com/microsoft/pylance-release/issues/3017 "Import can not be resolved error in pylance jupyter notebook for importing .py file in same directory as notebook"): 3rd party responded 0 days ago but team last responded 8 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [3051](https://github.com/microsoft/pylance-release/issues/3051 "Typing hint for a tuple field in dataclass"): team response was last response and no others in 30 days
