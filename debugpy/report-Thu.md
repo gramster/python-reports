@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-08-18 using: stale=30, all=0
+Generated on 2022-08-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1019](https://github.com/microsoft/debugpy/issues/1019 "justMyCode warning message is at the wrong level, not always accurate"): needs an initial team response (0 days old)
+\* [1026](https://github.com/microsoft/debugpy/issues/1026 "Debugger sometimes looks stuck with embedded interpreter"): needs an initial team response (0 days old)
+
+\* [1027](https://github.com/microsoft/debugpy/issues/1027 "unable to debug python program"): needs an initial team response (0 days old)
