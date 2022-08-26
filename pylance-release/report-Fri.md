@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-08-19 using: stale=30, all=0
+Generated on 2022-08-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,12 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3209](https://github.com/microsoft/pylance-release/issues/3209 "fr-string support "): needs an initial team response (1 days old)
+\* [2251](https://github.com/microsoft/pylance-release/issues/2251 "Docstrings are not shown correctly"): 3rd party responded 1 days ago but team last responded 136 days ago
+
+\* [3181](https://github.com/microsoft/pylance-release/issues/3181 "Aggressive import &quot;fixing&quot; creates syntactically invalid code"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ---
 
@@ -24,18 +26,21 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3213](https://github.com/microsoft/pylance-release/issues/3213 "Quick suggestions don't work in comments and strings"): needs an initial team response (0 days old)
+\* [3243](https://github.com/microsoft/pylance-release/issues/3243 "Pylance does not load installed stubs"): needs an initial team response (1 days old)
 
-\* [3215](https://github.com/microsoft/pylance-release/issues/3215 "Visual Studio does not recognize the correct python environment for the intellisense help (VScode works fine)"): needs an initial team response (0 days old)
+\* [3246](https://github.com/microsoft/pylance-release/issues/3246 "&quot;No Refactorings Available&quot; for basic code snippets"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3208](https://github.com/microsoft/pylance-release/issues/3208 "Unexpected pylance &quot;reportMissingImports&quot; in notebook for local package"): OP responded 0 days ago but team last responded 1 days ago
-
-\* [3210](https://github.com/microsoft/pylance-release/issues/3210 "how to suppress errors about a library with types set to 'UndefinedType'?"): OP responded 0 days ago but team last responded 1 days ago
+\* [3247](https://github.com/microsoft/pylance-release/issues/3247 "Parse `rtype` as the return type"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3017](https://github.com/microsoft/pylance-release/issues/3017 "Import can not be resolved error in pylance jupyter notebook for importing .py file in same directory as notebook"): 3rd party responded 0 days ago but team last responded 10 days ago
+\* [3226](https://github.com/microsoft/pylance-release/issues/3226 "Support dataclasses"): 3rd party responded 0 days ago but team last responded 4 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [2454](https://github.com/microsoft/pylance-release/issues/2454 "Pylance isn't showing errors"): team response was last response and no others in 30 days
