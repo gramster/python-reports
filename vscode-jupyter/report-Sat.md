@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-08-20 using: stale=30, all=0
+Generated on 2022-08-27 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,40 +11,33 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10691](https://github.com/microsoft/vscode-jupyter/issues/10691 "matplotlib vmin/vmax and norm simultaneously passed"): OP responded 0 days ago but team last responded 0 days ago
+\* [11187](https://github.com/microsoft/vscode-jupyter/issues/11187 "Can't debug an infinite loop using run-by-line (can't interrupt kernel after disconnecting run-by-line debugger)"): needs an initial team response (1 days old)
 
-\* [11110](https://github.com/microsoft/vscode-jupyter/issues/11110 "Fails to load html scripts "): OP responded 1 days ago but team last responded 2 days ago
-
-\* [11113](https://github.com/microsoft/vscode-jupyter/issues/11113 "When there are a large number of figures, the step of hashing output can take a long time."): OP responded 1 days ago but team last responded 2 days ago
+\* [11200](https://github.com/microsoft/vscode-jupyter/issues/11200 "jupyter can't export PDF"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1654](https://github.com/microsoft/vscode-jupyter/issues/1654 "Remote jupyter doesn't reconnect after computer sleeps"): 3rd party responded 0 days ago but team last responded 256 days ago
+\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty &quot;checkpoint&quot; files after saving (autosave disabled)"): 3rd party responded 1 days ago but team last responded 129 days ago
 
-\* [11031](https://github.com/microsoft/vscode-jupyter/issues/11031 "There is no output after the running model crashes. How can I get it"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [10629](https://github.com/microsoft/vscode-jupyter/issues/10629 "Failed to start the Kernel due to corrupted/partial installation of the extension"): 3rd party responded 0 days ago but team last responded 5 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [11153](https://github.com/microsoft/vscode-jupyter/issues/11153 "Kernel Finder workflow"): needs an initial team response (1 days old)
-
-\* [11161](https://github.com/microsoft/vscode-jupyter/issues/11161 "Show in editor progress when connecting to a kernel"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [10832](https://github.com/microsoft/vscode-jupyter/issues/10832 "Kernel architecture review and polish"): OP responded 1 days ago but team last responded 24 days ago
-
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1121](https://github.com/microsoft/vscode-jupyter/issues/1121 "Add support for parameters and/or tags assignment (papermill) (Add support for cell metadata)"): 3rd party responded 1 days ago but team last responded 536 days ago
+\* [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 0 days ago but team last responded 1194 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [10952](https://github.com/microsoft/vscode-jupyter/issues/10952 "Failed to install python extension"): team response was last response and no others in 30 days
+
+\* [10954](https://github.com/microsoft/vscode-jupyter/issues/10954 "python 2 is selected and I'm shown a notification abt it no longer being supported"): team response was last response and no others in 30 days
