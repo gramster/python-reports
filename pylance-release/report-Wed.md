@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-08-24 using: stale=30, all=0
+Generated on 2022-08-31 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3230](https://github.com/microsoft/pylance-release/issues/3230 "How to get Signature of a function or a Class in VS code similar to Signature in Jupyter Notebooks."): needs an initial team response (1 days old)
+\* [3262](https://github.com/microsoft/pylance-release/issues/3262 "Pylance do not recognize editable installed package by setuptools"): needs an initial team response (0 days old)
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2092](https://github.com/microsoft/pylance-release/issues/2092 "&quot;Code is Unreachable&quot; is showed when code is actually working"): 3rd party responded 0 days ago but team last responded 172 days ago
+\* [3208](https://github.com/microsoft/pylance-release/issues/3208 "Unexpected pylance &quot;reportMissingImports&quot; in notebook for local package"): OP responded 1 days ago but team last responded 13 days ago
