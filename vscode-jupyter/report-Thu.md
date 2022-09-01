@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-08-25 using: stale=30, all=0
+Generated on 2022-09-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,23 +11,26 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [11228](https://github.com/microsoft/vscode-jupyter/issues/11228 "Export to HTML prompts for Python kernel, then fails"): needs an initial team response (1 days old)
+
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [10295](https://github.com/microsoft/vscode-jupyter/issues/10295 "Change prompt text that requires users to upgrade ipykernel to a newer version"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 13 days ago
 
-\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 0 days ago but team last responded 69 days ago
-
-\* [11126](https://github.com/microsoft/vscode-jupyter/issues/11126 "Cannot connect to Sparkmagic kernels"): 3rd party responded 1 days ago but team last responded 6 days ago
+\* [10353](https://github.com/microsoft/vscode-jupyter/issues/10353 "Dataframe Intellisense: no auto complete after groupby "): 3rd party responded 1 days ago but team last responded 47 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [5229](https://github.com/microsoft/vscode-jupyter/issues/5229 "Shortcut to Data Viewer"): 3rd party responded 0 days ago but team last responded 521 days ago
+\* [10974](https://github.com/microsoft/vscode-jupyter/issues/10974 "On Jupyter Notbooks add a keyboard shortcut to run current line/selection only "): team response was last response and no others in 30 days
 
-\* [8668](https://github.com/microsoft/vscode-jupyter/issues/8668 "button near dataFrame preview that opens data viewer direcly "): 3rd party responded 0 days ago but team last responded 225 days ago
+\* [10984](https://github.com/microsoft/vscode-jupyter/issues/10984 "cannot customize main notebook toolbar"): team response was last response and no others in 30 days
