@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-08-27 using: stale=30, all=0
+Generated on 2022-09-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,16 +14,19 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11187](https://github.com/microsoft/vscode-jupyter/issues/11187 "Can't debug an infinite loop using run-by-line (can't interrupt kernel after disconnecting run-by-line debugger)"): needs an initial team response (1 days old)
+\* [11268](https://github.com/microsoft/vscode-jupyter/issues/11268 "Interactive Window can't connect to the conda environment after the latest update"): needs an initial team response (0 days old)
 
-\* [11200](https://github.com/microsoft/vscode-jupyter/issues/11200 "jupyter can't export PDF"): needs an initial team response (0 days old)
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [11177](https://github.com/microsoft/vscode-jupyter/issues/11177 "Jupyter processes persist after closing VS-Code on Remote SSH"): OP responded 0 days ago but team last responded 2 days ago
+
+\* [11207](https://github.com/microsoft/vscode-jupyter/issues/11207 "Jupyter fails to activate conda environment on remote SSH"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty &quot;checkpoint&quot; files after saving (autosave disabled)"): 3rd party responded 1 days ago but team last responded 129 days ago
-
-\* [10629](https://github.com/microsoft/vscode-jupyter/issues/10629 "Failed to start the Kernel due to corrupted/partial installation of the extension"): 3rd party responded 0 days ago but team last responded 5 days ago
+\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 1 days ago but team last responded 78 days ago
 
 ---
 
@@ -33,11 +36,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 0 days ago but team last responded 1194 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [10952](https://github.com/microsoft/vscode-jupyter/issues/10952 "Failed to install python extension"): team response was last response and no others in 30 days
-
-\* [10954](https://github.com/microsoft/vscode-jupyter/issues/10954 "python 2 is selected and I'm shown a notification abt it no longer being supported"): team response was last response and no others in 30 days
+\* [11245](https://github.com/microsoft/vscode-jupyter/issues/11245 "Flaky run by line test"): 3rd party responded 1 days ago but team last responded 2 days ago
