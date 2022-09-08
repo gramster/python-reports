@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-09-01 using: stale=30, all=0
+Generated on 2022-09-08 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,26 +11,35 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11228](https://github.com/microsoft/vscode-jupyter/issues/11228 "Export to HTML prompts for Python kernel, then fails"): needs an initial team response (1 days old)
+\* [11078](https://github.com/microsoft/vscode-jupyter/issues/11078 "Unknown kernel shown in jupyter notebook kernel selection part"): OP responded 1 days ago but team last responded 7 days ago
+
+\* [11310](https://github.com/microsoft/vscode-jupyter/issues/11310 "winapi module not found"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 13 days ago
+\* [8552](https://github.com/microsoft/vscode-jupyter/issues/8552 "Add support for ipywidgets 8"): 3rd party responded 1 days ago but team last responded 153 days ago
 
-\* [10353](https://github.com/microsoft/vscode-jupyter/issues/10353 "Dataframe Intellisense: no auto complete after groupby "): 3rd party responded 1 days ago but team last responded 47 days ago
+\* [9291](https://github.com/microsoft/vscode-jupyter/issues/9291 "Function decorators not included in code when running with shift+enter"): 3rd party responded 0 days ago but team last responded 183 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11063](https://github.com/microsoft/vscode-jupyter/issues/11063 "Parameters completion popup not wrapping line"): team response was last response and no others in 30 days
+
+\* [11065](https://github.com/microsoft/vscode-jupyter/issues/11065 "Matplotlib widget represantation broken after update"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+### Issues in vscode-jupyter that need a response from team:
 
 
-\* [10974](https://github.com/microsoft/vscode-jupyter/issues/10974 "On Jupyter Notbooks add a keyboard shortcut to run current line/selection only "): team response was last response and no others in 30 days
+\* [11312](https://github.com/microsoft/vscode-jupyter/issues/11312 "Standard IPyWidget Tests: Interactive Button"): needs an initial team response (1 days old)
 
-\* [10984](https://github.com/microsoft/vscode-jupyter/issues/10984 "cannot customize main notebook toolbar"): team response was last response and no others in 30 days
+\* [11322](https://github.com/microsoft/vscode-jupyter/issues/11322 "All Interactive Window tests failing"): needs an initial team response (0 days old)
