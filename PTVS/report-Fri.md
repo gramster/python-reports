@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2022-09-02 using: stale=30, all=0
+Generated on 2022-09-09 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [7131](https://github.com/microsoft/PTVS/issues/7131 "Search and replace goes into all modules in site-packages"): OP responded 0 days ago but team last responded 10 days ago
+\* [7123](https://github.com/microsoft/PTVS/issues/7123 "LiveShare: Intellisense doesn't work."): OP responded 1 days ago but team last responded 2 days ago
