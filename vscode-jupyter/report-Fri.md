@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-09-02 using: stale=30, all=0
+Generated on 2022-09-09 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,23 +14,28 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11207](https://github.com/microsoft/vscode-jupyter/issues/11207 "Jupyter fails to activate conda environment on remote SSH"): OP responded 0 days ago but team last responded 0 days ago
+\* [11336](https://github.com/microsoft/vscode-jupyter/issues/11336 "Widgets not displaying in notebook"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 1 days ago but team last responded 14 days ago
+\* [9291](https://github.com/microsoft/vscode-jupyter/issues/9291 "Function decorators not included in code when running with shift+enter"): 3rd party responded 1 days ago but team last responded 184 days ago
 
-\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 0 days ago but team last responded 77 days ago
-
-\* [11240](https://github.com/microsoft/vscode-jupyter/issues/11240 "Using Jupyter notebook with xeus-sqlite kernel in Visual Studio Code"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [11031](https://github.com/microsoft/vscode-jupyter/issues/11031 "VS Code crashes when running a cell that produces a lot of output"): 3rd party responded 0 days ago but team last responded 18 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [11322](https://github.com/microsoft/vscode-jupyter/issues/11322 "All Interactive Window tests failing"): needs an initial team response (1 days old)
+
+\* [11328](https://github.com/microsoft/vscode-jupyter/issues/11328 "Flaky test: IPyWidget Script Manager: &quot;before all&quot; hook for &quot;Returns the right base Url&quot;"): needs an initial team response (1 days old)
+
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11245](https://github.com/microsoft/vscode-jupyter/issues/11245 "Flaky run by line test"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [6638](https://github.com/microsoft/vscode-jupyter/issues/6638 "Decorate VS Code Interactive Window with additional meta data (e.g. proces ID)"): 3rd party responded 0 days ago but team last responded 423 days ago
