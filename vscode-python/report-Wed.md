@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-09-07 using: stale=30, all=0
+Generated on 2022-09-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,19 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
+### Issues in vscode-python that need a response from team:
 
 
-\* [19069](https://github.com/microsoft/vscode-python/issues/19069 "Pytest fails to use the correct conda environment path for testing"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [19816](https://github.com/microsoft/vscode-python/issues/19816 "Right click > Sort Imports no longer works after installing extension"): needs an initial team response (1 days old)
 
-\* [19751](https://github.com/microsoft/vscode-python/issues/19751 "I have downloaded python but VS Code is unable to locate my python through interpreter path"): 3rd party responded 1 days ago but team last responded 6 days ago
+\* [19817](https://github.com/microsoft/vscode-python/issues/19817 "Not auto entering virtualenv in terminal when reopening python project"): needs an initial team response (1 days old)
+
+\* [19820](https://github.com/microsoft/vscode-python/issues/19820 "Debug output for test discovery has misleading argument"): needs an initial team response (1 days old)
+
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [19804](https://github.com/microsoft/vscode-python/issues/19804 "unexpected situation while processing a pytest node during test discovery"): OP responded 1 days ago but team last responded 4 days ago
 
 ---
 
@@ -26,8 +33,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19787](https://github.com/microsoft/vscode-python/issues/19787 "BUG: reporting a bug"): needs an initial team response (0 days old)
+\* [19829](https://github.com/microsoft/vscode-python/issues/19829 "Multiple custom code folds in the same method do not take effect"): needs an initial team response (0 days old)
 
-\* [19789](https://github.com/microsoft/vscode-python/issues/19789 "BUG: can't discover pytest tests because of ValueError: sourece code string cannot contain null bytes"): needs an initial team response (0 days old)
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
-\* [19792](https://github.com/microsoft/vscode-python/issues/19792 "How to format without wrapping the content?"): needs an initial team response (0 days old)
+
+\* [11812](https://github.com/microsoft/vscode-python/issues/11812 "Allow &quot;Run Python File in Terminal&quot; button to be configurable"): 3rd party responded 1 days ago but team last responded 852 days ago
+
+\* [14287](https://github.com/microsoft/vscode-python/issues/14287 "Activate selected directory's environment within a multi-root workspace with different environments"): 3rd party responded 1 days ago but team last responded 26 days ago
+
+\* [18055](https://github.com/microsoft/vscode-python/issues/18055 "Support port numbers in attach debug configurations as strings"): 3rd party responded 0 days ago but team last responded 222 days ago
