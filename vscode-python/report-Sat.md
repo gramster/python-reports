@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-09-10 using: stale=30, all=0
+Generated on 2022-09-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,22 +11,24 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
+### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [19799](https://github.com/microsoft/vscode-python/issues/19799 "UX: need inform the end user that the debugger F5 does not supported python3.6 "): needs an initial team response (1 days old)
+\* [19317](https://github.com/microsoft/vscode-python/issues/19317 "`python.testing.pytestPath` does not work with test discovery."): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
-
-
-\* [19808](https://github.com/microsoft/vscode-python/issues/19808 "Saving .py files delayed by &quot;Getting code actions from 'isort', 'Python', 'Jupyter'&quot;"): needs an initial team response (0 days old)
-
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [17713](https://github.com/microsoft/vscode-python/issues/17713 "Enable linters also on Jupyter notebooks"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [944](https://github.com/microsoft/vscode-python/issues/944 "Use environment variables defined in `.env` file when running code in a terminal"): 3rd party responded 0 days ago but team last responded 241 days ago
+
+\* [19714](https://github.com/microsoft/vscode-python/issues/19714 "Remove prompt for debugger survey "): 3rd party responded 0 days ago but team last responded 28 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [19695](https://github.com/microsoft/vscode-python/issues/19695 "Add support for Python traceback lexer in markdown code cells"): team response was last response and no others in 30 days
