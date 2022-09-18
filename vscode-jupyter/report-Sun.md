@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-09-11 using: stale=30, all=0
+Generated on 2022-09-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,33 +14,35 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11345](https://github.com/microsoft/vscode-jupyter/issues/11345 "Failed to start the Kernel.  Kernel Python 3.10.6 64-bit is not usable."): needs an initial team response (1 days old)
+\* [11396](https://github.com/microsoft/vscode-jupyter/issues/11396 "Cell debug doesn't stop at breakpoints when VSCode is run on Windows but a remote kernel runs on Unix"): needs an initial team response (1 days old)
 
-\* [11347](https://github.com/microsoft/vscode-jupyter/issues/11347 "Don't focus last cell if I run a different cell"): needs an initial team response (0 days old)
+\* [11399](https://github.com/microsoft/vscode-jupyter/issues/11399 "Something wrong with the widge &quot;leaflet&quot;"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11348](https://github.com/microsoft/vscode-jupyter/issues/11348 "Jupyter Extension fails to activate on FreeBSD"): OP responded 0 days ago but team last responded 0 days ago
+\* [11368](https://github.com/microsoft/vscode-jupyter/issues/11368 "Race condition in port forwarding on Remote-Container on WSL"): OP responded 1 days ago but team last responded 3 days ago
+
+\* [11395](https://github.com/microsoft/vscode-jupyter/issues/11395 "How can I run Jupyter in vscode when I have to use Slurm to get GPU"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [7611](https://github.com/microsoft/vscode-jupyter/issues/7611 "Run by line test is not stopping at end of cell"): 3rd party responded 1 days ago but team last responded 32 days ago
+\* [11038](https://github.com/microsoft/vscode-jupyter/issues/11038 "Intellisense completions have duplicates when `python.pylanceLspNotebooksEnabled` is true"): 3rd party responded 1 days ago but team last responded 45 days ago
 
-\* [11031](https://github.com/microsoft/vscode-jupyter/issues/11031 "VS Code crashes when running a cell that produces a lot of output"): 3rd party responded 1 days ago but team last responded 1 days ago
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11150](https://github.com/microsoft/vscode-jupyter/issues/11150 "not working"): team response was last response and no others in 30 days
+
+\* [11157](https://github.com/microsoft/vscode-jupyter/issues/11157 "Getting Pylance reportMissingImports when using Remote SSH with Jupyter Server: Remote"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [11245](https://github.com/microsoft/vscode-jupyter/issues/11245 "Flaky test: Run By Line: Run a second time after interrupt"): 3rd party responded 1 days ago but team last responded 10 days ago
-
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [1378](https://github.com/microsoft/vscode-jupyter/issues/1378 "Allow for Manual Kernel Management (turn off auto-start and auto-end)"): team response was last response and no others in 30 days
+\* [11152](https://github.com/microsoft/vscode-jupyter/issues/11152 "Printing Pandas Dataframes with large cells and column names' sizes is horrible."): team response was last response and no others in 30 days
