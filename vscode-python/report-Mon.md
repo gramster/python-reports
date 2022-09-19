@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-09-12 using: stale=30, all=0
+Generated on 2022-09-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [19069](https://github.com/microsoft/vscode-python/issues/19069 "Pytest fails to use the correct conda environment path for testing"): 3rd party responded 1 days ago but team last responded 3 days ago
 
 ---
 
@@ -16,13 +24,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19809](https://github.com/microsoft/vscode-python/issues/19809 "pytest discovery error"): needs an initial team response (1 days old)
-
-\* [19810](https://github.com/microsoft/vscode-python/issues/19810 "[Feature request] Allow &quot;Run Python File in Terminal&quot; to accept script arguments"): needs an initial team response (0 days old)
-
-\* [19811](https://github.com/microsoft/vscode-python/issues/19811 "Extension issue"): needs an initial team response (0 days old)
+\* [19855](https://github.com/microsoft/vscode-python/issues/19855 "Extension issue"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [11812](https://github.com/microsoft/vscode-python/issues/11812 "Allow &quot;Run Python File in Terminal&quot; button to be configurable"): 3rd party responded 0 days ago but team last responded 850 days ago
+\* [19843](https://github.com/microsoft/vscode-python/issues/19843 "Support Rust linter Ruff"): 3rd party responded 0 days ago but team last responded 2 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [9315](https://github.com/microsoft/vscode-python/issues/9315 "Plans to support the pyflakes linter?"): team response was last response and no others in 30 days
