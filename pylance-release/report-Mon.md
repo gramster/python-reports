@@ -2,23 +2,30 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-09-12 using: stale=30, all=0
+Generated on 2022-09-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [3219](https://github.com/microsoft/pylance-release/issues/3219 "lsp notebooks and jupyter.runStartupCommands"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that need a response from team:
 
 
-\* [3314](https://github.com/microsoft/pylance-release/issues/3314 "`overload` implementation problem in signature"): OP responded 1 days ago but team last responded 2 days ago
+\* [3356](https://github.com/microsoft/pylance-release/issues/3356 "Jupyter notebook interactive startup file"): needs an initial team response (1 days old)
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+\* [3357](https://github.com/microsoft/pylance-release/issues/3357 "High CPU usage"): needs an initial team response (1 days old)
 
-
-\* [2690](https://github.com/microsoft/pylance-release/issues/2690 "Showing LaTeX formulas in python help pop-up"): 3rd party responded 1 days ago but team last responded 139 days ago
+\* [3358](https://github.com/microsoft/pylance-release/issues/3358 "Today Pylance suddenly throws unimportant errors ?"): needs an initial team response (0 days old)
