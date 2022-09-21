@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-09-14 using: stale=30, all=0
+Generated on 2022-09-21 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,13 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3325](https://github.com/microsoft/pylance-release/issues/3325 "Display InlayHints only on variables that haven't already been annotated"): needs an initial team response (0 days old)
+\* [3365](https://github.com/microsoft/pylance-release/issues/3365 "Local import inside conda editable package doesn't work."): needs an initial team response (0 days old)
 
-\* [3326](https://github.com/microsoft/pylance-release/issues/3326 "Ctrl+Click is pointing to site-package but debug steps into correct path"): needs an initial team response (0 days old)
-
-\* [3327](https://github.com/microsoft/pylance-release/issues/3327 "Cell magics not properly handled in VS.Code Jupyter"): needs an initial team response (0 days old)
-
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3318](https://github.com/microsoft/pylance-release/issues/3318 "[Auto Import] - Suggest equivalents from `collections.abc` rather than `typing`"): OP responded 0 days ago but team last responded 1 days ago
+\* [3144](https://github.com/microsoft/pylance-release/issues/3144 "Unexpected, unnecessary removal of in-use though unreferenced imports in .py files nothing to do with jupyter and/or pylance"): 3rd party responded 0 days ago but team last responded 1 days ago
+
+\* [3363](https://github.com/microsoft/pylance-release/issues/3363 "Issues with base features"): 3rd party responded 1 days ago but team last responded 1 days ago
