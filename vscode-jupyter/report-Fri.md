@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-09-16 using: stale=30, all=0
+Generated on 2022-09-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,41 +14,44 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11373](https://github.com/microsoft/vscode-jupyter/issues/11373 "Data Viewer displays small floating-point numbers as 0"): needs an initial team response (1 days old)
+\* [11427](https://github.com/microsoft/vscode-jupyter/issues/11427 "Julia still needs support for Jupyter:Variables"): needs an initial team response (1 days old)
 
-\* [11390](https://github.com/microsoft/vscode-jupyter/issues/11390 "pipenv installs not importable in Jupyter Notebooks"): needs an initial team response (0 days old)
+\* [11429](https://github.com/microsoft/vscode-jupyter/issues/11429 "Web connection issues from edge browser"): needs an initial team response (1 days old)
+
+\* [11432](https://github.com/microsoft/vscode-jupyter/issues/11432 "Trying to use Gradio - One of the best ways to share a machine learning model"): needs an initial team response (0 days old)
+
+\* [11435](https://github.com/microsoft/vscode-jupyter/issues/11435 "The editor could not be opened due to an unexpected error: Cannot read properties of undefined"): needs an initial team response (0 days old)
+
+\* [11437](https://github.com/microsoft/vscode-jupyter/issues/11437 "vscode jupyter outputs garbled Russian symbols"): needs an initial team response (0 days old)
+
+\* [11438](https://github.com/microsoft/vscode-jupyter/issues/11438 "Remote Access not Working over SSH Tunnel"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11348](https://github.com/microsoft/vscode-jupyter/issues/11348 "Jupyter Extension fails to activate on FreeBSD"): OP responded 1 days ago but team last responded 1 days ago
+\* [11368](https://github.com/microsoft/vscode-jupyter/issues/11368 "Race condition in port forwarding on Remote-Container on WSL"): OP responded 0 days ago but team last responded 2 days ago
 
-\* [11363](https://github.com/microsoft/vscode-jupyter/issues/11363 "Discovering Installed Python Location is incorrect on my Arm64 device"): OP responded 1 days ago but team last responded 1 days ago
+\* [11422](https://github.com/microsoft/vscode-jupyter/issues/11422 "Suspicious &quot;machine&quot;-scope settings"): OP responded 1 days ago but team last responded 2 days ago
 
-\* [11368](https://github.com/microsoft/vscode-jupyter/issues/11368 "Race condition in port forwarding on Remote-Container on WSL"): OP responded 0 days ago but team last responded 1 days ago
-
-\* [11374](https://github.com/microsoft/vscode-jupyter/issues/11374 "Can't start IRkernel"): OP responded 0 days ago but team last responded 0 days ago
+\* [11426](https://github.com/microsoft/vscode-jupyter/issues/11426 "Root space littered with -jvsc- files."): OP responded 0 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 13 days ago
+\* [4406](https://github.com/microsoft/vscode-jupyter/issues/4406 "Scroll settings are not honored in Native Notebook"): 3rd party responded 0 days ago but team last responded 556 days ago
 
-\* [9889](https://github.com/microsoft/vscode-jupyter/issues/9889 "Data viewer crashes when inspecting jupyter data frame variable"): 3rd party responded 1 days ago but team last responded 134 days ago
+\* [8635](https://github.com/microsoft/vscode-jupyter/issues/8635 "matplotlib widget default rendering not working when loading notebook"): 3rd party responded 1 days ago but team last responded 3 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11322](https://github.com/microsoft/vscode-jupyter/issues/11322 "All Interactive Window tests failing"): OP responded 1 days ago but team last responded 2 days ago
+\* [7287](https://github.com/microsoft/vscode-jupyter/issues/7287 "Variable Explorer should be included within the Interactive Window not as a separate panel"): 3rd party responded 1 days ago but team last responded 339 days ago
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+\* [10765](https://github.com/microsoft/vscode-jupyter/issues/10765 "support configurable start port instead of a magic number 9000"): 3rd party responded 1 days ago but team last responded 73 days ago
 
-
-\* [1490](https://github.com/microsoft/vscode-jupyter/issues/1490 "Straightly convert jupyter format python code (using # %% cells) from/to HTML5"): team response was last response and no others in 30 days
-
-\* [6812](https://github.com/microsoft/vscode-jupyter/issues/6812 "Jupyter: move cell up/down buttons"): team response was last response and no others in 30 days
+\* [11318](https://github.com/microsoft/vscode-jupyter/issues/11318 "Option to let quickfix add import statements in top cell"): 3rd party responded 1 days ago but team last responded 15 days ago
