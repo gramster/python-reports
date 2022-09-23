@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-09-16 using: stale=30, all=0
+Generated on 2022-09-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
+### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [19516](https://github.com/microsoft/vscode-python/issues/19516 "python.exe file in venv not being recognised by interpreter selector"): 3rd party responded 1 days ago but team last responded 48 days ago
+\* [19870](https://github.com/microsoft/vscode-python/issues/19870 "Linting: show problems in problems window across all files in a workspace "): OP responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -24,18 +24,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19842](https://github.com/microsoft/vscode-python/issues/19842 "Is there any way to break the upper limit of the number of watch windows in debug"): needs an initial team response (0 days old)
+\* [19873](https://github.com/microsoft/vscode-python/issues/19873 "The conda environment doesn't work with  debugger or test explorer."): needs an initial team response (0 days old)
+
+\* [19874](https://github.com/microsoft/vscode-python/issues/19874 "Modules with two leading slashes can't be mapped properly in VS Code debugger"): needs an initial team response (0 days old)
+
+\* [19875](https://github.com/microsoft/vscode-python/issues/19875 "rename symbol not working across files"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [11812](https://github.com/microsoft/vscode-python/issues/11812 "Allow &quot;Run Python File in Terminal&quot; button to be configurable"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [18559](https://github.com/microsoft/vscode-python/issues/18559 "show class hierarchy or method override like pycharm"): 3rd party responded 1 days ago but team last responded 154 days ago
 
-\* [19714](https://github.com/microsoft/vscode-python/issues/19714 "Remove prompt for debugger survey "): 3rd party responded 0 days ago but team last responded 27 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [3828](https://github.com/microsoft/vscode-python/issues/3828 "Default Python Problem Matcher"): team response was last response and no others in 30 days
-
-\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): team response was last response and no others in 30 days
+\* [19030](https://github.com/microsoft/vscode-python/issues/19030 "Restart test debugger with &quot;purpose&quot;==[&quot;debug-test&quot;] doesn't work with test-config in launch.json"): 3rd party responded 1 days ago but team last responded 84 days ago
