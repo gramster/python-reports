@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-09-22 using: stale=30, all=0
+Generated on 2022-09-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from 3rd party after last team response:
+
+
+\* [891](https://github.com/microsoft/debugpy/issues/891 "Error: Server[1] disconnected unexpectedly when typing anything in the Python debug console while debugging"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ---
 
@@ -16,9 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1061](https://github.com/microsoft/debugpy/issues/1061 "Modules with two leading slashes can't be mapped properly in VS Code debugger"): needs an initial team response (0 days old)
+\* [1068](https://github.com/microsoft/debugpy/issues/1068 "When debugging python code, the computer freezes for a few seconds, which are followed by BSOD"): needs an initial team response (1 days old)
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1039](https://github.com/microsoft/debugpy/issues/1039 "Debugger not working"): 3rd party responded 1 days ago but team last responded 21 days ago
+\* [1069](https://github.com/microsoft/debugpy/issues/1069 "python文件单步调试跳过某一行"): OP responded 0 days ago but team last responded 0 days ago
