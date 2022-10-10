@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/python-type-stubs
 
 
-Generated on 2022-10-03 using: stale=30, all=1
+Generated on 2022-10-10 using: stale=30, all=1
 
 
 * marks items that are new to report in past 1 day(s)
@@ -11,17 +11,10 @@ Generated on 2022-10-03 using: stale=30, all=1
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in python-type-stubs that have comments from 3rd party after last team response:
-
-
-  [210](https://github.com/microsoft/python-type-stubs/issues/210 "The IntelliSense of Pylance works not well"): 3rd party responded 49 days ago but team last responded 109 days ago
-
 ### Issues in python-type-stubs that have no external responses since team response in 30+ days:
 
 
-  [209](https://github.com/microsoft/python-type-stubs/issues/209 "Missing docstrings for functions in matpotlib.pyplot"): team response was last response and no others in 166 days
-
-  [234](https://github.com/microsoft/python-type-stubs/issues/234 "pandas read_excel(), DataFrame.iloc[] stubs issues"): team response was last response and no others in 424 days
+  [234](https://github.com/microsoft/python-type-stubs/issues/234 "pandas read_excel(), DataFrame.iloc[] stubs issues"): team response was last response and no others in 431 days
 
 ---
 
@@ -31,41 +24,33 @@ Generated on 2022-10-03 using: stale=30, all=1
 ### Issues in python-type-stubs that need a response from team:
 
 
-  [205](https://github.com/microsoft/python-type-stubs/issues/205 "[BUG?] VSCode Intellisense Fails To Complete Python's PyQt API Properties"): needs an initial team response (234 days old)
+  [205](https://github.com/microsoft/python-type-stubs/issues/205 "[BUG?] VSCode Intellisense Fails To Complete Python's PyQt API Properties"): needs an initial team response (241 days old)
 
-  [214](https://github.com/microsoft/python-type-stubs/issues/214 "matplotlib markerstyle is incomplete"): needs an initial team response (107 days old)
-
-  [216](https://github.com/microsoft/python-type-stubs/issues/216 "type of subplots is partially unknown in matplotlib plt.subplots"): needs an initial team response (99 days old)
-
-  [226](https://github.com/microsoft/python-type-stubs/issues/226 "Module is not callable"): needs an initial team response (32 days old)
-
-  [231](https://github.com/microsoft/python-type-stubs/issues/231 "[cv2] cv2.add can accept scalar value, not only `Mat`"): needs an initial team response (20 days old)
+  [231](https://github.com/microsoft/python-type-stubs/issues/231 "[cv2] cv2.add can accept scalar value, not only `Mat`"): needs an initial team response (27 days old)
 
 ### Issues in python-type-stubs that have comments from OP after last team response:
 
 
-  [176](https://github.com/microsoft/python-type-stubs/issues/176 "request : opencv-contrib"): OP responded 158 days ago but team last responded 158 days ago
+  [176](https://github.com/microsoft/python-type-stubs/issues/176 "request : opencv-contrib"): OP responded 165 days ago but team last responded 165 days ago
 
-  [206](https://github.com/microsoft/python-type-stubs/issues/206 "No suggestion/autocomplete for example for xml.dom.minidom objects"): OP responded 251 days ago but team last responded 251 days ago
+  [206](https://github.com/microsoft/python-type-stubs/issues/206 "No suggestion/autocomplete for example for xml.dom.minidom objects"): OP responded 258 days ago but team last responded 258 days ago
 
 ### Issues in python-type-stubs that have comments from 3rd party after last team response:
 
 
-  [204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)"): 3rd party responded 85 days ago but team last responded 272 days ago
+  [204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)"): 3rd party responded 92 days ago but team last responded 279 days ago
 
-  [207](https://github.com/microsoft/python-type-stubs/issues/207 "RPi.GPIO does not work"): 3rd party responded 284 days ago but team last responded 586 days ago
+  [207](https://github.com/microsoft/python-type-stubs/issues/207 "RPi.GPIO does not work"): 3rd party responded 291 days ago but team last responded 593 days ago
 
-  [211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package"): 3rd party responded 25 days ago but team last responded 40 days ago
+  [211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package"): 3rd party responded 32 days ago but team last responded 47 days ago
 
 ### Issues in python-type-stubs that have no external responses since team response in 30+ days:
 
 
-  [193](https://github.com/microsoft/python-type-stubs/issues/193 "VS Code AutoComplete does not include some functions of 3rd Party Modules like (NumPy, Pandas, Matplotlib,...)"): team response was last response and no others in 109 days
+  [200](https://github.com/microsoft/python-type-stubs/issues/200 "PyRight doesn't see arguments of constructor for class inherited from pandas.DataFrame"): team response was last response and no others in 116 days
 
-  [200](https://github.com/microsoft/python-type-stubs/issues/200 "PyRight doesn't see arguments of constructor for class inherited from pandas.DataFrame"): team response was last response and no others in 109 days
+  [202](https://github.com/microsoft/python-type-stubs/issues/202 "vscode autocomplete not working for 'cv2.dnn_DetectionModel' Class"): team response was last response and no others in 173 days
 
-  [202](https://github.com/microsoft/python-type-stubs/issues/202 "vscode autocomplete not working for 'cv2.dnn_DetectionModel' Class"): team response was last response and no others in 166 days
+  [203](https://github.com/microsoft/python-type-stubs/issues/203 "Pylance incorrect unreachable result with pwntools"): team response was last response and no others in 100 days
 
-  [203](https://github.com/microsoft/python-type-stubs/issues/203 "Pylance incorrect unreachable result with pwntools"): team response was last response and no others in 93 days
-
-  [212](https://github.com/microsoft/python-type-stubs/issues/212 "Pylance not be resolved the mongoengine"): team response was last response and no others in 128 days
+  [212](https://github.com/microsoft/python-type-stubs/issues/212 "Pylance not be resolved the mongoengine"): team response was last response and no others in 135 days
