@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-07 using: stale=30, all=0
+Generated on 2022-10-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,28 +14,21 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11546](https://github.com/microsoft/vscode-jupyter/issues/11546 "Jupyter Cell debugging does not work with rich (override of print())"): needs an initial team response (1 days old)
+\* [11636](https://github.com/microsoft/vscode-jupyter/issues/11636 "vs code freeze when rendering papermill notebook output"): needs an initial team response (0 days old)
 
-\* [11564](https://github.com/microsoft/vscode-jupyter/issues/11564 "Issue with IntelliSense window only present on Notebooks"): needs an initial team response (0 days old)
+\* [11638](https://github.com/microsoft/vscode-jupyter/issues/11638 "Inconsistent async output when used with JavaScript kernel (tslab)"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11509](https://github.com/microsoft/vscode-jupyter/issues/11509 "Turtle widget code fails to run the second time but succeeds the third time"): OP responded 1 days ago but team last responded 3 days ago
-
-\* [11534](https://github.com/microsoft/vscode-jupyter/issues/11534 "workspaceFolder in .env file evaluates to notebook directory when running notebooks"): OP responded 0 days ago but team last responded 1 days ago
+\* [11348](https://github.com/microsoft/vscode-jupyter/issues/11348 "Jupyter Extension fails to activate on FreeBSD"): OP responded 0 days ago but team last responded 4 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11336](https://github.com/microsoft/vscode-jupyter/issues/11336 "Widgets not displaying in notebook"): 3rd party responded 1 days ago but team last responded 16 days ago
+\* [11443](https://github.com/microsoft/vscode-jupyter/issues/11443 "The output is not displayed in tabular form by using %%prun"): 3rd party responded 1 days ago but team last responded 16 days ago
 
-\* [11374](https://github.com/microsoft/vscode-jupyter/issues/11374 "Can't start IRkernel"): 3rd party responded 0 days ago but team last responded 21 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11283](https://github.com/microsoft/vscode-jupyter/issues/11283 "`Jupyter: Run Cell` can be confused with `Notebook: Execute Cell` shortcut"): team response was last response and no others in 30 days
+\* [11513](https://github.com/microsoft/vscode-jupyter/issues/11513 "Connection to kernel takes forever"): 3rd party responded 0 days ago but team last responded 9 days ago
 
 ---
 
@@ -45,9 +38,20 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11559](https://github.com/microsoft/vscode-jupyter/issues/11559 "ipywidgets TimePicket and DatetimePicker are not rendered in Jupyter Notebook + remote SSH"): needs an initial team response (1 days old)
+\* [11628](https://github.com/microsoft/vscode-jupyter/issues/11628 "Extension server selector API - additional arguments ca, cert etc"): needs an initial team response (1 days old)
+
+\* [11631](https://github.com/microsoft/vscode-jupyter/issues/11631 "October 2022 Release Plan"): needs an initial team response (1 days old)
+
+\* [11650](https://github.com/microsoft/vscode-jupyter/issues/11650 "Support kernel detection (pull) in addRemoteJupyterServer API"): needs an initial team response (0 days old)
+
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [10388](https://github.com/microsoft/vscode-jupyter/issues/10388 "Option to hide &quot;Launch TensorBoard Session&quot;"): OP responded 1 days ago but team last responded 1 days ago
+
+\* [11645](https://github.com/microsoft/vscode-jupyter/issues/11645 "Unify remote kernel finder with ServerUriStorage"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1120](https://github.com/microsoft/vscode-jupyter/issues/1120 "Add support for sidecar or tear-off style widgets (Support for separate windows for output rather than inline)"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [9945](https://github.com/microsoft/vscode-jupyter/issues/9945 "Support querying language support to notebooks"): 3rd party responded 0 days ago but team last responded 60 days ago
