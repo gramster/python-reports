@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-09-23 using: stale=30, all=0
+Generated on 2022-10-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,20 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-python that need a response from team:
+
+
+\* [20007](https://github.com/microsoft/vscode-python/issues/20007 "Bug on Debug testing restart"): needs an initial team response (0 days old)
+
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [19870](https://github.com/microsoft/vscode-python/issues/19870 "Linting: show problems in problems window across all files in a workspace "): OP responded 0 days ago but team last responded 0 days ago
+\* [19949](https://github.com/microsoft/vscode-python/issues/19949 "print() doesn't work in debug console while debugging pytests"): OP responded 1 days ago but team last responded 6 days ago
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [4963](https://github.com/microsoft/vscode-python/issues/4963 "Status of tests marked with pytest.mark.xfail are showing as unknown "): 3rd party responded 1 days ago but team last responded 624 days ago
 
 ---
 
@@ -24,15 +34,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [19873](https://github.com/microsoft/vscode-python/issues/19873 "The conda environment doesn't work with  debugger or test explorer."): needs an initial team response (0 days old)
+\* [19998](https://github.com/microsoft/vscode-python/issues/19998 "Retry connecting during &quot;attach&quot; mode during debugging"): needs an initial team response (1 days old)
 
-\* [19874](https://github.com/microsoft/vscode-python/issues/19874 "Modules with two leading slashes can't be mapped properly in VS Code debugger"): needs an initial team response (0 days old)
-
-\* [19875](https://github.com/microsoft/vscode-python/issues/19875 "rename symbol not working across files"): needs an initial team response (0 days old)
+\* [20008](https://github.com/microsoft/vscode-python/issues/20008 "Python Debugger Not Working"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [18559](https://github.com/microsoft/vscode-python/issues/18559 "show class hierarchy or method override like pycharm"): 3rd party responded 1 days ago but team last responded 154 days ago
-
-\* [19030](https://github.com/microsoft/vscode-python/issues/19030 "Restart test debugger with &quot;purpose&quot;==[&quot;debug-test&quot;] doesn't work with test-config in launch.json"): 3rd party responded 1 days ago but team last responded 84 days ago
+\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 0 days ago but team last responded 58 days ago
