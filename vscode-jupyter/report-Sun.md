@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-09 using: stale=30, all=0
+Generated on 2022-10-16 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,33 +14,32 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11567](https://github.com/microsoft/vscode-jupyter/issues/11567 "Interrupt button in .ipynb is missing after updating to 1.72"): needs an initial team response (1 days old)
+\* [11658](https://github.com/microsoft/vscode-jupyter/issues/11658 "Plotly No renderer could be found for mimetype &quot;application/vnd.plotly.v1+json&quot;"): needs an initial team response (1 days old)
 
-\* [11579](https://github.com/microsoft/vscode-jupyter/issues/11579 "mach-o file, but is an incompatible architecture (have (x86_64), need (arm64e)"): needs an initial team response (0 days old)
-
-\* [11580](https://github.com/microsoft/vscode-jupyter/issues/11580 "Breaks code folding in ordinary python files"): needs an initial team response (0 days old)
+\* [11667](https://github.com/microsoft/vscode-jupyter/issues/11667 "Can't convert Jupyter notebook to HTML"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11568](https://github.com/microsoft/vscode-jupyter/issues/11568 "Jupyter in vscode run very slow in Macbook air m1"): OP responded 1 days ago but team last responded 1 days ago
+\* [11657](https://github.com/microsoft/vscode-jupyter/issues/11657 "Interactive window and VIM mode"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 0 days ago but team last responded 172 days ago
+\* [7478](https://github.com/microsoft/vscode-jupyter/issues/7478 "If I open an ipynb and then select a kernel for it, opening a Python terminal should activate the same environment"): 3rd party responded 0 days ago but team last responded 184 days ago
+
+\* [11293](https://github.com/microsoft/vscode-jupyter/issues/11293 "Jupyter vega & Plotly renderers generate image outputs and add that to ipynb"): 3rd party responded 1 days ago but team last responded 13 days ago
+
+\* [11600](https://github.com/microsoft/vscode-jupyter/issues/11600 "Jupyter command descriptions not populated in extension page"): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [273](https://github.com/microsoft/vscode-jupyter/issues/273 "Multi Language Support in Interactive Window (Julia, Rust, CSharp, etc)"): 3rd party responded 1 days ago but team last responded 444 days ago
+\* [11650](https://github.com/microsoft/vscode-jupyter/issues/11650 "Support kernel detection (pull) in addRemoteJupyterServer API"): OP responded 1 days ago but team last responded 1 days ago
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11332](https://github.com/microsoft/vscode-jupyter/issues/11332 "Test failure: Render ipyvolume"): team response was last response and no others in 30 days
+\* [11662](https://github.com/microsoft/vscode-jupyter/issues/11662 "help() function causes kernel to crash"): OP responded 0 days ago but team last responded 1 days ago
