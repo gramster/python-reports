@@ -2,19 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-10-12 using: stale=30, all=0
+Generated on 2022-10-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-
-\* [2765](https://github.com/microsoft/pylance-release/issues/2765 "Error: command 'pyright.createtypestub' already exists"): OP responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -24,15 +16,24 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3457](https://github.com/microsoft/pylance-release/issues/3457 "Lines in docstrings starting with # displayed as headings in hover popup"): needs an initial team response (1 days old)
+\* [3495](https://github.com/microsoft/pylance-release/issues/3495 "There is no code completion for the gmpy2 library"): needs an initial team response (0 days old)
 
-\* [3461](https://github.com/microsoft/pylance-release/issues/3461 "Pylance causes Renaming to Format file"): needs an initial team response (1 days old)
+\* [3496](https://github.com/microsoft/pylance-release/issues/3496 "Disallow disabling &quot;remove unused imports&quot; on a folder/path basis"): needs an initial team response (0 days old)
 
-\* [3466](https://github.com/microsoft/pylance-release/issues/3466 "option to exclude some auto-import options"): needs an initial team response (0 days old)
+\* [3498](https://github.com/microsoft/pylance-release/issues/3498 "Pylance server crash: FATAL ERROR: NewSpace::Rebalance Allocation failed - JavaScript heap out of memory"): needs an initial team response (0 days old)
+
+\* [3499](https://github.com/microsoft/pylance-release/issues/3499 "Pylance does not correctly infer optional parenthesis on decorators"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3447](https://github.com/microsoft/pylance-release/issues/3447 "100% CPU usage all the time"): OP responded 1 days ago but team last responded 1 days ago
+\* [3484](https://github.com/microsoft/pylance-release/issues/3484 "Is a classmethod a classvar?"): OP responded 1 days ago but team last responded 2 days ago
 
-\* [3453](https://github.com/microsoft/pylance-release/issues/3453 "The Pylance server crashed 5 times in the last 3 minutes in a .py file."): OP responded 0 days ago but team last responded 0 days ago
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+
+\* [3201](https://github.com/microsoft/pylance-release/issues/3201 "pylance does not work depending on the location when receiving multiple inheritance of class"): 3rd party responded 0 days ago but team last responded 0 days ago
+
+\* [3443](https://github.com/microsoft/pylance-release/issues/3443 "Syntax highlighting broken by method return type hint"): 3rd party responded 0 days ago but team last responded 1 days ago
+
+\* [3464](https://github.com/microsoft/pylance-release/issues/3464 "vscode thinks from tkinter import * is an error "): 3rd party responded 0 days ago but team last responded 8 days ago
