@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-15 using: stale=30, all=0
+Generated on 2022-10-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,39 +14,46 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11636](https://github.com/microsoft/vscode-jupyter/issues/11636 "vs code freeze when rendering papermill notebook output"): needs an initial team response (1 days old)
+\* [11731](https://github.com/microsoft/vscode-jupyter/issues/11731 "Notebook Renderer: textbox events are intercepted"): needs an initial team response (1 days old)
 
-\* [11658](https://github.com/microsoft/vscode-jupyter/issues/11658 "Plotly No renderer could be found for mimetype &quot;application/vnd.plotly.v1+json&quot;"): needs an initial team response (0 days old)
+\* [11740](https://github.com/microsoft/vscode-jupyter/issues/11740 "Issues with Run By Line"): needs an initial team response (0 days old)
 
-\* [11667](https://github.com/microsoft/vscode-jupyter/issues/11667 "Can't convert Jupyter notebook to HTML"): needs an initial team response (0 days old)
+\* [11741](https://github.com/microsoft/vscode-jupyter/issues/11741 "Task bar has overlapping icons after navigating back to notebook tab"): needs an initial team response (0 days old)
+
+\* [11742](https://github.com/microsoft/vscode-jupyter/issues/11742 "Running cell in new notebook files results in prompt for URI"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11348](https://github.com/microsoft/vscode-jupyter/issues/11348 "Jupyter Extension fails to activate on FreeBSD"): OP responded 1 days ago but team last responded 5 days ago
+\* [11714](https://github.com/microsoft/vscode-jupyter/issues/11714 "Failed to start the Kernel. \"): OP responded 1 days ago but team last responded 1 days ago
 
-\* [11657](https://github.com/microsoft/vscode-jupyter/issues/11657 "Interactive window and VIM mode"): OP responded 0 days ago but team last responded 0 days ago
+\* [11724](https://github.com/microsoft/vscode-jupyter/issues/11724 "Notebook runs don't complete in VS code using Azure ML compute instance"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11293](https://github.com/microsoft/vscode-jupyter/issues/11293 "Jupyter vega & Plotly renderers generate image outputs and add that to ipynb"): 3rd party responded 0 days ago but team last responded 12 days ago
+\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 8 days ago
 
-\* [11513](https://github.com/microsoft/vscode-jupyter/issues/11513 "Connection to kernel takes forever"): 3rd party responded 1 days ago but team last responded 10 days ago
+\* [10422](https://github.com/microsoft/vscode-jupyter/issues/10422 "Alert box styling seems not to actually work"): 3rd party responded 0 days ago but team last responded 61 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [11726](https://github.com/microsoft/vscode-jupyter/issues/11726 "filter/search by variable name in 'jupyter: variables' panel"): needs an initial team response (1 days old)
+
+\* [11743](https://github.com/microsoft/vscode-jupyter/issues/11743 "Enable Active Cell Background and Inactive Cell Borders in Python Editor"): needs an initial team response (0 days old)
+
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11645](https://github.com/microsoft/vscode-jupyter/issues/11645 "Unify remote kernel finder with ServerUriStorage"): OP responded 1 days ago but team last responded 1 days ago
+\* [11735](https://github.com/microsoft/vscode-jupyter/issues/11735 "Hope to support smooth scrolling"): OP responded 0 days ago but team last responded 0 days ago
 
-\* [11650](https://github.com/microsoft/vscode-jupyter/issues/11650 "Support kernel detection (pull) in addRemoteJupyterServer API"): OP responded 0 days ago but team last responded 0 days ago
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [9945](https://github.com/microsoft/vscode-jupyter/issues/9945 "Support querying language support to notebooks"): 3rd party responded 1 days ago but team last responded 61 days ago
+\* [11425](https://github.com/microsoft/vscode-jupyter/issues/11425 "python notebooks with dependent source files fail to update"): team response was last response and no others in 30 days
