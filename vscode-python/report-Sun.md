@@ -2,36 +2,36 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-10-16 using: stale=30, all=0
+Generated on 2022-10-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [19990](https://github.com/microsoft/vscode-python/issues/19990 "`& was unexpected at this time.`: &quot;Command Prompt&quot; terminal seems to be misidentified as PowerShell upon restore"): OP responded 1 days ago but team last responded 3 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
+### Issues in vscode-python that need a response from team:
 
 
-\* [20000](https://github.com/microsoft/vscode-python/issues/20000 "Does not see &quot;hard refreshing&quot; button"): OP responded 0 days ago but team last responded 1 days ago
+\* [20046](https://github.com/microsoft/vscode-python/issues/20046 "Where did the environment selection go?"): needs an initial team response (1 days old)
+
+\* [20051](https://github.com/microsoft/vscode-python/issues/20051 "i fail to  format python code in conda env by black and yapf"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19559](https://github.com/microsoft/vscode-python/issues/19559 "Bring back Python 3.6 debugging support by breaking debugging out into its own extension"): 3rd party responded 0 days ago but team last responded 81 days ago
+\* [17223](https://github.com/microsoft/vscode-python/issues/17223 "Prevent vscode from exiting the Python interpreter a script completes"): 3rd party responded 1 days ago but team last responded 416 days ago
+
+\* [20047](https://github.com/microsoft/vscode-python/issues/20047 "Add path of function in pytest format to the clipboard from breadcrumb"): 3rd party responded 0 days ago but team last responded 1 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [19401](https://github.com/microsoft/vscode-python/issues/19401 "[Pytest] Add an inline error indicating the location in code where test discovery failed"): team response was last response and no others in 30 days
+
+\* [19405](https://github.com/microsoft/vscode-python/issues/19405 "Environment created with mamba missing prefix"): team response was last response and no others in 30 days
+
+\* [19415](https://github.com/microsoft/vscode-python/issues/19415 "Support for PyScript & Brython."): team response was last response and no others in 30 days
