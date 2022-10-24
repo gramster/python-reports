@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-10-17 using: stale=30, all=0
+Generated on 2022-10-24 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,10 +16,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3479](https://github.com/microsoft/pylance-release/issues/3479 "Pylance now seems to change all existing imports to absolute imports"): needs an initial team response (1 days old)
+\* [3520](https://github.com/microsoft/pylance-release/issues/3520 "Pylance is using 100% CPU for 1 minute after every change in a Python File"): needs an initial team response (0 days old)
 
-\* [3480](https://github.com/microsoft/pylance-release/issues/3480 "code action for return type generation"): needs an initial team response (1 days old)
+### Issues in pylance-release that have comments from OP after last team response:
 
-\* [3481](https://github.com/microsoft/pylance-release/issues/3481 "How to start the DAP server with ms-python.python-2022.16.0 manually？"): needs an initial team response (1 days old)
 
-\* [3482](https://github.com/microsoft/pylance-release/issues/3482 "Matplotlib subplots not returning correct types"): needs an initial team response (0 days old)
+\* [3517](https://github.com/microsoft/pylance-release/issues/3517 "Wrong diagnostics in `reportUnnecessaryComparison`"): OP responded 1 days ago but team last responded 2 days ago
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+
+\* [3514](https://github.com/microsoft/pylance-release/issues/3514 "Pylance becomes increasingly slow and unresponsive over time"): 3rd party responded 1 days ago but team last responded 2 days ago
