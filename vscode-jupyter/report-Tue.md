@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-18 using: stale=30, all=0
+Generated on 2022-10-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,32 +11,19 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [11679](https://github.com/microsoft/vscode-jupyter/issues/11679 "DataViewer for pandas dataframes is not usable at all"): needs an initial team response (0 days old)
-
-\* [11680](https://github.com/microsoft/vscode-jupyter/issues/11680 "Data Viewer: Complex values displayed as [object Object]"): needs an initial team response (0 days old)
-
-\* [11681](https://github.com/microsoft/vscode-jupyter/issues/11681 "Jupyter doesn't finish kernel detection before resolving api method addRemoteJupyterServer"): needs an initial team response (0 days old)
-
-\* [11686](https://github.com/microsoft/vscode-jupyter/issues/11686 "Remote kernel list is partial on window reload"): needs an initial team response (0 days old)
-
-\* [11690](https://github.com/microsoft/vscode-jupyter/issues/11690 "Type in an invisible cell in edit mode, it goes to command mode"): needs an initial team response (0 days old)
-
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11667](https://github.com/microsoft/vscode-jupyter/issues/11667 "Can't convert Jupyter notebook to HTML"): OP responded 0 days ago but team last responded 0 days ago
+\* [11568](https://github.com/microsoft/vscode-jupyter/issues/11568 "Jupyter in vscode run very slow in Macbook air m1"): OP responded 0 days ago but team last responded 14 days ago
 
-\* [11669](https://github.com/microsoft/vscode-jupyter/issues/11669 "Stuck on &quot;Waiting for Jupyter Session to be idle&quot; when using IHaskell kernel"): OP responded 1 days ago but team last responded 1 days ago
-
-\* [11688](https://github.com/microsoft/vscode-jupyter/issues/11688 "Kernel session not suggested even though it's matching the document and used in last session"): OP responded 0 days ago but team last responded 0 days ago
+\* [11746](https://github.com/microsoft/vscode-jupyter/issues/11746 "Changes to .env not picked up on Jupyter Kernel Restart"): OP responded 1 days ago but team last responded 2 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 4 days ago
+\* [11600](https://github.com/microsoft/vscode-jupyter/issues/11600 "Jupyter command descriptions not populated in extension page"): 3rd party responded 0 days ago but team last responded 10 days ago
+
+\* [11747](https://github.com/microsoft/vscode-jupyter/issues/11747 "When I click Run All, only the first cell run, the rest says notebook controller is DISPOSED.  View Jupyter log for further details."): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -46,9 +33,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11670](https://github.com/microsoft/vscode-jupyter/issues/11670 "Do not override the themes used in plotting packages"): needs an initial team response (1 days old)
+\* [11751](https://github.com/microsoft/vscode-jupyter/issues/11751 "No markdown syntax and auto completion"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [11768](https://github.com/microsoft/vscode-jupyter/issues/11768 "Test disabling justMyCode in notebook debugging"): needs an initial team response (0 days old)
+
+\* [11769](https://github.com/microsoft/vscode-jupyter/issues/11769 "Test: Restarting jupyter cell debug sessions"): needs an initial team response (0 days old)
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11656](https://github.com/microsoft/vscode-jupyter/issues/11656 "Render api"): OP responded 1 days ago but team last responded 3 days ago
+\* [1237](https://github.com/microsoft/vscode-jupyter/issues/1237 "Support for editing Plain text files (like Python,  MyST and R Markdown-based) as notebooks"): 3rd party responded 1 days ago but team last responded 747 days ago
