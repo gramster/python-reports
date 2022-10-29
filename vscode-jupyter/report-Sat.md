@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-22 using: stale=30, all=0
+Generated on 2022-10-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,46 +14,43 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11731](https://github.com/microsoft/vscode-jupyter/issues/11731 "Notebook Renderer: textbox events are intercepted"): needs an initial team response (1 days old)
+\* [11834](https://github.com/microsoft/vscode-jupyter/issues/11834 "Saving, closing jupyter notebooks, or running code cell take forever "): needs an initial team response (0 days old)
 
-\* [11740](https://github.com/microsoft/vscode-jupyter/issues/11740 "Issues with Run By Line"): needs an initial team response (0 days old)
-
-\* [11741](https://github.com/microsoft/vscode-jupyter/issues/11741 "Task bar has overlapping icons after navigating back to notebook tab"): needs an initial team response (0 days old)
-
-\* [11742](https://github.com/microsoft/vscode-jupyter/issues/11742 "Running cell in new notebook files results in prompt for URI"): needs an initial team response (0 days old)
+\* [11837](https://github.com/microsoft/vscode-jupyter/issues/11837 "Jupyter Notebook progress bar is broken with Julia (not Python)"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11714](https://github.com/microsoft/vscode-jupyter/issues/11714 "Failed to start the Kernel. \"): OP responded 1 days ago but team last responded 1 days ago
+\* [11703](https://github.com/microsoft/vscode-jupyter/issues/11703 "Jupyter Kernel `ms-toolsai.jupyter` cause `.py` code folding to disappear"): OP responded 0 days ago but team last responded 7 days ago
 
-\* [11724](https://github.com/microsoft/vscode-jupyter/issues/11724 "Notebook runs don't complete in VS code using Azure ML compute instance"): OP responded 0 days ago but team last responded 0 days ago
+\* [11802](https://github.com/microsoft/vscode-jupyter/issues/11802 "Jupyter Notebook doesn't respect VS Code &quot;editor.folding&quot; setting"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8146](https://github.com/microsoft/vscode-jupyter/issues/8146 "Jupyter cell debugging does not support &quot;step into&quot; the  third party library code with &quot;justmycode:false&quot;"): 3rd party responded 0 days ago but team last responded 8 days ago
+\* [10467](https://github.com/microsoft/vscode-jupyter/issues/10467 "Truncated stacktraces illegible in text editor"): 3rd party responded 0 days ago but team last responded 134 days ago
 
-\* [10422](https://github.com/microsoft/vscode-jupyter/issues/10422 "Alert box styling seems not to actually work"): 3rd party responded 0 days ago but team last responded 61 days ago
+\* [11284](https://github.com/microsoft/vscode-jupyter/issues/11284 "lost a day of work"): 3rd party responded 1 days ago but team last responded 54 days ago
+
+\* [11443](https://github.com/microsoft/vscode-jupyter/issues/11443 "The output is not displayed in tabular form by using %%prun"): 3rd party responded 0 days ago but team last responded 31 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11297](https://github.com/microsoft/vscode-jupyter/issues/11297 "ipynb notebook speed in VSCode vs browser based Jupyter"): team response was last response and no others in 30 days
+
+\* [11476](https://github.com/microsoft/vscode-jupyter/issues/11476 "Time magic causes the cell to lose its syntax highlight and autocompletion"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11726](https://github.com/microsoft/vscode-jupyter/issues/11726 "filter/search by variable name in 'jupyter: variables' panel"): needs an initial team response (1 days old)
+\* [1237](https://github.com/microsoft/vscode-jupyter/issues/1237 "Support for editing Plain text files (like Python,  MyST and R Markdown-based) as notebooks"): 3rd party responded 1 days ago but team last responded 751 days ago
 
-\* [11743](https://github.com/microsoft/vscode-jupyter/issues/11743 "Enable Active Cell Background and Inactive Cell Borders in Python Editor"): needs an initial team response (0 days old)
+\* [8802](https://github.com/microsoft/vscode-jupyter/issues/8802 "Feature request: extend scope of `&quot;python.tensorBoard.logDirectory&quot;` and/or support variable substitution"): 3rd party responded 1 days ago but team last responded 198 days ago
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [11735](https://github.com/microsoft/vscode-jupyter/issues/11735 "Hope to support smooth scrolling"): OP responded 0 days ago but team last responded 0 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11425](https://github.com/microsoft/vscode-jupyter/issues/11425 "python notebooks with dependent source files fail to update"): team response was last response and no others in 30 days
+\* [9945](https://github.com/microsoft/vscode-jupyter/issues/9945 "Support querying language support to notebooks"): 3rd party responded 0 days ago but team last responded 75 days ago
