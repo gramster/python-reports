@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-10-23 using: stale=30, all=0
+Generated on 2022-10-30 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3517](https://github.com/microsoft/pylance-release/issues/3517 "Wrong diagnostics in `reportUnnecessaryComparison`"): OP responded 0 days ago but team last responded 1 days ago
+\* [3461](https://github.com/microsoft/pylance-release/issues/3461 "Pylance causes Renaming to Format file"): OP responded 0 days ago but team last responded 17 days ago
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-
-\* [3514](https://github.com/microsoft/pylance-release/issues/3514 "Pylance becomes increasingly slow and unresponsive over time"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [3548](https://github.com/microsoft/pylance-release/issues/3548 "Pylance stuck, need to restart language server"): OP responded 1 days ago but team last responded 2 days ago
