@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-10-24 using: stale=30, all=0
+Generated on 2022-10-31 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,33 +14,38 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11749](https://github.com/microsoft/vscode-jupyter/issues/11749 "Wide Matplotlib figure not proportionally rescaled when window is smaller than figure with retina resolution images. "): needs an initial team response (1 days old)
+\* [11844](https://github.com/microsoft/vscode-jupyter/issues/11844 "Cannot see python kernels, only the julia one"): needs an initial team response (1 days old)
+
+\* [11846](https://github.com/microsoft/vscode-jupyter/issues/11846 "mouse scroll stops when cursor in polars output"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [11746](https://github.com/microsoft/vscode-jupyter/issues/11746 "Changes to .env not picked up on Jupyter Kernel Restart"): OP responded 0 days ago but team last responded 1 days ago
+\* [11845](https://github.com/microsoft/vscode-jupyter/issues/11845 "Impossible to use ipykernel package with VSCode Jupyter Extension"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11747](https://github.com/microsoft/vscode-jupyter/issues/11747 "When I click Run All, only the first cell run, the rest says notebook controller is DISPOSED.  View Jupyter log for further details."): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 1 days ago but team last responded 21 days ago
+
+\* [11804](https://github.com/microsoft/vscode-jupyter/issues/11804 "Python extension fails to get actiavted conda envionment variables"): 3rd party responded 0 days ago but team last responded 5 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11491](https://github.com/microsoft/vscode-jupyter/issues/11491 "Frequent Session Disposal when connected with Remote Jupyter "): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [11748](https://github.com/microsoft/vscode-jupyter/issues/11748 "Render Mermaid Charts in the Markdown Section of Jupyter notebook"): needs an initial team response (1 days old)
-
-\* [11750](https://github.com/microsoft/vscode-jupyter/issues/11750 "Navigate to file/line when clicking on traceback"): needs an initial team response (1 days old)
-
-\* [11751](https://github.com/microsoft/vscode-jupyter/issues/11751 "No markdown syntax and auto completion"): needs an initial team response (0 days old)
-
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1237](https://github.com/microsoft/vscode-jupyter/issues/1237 "Support for editing Plain text files (like Python,  MyST and R Markdown-based) as notebooks"): 3rd party responded 0 days ago but team last responded 746 days ago
+\* [9986](https://github.com/microsoft/vscode-jupyter/issues/9986 "Enhance the data viewer for Pandas dataframes in VSCode"): 3rd party responded 0 days ago but team last responded 171 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11322](https://github.com/microsoft/vscode-jupyter/issues/11322 "All Interactive Window tests failing"): team response was last response and no others in 30 days
