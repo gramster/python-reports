@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-10-27 using: stale=30, all=0
+Generated on 2022-11-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,15 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [1051](https://github.com/microsoft/debugpy/issues/1051 "debugpy gets &quot;stuck&quot; while using run by line in vscode jupyter notebook"): OP responded 0 days ago but team last responded 19 days ago
+
 ### Issues in debugpy that have comments from 3rd party after last team response:
 
 
-\* [891](https://github.com/microsoft/debugpy/issues/891 "Error: Server[1] disconnected unexpectedly when typing anything in the Python debug console while debugging"): 3rd party responded 0 days ago but team last responded 29 days ago
-
-\* [1100](https://github.com/microsoft/debugpy/issues/1100 "PyInt_FromLong not found"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [712](https://github.com/microsoft/debugpy/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;."): 3rd party responded 0 days ago but team last responded 239 days ago
 
 ---
 
@@ -26,23 +29,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1102](https://github.com/microsoft/debugpy/issues/1102 "More control on breakpointing with userUnhandled: unexpected breakpoint in framework codes"): needs an initial team response (0 days old)
-
-\* [1103](https://github.com/microsoft/debugpy/issues/1103 "Support `post_mortem` mode via entering specific frames"): needs an initial team response (0 days old)
-
-\* [1104](https://github.com/microsoft/debugpy/issues/1104 "Have to step multiple times when &quot;stepping in&quot; with justMyCode=true"): needs an initial team response (0 days old)
+\* [1110](https://github.com/microsoft/debugpy/issues/1110 "still cant debug library even after set justMyCode to false"): needs an initial team response (1 days old)
 
 ### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1078](https://github.com/microsoft/debugpy/issues/1078 "When getting the repr of a pandas dataframe in the repl, don't do any customization to avoid getting a big output."): OP responded 1 days ago but team last responded 6 days ago
+\* [1019](https://github.com/microsoft/debugpy/issues/1019 "justMyCode warning message is at the wrong level, not always accurate"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in debugpy that have comments from 3rd party after last team response:
 
 
-\* [1101](https://github.com/microsoft/debugpy/issues/1101 "Improve inline breakpoint experience to be similar to TypeScript's  "): 3rd party responded 1 days ago but team last responded 1 days ago
-
-### Issues in debugpy that have no external responses since team response in 30+ days:
-
-
-\* [1039](https://github.com/microsoft/debugpy/issues/1039 "Debugger not working"): team response was last response and no others in 30 days
+\* [1107](https://github.com/microsoft/debugpy/issues/1107 "Add Python 3.11 to the ci"): 3rd party responded 1 days ago but team last responded 2 days ago
