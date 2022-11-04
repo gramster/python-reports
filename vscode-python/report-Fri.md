@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-10-21 using: stale=30, all=0
+Generated on 2022-11-04 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,15 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
+### Issues in vscode-python that need a response from team:
 
 
-\* [19808](https://github.com/microsoft/vscode-python/issues/19808 "Saving .py files delayed by &quot;Getting code actions from 'isort', 'Python', 'Jupyter'&quot;"): OP responded 0 days ago but team last responded 0 days ago
+\* [20144](https://github.com/microsoft/vscode-python/issues/20144 "Trouble activating newly created conda environment via &quot;terminal.integrated.profiles.windows&quot; args"): needs an initial team response (1 days old)
 
-\* [19949](https://github.com/microsoft/vscode-python/issues/19949 "print() doesn't work in debug console while debugging pytests"): OP responded 0 days ago but team last responded 0 days ago
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [19942](https://github.com/microsoft/vscode-python/issues/19942 "VSCode Cannot Find Flake8 (Invalid Path) or Thinks it isn't installed (is not installed) (Using win-pyenv)"): team response was last response and no others in 30 days
 
 ---
 
@@ -26,14 +29,10 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20044](https://github.com/microsoft/vscode-python/issues/20044 "Integrated problems output doesn't support --show-error-codes mypy option"): needs an initial team response (0 days old)
+\* [20139](https://github.com/microsoft/vscode-python/issues/20139 "Allow pasting Excel cells into Python as lists"): needs an initial team response (1 days old)
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
+\* [20145](https://github.com/microsoft/vscode-python/issues/20145 "Remote ssh: Discovering Python Interpreters forever"): needs an initial team response (1 days old)
 
+\* [20149](https://github.com/microsoft/vscode-python/issues/20149 "`python` interpreter in launch task does not override `python.defaultInterpreterPath`"): needs an initial team response (0 days old)
 
-\* [19710](https://github.com/microsoft/vscode-python/issues/19710 "Improve inline breakpoint experience to be similar to TypeScript's  "): 3rd party responded 0 days ago but team last responded 0 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [1883](https://github.com/microsoft/vscode-python/issues/1883 "More gracefully handle the fact that Black does not support &quot;Format Selection&quot;"): team response was last response and no others in 30 days
+\* [20154](https://github.com/microsoft/vscode-python/issues/20154 "an operation to sort methods"): needs an initial team response (0 days old)
