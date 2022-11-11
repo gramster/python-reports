@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-11-04 using: stale=30, all=0
+Generated on 2022-11-11 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,14 +13,14 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3566](https://github.com/microsoft/pylance-release/issues/3566 "Improve &quot;Definition Preview Hover&quot; rendering and layout (similiar to JetBrains IDEs)"): needs an initial team response (1 days old)
+\* [3461](https://github.com/microsoft/pylance-release/issues/3461 "Pylance causes Renaming to Format file"): OP responded 1 days ago but team last responded 1 days ago
 
-\* [3570](https://github.com/microsoft/pylance-release/issues/3570 "Completion suggestion does not pop up automatically for TypedDict"): needs an initial team response (0 days old)
+\* [3599](https://github.com/microsoft/pylance-release/issues/3599 "How to prevent autocomplete of type hints"): OP responded 1 days ago but team last responded 1 days ago
 
-\* [3575](https://github.com/microsoft/pylance-release/issues/3575 "an operation to sort methods"): needs an initial team response (0 days old)
+\* [3612](https://github.com/microsoft/pylance-release/issues/3612 "Inappropriate type error with docstrings"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
