@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-11-12 using: stale=30, all=0
+Generated on 2022-11-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20182](https://github.com/microsoft/vscode-python/issues/20182 "Mypy linting not working for mypy 0.990 - no issues found"): OP responded 1 days ago but team last responded 2 days ago
+\* [19808](https://github.com/microsoft/vscode-python/issues/19808 "Saving .py files delayed by &quot;Getting code actions from 'isort', 'Python', 'Jupyter'&quot;"): 3rd party responded 0 days ago but team last responded 11 days ago
 
 ---
 
@@ -24,25 +24,24 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20208](https://github.com/microsoft/vscode-python/issues/20208 "different behavior of Run vs Run Without Debugging ?"): needs an initial team response (1 days old)
+\* [20244](https://github.com/microsoft/vscode-python/issues/20244 "Package pyautogui miss the function screenshot() in the intellisense"): needs an initial team response (1 days old)
 
-\* [20213](https://github.com/microsoft/vscode-python/issues/20213 "Option to choose severity level of type checking"): needs an initial team response (0 days old)
+\* [20245](https://github.com/microsoft/vscode-python/issues/20245 "Use the shortcut keys in the keyboard to lock the intellisense window"): needs an initial team response (1 days old)
 
-\* [20215](https://github.com/microsoft/vscode-python/issues/20215 "Saving python file with &quot;Format on Save&quot; option checked takes a long time to complete "): needs an initial team response (0 days old)
+\* [20246](https://github.com/microsoft/vscode-python/issues/20246 "Yapf arguments must be passed without quotes"): needs an initial team response (0 days old)
+
+\* [20247](https://github.com/microsoft/vscode-python/issues/20247 "Extension 'ms-python.python' CANNOT use API proposal: telemetryLogger."): needs an initial team response (0 days old)
+
+\* [20248](https://github.com/microsoft/vscode-python/issues/20248 "Run button should set current directory to that of the file"): needs an initial team response (1 days old)
 
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [20088](https://github.com/microsoft/vscode-python/issues/20088 "Support terminal link provider to handle python error stacks"): OP responded 0 days ago but team last responded 15 days ago
+\* [20215](https://github.com/microsoft/vscode-python/issues/20215 "Saving python file with &quot;Format on Save&quot; option checked takes a long time to complete "): OP responded 0 days ago but team last responded 6 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [8876](https://github.com/microsoft/vscode-python/issues/8876 "Add prompt for arguments when launching debugger"): 3rd party responded 1 days ago but team last responded 302 days ago
+\* [2653](https://github.com/microsoft/vscode-python/issues/2653 "Quick fix action to create class, method etc."): 3rd party responded 0 days ago but team last responded 487 days ago
 
-\* [17242](https://github.com/microsoft/vscode-python/issues/17242 "Rewrite testing adapter"): 3rd party responded 1 days ago but team last responded 43 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [12615](https://github.com/microsoft/vscode-python/issues/12615 "No output panel color support"): team response was last response and no others in 30 days
+\* [12075](https://github.com/microsoft/vscode-python/issues/12075 "Enable multiple test suites and test configurations in the Test UI"): 3rd party responded 1 days ago but team last responded 900 days ago
