@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-11-13 using: stale=30, all=0
+Generated on 2022-11-20 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,19 +14,12 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11995](https://github.com/microsoft/vscode-jupyter/issues/11995 "Warning about missing feature notebookDebugOptions"): needs an initial team response (1 days old)
+\* [12112](https://github.com/microsoft/vscode-jupyter/issues/12112 "Undo command does not restore deleted cell"): needs an initial team response (0 days old)
 
-\* [11999](https://github.com/microsoft/vscode-jupyter/issues/11999 "Wrong font in Jupyter output"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from OP after last team response:
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11366](https://github.com/microsoft/vscode-jupyter/issues/11366 "ScenePic visualizations do not display in VS Code"): OP responded 1 days ago but team last responded 46 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11654](https://github.com/microsoft/vscode-jupyter/issues/11654 "Flaky Kernels Finder integration tests"): team response was last response and no others in 30 days
+\* [12097](https://github.com/microsoft/vscode-jupyter/issues/12097 "empty Interactive Window kernel picker with mru"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ---
 
@@ -36,14 +29,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11996](https://github.com/microsoft/vscode-jupyter/issues/11996 "Investigate reducing bundle size"): needs an initial team response (1 days old)
+\* [12088](https://github.com/microsoft/vscode-jupyter/issues/12088 "There are tmp and temp folder in the repo root, both are not gitignored"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [12101](https://github.com/microsoft/vscode-jupyter/issues/12101 "Whole font awesome npm package bundled in vsix"): needs an initial team response (1 days old)
+
+\* [12110](https://github.com/microsoft/vscode-jupyter/issues/12110 "Support for metadata in output cells"): needs an initial team response (1 days old)
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11813](https://github.com/microsoft/vscode-jupyter/issues/11813 "Issues with new conda env on WSL"): OP responded 1 days ago but team last responded 1 days ago
+\* [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 0 days ago but team last responded 1279 days ago
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11640](https://github.com/microsoft/vscode-jupyter/issues/11640 "Visit ExtensionSingleActivationService usage and use sync if applicable "): team response was last response and no others in 30 days
+\* [8368](https://github.com/microsoft/vscode-jupyter/issues/8368 "Option to display a line for every cell in .py files with percent markup"): 3rd party responded 1 days ago but team last responded 1 days ago
