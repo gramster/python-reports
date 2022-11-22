@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-11-15 using: stale=30, all=0
+Generated on 2022-11-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,32 +11,12 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that need a response from team:
-
-
-\* [12002](https://github.com/microsoft/vscode-jupyter/issues/12002 "Data viewer: PeriodIndex displayed as [object Object]"): needs an initial team response (1 days old)
-
-\* [12006](https://github.com/microsoft/vscode-jupyter/issues/12006 "Test failure: Interactive Window Debugging @debugger"): needs an initial team response (1 days old)
-
-\* [12012](https://github.com/microsoft/vscode-jupyter/issues/12012 "Clear output button disabled even if cell execution counts are not empty"): needs an initial team response (0 days old)
-
-\* [12016](https://github.com/microsoft/vscode-jupyter/issues/12016 "Confusing layering in extension-side/plotView"): needs an initial team response (0 days old)
-
-\* [12019](https://github.com/microsoft/vscode-jupyter/issues/12019 "javascript: import / require statements break vscode code analysis"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [7661](https://github.com/microsoft/vscode-jupyter/issues/7661 "Remove Interrupt buttons and commands from Jupyter"): OP responded 1 days ago but team last responded 103 days ago
-
-\* [11568](https://github.com/microsoft/vscode-jupyter/issues/11568 "Jupyter in vscode run very slow in Macbook air m1"): OP responded 1 days ago but team last responded 35 days ago
-
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [10419](https://github.com/microsoft/vscode-jupyter/issues/10419 "Random files appearing in my trash bin everytime I open a Jupyter notebook"): 3rd party responded 0 days ago but team last responded 156 days ago
+\* [11657](https://github.com/microsoft/vscode-jupyter/issues/11657 "Interactive window and VIM mode"): 3rd party responded 0 days ago but team last responded 33 days ago
 
-\* [12008](https://github.com/microsoft/vscode-jupyter/issues/12008 "Long DI planning"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [11747](https://github.com/microsoft/vscode-jupyter/issues/11747 "When I click Run All, only the first cell run, the rest says notebook controller is DISPOSED.  View Jupyter log for further details."): 3rd party responded 0 days ago but team last responded 26 days ago
 
 ---
 
@@ -46,13 +26,20 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12014](https://github.com/microsoft/vscode-jupyter/issues/12014 "Flaky tests make contribution more difficult and are a project health concern"): needs an initial team response (0 days old)
+\* [12114](https://github.com/microsoft/vscode-jupyter/issues/12114 "Occurrences highlight is per individual cell, with different tokens, instead of highlighting a single token over the whole notebook"): needs an initial team response (1 days old)
 
-\* [12018](https://github.com/microsoft/vscode-jupyter/issues/12018 "Avoid using innerHTML in error-renderer"): needs an initial team response (0 days old)
+\* [12122](https://github.com/microsoft/vscode-jupyter/issues/12122 "There should be a scroll bar when the jupyter output is too long"): needs an initial team response (1 days old)
 
-\* [12023](https://github.com/microsoft/vscode-jupyter/issues/12023 "Why do we use msrCrypto?"): needs an initial team response (0 days old)
+\* [12127](https://github.com/microsoft/vscode-jupyter/issues/12127 "Remove use strict from all files"): needs an initial team response (0 days old)
+
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [11981](https://github.com/microsoft/vscode-jupyter/issues/11981 "Restore Tensorboard Settings after Reconnect"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11904](https://github.com/microsoft/vscode-jupyter/issues/11904 "Kernel Picker Plan"): 3rd party responded 0 days ago but team last responded 11 days ago
+\* [1378](https://github.com/microsoft/vscode-jupyter/issues/1378 "Allow for Manual Kernel Management (turn off auto-start and auto-end)"): 3rd party responded 1 days ago but team last responded 102 days ago
+
+\* [11904](https://github.com/microsoft/vscode-jupyter/issues/11904 "Kernel Picker Plan"): 3rd party responded 0 days ago but team last responded 18 days ago
