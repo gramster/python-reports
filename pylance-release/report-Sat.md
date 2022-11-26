@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-11-19 using: stale=30, all=0
+Generated on 2022-11-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,31 +16,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3646](https://github.com/microsoft/pylance-release/issues/3646 "Exclude platform specific bits from extension bundle"): needs an initial team response (1 days old)
+\* [3673](https://github.com/microsoft/pylance-release/issues/3673 "Pylance reads a lot of data on disk"): needs an initial team response (1 days old)
 
-\* [3647](https://github.com/microsoft/pylance-release/issues/3647 "Exclude map files from extension bundle"): needs an initial team response (1 days old)
-
-\* [3648](https://github.com/microsoft/pylance-release/issues/3648 "packageIndexDepths doesn't seem to work for files inside your workspace"): needs an initial team response (1 days old)
-
-\* [3649](https://github.com/microsoft/pylance-release/issues/3649 "Pylance completely breaks after using VS Code for extended period of time"): needs an initial team response (0 days old)
-
-\* [3651](https://github.com/microsoft/pylance-release/issues/3651 "Bad autocomplete when typing an open square bracket"): needs an initial team response (0 days old)
-
-\* [3652](https://github.com/microsoft/pylance-release/issues/3652 "Linting disappeares when using multiple folders in workspace"): needs an initial team response (0 days old)
-
-\* [3653](https://github.com/microsoft/pylance-release/issues/3653 "The status bar displays the prompt that &quot;XX files to analyze&quot;"): needs an initial team response (0 days old)
+\* [3674](https://github.com/microsoft/pylance-release/issues/3674 "Duplicated Suggestion in Jupyter Notebook"): needs an initial team response (1 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3650](https://github.com/microsoft/pylance-release/issues/3650 "When inspecting a stdlib method, VSCode consumes high percentage of CPU and becomes unresponsive or very laggy, possibly due to weird Windows Defender interaction"): OP responded 0 days ago but team last responded 0 days ago
+\* [3461](https://github.com/microsoft/pylance-release/issues/3461 "Pylance causes Renaming to Format file"): OP responded 0 days ago but team last responded 1 days ago
+
+\* [3675](https://github.com/microsoft/pylance-release/issues/3675 "Syntax highlighting stops working on file edit"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [3447](https://github.com/microsoft/pylance-release/issues/3447 "100% CPU usage all the time"): 3rd party responded 0 days ago but team last responded 2 days ago
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [3439](https://github.com/microsoft/pylance-release/issues/3439 "Cannot select interpreter"): team response was last response and no others in 30 days
+\* [3649](https://github.com/microsoft/pylance-release/issues/3649 "Pylance completely breaks after using VS Code for extended period of time"): 3rd party responded 1 days ago but team last responded 4 days ago
