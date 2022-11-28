@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-11-21 using: stale=30, all=0
+Generated on 2022-11-28 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,9 +14,17 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12112](https://github.com/microsoft/vscode-jupyter/issues/12112 "Undo command does not restore deleted cell"): needs an initial team response (1 days old)
+\* [12177](https://github.com/microsoft/vscode-jupyter/issues/12177 "duplicate/double information shown when hovering over symbols "): needs an initial team response (1 days old)
 
-\* [12114](https://github.com/microsoft/vscode-jupyter/issues/12114 "Occurrences highlight is per individual cell, with different tokens, instead of highlighting a single token over the whole notebook"): needs an initial team response (0 days old)
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [12146](https://github.com/microsoft/vscode-jupyter/issues/12146 "ipykernel not detected ('Running cells with 3.9.13 (base) requires ipykernel package installed or requires an update')"): OP responded 0 days ago but team last responded 4 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11833](https://github.com/microsoft/vscode-jupyter/issues/11833 "Data Viewer filter shows no rows when the filter is used on the index of a DataFrame"): team response was last response and no others in 30 days
 
 ---
 
@@ -26,23 +34,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12122](https://github.com/microsoft/vscode-jupyter/issues/12122 "There should be a scroll bar when the jupyter output is too long"): needs an initial team response (0 days old)
+\* [12175](https://github.com/microsoft/vscode-jupyter/issues/12175 "Relative line numbers in Notebook cells"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [11981](https://github.com/microsoft/vscode-jupyter/issues/11981 "Restore Tensorboard Settings after Reconnect"): OP responded 0 days ago but team last responded 0 days ago
+\* [12176](https://github.com/microsoft/vscode-jupyter/issues/12176 "Feature Request: Run block and move down in Python text file without selecting block manually"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1378](https://github.com/microsoft/vscode-jupyter/issues/1378 "Allow for Manual Kernel Management (turn off auto-start and auto-end)"): 3rd party responded 0 days ago but team last responded 101 days ago
-
-\* [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 1 days ago but team last responded 1280 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [11732](https://github.com/microsoft/vscode-jupyter/issues/11732 "In-line input box similar to Jupyter"): team response was last response and no others in 30 days
-
-\* [11736](https://github.com/microsoft/vscode-jupyter/issues/11736 "numpy abnormal"): team response was last response and no others in 30 days
+\* [9517](https://github.com/microsoft/vscode-jupyter/issues/9517 "Connect to existing Local Kernel"): 3rd party responded 1 days ago but team last responded 19 days ago
