@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-11-28 using: stale=30, all=0
+Generated on 2022-12-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,9 +14,7 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-\* [19949](https://github.com/microsoft/vscode-python/issues/19949 "print() doesn't work in debug console while debugging pytests"): team response was last response and no others in 30 days
-
-\* [20116](https://github.com/microsoft/vscode-python/issues/20116 "hide function only works on some functions"): team response was last response and no others in 30 days
+\* [20051](https://github.com/microsoft/vscode-python/issues/20051 "i fail to  format python code in conda env by black and yapf"): team response was last response and no others in 30 days
 
 ---
 
@@ -26,9 +24,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20281](https://github.com/microsoft/vscode-python/issues/20281 "Two instances of Python extension running"): needs an initial team response (0 days old)
+\* [20313](https://github.com/microsoft/vscode-python/issues/20313 "Jedi LSP Tests fail"): needs an initial team response (1 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [20314](https://github.com/microsoft/vscode-python/issues/20314 "Double rename (F2) cause source code mess up in a python file"): needs an initial team response (1 days old)
 
-
-\* [20215](https://github.com/microsoft/vscode-python/issues/20215 "Saving python file with &quot;Format on Save&quot; option checked takes a long time to complete "): OP responded 1 days ago but team last responded 15 days ago
+\* [20315](https://github.com/microsoft/vscode-python/issues/20315 "Can't start Jupyter"): needs an initial team response (1 days old)
