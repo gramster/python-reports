@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-11-30 using: stale=30, all=0
+Generated on 2022-12-07 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,17 +14,22 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12212](https://github.com/microsoft/vscode-jupyter/issues/12212 "No progress bar in kernel picker"): needs an initial team response (0 days old)
+\* [12311](https://github.com/microsoft/vscode-jupyter/issues/12311 "IPython ?/?? output doesn't render nicely in the text editor"): needs an initial team response (1 days old)
+
+\* [12325](https://github.com/microsoft/vscode-jupyter/issues/12325 "numbers on plots apear on top of other numbers and are illigible "): needs an initial team response (0 days old)
+
+\* [12333](https://github.com/microsoft/vscode-jupyter/issues/12333 "One of the notebook commands in the Command palette has percent signs around it"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12146](https://github.com/microsoft/vscode-jupyter/issues/12146 "ipykernel not detected ('Running cells with 3.9.13 (base) requires ipykernel package installed or requires an update')"): OP responded 0 days ago but team last responded 1 days ago
+\* [11583](https://github.com/microsoft/vscode-jupyter/issues/11583 "Reuse of cell makes it move"): OP responded 1 days ago but team last responded 2 days ago
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+\* [11771](https://github.com/microsoft/vscode-jupyter/issues/11771 "VS Code 1.72 crashes when trying to connect to jupyter server"): OP responded 0 days ago but team last responded 0 days ago
 
+\* [12208](https://github.com/microsoft/vscode-jupyter/issues/12208 "Better line numbers in interactive window notebooks"): OP responded 1 days ago but team last responded 1 days ago
 
-\* [11038](https://github.com/microsoft/vscode-jupyter/issues/11038 "Intellisense completions have duplicates when `python.pylanceLspNotebooksEnabled` is true"): 3rd party responded 1 days ago but team last responded 118 days ago
+\* [12310](https://github.com/microsoft/vscode-jupyter/issues/12310 "Remote Kernel Connection does not work, while desktop does"): OP responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -34,20 +39,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12185](https://github.com/microsoft/vscode-jupyter/issues/12185 "make it easier to use: confusion about the role of the &quot;restart&quot; button "): needs an initial team response (1 days old)
+\* [12327](https://github.com/microsoft/vscode-jupyter/issues/12327 "2022 Issue Grooming - review, categorization, assignment"): needs an initial team response (0 days old)
 
-\* [12186](https://github.com/microsoft/vscode-jupyter/issues/12186 "The interactive window should look at the sheband to opens the script with the right python version"): needs an initial team response (1 days old)
-
-\* [12208](https://github.com/microsoft/vscode-jupyter/issues/12208 "Better line numbers in interactive window notebooks"): needs an initial team response (0 days old)
-
-\* [12209](https://github.com/microsoft/vscode-jupyter/issues/12209 "November 2022"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [12176](https://github.com/microsoft/vscode-jupyter/issues/12176 "Feature Request: Run block and move down in Python text file without selecting block manually"): OP responded 0 days ago but team last responded 1 days ago
+\* [12338](https://github.com/microsoft/vscode-jupyter/issues/12338 "Different files can be connected to the specified kernel when using python interactive window"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11288](https://github.com/microsoft/vscode-jupyter/issues/11288 "nbformat_minor version is by default 2 for new .ipynb files"): 3rd party responded 0 days ago but team last responded 83 days ago
+\* [8245](https://github.com/microsoft/vscode-jupyter/issues/8245 "[Feature] Show time stamp and zone when code cell last ran"): 3rd party responded 0 days ago but team last responded 389 days ago
+
+\* [9517](https://github.com/microsoft/vscode-jupyter/issues/9517 "Connect to existing Local Kernel"): 3rd party responded 0 days ago but team last responded 28 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [11815](https://github.com/microsoft/vscode-jupyter/issues/11815 "Kernel specs don't appear until I reload the window"): team response was last response and no others in 30 days
