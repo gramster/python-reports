@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-12-01 using: stale=30, all=0
+Generated on 2022-12-08 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,9 +11,17 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [1139](https://github.com/microsoft/debugpy/issues/1139 "Unable to debug python files (only on remote server): Timed out waiting for debuggee to spawn"): OP responded 1 days ago but team last responded 1 days ago
+
+---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
 ### Issues in debugpy that need a response from team:
 
 
-\* [1138](https://github.com/microsoft/debugpy/issues/1138 "`del` doesn't delete object and `x = None` doesn't create `None` object"): needs an initial team response (0 days old)
-
----
+\* [1146](https://github.com/microsoft/debugpy/issues/1146 "Process stops when log message and condition are both set"): needs an initial team response (0 days old)
