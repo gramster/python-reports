@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-12-03 using: stale=30, all=0
+Generated on 2022-12-10 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,25 +14,37 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12263](https://github.com/microsoft/vscode-jupyter/issues/12263 "Debug options don't show up when accessible in a new notebook"): needs an initial team response (1 days old)
+\* [12357](https://github.com/microsoft/vscode-jupyter/issues/12357 "Copied Images don't respect `jupyter.themeMatplotlibPlots`"): needs an initial team response (1 days old)
 
-\* [12279](https://github.com/microsoft/vscode-jupyter/issues/12279 "Failed to install ipykernel package"): needs an initial team response (0 days old)
+\* [12365](https://github.com/microsoft/vscode-jupyter/issues/12365 "3rd party provided jupyter servers not visible unless it's stored in uristorage"): needs an initial team response (1 days old)
 
-\* [12283](https://github.com/microsoft/vscode-jupyter/issues/12283 "local kernel and local python for web should not be available on Web"): needs an initial team response (0 days old)
-
-\* [12284](https://github.com/microsoft/vscode-jupyter/issues/12284 "Editing and running large jupyter notebook files extremely slow when operating on a remote machine"): needs an initial team response (0 days old)
+\* [12371](https://github.com/microsoft/vscode-jupyter/issues/12371 "Unable to find widget 'jupyter-matplotlib' version '^0.11' from configured widget"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12200](https://github.com/microsoft/vscode-jupyter/issues/12200 "Fail to activate the Jupyter extension"): OP responded 1 days ago but team last responded 1 days ago
+\* [9763](https://github.com/microsoft/vscode-jupyter/issues/9763 "Cannot execute Run current cell for ~1s after I stop typing"): OP responded 1 days ago but team last responded 2 days ago
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+\* [12377](https://github.com/microsoft/vscode-jupyter/issues/12377 "Interactive Jupyter Kernal hangs when starting with in a dev container environment"): OP responded 0 days ago but team last responded 0 days ago
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8635](https://github.com/microsoft/vscode-jupyter/issues/8635 "Render stored Matplotlib png output as a fallback when opening a notebook "): team response was last response and no others in 30 days
+\* [6987](https://github.com/microsoft/vscode-jupyter/issues/6987 "Intellisense doesn't support types and var provided from a call to &quot;%run <notebook.ipynb>&quot; (was makes mistakes every 2-3 lines of my code in Jupyter Notebook"): 3rd party responded 0 days ago but team last responded 1 days ago
 
-\* [11846](https://github.com/microsoft/vscode-jupyter/issues/11846 "mouse scroll stops when cursor in polars output"): team response was last response and no others in 30 days
+\* [7764](https://github.com/microsoft/vscode-jupyter/issues/7764 "Make error output collapsed by default (Was: Ugly output when clicking `Stop Cell Execution`)"): 3rd party responded 1 days ago but team last responded 435 days ago
+
+\* [8134](https://github.com/microsoft/vscode-jupyter/issues/8134 "Failed to connect jupyterhub."): 3rd party responded 1 days ago but team last responded 2 days ago
+
+\* [8552](https://github.com/microsoft/vscode-jupyter/issues/8552 "Add support for ipywidgets 8"): 3rd party responded 1 days ago but team last responded 33 days ago
+
+\* [9239](https://github.com/microsoft/vscode-jupyter/issues/9239 "&quot;No active notebook document to debug&quot; when try to debug a notebook that doesn't have focus"): 3rd party responded 1 days ago but team last responded 280 days ago
+
+\* [11629](https://github.com/microsoft/vscode-jupyter/issues/11629 "Crashes on load when executed as administrator on Windows"): 3rd party responded 1 days ago but team last responded 56 days ago
+
+\* [11799](https://github.com/microsoft/vscode-jupyter/issues/11799 "VSCode Crashes when assigning list[many tuples] as a default function parameter (only when checking variables tab)"): 3rd party responded 0 days ago but team last responded 43 days ago
+
+\* [12341](https://github.com/microsoft/vscode-jupyter/issues/12341 "Debugging interactive window never starts for remote kernel"): 3rd party responded 1 days ago but team last responded 2 days ago
 
 ---
 
@@ -42,22 +54,20 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12261](https://github.com/microsoft/vscode-jupyter/issues/12261 "Failed to launch Tensorboard due to wrong version detection"): needs an initial team response (1 days old)
-
-\* [12264](https://github.com/microsoft/vscode-jupyter/issues/12264 "Reduce toolbar options when debugging"): needs an initial team response (1 days old)
-
-\* [12285](https://github.com/microsoft/vscode-jupyter/issues/12285 "Merge builtin and jupyter error renderer"): needs an initial team response (0 days old)
+\* [12373](https://github.com/microsoft/vscode-jupyter/issues/12373 "Create a custom test function that adds the @mandatory string, instead of adding it manually"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12043](https://github.com/microsoft/vscode-jupyter/issues/12043 "Typing `help(...)` or `?fun` to open in a text editor"): OP responded 0 days ago but team last responded 0 days ago
+\* [12292](https://github.com/microsoft/vscode-jupyter/issues/12292 "Project names in kernel picker menu"): OP responded 0 days ago but team last responded 5 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 1 days ago but team last responded 1292 days ago
+\* [4588](https://github.com/microsoft/vscode-jupyter/issues/4588 "Automatically change cell language based on cell magics"): 3rd party responded 1 days ago but team last responded 268 days ago
 
-\* [6765](https://github.com/microsoft/vscode-jupyter/issues/6765 "Explore using the interactive window as a console for notebook kernels"): 3rd party responded 0 days ago but team last responded 498 days ago
+\* [9914](https://github.com/microsoft/vscode-jupyter/issues/9914 "Python interactive window delete last cell output shortcut/button"): 3rd party responded 1 days ago but team last responded 1 days ago
 
-\* [8289](https://github.com/microsoft/vscode-jupyter/issues/8289 "Provide a way to skip diagnostics in the interactive window"): 3rd party responded 1 days ago but team last responded 121 days ago
+\* [11010](https://github.com/microsoft/vscode-jupyter/issues/11010 "Jupyter kernel restarts when the `ipynb` file is renamed"): 3rd party responded 0 days ago but team last responded 102 days ago
+
+\* [11957](https://github.com/microsoft/vscode-jupyter/issues/11957 "Change tests to account for lazy loading of controllers and Python environments"): 3rd party responded 0 days ago but team last responded 5 days ago
