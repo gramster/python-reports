@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-07 using: stale=30, all=0
+Generated on 2022-12-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,13 +16,24 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20338](https://github.com/microsoft/vscode-python/issues/20338 "tabula-py"): needs an initial team response (0 days old)
+\* [20376](https://github.com/microsoft/vscode-python/issues/20376 "Adopt lifecycleManagedByParent for debug sessions"): needs an initial team response (0 days old)
 
-\* [20339](https://github.com/microsoft/vscode-python/issues/20339 "Select Interp - Says Python not installed"): needs an initial team response (1 days old)
+### Issues in vscode-python that have comments from OP after last team response:
 
-\* [20340](https://github.com/microsoft/vscode-python/issues/20340 "Unexpected Python Path notification when using fresh user data dir"): needs an initial team response (0 days old)
+
+\* [9316](https://github.com/microsoft/vscode-python/issues/9316 "Avoid adding commands to shell history"): OP responded 0 days ago but team last responded 1076 days ago
+
+\* [20339](https://github.com/microsoft/vscode-python/issues/20339 "Select Interp - Says Python not installed"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [20361](https://github.com/microsoft/vscode-python/issues/20361 "Extension starts for YAML, then dies"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20267](https://github.com/microsoft/vscode-python/issues/20267 "Go through our docs and make sure the content is up to date   "): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 0 days ago but team last responded 56 days ago
+
+\* [17172](https://github.com/microsoft/vscode-python/issues/17172 "Support IPython for Shift+Enter (execute line in terminal)"): 3rd party responded 0 days ago but team last responded 407 days ago
+
+\* [19904](https://github.com/microsoft/vscode-python/issues/19904 "Select interpreter is confusing when there're very few envs"): 3rd party responded 0 days ago but team last responded 1 days ago
+
+\* [19982](https://github.com/microsoft/vscode-python/issues/19982 "Breaks code folding in ordinary python files"): 3rd party responded 1 days ago but team last responded 40 days ago
