@@ -2,19 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2022-12-07 using: stale=30, all=0
+Generated on 2022-12-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [1139](https://github.com/microsoft/debugpy/issues/1139 "Unable to debug python files (only on remote server): Timed out waiting for debuggee to spawn"): OP responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -24,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1144](https://github.com/microsoft/debugpy/issues/1144 "Load objects in advance before the debug file"): needs an initial team response (0 days old)
+\* [1154](https://github.com/microsoft/debugpy/issues/1154 "debugpy 1.6.4 `PermissionError` while debugging Jupyter Notebook in VS Code on MacOS"): needs an initial team response (0 days old)
