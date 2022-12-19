@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-12 using: stale=30, all=0
+Generated on 2022-12-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,17 +16,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20359](https://github.com/microsoft/vscode-python/issues/20359 "No Python interpreter is selected. "): needs an initial team response (1 days old)
+\* [20395](https://github.com/microsoft/vscode-python/issues/20395 "missing dict member in Value Tooltip and Watch Window"): needs an initial team response (1 days old)
 
-\* [20360](https://github.com/microsoft/vscode-python/issues/20360 "Unable to &quot;Run Python file in terminal&quot; on paths with parenthesis"): needs an initial team response (1 days old)
+\* [20396](https://github.com/microsoft/vscode-python/issues/20396 "Arguments in launch.json not being used"): needs an initial team response (0 days old)
 
-\* [20361](https://github.com/microsoft/vscode-python/issues/20361 "Extension starts for YAML, then dies"): needs an initial team response (1 days old)
+\* [20397](https://github.com/microsoft/vscode-python/issues/20397 "Language injections in Python"): needs an initial team response (0 days old)
 
-\* [20362](https://github.com/microsoft/vscode-python/issues/20362 "Installation hanging"): needs an initial team response (0 days old)
-
-\* [20363](https://github.com/microsoft/vscode-python/issues/20363 "Highlighting for type aliases in python"): needs an initial team response (0 days old)
+\* [20400](https://github.com/microsoft/vscode-python/issues/20400 "Can vscode control the display of tab indentation and space indentation separately?"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [9316](https://github.com/microsoft/vscode-python/issues/9316 "Avoid adding commands to shell history"): 3rd party responded 0 days ago but team last responded 1074 days ago
+\* [693](https://github.com/microsoft/vscode-python/issues/693 "Debugger doesn't stop at breakpoints with pytest if pytest-cov is used"): 3rd party responded 0 days ago but team last responded 1760 days ago
