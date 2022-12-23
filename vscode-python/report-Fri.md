@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-09 using: stale=30, all=0
+Generated on 2022-12-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,15 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20349](https://github.com/microsoft/vscode-python/issues/20349 "No IntelliSense in Jupyter Notebooks unless explicitly set python.languageServer to Jedi"): needs an initial team response (0 days old)
+\* [14136](https://github.com/microsoft/vscode-python/issues/14136 "Disable import sorting for virtualenv"): 3rd party responded 0 days ago but team last responded 0 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [20259](https://github.com/microsoft/vscode-python/issues/20259 "Having PYTHONWARNINGS=default crashes pytest discovery"): team response was last response and no others in 30 days
 
 ---
 
@@ -24,24 +29,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20345](https://github.com/microsoft/vscode-python/issues/20345 "Group test explorer test by workspace in multi-root workspace"): needs an initial team response (1 days old)
+\* [20422](https://github.com/microsoft/vscode-python/issues/20422 "pytest &quot;Go to Test&quot; open wrong file after moving project folder"): needs an initial team response (0 days old)
 
-\* [20347](https://github.com/microsoft/vscode-python/issues/20347 "Add a &quot;fold all docstrings&quot; command"): needs an initial team response (0 days old)
+\* [20423](https://github.com/microsoft/vscode-python/issues/20423 "Rerun last test was never added?"): needs an initial team response (0 days old)
 
-\* [20350](https://github.com/microsoft/vscode-python/issues/20350 "Add filter based on pytest marks to Test Explorer"): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [20339](https://github.com/microsoft/vscode-python/issues/20339 "Select Interp - Says Python not installed"): OP responded 0 days ago but team last responded 0 days ago
-
-\* [20340](https://github.com/microsoft/vscode-python/issues/20340 "Unexpected Python Path notification when using fresh user data dir"): OP responded 1 days ago but team last responded 1 days ago
+\* [20425](https://github.com/microsoft/vscode-python/issues/20425 "Python unittest runner doesn't respect arguments to pass to unittest runner"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [1479](https://github.com/microsoft/vscode-python/issues/1479 "Change venvFolders to no longer be anchored to the user's home directory"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [12973](https://github.com/microsoft/vscode-python/issues/12973 "Use pytest hooks for test execution instead of &quot;scraping&quot; the JUnit XML results."): 3rd party responded 1 days ago but team last responded 1 days ago
 
-\* [10645](https://github.com/microsoft/vscode-python/issues/10645 "Add Profiling (code performance analysis) capability"): 3rd party responded 0 days ago but team last responded 184 days ago
-
-\* [19998](https://github.com/microsoft/vscode-python/issues/19998 "Retry connecting during &quot;attach&quot; mode during debugging"): 3rd party responded 1 days ago but team last responded 21 days ago
+\* [20250](https://github.com/microsoft/vscode-python/issues/20250 "Stuck on Discovering Python Interpreters"): 3rd party responded 1 days ago but team last responded 10 days ago
