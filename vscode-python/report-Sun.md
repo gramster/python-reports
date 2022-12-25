@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-18 using: stale=30, all=0
+Generated on 2022-12-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,11 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20394](https://github.com/microsoft/vscode-python/issues/20394 "No import suggestions"): needs an initial team response (1 days old)
+\* [20426](https://github.com/microsoft/vscode-python/issues/20426 "Stuck at unittest discovery."): needs an initial team response (1 days old)
 
-\* [20395](https://github.com/microsoft/vscode-python/issues/20395 "missing dict member in Value Tooltip and Watch Window"): needs an initial team response (0 days old)
+\* [20429](https://github.com/microsoft/vscode-python/issues/20429 "Language injections in Python"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [19559](https://github.com/microsoft/vscode-python/issues/19559 "Bring back Python 3.6 debugging support by breaking debugging out into its own extension"): 3rd party responded 1 days ago but team last responded 61 days ago
+\* [19982](https://github.com/microsoft/vscode-python/issues/19982 "Breaks code folding in ordinary python files"): 3rd party responded 0 days ago but team last responded 51 days ago
