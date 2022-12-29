@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-12-22 using: stale=30, all=0
+Generated on 2022-12-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,25 +13,19 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
-
-
-\* [3778](https://github.com/microsoft/pylance-release/issues/3778 "Python debugger doesn't import local files in vs code"): needs an initial team response (0 days old)
-
-\* [3780](https://github.com/microsoft/pylance-release/issues/3780 "Intellisense issue with Flask-SQLAlchemy"): needs an initial team response (0 days old)
-
-\* [3781](https://github.com/microsoft/pylance-release/issues/3781 "Auto-indent behavior as before / jumping to beginning of line"): needs an initial team response (0 days old)
-
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3760](https://github.com/microsoft/pylance-release/issues/3760 "Pylance suggestions prefer indirect imports through third party libraries over direct standard library imports"): OP responded 1 days ago but team last responded 3 days ago
+\* [3777](https://github.com/microsoft/pylance-release/issues/3777 "Add support for PEP 232 – Function Attributes"): OP responded 1 days ago but team last responded 6 days ago
 
-\* [3769](https://github.com/microsoft/pylance-release/issues/3769 "Inline docstrings for attributes don't show up unless docstring is on very next line"): OP responded 1 days ago but team last responded 3 days ago
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
-\* [3777](https://github.com/microsoft/pylance-release/issues/3777 "Add support for PEP 232 – Function Attributes"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [3751](https://github.com/microsoft/pylance-release/issues/3751 "reportShadowedImports x.py is overriding the stdlib module x whils x.py IS stdlib!"): 3rd party responded 0 days ago but team last responded 16 days ago
+
+\* [3784](https://github.com/microsoft/pylance-release/issues/3784 "Pylance doesn't de-indent (syntactic)"): 3rd party responded 1 days ago but team last responded 5 days ago
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [3646](https://github.com/microsoft/pylance-release/issues/3646 "Exclude platform specific bits from extension bundle"): team response was last response and no others in 30 days
+\* [3668](https://github.com/microsoft/pylance-release/issues/3668 "Python intellisense is very slow"): team response was last response and no others in 30 days
