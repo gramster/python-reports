@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-12-23 using: stale=30, all=0
+Generated on 2022-12-30 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,24 +14,34 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12434](https://github.com/microsoft/vscode-jupyter/issues/12434 "Intellisense Function Info Broken in Interactive Outside Import Cell"): needs an initial team response (0 days old)
+\* [12465](https://github.com/microsoft/vscode-jupyter/issues/12465 "ipynb Python cells always revert back to 2-space indentation"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12420](https://github.com/microsoft/vscode-jupyter/issues/12420 "Launching TensorBoard keeps on asking to install TensorBoard and PyTorch Profiler"): OP responded 0 days ago but team last responded 0 days ago
+\* [12401](https://github.com/microsoft/vscode-jupyter/issues/12401 "Interactive plot not working with vscode Jupyter"): OP responded 1 days ago but team last responded 1 days ago
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [11284](https://github.com/microsoft/vscode-jupyter/issues/11284 "lost a day of work"): 3rd party responded 1 days ago but team last responded 109 days ago
+\* [12158](https://github.com/microsoft/vscode-jupyter/issues/12158 "unable to  start and conncet the kernel"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [11422](https://github.com/microsoft/vscode-jupyter/issues/11422 "Check setting scopes"): OP responded 1 days ago but team last responded 100 days ago
+
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [7460](https://github.com/microsoft/vscode-jupyter/issues/7460 "Implement Live Share for native interactive window"): 3rd party responded 0 days ago but team last responded 276 days ago
+\* [1149](https://github.com/microsoft/vscode-jupyter/issues/1149 "Dataviewer needs export and copy"): 3rd party responded 1 days ago but team last responded 695 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [12213](https://github.com/microsoft/vscode-jupyter/issues/12213 "Too much text in kernel source picker"): team response was last response and no others in 30 days
