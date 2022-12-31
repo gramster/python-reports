@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2022-12-24 using: stale=30, all=0
+Generated on 2022-12-31 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,21 +14,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12434](https://github.com/microsoft/vscode-jupyter/issues/12434 "Intellisense Function Info Broken in Interactive Outside Import Cell"): needs an initial team response (1 days old)
+\* [12465](https://github.com/microsoft/vscode-jupyter/issues/12465 "ipynb Python cells always revert back to 2-space indentation"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [12471](https://github.com/microsoft/vscode-jupyter/issues/12471 "&quot;Jupyter: Run Cells Above Current Cell&quot; runs each cell 3 times"): needs an initial team response (0 days old)
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [12420](https://github.com/microsoft/vscode-jupyter/issues/12420 "Launching TensorBoard keeps on asking to install TensorBoard and PyTorch Profiler"): OP responded 1 days ago but team last responded 1 days ago
+\* [12238](https://github.com/microsoft/vscode-jupyter/issues/12238 "&quot;Create Environment&quot; has no back button"): team response was last response and no others in 30 days
+
+\* [12240](https://github.com/microsoft/vscode-jupyter/issues/12240 "&quot;Create Environment&quot;- pressing esc shows the kernel picker again"): team response was last response and no others in 30 days
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [7460](https://github.com/microsoft/vscode-jupyter/issues/7460 "Implement Live Share for native interactive window"): 3rd party responded 1 days ago but team last responded 277 days ago
-
-\* [8368](https://github.com/microsoft/vscode-jupyter/issues/8368 "Option to display a line for every cell in .py files with percent markup"): 3rd party responded 0 days ago but team last responded 35 days ago
