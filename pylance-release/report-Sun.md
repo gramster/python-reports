@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2022-12-25 using: stale=30, all=0
+Generated on 2023-01-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,6 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3785](https://github.com/microsoft/pylance-release/issues/3785 "auto-imports: `Self` type is imported from `typing` module, not `typing_extensions` in Python 3.9"): needs an initial team response (0 days old)
+\* [3794](https://github.com/microsoft/pylance-release/issues/3794 "Automatic docstring word wrapping"): needs an initial team response (1 days old)
 
-\* [3786](https://github.com/microsoft/pylance-release/issues/3786 "feature request: auto-imports: exclude some modules from auto-import suggestion"): needs an initial team response (0 days old)
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [3751](https://github.com/microsoft/pylance-release/issues/3751 "reportShadowedImports x.py is overriding the stdlib module x whils x.py IS stdlib!"): OP responded 1 days ago but team last responded 19 days ago
+
+\* [3793](https://github.com/microsoft/pylance-release/issues/3793 "Cannot suppress Pylance diagnostic errors in Python library files when try to set up configuration options"): OP responded 1 days ago but team last responded 1 days ago
