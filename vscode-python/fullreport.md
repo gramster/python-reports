@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-26 using: stale=30, all=1
+Generated on 2023-01-02 using: stale=30, all=1
 
 
 * marks items that are new to report in past 1 day(s)
@@ -14,300 +14,300 @@ Generated on 2022-12-26 using: stale=30, all=1
 ### Issues in vscode-python that need a response from team:
 
 
-  [15147](https://github.com/microsoft/vscode-python/issues/15147 "Single test run fails if there is an import error in unrelated file"): needs an initial team response (710 days old)
+  [15147](https://github.com/microsoft/vscode-python/issues/15147 "Single test run fails if there is an import error in unrelated file"): needs an initial team response (717 days old)
 
-  [17096](https://github.com/microsoft/vscode-python/issues/17096 "Select a test/framework tool dialog feedback"): needs an initial team response (488 days old)
+  [17096](https://github.com/microsoft/vscode-python/issues/17096 "Select a test/framework tool dialog feedback"): needs an initial team response (495 days old)
 
-  [17105](https://github.com/microsoft/vscode-python/issues/17105 "Unit test discovery error output too verbose"): needs an initial team response (488 days old)
+  [17105](https://github.com/microsoft/vscode-python/issues/17105 "Unit test discovery error output too verbose"): needs an initial team response (495 days old)
 
-  [17113](https://github.com/microsoft/vscode-python/issues/17113 "Have to run test framework config twice when no settings.json file exists"): needs an initial team response (488 days old)
+  [17113](https://github.com/microsoft/vscode-python/issues/17113 "Have to run test framework config twice when no settings.json file exists"): needs an initial team response (495 days old)
 
-  [17573](https://github.com/microsoft/vscode-python/issues/17573 "VSCode not running discovered PyTest tests when path contains a symlink"): needs an initial team response (451 days old)
+  [17573](https://github.com/microsoft/vscode-python/issues/17573 "VSCode not running discovered PyTest tests when path contains a symlink"): needs an initial team response (458 days old)
 
-  [18097](https://github.com/microsoft/vscode-python/issues/18097 "&quot;Run and Debug&quot; welcome view is misleading for virtual workspaces"): needs an initial team response (390 days old)
+  [18097](https://github.com/microsoft/vscode-python/issues/18097 "&quot;Run and Debug&quot; welcome view is misleading for virtual workspaces"): needs an initial team response (397 days old)
 
-  [18291](https://github.com/microsoft/vscode-python/issues/18291 "&quot;Format Notebook&quot; should not touch Jupyter cell magic."): needs an initial team response (357 days old)
+  [18291](https://github.com/microsoft/vscode-python/issues/18291 "&quot;Format Notebook&quot; should not touch Jupyter cell magic."): needs an initial team response (364 days old)
 
-  [19776](https://github.com/microsoft/vscode-python/issues/19776 "Duplicated tests to be executed on workspace"): needs an initial team response (132 days old)
+  [19776](https://github.com/microsoft/vscode-python/issues/19776 "Duplicated tests to be executed on workspace"): needs an initial team response (139 days old)
 
-  [19796](https://github.com/microsoft/vscode-python/issues/19796 "Testing: pytest should be running multiple nodes in one single process"): needs an initial team response (109 days old)
+  [19796](https://github.com/microsoft/vscode-python/issues/19796 "Testing: pytest should be running multiple nodes in one single process"): needs an initial team response (116 days old)
 
-  [19809](https://github.com/microsoft/vscode-python/issues/19809 "pytest discovery error"): needs an initial team response (106 days old)
+  [19809](https://github.com/microsoft/vscode-python/issues/19809 "pytest discovery error"): needs an initial team response (113 days old)
 
-  [19816](https://github.com/microsoft/vscode-python/issues/19816 "Hide Sort Imports command when isort extension is installed."): needs an initial team response (104 days old)
+  [19816](https://github.com/microsoft/vscode-python/issues/19816 "Hide Sort Imports command when isort extension is installed."): needs an initial team response (111 days old)
 
-  [19820](https://github.com/microsoft/vscode-python/issues/19820 "Debug output for test discovery has misleading argument"): needs an initial team response (104 days old)
+  [19820](https://github.com/microsoft/vscode-python/issues/19820 "Debug output for test discovery has misleading argument"): needs an initial team response (111 days old)
 
-  [19857](https://github.com/microsoft/vscode-python/issues/19857 "After switching to devcontainer (based on 3.10-bullseye python) can't  go to test or run test"): needs an initial team response (97 days old)
+  [19857](https://github.com/microsoft/vscode-python/issues/19857 "After switching to devcontainer (based on 3.10-bullseye python) can't  go to test or run test"): needs an initial team response (104 days old)
 
-  [19864](https://github.com/microsoft/vscode-python/issues/19864 "Pytest test discovery over SSH does not work"): needs an initial team response (96 days old)
+  [19864](https://github.com/microsoft/vscode-python/issues/19864 "Pytest test discovery over SSH does not work"): needs an initial team response (103 days old)
 
-  [19918](https://github.com/microsoft/vscode-python/issues/19918 "PyTest optional args don't support wildcards"): needs an initial team response (88 days old)
+  [19918](https://github.com/microsoft/vscode-python/issues/19918 "PyTest optional args don't support wildcards"): needs an initial team response (95 days old)
 
-  [19929](https://github.com/microsoft/vscode-python/issues/19929 "Failed to load message bundle in debug function"): needs an initial team response (84 days old)
+  [19929](https://github.com/microsoft/vscode-python/issues/19929 "Failed to load message bundle in debug function"): needs an initial team response (91 days old)
 
-  [19985](https://github.com/microsoft/vscode-python/issues/19985 " Default to --no-cov when debugging pytest"): needs an initial team response (75 days old)
+  [19985](https://github.com/microsoft/vscode-python/issues/19985 " Default to --no-cov when debugging pytest"): needs an initial team response (82 days old)
 
-  [20349](https://github.com/microsoft/vscode-python/issues/20349 "No IntelliSense in Jupyter Notebooks unless explicitly set python.languageServer to Jedi"): needs an initial team response (17 days old)
+  [20349](https://github.com/microsoft/vscode-python/issues/20349 "No IntelliSense in Jupyter Notebooks unless explicitly set python.languageServer to Jedi"): needs an initial team response (24 days old)
 
-  [20367](https://github.com/microsoft/vscode-python/issues/20367 "Issue with Untrusted to Trusted Workspaces in Jupyter Notebooks"): needs an initial team response (26 days old)
+  [20367](https://github.com/microsoft/vscode-python/issues/20367 "Issue with Untrusted to Trusted Workspaces in Jupyter Notebooks"): needs an initial team response (33 days old)
 
-  [20420](https://github.com/microsoft/vscode-python/issues/20420 "Failed to start the Kernal. Python extension is not exporting the jupyter API."): needs an initial team response (5 days old)
+  [20420](https://github.com/microsoft/vscode-python/issues/20420 "Failed to start the Kernal. Python extension is not exporting the jupyter API."): needs an initial team response (12 days old)
 
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-  [4911](https://github.com/microsoft/vscode-python/issues/4911 "Escape pytest in zsh terminal when debuging the tests"): OP responded 1360 days ago but team last responded 1361 days ago
+  [4911](https://github.com/microsoft/vscode-python/issues/4911 "Escape pytest in zsh terminal when debuging the tests"): OP responded 1367 days ago but team last responded 1368 days ago
 
-  [5506](https://github.com/microsoft/vscode-python/issues/5506 "Python Environment file with more than a few recursive entries breaks debugging"): OP responded 1315 days ago but team last responded 1315 days ago
+  [5506](https://github.com/microsoft/vscode-python/issues/5506 "Python Environment file with more than a few recursive entries breaks debugging"): OP responded 1322 days ago but team last responded 1322 days ago
 
-  [6881](https://github.com/microsoft/vscode-python/issues/6881 "Unittest framework : Automatic test discovery not working if test has a relative import"): OP responded 1139 days ago but team last responded 1228 days ago
+  [6881](https://github.com/microsoft/vscode-python/issues/6881 "Unittest framework : Automatic test discovery not working if test has a relative import"): OP responded 1146 days ago but team last responded 1235 days ago
 
-  [7042](https://github.com/microsoft/vscode-python/issues/7042 "Setting `python.sortImports.path` to `isort` or setting it to a relative path does not work from within virtual environment"): OP responded 31 days ago but team last responded 229 days ago
+  [7042](https://github.com/microsoft/vscode-python/issues/7042 "Setting `python.sortImports.path` to `isort` or setting it to a relative path does not work from within virtual environment"): OP responded 38 days ago but team last responded 236 days ago
 
-  [9347](https://github.com/microsoft/vscode-python/issues/9347 "Spawn for running test discovery is not following symlinks properly."): OP responded 522 days ago but team last responded 1076 days ago
+  [9347](https://github.com/microsoft/vscode-python/issues/9347 "Spawn for running test discovery is not following symlinks properly."): OP responded 529 days ago but team last responded 1083 days ago
 
-  [10398](https://github.com/microsoft/vscode-python/issues/10398 "Debug of parametrized pytest fails to find test when using zsh shells"): OP responded 1019 days ago but team last responded 1025 days ago
+  [10398](https://github.com/microsoft/vscode-python/issues/10398 "Debug of parametrized pytest fails to find test when using zsh shells"): OP responded 1026 days ago but team last responded 1032 days ago
 
-  [11001](https://github.com/microsoft/vscode-python/issues/11001 "using black as formatter will need two runs on four+ newlines"): OP responded 782 days ago but team last responded 986 days ago
+  [11001](https://github.com/microsoft/vscode-python/issues/11001 "using black as formatter will need two runs on four+ newlines"): OP responded 789 days ago but team last responded 993 days ago
 
-  [11324](https://github.com/microsoft/vscode-python/issues/11324 "conda environment fails to load properly on remote machine"): OP responded 975 days ago but team last responded 975 days ago
+  [11324](https://github.com/microsoft/vscode-python/issues/11324 "conda environment fails to load properly on remote machine"): OP responded 982 days ago but team last responded 982 days ago
 
-  [12230](https://github.com/microsoft/vscode-python/issues/12230 "Python extension does not correctly load (or error out) when remote drops and is reconnected"): OP responded 476 days ago but team last responded 928 days ago
+  [12230](https://github.com/microsoft/vscode-python/issues/12230 "Python extension does not correctly load (or error out) when remote drops and is reconnected"): OP responded 483 days ago but team last responded 935 days ago
 
-  [12420](https://github.com/microsoft/vscode-python/issues/12420 "Debugging pytest tests ignore the set .env file"): OP responded 871 days ago but team last responded 915 days ago
+  [12420](https://github.com/microsoft/vscode-python/issues/12420 "Debugging pytest tests ignore the set .env file"): OP responded 878 days ago but team last responded 922 days ago
 
-  [12625](https://github.com/microsoft/vscode-python/issues/12625 "Debug Test in vscode fails inside container"): OP responded 905 days ago but team last responded 906 days ago
+  [12625](https://github.com/microsoft/vscode-python/issues/12625 "Debug Test in vscode fails inside container"): OP responded 912 days ago but team last responded 913 days ago
 
-  [12887](https://github.com/microsoft/vscode-python/issues/12887 "Could not find tests pytests with pytest.ini"): OP responded 887 days ago but team last responded 887 days ago
+  [12887](https://github.com/microsoft/vscode-python/issues/12887 "Could not find tests pytests with pytest.ini"): OP responded 894 days ago but team last responded 894 days ago
 
-  [13464](https://github.com/microsoft/vscode-python/issues/13464 "'conda activate base' error with default, exclusive Anaconda install"): OP responded 348 days ago but team last responded 594 days ago
+  [13464](https://github.com/microsoft/vscode-python/issues/13464 "'conda activate base' error with default, exclusive Anaconda install"): OP responded 355 days ago but team last responded 601 days ago
 
-  [13689](https://github.com/microsoft/vscode-python/issues/13689 "pytest doubles %PYTHONPATH% in a debug run"): OP responded 844 days ago but team last responded 844 days ago
+  [13689](https://github.com/microsoft/vscode-python/issues/13689 "pytest doubles %PYTHONPATH% in a debug run"): OP responded 851 days ago but team last responded 851 days ago
 
-  [13749](https://github.com/microsoft/vscode-python/issues/13749 "${workspaceFolder} and ${env:PYTHONPATH} in PYTHONPATH in env file not resolved during test discovery"): OP responded 843 days ago but team last responded 844 days ago
+  [13749](https://github.com/microsoft/vscode-python/issues/13749 "${workspaceFolder} and ${env:PYTHONPATH} in PYTHONPATH in env file not resolved during test discovery"): OP responded 850 days ago but team last responded 851 days ago
 
-  [14820](https://github.com/microsoft/vscode-python/issues/14820 "Debug adapter doesn't send pathMappings to local container"): OP responded 748 days ago but team last responded 748 days ago
+  [14820](https://github.com/microsoft/vscode-python/issues/14820 "Debug adapter doesn't send pathMappings to local container"): OP responded 755 days ago but team last responded 755 days ago
 
-  [16019](https://github.com/microsoft/vscode-python/issues/16019 "Virtual environment not activated before running pytest (or other tools) via the extension"): OP responded 604 days ago but team last responded 612 days ago
+  [16019](https://github.com/microsoft/vscode-python/issues/16019 "Virtual environment not activated before running pytest (or other tools) via the extension"): OP responded 611 days ago but team last responded 619 days ago
 
-  [16150](https://github.com/microsoft/vscode-python/issues/16150 "Pylance ignoring linting.pylintEnabled parameter"): OP responded 585 days ago but team last responded 587 days ago
+  [16150](https://github.com/microsoft/vscode-python/issues/16150 "Pylance ignoring linting.pylintEnabled parameter"): OP responded 592 days ago but team last responded 594 days ago
 
-  [16231](https://github.com/microsoft/vscode-python/issues/16231 "Interpreter does not show base pyenv versions when the env dirs are symbolic links"): OP responded 226 days ago but team last responded 376 days ago
+  [16231](https://github.com/microsoft/vscode-python/issues/16231 "Interpreter does not show base pyenv versions when the env dirs are symbolic links"): OP responded 233 days ago but team last responded 383 days ago
 
-  [16705](https://github.com/microsoft/vscode-python/issues/16705 "Test Discovery assumes wrong encoding for stdout"): OP responded 185 days ago but team last responded 417 days ago
+  [16705](https://github.com/microsoft/vscode-python/issues/16705 "Test Discovery assumes wrong encoding for stdout"): OP responded 192 days ago but team last responded 424 days ago
 
-  [17100](https://github.com/microsoft/vscode-python/issues/17100 "Error discovering pytest too aggressive"): OP responded 488 days ago but team last responded 488 days ago
+  [17100](https://github.com/microsoft/vscode-python/issues/17100 "Error discovering pytest too aggressive"): OP responded 495 days ago but team last responded 495 days ago
 
-  [17331](https://github.com/microsoft/vscode-python/issues/17331 "Python testing UI does not allow you run all the tests in the file"): OP responded 472 days ago but team last responded 473 days ago
+  [17331](https://github.com/microsoft/vscode-python/issues/17331 "Python testing UI does not allow you run all the tests in the file"): OP responded 479 days ago but team last responded 480 days ago
 
-  [17414](https://github.com/microsoft/vscode-python/issues/17414 "Folders named 'py' result in &quot;Test result not found&quot;"): OP responded 416 days ago but team last responded 438 days ago
+  [17414](https://github.com/microsoft/vscode-python/issues/17414 "Folders named 'py' result in &quot;Test result not found&quot;"): OP responded 423 days ago but team last responded 445 days ago
 
-  [17641](https://github.com/microsoft/vscode-python/issues/17641 "Unittest id parsing fails when using `testscenarios` "): OP responded 294 days ago but team last responded 396 days ago
+  [17641](https://github.com/microsoft/vscode-python/issues/17641 "Unittest id parsing fails when using `testscenarios` "): OP responded 301 days ago but team last responded 403 days ago
 
-  [17644](https://github.com/microsoft/vscode-python/issues/17644 "[BUG] Debugging with purpose ignored in user/workspace settings."): OP responded 381 days ago but team last responded 445 days ago
+  [17644](https://github.com/microsoft/vscode-python/issues/17644 "[BUG] Debugging with purpose ignored in user/workspace settings."): OP responded 388 days ago but team last responded 452 days ago
 
-  [17659](https://github.com/microsoft/vscode-python/issues/17659 "Option &quot;execute in file dir&quot; ignored when use play button &quot;debug python file in terminal&quot;"): OP responded 433 days ago but team last responded 443 days ago
+  [17659](https://github.com/microsoft/vscode-python/issues/17659 "Option &quot;execute in file dir&quot; ignored when use play button &quot;debug python file in terminal&quot;"): OP responded 440 days ago but team last responded 450 days ago
 
-  [17777](https://github.com/microsoft/vscode-python/issues/17777 "Jedi LS: Cannot disable language server linting"): OP responded 373 days ago but team last responded 433 days ago
+  [17777](https://github.com/microsoft/vscode-python/issues/17777 "Jedi LS: Cannot disable language server linting"): OP responded 380 days ago but team last responded 440 days ago
 
-  [18030](https://github.com/microsoft/vscode-python/issues/18030 "&quot;Test result not found&quot; if cwd is a subdirectory in the workspace"): OP responded 404 days ago but team last responded 405 days ago
+  [18030](https://github.com/microsoft/vscode-python/issues/18030 "&quot;Test result not found&quot; if cwd is a subdirectory in the workspace"): OP responded 411 days ago but team last responded 412 days ago
 
-  [18778](https://github.com/microsoft/vscode-python/issues/18778 "Read test debug configuration from settings not just launch.json"): OP responded 271 days ago but team last responded 271 days ago
+  [18778](https://github.com/microsoft/vscode-python/issues/18778 "Read test debug configuration from settings not just launch.json"): OP responded 278 days ago but team last responded 278 days ago
 
-  [18821](https://github.com/microsoft/vscode-python/issues/18821 "Test result not found for parameterized test with func as argument"): OP responded 269 days ago but team last responded 269 days ago
+  [18821](https://github.com/microsoft/vscode-python/issues/18821 "Test result not found for parameterized test with func as argument"): OP responded 276 days ago but team last responded 276 days ago
 
-  [18961](https://github.com/microsoft/vscode-python/issues/18961 "Error [object Object] when using unittest Test Debugging"): OP responded 142 days ago but team last responded 247 days ago
+  [18961](https://github.com/microsoft/vscode-python/issues/18961 "Error [object Object] when using unittest Test Debugging"): OP responded 149 days ago but team last responded 254 days ago
 
-  [18988](https://github.com/microsoft/vscode-python/issues/18988 "$PATH ordering is wrong when running with Python debugger."): OP responded 244 days ago but team last responded 244 days ago
+  [18988](https://github.com/microsoft/vscode-python/issues/18988 "$PATH ordering is wrong when running with Python debugger."): OP responded 251 days ago but team last responded 251 days ago
 
-  [19486](https://github.com/microsoft/vscode-python/issues/19486 " Test Discovery fails with ModuleNotFoundError while command is working on console"): OP responded 146 days ago but team last responded 160 days ago
+  [19486](https://github.com/microsoft/vscode-python/issues/19486 " Test Discovery fails with ModuleNotFoundError while command is working on console"): OP responded 153 days ago but team last responded 167 days ago
 
-  [19499](https://github.com/microsoft/vscode-python/issues/19499 "VSCode运行Python程序提示：ModuleNotFoundError，VSCode未找到导入的自定义的模块，只能手动向sys.path中把项目路径添加，但十分麻烦；Pycharm运行时会自动把项目经路添加至sys.path，开发者无需这般麻烦操作"): OP responded 158 days ago but team last responded 158 days ago
+  [19499](https://github.com/microsoft/vscode-python/issues/19499 "VSCode运行Python程序提示：ModuleNotFoundError，VSCode未找到导入的自定义的模块，只能手动向sys.path中把项目路径添加，但十分麻烦；Pycharm运行时会自动把项目经路添加至sys.path，开发者无需这般麻烦操作"): OP responded 165 days ago but team last responded 165 days ago
 
-  [19595](https://github.com/microsoft/vscode-python/issues/19595 "python unittests in one file report wont run"): OP responded 146 days ago but team last responded 146 days ago
+  [19595](https://github.com/microsoft/vscode-python/issues/19595 "python unittests in one file report wont run"): OP responded 153 days ago but team last responded 153 days ago
 
-  [19643](https://github.com/microsoft/vscode-python/issues/19643 "Python unit tests are not discovered if the conda environment has an explicit dependency on conda"): OP responded 132 days ago but team last responded 137 days ago
+  [19643](https://github.com/microsoft/vscode-python/issues/19643 "Python unit tests are not discovered if the conda environment has an explicit dependency on conda"): OP responded 139 days ago but team last responded 144 days ago
 
-  [19789](https://github.com/microsoft/vscode-python/issues/19789 "BUG: can't discover pytest tests because of ValueError: sourece code string cannot contain null bytes"): OP responded 109 days ago but team last responded 109 days ago
+  [19789](https://github.com/microsoft/vscode-python/issues/19789 "BUG: can't discover pytest tests because of ValueError: sourece code string cannot contain null bytes"): OP responded 116 days ago but team last responded 116 days ago
 
-  [19804](https://github.com/microsoft/vscode-python/issues/19804 "unexpected situation while processing a pytest node during test discovery"): OP responded 104 days ago but team last responded 107 days ago
+  [19804](https://github.com/microsoft/vscode-python/issues/19804 "unexpected situation while processing a pytest node during test discovery"): OP responded 111 days ago but team last responded 114 days ago
 
-  [19933](https://github.com/microsoft/vscode-python/issues/19933 "Conda install prompt missing reload step "): OP responded 10 days ago but team last responded 10 days ago
+  [19933](https://github.com/microsoft/vscode-python/issues/19933 "Conda install prompt missing reload step "): OP responded 17 days ago but team last responded 17 days ago
 
-  [20007](https://github.com/microsoft/vscode-python/issues/20007 "Bug on Debug testing restart"): OP responded 6 days ago but team last responded 72 days ago
+  [20007](https://github.com/microsoft/vscode-python/issues/20007 "Bug on Debug testing restart"): OP responded 13 days ago but team last responded 79 days ago
 
-  [20044](https://github.com/microsoft/vscode-python/issues/20044 "Integrated problems output doesn't support --show-error-end mypy option"): OP responded 50 days ago but team last responded 51 days ago
+  [20044](https://github.com/microsoft/vscode-python/issues/20044 "Integrated problems output doesn't support --show-error-end mypy option"): OP responded 57 days ago but team last responded 58 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-  [4300](https://github.com/microsoft/vscode-python/issues/4300 "Activate environment before debugging tests"): 3rd party responded 40 days ago but team last responded 150 days ago
+  [4300](https://github.com/microsoft/vscode-python/issues/4300 "Activate environment before debugging tests"): 3rd party responded 47 days ago but team last responded 157 days ago
 
-  [4334](https://github.com/microsoft/vscode-python/issues/4334 "Error running test with pytest"): 3rd party responded 593 days ago but team last responded 879 days ago
+  [4334](https://github.com/microsoft/vscode-python/issues/4334 "Error running test with pytest"): 3rd party responded 600 days ago but team last responded 886 days ago
 
-  [4963](https://github.com/microsoft/vscode-python/issues/4963 "Status of tests marked with pytest.mark.xfail are showing as unknown "): 3rd party responded 74 days ago but team last responded 697 days ago
+  [4963](https://github.com/microsoft/vscode-python/issues/4963 "Status of tests marked with pytest.mark.xfail are showing as unknown "): 3rd party responded 81 days ago but team last responded 704 days ago
 
-  [5252](https://github.com/microsoft/vscode-python/issues/5252 "python.unitTest.cwd no effect?"): 3rd party responded 468 days ago but team last responded 1180 days ago
+  [5252](https://github.com/microsoft/vscode-python/issues/5252 "python.unitTest.cwd no effect?"): 3rd party responded 475 days ago but team last responded 1187 days ago
 
-  [6891](https://github.com/microsoft/vscode-python/issues/6891 "Pytest running doesn't take into consideration env."): 3rd party responded 79 days ago but team last responded 704 days ago
+  [6891](https://github.com/microsoft/vscode-python/issues/6891 "Pytest running doesn't take into consideration env."): 3rd party responded 86 days ago but team last responded 711 days ago
 
-  [6994](https://github.com/microsoft/vscode-python/issues/6994 "Tests not discovered when using --black or --pylama in setup.cfg"): 3rd party responded 1206 days ago but team last responded 1223 days ago
+  [6994](https://github.com/microsoft/vscode-python/issues/6994 "Tests not discovered when using --black or --pylama in setup.cfg"): 3rd party responded 1213 days ago but team last responded 1230 days ago
 
-  [7055](https://github.com/microsoft/vscode-python/issues/7055 "Pytest doesn't exit properly when stopping test sessions"): 3rd party responded 55 days ago but team last responded 430 days ago
+  [7055](https://github.com/microsoft/vscode-python/issues/7055 "Pytest doesn't exit properly when stopping test sessions"): 3rd party responded 62 days ago but team last responded 437 days ago
 
-  [7283](https://github.com/microsoft/vscode-python/issues/7283 "Terminal doesn't use custom bash profile when debugging"): 3rd party responded 320 days ago but team last responded 958 days ago
+  [7283](https://github.com/microsoft/vscode-python/issues/7283 "Terminal doesn't use custom bash profile when debugging"): 3rd party responded 327 days ago but team last responded 965 days ago
 
-  [8034](https://github.com/microsoft/vscode-python/issues/8034 "pytest test discovery fails on doctests for properties"): 3rd party responded 1153 days ago but team last responded 1160 days ago
+  [8034](https://github.com/microsoft/vscode-python/issues/8034 "pytest test discovery fails on doctests for properties"): 3rd party responded 1160 days ago but team last responded 1167 days ago
 
-  [8945](https://github.com/microsoft/vscode-python/issues/8945 "Run Selected Text in Active Terminal gives IndentationError with IPython"): 3rd party responded 342 days ago but team last responded 438 days ago
+  [8945](https://github.com/microsoft/vscode-python/issues/8945 "Run Selected Text in Active Terminal gives IndentationError with IPython"): 3rd party responded 349 days ago but team last responded 445 days ago
 
-  [9185](https://github.com/microsoft/vscode-python/issues/9185 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`"): 3rd party responded 36 days ago but team last responded 85 days ago
+  [9185](https://github.com/microsoft/vscode-python/issues/9185 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`"): 3rd party responded 43 days ago but team last responded 92 days ago
 
-  [10722](https://github.com/microsoft/vscode-python/issues/10722 "Debugging test in VS Code does not work"): 3rd party responded 123 days ago but team last responded 184 days ago
+  [10722](https://github.com/microsoft/vscode-python/issues/10722 "Debugging test in VS Code does not work"): 3rd party responded 130 days ago but team last responded 191 days ago
 
-  [10827](https://github.com/microsoft/vscode-python/issues/10827 "The &quot;-m&quot; option is ignored in python.testing.pytestArgs"): 3rd party responded 10 days ago but team last responded 999 days ago
+  [10827](https://github.com/microsoft/vscode-python/issues/10827 "The &quot;-m&quot; option is ignored in python.testing.pytestArgs"): 3rd party responded 17 days ago but team last responded 1006 days ago
 
-  [11363](https://github.com/microsoft/vscode-python/issues/11363 "testlauncher.py overwrites sys.path"): 3rd party responded 955 days ago but team last responded 976 days ago
+  [11363](https://github.com/microsoft/vscode-python/issues/11363 "testlauncher.py overwrites sys.path"): 3rd party responded 962 days ago but team last responded 983 days ago
 
-  [11399](https://github.com/microsoft/vscode-python/issues/11399 "Unable to automatically install library due to spaces in username when using Gitbash"): 3rd party responded 682 days ago but team last responded 824 days ago
+  [11399](https://github.com/microsoft/vscode-python/issues/11399 "Unable to automatically install library due to spaces in username when using Gitbash"): 3rd party responded 689 days ago but team last responded 831 days ago
 
-  [11562](https://github.com/microsoft/vscode-python/issues/11562 "Unable to debug tests when using zsh"): 3rd party responded 439 days ago but team last responded 965 days ago
+  [11562](https://github.com/microsoft/vscode-python/issues/11562 "Unable to debug tests when using zsh"): 3rd party responded 446 days ago but team last responded 972 days ago
 
-  [11669](https://github.com/microsoft/vscode-python/issues/11669 "`python.testing.cwd` does not work properly"): 3rd party responded 288 days ago but team last responded 951 days ago
+  [11669](https://github.com/microsoft/vscode-python/issues/11669 "`python.testing.cwd` does not work properly"): 3rd party responded 295 days ago but team last responded 958 days ago
 
-  [11736](https://github.com/microsoft/vscode-python/issues/11736 "Argument filtering for pytest fails to handle custom arguments"): 3rd party responded 198 days ago but team last responded 314 days ago
+  [11736](https://github.com/microsoft/vscode-python/issues/11736 "Argument filtering for pytest fails to handle custom arguments"): 3rd party responded 205 days ago but team last responded 321 days ago
 
-  [12362](https://github.com/microsoft/vscode-python/issues/12362 "Log error if YAPF formatting fails"): 3rd party responded 263 days ago but team last responded 916 days ago
+  [12362](https://github.com/microsoft/vscode-python/issues/12362 "Log error if YAPF formatting fails"): 3rd party responded 270 days ago but team last responded 923 days ago
 
-  [14136](https://github.com/microsoft/vscode-python/issues/14136 "Disable import sorting for virtualenv"): 3rd party responded 3 days ago but team last responded 3 days ago
+  [14136](https://github.com/microsoft/vscode-python/issues/14136 "Disable import sorting for virtualenv"): 3rd party responded 10 days ago but team last responded 10 days ago
 
-  [14702](https://github.com/microsoft/vscode-python/issues/14702 "Sorting imports with isort conflicts with .pyi files"): 3rd party responded 47 days ago but team last responded 453 days ago
+  [14702](https://github.com/microsoft/vscode-python/issues/14702 "Sorting imports with isort conflicts with .pyi files"): 3rd party responded 54 days ago but team last responded 460 days ago
 
-  [15062](https://github.com/microsoft/vscode-python/issues/15062 "Pytest: Unable to run tests for non-installed modules"): 3rd party responded 572 days ago but team last responded 685 days ago
+  [15062](https://github.com/microsoft/vscode-python/issues/15062 "Pytest: Unable to run tests for non-installed modules"): 3rd party responded 579 days ago but team last responded 692 days ago
 
-  [16079](https://github.com/microsoft/vscode-python/issues/16079 "Pytest args --rootdir is broken"): 3rd party responded 417 days ago but team last responded 605 days ago
+  [16079](https://github.com/microsoft/vscode-python/issues/16079 "Pytest args --rootdir is broken"): 3rd party responded 424 days ago but team last responded 612 days ago
 
-  [16511](https://github.com/microsoft/vscode-python/issues/16511 "mypy --exclude not working in settings.json"): 3rd party responded 297 days ago but team last responded 524 days ago
+  [16511](https://github.com/microsoft/vscode-python/issues/16511 "mypy --exclude not working in settings.json"): 3rd party responded 304 days ago but team last responded 531 days ago
 
-  [16786](https://github.com/microsoft/vscode-python/issues/16786 "Test dicovery doesn't provide feedback on failure"): 3rd party responded 509 days ago but team last responded 509 days ago
+  [16786](https://github.com/microsoft/vscode-python/issues/16786 "Test dicovery doesn't provide feedback on failure"): 3rd party responded 516 days ago but team last responded 516 days ago
 
-  [17340](https://github.com/microsoft/vscode-python/issues/17340 "pytest.mark.parametrize should not trigger multiple pytest instances"): 3rd party responded 177 days ago but team last responded 459 days ago
+  [17340](https://github.com/microsoft/vscode-python/issues/17340 "pytest.mark.parametrize should not trigger multiple pytest instances"): 3rd party responded 184 days ago but team last responded 466 days ago
 
-  [17371](https://github.com/microsoft/vscode-python/issues/17371 "Open correct position in `Pytest Test Log` with a single click on any test"): 3rd party responded 297 days ago but team last responded 471 days ago
+  [17371](https://github.com/microsoft/vscode-python/issues/17371 "Open correct position in `Pytest Test Log` with a single click on any test"): 3rd party responded 304 days ago but team last responded 478 days ago
 
-  [17676](https://github.com/microsoft/vscode-python/issues/17676 "should_never_reach_here for particular test case when parametrized test has unmatched brackets or parenthesis"): 3rd party responded 416 days ago but team last responded 433 days ago
+  [17676](https://github.com/microsoft/vscode-python/issues/17676 "should_never_reach_here for particular test case when parametrized test has unmatched brackets or parenthesis"): 3rd party responded 423 days ago but team last responded 440 days ago
 
-  [17859](https://github.com/microsoft/vscode-python/issues/17859 "Process picker dropdown does not show on WSL environment."): 3rd party responded 54 days ago but team last responded 283 days ago
+  [17859](https://github.com/microsoft/vscode-python/issues/17859 "Process picker dropdown does not show on WSL environment."): 3rd party responded 61 days ago but team last responded 290 days ago
 
-  [18189](https://github.com/microsoft/vscode-python/issues/18189 "The link is invalid when debugging in docker. "): 3rd party responded 250 days ago but team last responded 270 days ago
+  [18189](https://github.com/microsoft/vscode-python/issues/18189 "The link is invalid when debugging in docker. "): 3rd party responded 257 days ago but team last responded 277 days ago
 
-  [18431](https://github.com/microsoft/vscode-python/issues/18431 "Pytest discovery fails if something is printed to stderr"): 3rd party responded 34 days ago but team last responded 236 days ago
+  [18431](https://github.com/microsoft/vscode-python/issues/18431 "Pytest discovery fails if something is printed to stderr"): 3rd party responded 41 days ago but team last responded 243 days ago
 
-  [19891](https://github.com/microsoft/vscode-python/issues/19891 "Wrong use of quick pick title and placeholder"): 3rd party responded 89 days ago but team last responded 89 days ago
+  [19891](https://github.com/microsoft/vscode-python/issues/19891 "Wrong use of quick pick title and placeholder"): 3rd party responded 96 days ago but team last responded 96 days ago
 
-  [20253](https://github.com/microsoft/vscode-python/issues/20253 "With Python 3.11.0, PyInt_FromLong not found is spammed in terminal"): 3rd party responded 10 days ago but team last responded 33 days ago
+\* [20253](https://github.com/microsoft/vscode-python/issues/20253 "With Python 3.11.0, PyInt_FromLong not found is spammed in terminal"): 3rd party responded 1 days ago but team last responded 40 days ago
 
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-  [2408](https://github.com/microsoft/vscode-python/issues/2408 "Python: Run Current Unit Test File throws error if junitxml argument is used"): team response was last response and no others in 1560 days
+  [2408](https://github.com/microsoft/vscode-python/issues/2408 "Python: Run Current Unit Test File throws error if junitxml argument is used"): team response was last response and no others in 1567 days
 
-  [3305](https://github.com/microsoft/vscode-python/issues/3305 "visualstudio_py_testlauncher.py - format_exception() missing 3 required positional arguments: 'etype', 'value', and 'tb'"): team response was last response and no others in 884 days
+  [3305](https://github.com/microsoft/vscode-python/issues/3305 "visualstudio_py_testlauncher.py - format_exception() missing 3 required positional arguments: 'etype', 'value', and 'tb'"): team response was last response and no others in 891 days
 
-  [4863](https://github.com/microsoft/vscode-python/issues/4863 "Parse the notes output of MyPy to associate them with the error or warning they accompany"): team response was last response and no others in 884 days
+  [4863](https://github.com/microsoft/vscode-python/issues/4863 "Parse the notes output of MyPy to associate them with the error or warning they accompany"): team response was last response and no others in 891 days
 
-  [5095](https://github.com/microsoft/vscode-python/issues/5095 "Failed to discover test case if import external Class and use the class attributes before case"): team response was last response and no others in 1349 days
+  [5095](https://github.com/microsoft/vscode-python/issues/5095 "Failed to discover test case if import external Class and use the class attributes before case"): team response was last response and no others in 1356 days
 
-  [5721](https://github.com/microsoft/vscode-python/issues/5721 "Unittest args doesn't support -t flag "): team response was last response and no others in 429 days
+  [5721](https://github.com/microsoft/vscode-python/issues/5721 "Unittest args doesn't support -t flag "): team response was last response and no others in 436 days
 
-  [6919](https://github.com/microsoft/vscode-python/issues/6919 "can't disable quote autocompletion for Python prefixed string literals"): team response was last response and no others in 1230 days
+  [6919](https://github.com/microsoft/vscode-python/issues/6919 "can't disable quote autocompletion for Python prefixed string literals"): team response was last response and no others in 1237 days
 
-  [9830](https://github.com/microsoft/vscode-python/issues/9830 "Set the path (CWD) for formatters to the project root"): team response was last response and no others in 1046 days
+  [9830](https://github.com/microsoft/vscode-python/issues/9830 "Set the path (CWD) for formatters to the project root"): team response was last response and no others in 1053 days
 
-  [10529](https://github.com/microsoft/vscode-python/issues/10529 "Python 2.7 raw_input() bug"): team response was last response and no others in 1017 days
+  [10529](https://github.com/microsoft/vscode-python/issues/10529 "Python 2.7 raw_input() bug"): team response was last response and no others in 1024 days
 
-  [11915](https://github.com/microsoft/vscode-python/issues/11915 "launch envFile cannot use the variable ${fileDirname}"): team response was last response and no others in 830 days
+  [11915](https://github.com/microsoft/vscode-python/issues/11915 "launch envFile cannot use the variable ${fileDirname}"): team response was last response and no others in 837 days
 
-  [12749](https://github.com/microsoft/vscode-python/issues/12749 "Pytest Unable To Discover Tests When There Is A Space In The Directory Name"): team response was last response and no others in 901 days
+  [12749](https://github.com/microsoft/vscode-python/issues/12749 "Pytest Unable To Discover Tests When There Is A Space In The Directory Name"): team response was last response and no others in 908 days
 
-  [13575](https://github.com/microsoft/vscode-python/issues/13575 "&quot;Select Interpreter&quot; can't correct merge 8.3 format python path on Windows"): team response was last response and no others in 853 days
+  [13575](https://github.com/microsoft/vscode-python/issues/13575 "&quot;Select Interpreter&quot; can't correct merge 8.3 format python path on Windows"): team response was last response and no others in 860 days
 
-  [13961](https://github.com/microsoft/vscode-python/issues/13961 "Exclude *.map files from shipped extension"): team response was last response and no others in 795 days
+  [13961](https://github.com/microsoft/vscode-python/issues/13961 "Exclude *.map files from shipped extension"): team response was last response and no others in 802 days
 
-  [14869](https://github.com/microsoft/vscode-python/issues/14869 "Formatting with black deletes lines when there are form feed characters ^L"): team response was last response and no others in 628 days
+  [14869](https://github.com/microsoft/vscode-python/issues/14869 "Formatting with black deletes lines when there are form feed characters ^L"): team response was last response and no others in 635 days
 
-  [14950](https://github.com/microsoft/vscode-python/issues/14950 "Variable substitution not working in environment variable definitions file"): team response was last response and no others in 641 days
+  [14950](https://github.com/microsoft/vscode-python/issues/14950 "Variable substitution not working in environment variable definitions file"): team response was last response and no others in 648 days
 
-  [15812](https://github.com/microsoft/vscode-python/issues/15812 "Multi-root workspace test discovery error with virtualenvs in monorepo setup"): team response was last response and no others in 634 days
+  [15812](https://github.com/microsoft/vscode-python/issues/15812 "Multi-root workspace test discovery error with virtualenvs in monorepo setup"): team response was last response and no others in 641 days
 
-  [16308](https://github.com/microsoft/vscode-python/issues/16308 "Look into deprecating `python.linting.enabled`"): team response was last response and no others in 269 days
+  [16308](https://github.com/microsoft/vscode-python/issues/16308 "Look into deprecating `python.linting.enabled`"): team response was last response and no others in 276 days
 
-  [16525](https://github.com/microsoft/vscode-python/issues/16525 "Black formatting does not respect --force-exclude when specified, "): team response was last response and no others in 485 days
+  [16525](https://github.com/microsoft/vscode-python/issues/16525 "Black formatting does not respect --force-exclude when specified, "): team response was last response and no others in 492 days
 
-  [16742](https://github.com/microsoft/vscode-python/issues/16742 "Support for pytest plugins that work with non-python files"): team response was last response and no others in 522 days
+  [16742](https://github.com/microsoft/vscode-python/issues/16742 "Support for pytest plugins that work with non-python files"): team response was last response and no others in 529 days
 
-  [16755](https://github.com/microsoft/vscode-python/issues/16755 "&quot;Error: Invalid patch string&quot; when formatting a file using black with colored output"): team response was last response and no others in 250 days
+  [16755](https://github.com/microsoft/vscode-python/issues/16755 "&quot;Error: Invalid patch string&quot; when formatting a file using black with colored output"): team response was last response and no others in 257 days
 
-  [16921](https://github.com/microsoft/vscode-python/issues/16921 "Attach to local process not working through server WSL2, and no log files are generated. "): team response was last response and no others in 502 days
+  [16921](https://github.com/microsoft/vscode-python/issues/16921 "Attach to local process not working through server WSL2, and no log files are generated. "): team response was last response and no others in 509 days
 
-  [16952](https://github.com/microsoft/vscode-python/issues/16952 "Formatting won't work when file path includes &quot;@@&quot;"): team response was last response and no others in 250 days
+  [16952](https://github.com/microsoft/vscode-python/issues/16952 "Formatting won't work when file path includes &quot;@@&quot;"): team response was last response and no others in 257 days
 
-  [17101](https://github.com/microsoft/vscode-python/issues/17101 "Error reporting should be smoother"): team response was last response and no others in 488 days
+  [17101](https://github.com/microsoft/vscode-python/issues/17101 "Error reporting should be smoother"): team response was last response and no others in 495 days
 
-  [17508](https://github.com/microsoft/vscode-python/issues/17508 "Task's new integrated terminals are always revealed when Python extension is active with python.terminal.activateEnvironment set to true"): team response was last response and no others in 447 days
+  [17508](https://github.com/microsoft/vscode-python/issues/17508 "Task's new integrated terminals are always revealed when Python extension is active with python.terminal.activateEnvironment set to true"): team response was last response and no others in 454 days
 
-  [17958](https://github.com/microsoft/vscode-python/issues/17958 "Unittest discovery fail to locate exact line of test with patching"): team response was last response and no others in 388 days
+  [17958](https://github.com/microsoft/vscode-python/issues/17958 "Unittest discovery fail to locate exact line of test with patching"): team response was last response and no others in 395 days
 
-  [18119](https://github.com/microsoft/vscode-python/issues/18119 "pytest colored output (with --color=yes) makes the test output log unreadable (by humans)"): team response was last response and no others in 384 days
+  [18119](https://github.com/microsoft/vscode-python/issues/18119 "pytest colored output (with --color=yes) makes the test output log unreadable (by humans)"): team response was last response and no others in 391 days
 
-  [18346](https://github.com/microsoft/vscode-python/issues/18346 "Test runner monopolizes stdin, stdout, stderr"): team response was last response and no others in 335 days
+  [18346](https://github.com/microsoft/vscode-python/issues/18346 "Test runner monopolizes stdin, stdout, stderr"): team response was last response and no others in 342 days
 
-  [18359](https://github.com/microsoft/vscode-python/issues/18359 "Not all tests get recognized"): team response was last response and no others in 332 days
+  [18359](https://github.com/microsoft/vscode-python/issues/18359 "Not all tests get recognized"): team response was last response and no others in 339 days
 
-  [18482](https://github.com/microsoft/vscode-python/issues/18482 "Wrong python interpreter selected in multiroot workspaces when using ${command:python.interpreterPath}"): team response was last response and no others in 319 days
+  [18482](https://github.com/microsoft/vscode-python/issues/18482 "Wrong python interpreter selected in multiroot workspaces when using ${command:python.interpreterPath}"): team response was last response and no others in 326 days
 
-  [18547](https://github.com/microsoft/vscode-python/issues/18547 "Stderr output causes test discovery to show as failed"): team response was last response and no others in 306 days
+  [18547](https://github.com/microsoft/vscode-python/issues/18547 "Stderr output causes test discovery to show as failed"): team response was last response and no others in 313 days
 
-  [18572](https://github.com/microsoft/vscode-python/issues/18572 "Environment variable definitions file substitution does not work when debugging a Python file"): team response was last response and no others in 306 days
+  [18572](https://github.com/microsoft/vscode-python/issues/18572 "Environment variable definitions file substitution does not work when debugging a Python file"): team response was last response and no others in 313 days
 
-  [18577](https://github.com/microsoft/vscode-python/issues/18577 "Nested workspace folders bugs out test explorer"): team response was last response and no others in 304 days
+  [18577](https://github.com/microsoft/vscode-python/issues/18577 "Nested workspace folders bugs out test explorer"): team response was last response and no others in 311 days
 
-  [18622](https://github.com/microsoft/vscode-python/issues/18622 "Error parsing test ids containing paths during pytest test discovery"): team response was last response and no others in 292 days
+  [18622](https://github.com/microsoft/vscode-python/issues/18622 "Error parsing test ids containing paths during pytest test discovery"): team response was last response and no others in 299 days
 
-  [18652](https://github.com/microsoft/vscode-python/issues/18652 "Debug flow"): team response was last response and no others in 292 days
+  [18652](https://github.com/microsoft/vscode-python/issues/18652 "Debug flow"): team response was last response and no others in 299 days
 
-  [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): team response was last response and no others in 101 days
+  [18656](https://github.com/microsoft/vscode-python/issues/18656 "Pytest discovery stuck in Output panel"): team response was last response and no others in 108 days
 
-  [18695](https://github.com/microsoft/vscode-python/issues/18695 "Test result not found for parametrized test with faker"): team response was last response and no others in 268 days
+  [18695](https://github.com/microsoft/vscode-python/issues/18695 "Test result not found for parametrized test with faker"): team response was last response and no others in 275 days
 
-  [18793](https://github.com/microsoft/vscode-python/issues/18793 "&quot;internalConsoleOptions&quot;: &quot;openOnSessionStart&quot; not working out of the box"): team response was last response and no others in 271 days
+  [18793](https://github.com/microsoft/vscode-python/issues/18793 "&quot;internalConsoleOptions&quot;: &quot;openOnSessionStart&quot; not working out of the box"): team response was last response and no others in 278 days
 
-  [18830](https://github.com/microsoft/vscode-python/issues/18830 "pytest: error in one directory affects another directory"): team response was last response and no others in 249 days
+  [18830](https://github.com/microsoft/vscode-python/issues/18830 "pytest: error in one directory affects another directory"): team response was last response and no others in 256 days
 
-  [18844](https://github.com/microsoft/vscode-python/issues/18844 "Test discovery can't add two subdirectories with a third different directory (Multiple raw data nodes had the same id)"): team response was last response and no others in 236 days
+  [18844](https://github.com/microsoft/vscode-python/issues/18844 "Test discovery can't add two subdirectories with a third different directory (Multiple raw data nodes had the same id)"): team response was last response and no others in 243 days
 
-  [18861](https://github.com/microsoft/vscode-python/issues/18861 "file can't find package in venv even it's already enabled"): team response was last response and no others in 236 days
+  [18861](https://github.com/microsoft/vscode-python/issues/18861 "file can't find package in venv even it's already enabled"): team response was last response and no others in 243 days
 
-  [19001](https://github.com/microsoft/vscode-python/issues/19001 "Conda environment unclear dialog actions"): team response was last response and no others in 235 days
+  [19001](https://github.com/microsoft/vscode-python/issues/19001 "Conda environment unclear dialog actions"): team response was last response and no others in 242 days
 
-  [19010](https://github.com/microsoft/vscode-python/issues/19010 "No notification when pylance is uninstalled"): team response was last response and no others in 237 days
+  [19010](https://github.com/microsoft/vscode-python/issues/19010 "No notification when pylance is uninstalled"): team response was last response and no others in 244 days
 
-  [19317](https://github.com/microsoft/vscode-python/issues/19317 "`python.testing.pytestPath` does not work with test discovery."): team response was last response and no others in 130 days
+  [19317](https://github.com/microsoft/vscode-python/issues/19317 "`python.testing.pytestPath` does not work with test discovery."): team response was last response and no others in 137 days
 
-  [19318](https://github.com/microsoft/vscode-python/issues/19318 "Failed pytest includes [undefined] in title"): team response was last response and no others in 118 days
+  [19318](https://github.com/microsoft/vscode-python/issues/19318 "Failed pytest includes [undefined] in title"): team response was last response and no others in 125 days
 
-  [19440](https://github.com/microsoft/vscode-python/issues/19440 "extension callback when debugger has stopped at breakpoint"): team response was last response and no others in 117 days
+  [19440](https://github.com/microsoft/vscode-python/issues/19440 "extension callback when debugger has stopped at breakpoint"): team response was last response and no others in 124 days
 
-  [19500](https://github.com/microsoft/vscode-python/issues/19500 "Discovering tests is massive tests repos with pytest can cause high CPU load."): team response was last response and no others in 158 days
+  [19500](https://github.com/microsoft/vscode-python/issues/19500 "Discovering tests is massive tests repos with pytest can cause high CPU load."): team response was last response and no others in 165 days
 
-  [19646](https://github.com/microsoft/vscode-python/issues/19646 "Lots of `mypy` processed launched after bulk search/replace"): team response was last response and no others in 138 days
+  [19646](https://github.com/microsoft/vscode-python/issues/19646 "Lots of `mypy` processed launched after bulk search/replace"): team response was last response and no others in 145 days
 
-  [20116](https://github.com/microsoft/vscode-python/issues/20116 "hide function only works on some functions"): team response was last response and no others in 58 days
+  [20116](https://github.com/microsoft/vscode-python/issues/20116 "hide function only works on some functions"): team response was last response and no others in 65 days
 
-  [20144](https://github.com/microsoft/vscode-python/issues/20144 "Trouble activating newly created conda environment via &quot;terminal.integrated.profiles.windows&quot; args"): team response was last response and no others in 46 days
+  [20144](https://github.com/microsoft/vscode-python/issues/20144 "Trouble activating newly created conda environment via &quot;terminal.integrated.profiles.windows&quot; args"): team response was last response and no others in 53 days
 
-  [20259](https://github.com/microsoft/vscode-python/issues/20259 "Having PYTHONWARNINGS=default crashes pytest discovery"): team response was last response and no others in 33 days
+  [20259](https://github.com/microsoft/vscode-python/issues/20259 "Having PYTHONWARNINGS=default crashes pytest discovery"): team response was last response and no others in 40 days
 
 ---
 
@@ -317,299 +317,323 @@ Generated on 2022-12-26 using: stale=30, all=1
 ### Issues in vscode-python that need a response from team:
 
 
-  [9639](https://github.com/microsoft/vscode-python/issues/9639 "Library code should be a virtual document"): needs an initial team response (1073 days old)
+  [9639](https://github.com/microsoft/vscode-python/issues/9639 "Library code should be a virtual document"): needs an initial team response (1080 days old)
 
-  [16800](https://github.com/microsoft/vscode-python/issues/16800 "Expose Python APIs for integration with Data Wrangler "): needs an initial team response (516 days old)
+  [16800](https://github.com/microsoft/vscode-python/issues/16800 "Expose Python APIs for integration with Data Wrangler "): needs an initial team response (523 days old)
 
-  [17094](https://github.com/microsoft/vscode-python/issues/17094 "Test discovery flow is unusual/weird"): needs an initial team response (488 days old)
+  [17094](https://github.com/microsoft/vscode-python/issues/17094 "Test discovery flow is unusual/weird"): needs an initial team response (495 days old)
 
-  [17107](https://github.com/microsoft/vscode-python/issues/17107 "Go to Test doesn't work for test class items in Test Explorer"): needs an initial team response (488 days old)
+  [17107](https://github.com/microsoft/vscode-python/issues/17107 "Go to Test doesn't work for test class items in Test Explorer"): needs an initial team response (495 days old)
 
-  [17112](https://github.com/microsoft/vscode-python/issues/17112 "pytest assertions should generate rich diffs"): needs an initial team response (488 days old)
+  [17112](https://github.com/microsoft/vscode-python/issues/17112 "pytest assertions should generate rich diffs"): needs an initial team response (495 days old)
 
-  [17411](https://github.com/microsoft/vscode-python/issues/17411 "Syntax highlighting in the output of tests explorer"): needs an initial team response (467 days old)
+  [17411](https://github.com/microsoft/vscode-python/issues/17411 "Syntax highlighting in the output of tests explorer"): needs an initial team response (474 days old)
 
-  [17439](https://github.com/microsoft/vscode-python/issues/17439 "Implement platform-specific extensions"): needs an initial team response (465 days old)
+  [17439](https://github.com/microsoft/vscode-python/issues/17439 "Implement platform-specific extensions"): needs an initial team response (472 days old)
 
-  [19960](https://github.com/microsoft/vscode-python/issues/19960 "Do not treat cells in Jupyter notebook as individual files when used with Black formatter"): needs an initial team response (80 days old)
+  [19960](https://github.com/microsoft/vscode-python/issues/19960 "Do not treat cells in Jupyter notebook as individual files when used with Black formatter"): needs an initial team response (87 days old)
 
-  [19971](https://github.com/microsoft/vscode-python/issues/19971 "Adopt changes to enable test discovery before &quot;run at cursor&quot;"): needs an initial team response (79 days old)
+  [19971](https://github.com/microsoft/vscode-python/issues/19971 "Adopt changes to enable test discovery before &quot;run at cursor&quot;"): needs an initial team response (86 days old)
 
-  [19978](https://github.com/microsoft/vscode-python/issues/19978 "Improve python test discovery error reporting"): needs an initial team response (76 days old)
+  [19978](https://github.com/microsoft/vscode-python/issues/19978 "Improve python test discovery error reporting"): needs an initial team response (83 days old)
 
-  [20077](https://github.com/microsoft/vscode-python/issues/20077 "Review and Commit Pytest Plugin (without enabling)"): needs an initial team response (60 days old)
+  [20077](https://github.com/microsoft/vscode-python/issues/20077 "Review and Commit Pytest Plugin (without enabling)"): needs an initial team response (67 days old)
 
-  [20078](https://github.com/microsoft/vscode-python/issues/20078 "Finalize Pytest Discovery Logic "): needs an initial team response (60 days old)
+  [20078](https://github.com/microsoft/vscode-python/issues/20078 "Finalize Pytest Discovery Logic "): needs an initial team response (67 days old)
 
-  [20079](https://github.com/microsoft/vscode-python/issues/20079 "Connect Pytest Discovery Plugin to Testing UI"): needs an initial team response (60 days old)
+  [20079](https://github.com/microsoft/vscode-python/issues/20079 "Connect Pytest Discovery Plugin to Testing UI"): needs an initial team response (67 days old)
 
-  [20080](https://github.com/microsoft/vscode-python/issues/20080 "Create Pytest Plugin Call for Run Test"): needs an initial team response (60 days old)
+  [20080](https://github.com/microsoft/vscode-python/issues/20080 "Create Pytest Plugin Call for Run Test"): needs an initial team response (67 days old)
 
-  [20081](https://github.com/microsoft/vscode-python/issues/20081 "Pytest Run Tests Logic"): needs an initial team response (60 days old)
+  [20081](https://github.com/microsoft/vscode-python/issues/20081 "Pytest Run Tests Logic"): needs an initial team response (67 days old)
 
-  [20082](https://github.com/microsoft/vscode-python/issues/20082 "Surface Test Results to UI"): needs an initial team response (60 days old)
+  [20082](https://github.com/microsoft/vscode-python/issues/20082 "Surface Test Results to UI"): needs an initial team response (67 days old)
 
-  [20083](https://github.com/microsoft/vscode-python/issues/20083 "Error Handling Pytest Discovery"): needs an initial team response (60 days old)
+  [20083](https://github.com/microsoft/vscode-python/issues/20083 "Error Handling Pytest Discovery"): needs an initial team response (67 days old)
 
-  [20084](https://github.com/microsoft/vscode-python/issues/20084 "Error Handling Pytest Run"): needs an initial team response (60 days old)
+  [20084](https://github.com/microsoft/vscode-python/issues/20084 "Error Handling Pytest Run"): needs an initial team response (67 days old)
 
-  [20085](https://github.com/microsoft/vscode-python/issues/20085 "Write testing for pytest rewrite"): needs an initial team response (60 days old)
+  [20085](https://github.com/microsoft/vscode-python/issues/20085 "Write testing for pytest rewrite"): needs an initial team response (67 days old)
 
-  [20086](https://github.com/microsoft/vscode-python/issues/20086 "Enable Pytest Rewrite to Users"): needs an initial team response (60 days old)
+  [20086](https://github.com/microsoft/vscode-python/issues/20086 "Enable Pytest Rewrite to Users"): needs an initial team response (67 days old)
 
-  [20139](https://github.com/microsoft/vscode-python/issues/20139 "Allow pasting Excel cells into Python as lists"): needs an initial team response (53 days old)
+  [20139](https://github.com/microsoft/vscode-python/issues/20139 "Allow pasting Excel cells into Python as lists"): needs an initial team response (60 days old)
 
-  [20246](https://github.com/microsoft/vscode-python/issues/20246 "Yapf arguments must be passed without quotes"): needs an initial team response (37 days old)
+  [20246](https://github.com/microsoft/vscode-python/issues/20246 "Yapf arguments must be passed without quotes"): needs an initial team response (44 days old)
 
-  [20263](https://github.com/microsoft/vscode-python/issues/20263 "Spike - verify consistent verbiage within the extension and its documentation"): needs an initial team response (33 days old)
+  [20263](https://github.com/microsoft/vscode-python/issues/20263 "Spike - verify consistent verbiage within the extension and its documentation"): needs an initial team response (40 days old)
 
-  [20297](https://github.com/microsoft/vscode-python/issues/20297 "&quot;Create environment&quot; error message isn't helpful"): needs an initial team response (25 days old)
+  [20297](https://github.com/microsoft/vscode-python/issues/20297 "&quot;Create environment&quot; error message isn't helpful"): needs an initial team response (32 days old)
 
-  [20347](https://github.com/microsoft/vscode-python/issues/20347 "Add a &quot;fold all docstrings&quot; command"): needs an initial team response (17 days old)
+  [20347](https://github.com/microsoft/vscode-python/issues/20347 "Add a &quot;fold all docstrings&quot; command"): needs an initial team response (24 days old)
 
-  [20356](https://github.com/microsoft/vscode-python/issues/20356 "VS Code helper remains running after quitting with high CPU load"): needs an initial team response (18 days old)
+  [20356](https://github.com/microsoft/vscode-python/issues/20356 "VS Code helper remains running after quitting with high CPU load"): needs an initial team response (25 days old)
 
-  [20376](https://github.com/microsoft/vscode-python/issues/20376 "Adopt lifecycleManagedByParent for debug sessions"): needs an initial team response (12 days old)
+  [20376](https://github.com/microsoft/vscode-python/issues/20376 "Adopt lifecycleManagedByParent for debug sessions"): needs an initial team response (19 days old)
 
-  [20422](https://github.com/microsoft/vscode-python/issues/20422 "pytest &quot;Go to Test&quot; open wrong file after moving project folder"): needs an initial team response (3 days old)
+  [20422](https://github.com/microsoft/vscode-python/issues/20422 "pytest &quot;Go to Test&quot; open wrong file after moving project folder"): needs an initial team response (10 days old)
 
-  [20423](https://github.com/microsoft/vscode-python/issues/20423 "Rerun last test was never added?"): needs an initial team response (3 days old)
+  [20423](https://github.com/microsoft/vscode-python/issues/20423 "Rerun last test was never added?"): needs an initial team response (10 days old)
 
-  [20425](https://github.com/microsoft/vscode-python/issues/20425 "Python unittest runner doesn't respect arguments to pass to unittest runner"): needs an initial team response (3 days old)
+  [20425](https://github.com/microsoft/vscode-python/issues/20425 "Python unittest runner doesn't respect arguments to pass to unittest runner"): needs an initial team response (10 days old)
 
-  [20426](https://github.com/microsoft/vscode-python/issues/20426 "Stuck at unittest discovery."): needs an initial team response (2 days old)
+  [20426](https://github.com/microsoft/vscode-python/issues/20426 "Stuck at unittest discovery."): needs an initial team response (9 days old)
 
-\* [20429](https://github.com/microsoft/vscode-python/issues/20429 "Language injections in Python"): needs an initial team response (1 days old)
+  [20429](https://github.com/microsoft/vscode-python/issues/20429 "Language injections in Python"): needs an initial team response (8 days old)
+
+  [20432](https://github.com/microsoft/vscode-python/issues/20432 "'debug adapter' error in jupyter notebook "): needs an initial team response (6 days old)
+
+  [20435](https://github.com/microsoft/vscode-python/issues/20435 "Github"): needs an initial team response (6 days old)
+
+  [20436](https://github.com/microsoft/vscode-python/issues/20436 "extension problem cause import package error "): needs an initial team response (5 days old)
+
+  [20438](https://github.com/microsoft/vscode-python/issues/20438 "Python Normal"): needs an initial team response (5 days old)
+
+  [20439](https://github.com/microsoft/vscode-python/issues/20439 "Show Definition Preview Hover doesn't pop up in some situation"): needs an initial team response (2 days old)
+
+  [20441](https://github.com/microsoft/vscode-python/issues/20441 "Debugging support lazy variables"): needs an initial team response (2 days old)
+
+  [20442](https://github.com/microsoft/vscode-python/issues/20442 "Linting(format)  not work in new project while it works in old project"): needs an initial team response (2 days old)
+
+\* [20444](https://github.com/microsoft/vscode-python/issues/20444 "python file name case changed won't reflect on &quot;Run&quot;"): needs an initial team response (1 days old)
+
+\* [20446](https://github.com/microsoft/vscode-python/issues/20446 "Install Command Line Developer Tools -pop up keeps appearing"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-  [693](https://github.com/microsoft/vscode-python/issues/693 "Debugger doesn't stop at breakpoints with pytest if pytest-cov is used"): OP responded 1766 days ago but team last responded 1767 days ago
+  [693](https://github.com/microsoft/vscode-python/issues/693 "Debugger doesn't stop at breakpoints with pytest if pytest-cov is used"): OP responded 1773 days ago but team last responded 1774 days ago
 
-  [5184](https://github.com/microsoft/vscode-python/issues/5184 "launch.json debug any file as module"): OP responded 1077 days ago but team last responded 1313 days ago
+  [5184](https://github.com/microsoft/vscode-python/issues/5184 "launch.json debug any file as module"): OP responded 1084 days ago but team last responded 1320 days ago
 
-  [8321](https://github.com/microsoft/vscode-python/issues/8321 "Linting in the editor should follow the linting configuration"): OP responded 1150 days ago but team last responded 1150 days ago
+  [8321](https://github.com/microsoft/vscode-python/issues/8321 "Linting in the editor should follow the linting configuration"): OP responded 1157 days ago but team last responded 1157 days ago
 
-  [9553](https://github.com/microsoft/vscode-python/issues/9553 "[pytest] If present, &quot;python.testing.cwd&quot; expected to change `pytest --rootdir` arg value."): OP responded 1047 days ago but team last responded 1047 days ago
+  [9553](https://github.com/microsoft/vscode-python/issues/9553 "[pytest] If present, &quot;python.testing.cwd&quot; expected to change `pytest --rootdir` arg value."): OP responded 1054 days ago but team last responded 1054 days ago
 
-  [10578](https://github.com/microsoft/vscode-python/issues/10578 "Flash of 'formatting with pep8' in status bar on every format"): OP responded 1014 days ago but team last responded 1014 days ago
+  [10578](https://github.com/microsoft/vscode-python/issues/10578 "Flash of 'formatting with pep8' in status bar on every format"): OP responded 1021 days ago but team last responded 1021 days ago
 
-  [10902](https://github.com/microsoft/vscode-python/issues/10902 "Conda activate is failing when conda is in '/usr/bin/' folder"): OP responded 871 days ago but team last responded 957 days ago
+  [10902](https://github.com/microsoft/vscode-python/issues/10902 "Conda activate is failing when conda is in '/usr/bin/' folder"): OP responded 878 days ago but team last responded 964 days ago
 
-  [12187](https://github.com/microsoft/vscode-python/issues/12187 "Support linting, formatting, etc through pre-commit"): OP responded 930 days ago but team last responded 930 days ago
+  [12187](https://github.com/microsoft/vscode-python/issues/12187 "Support linting, formatting, etc through pre-commit"): OP responded 937 days ago but team last responded 937 days ago
 
-  [14001](https://github.com/microsoft/vscode-python/issues/14001 "Support test discovery/running for python-behave"): OP responded 506 days ago but team last responded 795 days ago
+  [14001](https://github.com/microsoft/vscode-python/issues/14001 "Support test discovery/running for python-behave"): OP responded 513 days ago but team last responded 802 days ago
 
-  [18315](https://github.com/microsoft/vscode-python/issues/18315 "execSelectionInTerminal to run in now active terminal"): OP responded 236 days ago but team last responded 269 days ago
+  [18315](https://github.com/microsoft/vscode-python/issues/18315 "execSelectionInTerminal to run in now active terminal"): OP responded 243 days ago but team last responded 276 days ago
 
-  [19629](https://github.com/microsoft/vscode-python/issues/19629 "&quot;Dynamic Python&quot; naming on launch configs"): OP responded 143 days ago but team last responded 143 days ago
+  [19629](https://github.com/microsoft/vscode-python/issues/19629 "&quot;Dynamic Python&quot; naming on launch configs"): OP responded 150 days ago but team last responded 150 days ago
 
-  [20293](https://github.com/microsoft/vscode-python/issues/20293 "Please add Cython support"): OP responded 24 days ago but team last responded 25 days ago
+  [19982](https://github.com/microsoft/vscode-python/issues/19982 "Jupyter extension breaks code folding in ordinary python files"): OP responded 2 days ago but team last responded 59 days ago
+
+  [20293](https://github.com/microsoft/vscode-python/issues/20293 "Please add Cython support"): OP responded 31 days ago but team last responded 32 days ago
+
+  [20437](https://github.com/microsoft/vscode-python/issues/20437 "Python test debugger passing wrong &quot;up&quot; value to test launcher"): OP responded 4 days ago but team last responded 4 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-  [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 12 days ago but team last responded 68 days ago
+  [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 19 days ago but team last responded 75 days ago
 
-  [442](https://github.com/microsoft/vscode-python/issues/442 "Automatically respect .pylintrc files in subdirectories"): 3rd party responded 119 days ago but team last responded 1630 days ago
+  [442](https://github.com/microsoft/vscode-python/issues/442 "Automatically respect .pylintrc files in subdirectories"): 3rd party responded 126 days ago but team last responded 1637 days ago
 
-  [850](https://github.com/microsoft/vscode-python/issues/850 "Support for customizing exception breakpoints in debugger"): 3rd party responded 472 days ago but team last responded 823 days ago
+  [481](https://github.com/microsoft/vscode-python/issues/481 "Improve auto-indentation behaviour"): 3rd party responded 5 days ago but team last responded 10 days ago
 
-  [1182](https://github.com/microsoft/vscode-python/issues/1182 "Auto attach debugger to Python processes started from integrated terminal"): 3rd party responded 271 days ago but team last responded 1737 days ago
+  [850](https://github.com/microsoft/vscode-python/issues/850 "Support for customizing exception breakpoints in debugger"): 3rd party responded 479 days ago but team last responded 830 days ago
 
-  [1479](https://github.com/microsoft/vscode-python/issues/1479 "Change venvFolders to no longer be anchored to the user's home directory"): 3rd party responded 17 days ago but team last responded 17 days ago
+  [1182](https://github.com/microsoft/vscode-python/issues/1182 "Auto attach debugger to Python processes started from integrated terminal"): 3rd party responded 278 days ago but team last responded 1744 days ago
 
-  [1577](https://github.com/microsoft/vscode-python/issues/1577 "Look into using mypy's daemon"): 3rd party responded 423 days ago but team last responded 1084 days ago
+  [1479](https://github.com/microsoft/vscode-python/issues/1479 "Change venvFolders to no longer be anchored to the user's home directory"): 3rd party responded 24 days ago but team last responded 24 days ago
 
-  [2559](https://github.com/microsoft/vscode-python/issues/2559 "Activating an environment fails because running powershell scripts is disabled by default on Windows"): 3rd party responded 427 days ago but team last responded 912 days ago
+  [1577](https://github.com/microsoft/vscode-python/issues/1577 "Look into using mypy's daemon"): 3rd party responded 430 days ago but team last responded 1091 days ago
 
-  [2997](https://github.com/microsoft/vscode-python/issues/2997 "Run Selection/Line and Run File produce error when used consecutively"): 3rd party responded 1171 days ago but team last responded 1201 days ago
+  [2559](https://github.com/microsoft/vscode-python/issues/2559 "Activating an environment fails because running powershell scripts is disabled by default on Windows"): 3rd party responded 434 days ago but team last responded 919 days ago
 
-  [3487](https://github.com/microsoft/vscode-python/issues/3487 "Add support for Xonsh Shell"): 3rd party responded 216 days ago but team last responded 219 days ago
+  [2997](https://github.com/microsoft/vscode-python/issues/2997 "Run Selection/Line and Run File produce error when used consecutively"): 3rd party responded 1178 days ago but team last responded 1208 days ago
 
-  [4013](https://github.com/microsoft/vscode-python/issues/4013 "pyenv + virtualenv not working - use pyenv activate for all "): 3rd party responded 349 days ago but team last responded 397 days ago
+  [3487](https://github.com/microsoft/vscode-python/issues/3487 "Add support for Xonsh Shell"): 3rd party responded 223 days ago but team last responded 226 days ago
 
-  [4586](https://github.com/microsoft/vscode-python/issues/4586 "Perform test discovery per-file when a file is updated/added."): 3rd party responded 871 days ago but team last responded 1397 days ago
+  [4013](https://github.com/microsoft/vscode-python/issues/4013 "pyenv + virtualenv not working - use pyenv activate for all "): 3rd party responded 356 days ago but team last responded 404 days ago
 
-  [6594](https://github.com/microsoft/vscode-python/issues/6594 "Support an output stream from the testing adapter script."): 3rd party responded 11 days ago but team last responded 494 days ago
+  [4586](https://github.com/microsoft/vscode-python/issues/4586 "Perform test discovery per-file when a file is updated/added."): 3rd party responded 878 days ago but team last responded 1404 days ago
 
-  [7583](https://github.com/microsoft/vscode-python/issues/7583 "'Run All Tests' button does not invoke Auto Save "): 3rd party responded 261 days ago but team last responded 1150 days ago
+  [6594](https://github.com/microsoft/vscode-python/issues/6594 "Support an output stream from the testing adapter script."): 3rd party responded 18 days ago but team last responded 501 days ago
 
-  [8293](https://github.com/microsoft/vscode-python/issues/8293 "Report when linter run fails"): 3rd party responded 958 days ago but team last responded 1152 days ago
+  [7583](https://github.com/microsoft/vscode-python/issues/7583 "'Run All Tests' button does not invoke Auto Save "): 3rd party responded 268 days ago but team last responded 1157 days ago
 
-  [8639](https://github.com/microsoft/vscode-python/issues/8639 "Support ignore patterns for formatters"): 3rd party responded 660 days ago but team last responded 1133 days ago
+  [8293](https://github.com/microsoft/vscode-python/issues/8293 "Report when linter run fails"): 3rd party responded 965 days ago but team last responded 1159 days ago
 
-  [8870](https://github.com/microsoft/vscode-python/issues/8870 "Allow user to set their own custom activation commands for the interpreter"): 3rd party responded 292 days ago but team last responded 1068 days ago
+  [8639](https://github.com/microsoft/vscode-python/issues/8639 "Support ignore patterns for formatters"): 3rd party responded 667 days ago but team last responded 1140 days ago
 
-  [8876](https://github.com/microsoft/vscode-python/issues/8876 "Add prompt for arguments when launching debugger"): 3rd party responded 39 days ago but team last responded 346 days ago
+  [8870](https://github.com/microsoft/vscode-python/issues/8870 "Allow user to set their own custom activation commands for the interpreter"): 3rd party responded 299 days ago but team last responded 1075 days ago
 
-  [9368](https://github.com/microsoft/vscode-python/issues/9368 "Spike - Add githooks"): 3rd party responded 512 days ago but team last responded 1088 days ago
+  [8876](https://github.com/microsoft/vscode-python/issues/8876 "Add prompt for arguments when launching debugger"): 3rd party responded 46 days ago but team last responded 353 days ago
 
-  [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 73 days ago but team last responded 131 days ago
+  [9368](https://github.com/microsoft/vscode-python/issues/9368 "Spike - Add githooks"): 3rd party responded 519 days ago but team last responded 1095 days ago
 
-  [10612](https://github.com/microsoft/vscode-python/issues/10612 "Add 'Quick Fix' suggestions for errors and warnings thrown by Pylint  "): 3rd party responded 187 days ago but team last responded 331 days ago
+  [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 80 days ago but team last responded 138 days ago
 
-  [10645](https://github.com/microsoft/vscode-python/issues/10645 "Add Profiling (code performance analysis) capability"): 3rd party responded 17 days ago but team last responded 201 days ago
+  [10612](https://github.com/microsoft/vscode-python/issues/10612 "Add 'Quick Fix' suggestions for errors and warnings thrown by Pylint  "): 3rd party responded 194 days ago but team last responded 338 days ago
 
-  [10668](https://github.com/microsoft/vscode-python/issues/10668 "When VS Code is launched from an activated conda environment, prompt to select it"): 3rd party responded 32 days ago but team last responded 44 days ago
+  [10645](https://github.com/microsoft/vscode-python/issues/10645 "Add Profiling (code performance analysis) capability"): 3rd party responded 24 days ago but team last responded 208 days ago
 
-  [11039](https://github.com/microsoft/vscode-python/issues/11039 "Use new vsc API to activate terminal without running any commands in terminal"): 3rd party responded 5 days ago but team last responded 129 days ago
+  [10668](https://github.com/microsoft/vscode-python/issues/10668 "When VS Code is launched from an activated conda environment, prompt to select it"): 3rd party responded 39 days ago but team last responded 51 days ago
 
-  [11537](https://github.com/microsoft/vscode-python/issues/11537 "MyPy should receive the python interpreter used in the project"): 3rd party responded 123 days ago but team last responded 123 days ago
+  [11039](https://github.com/microsoft/vscode-python/issues/11039 "Use new vsc API to activate terminal without running any commands in terminal"): 3rd party responded 12 days ago but team last responded 136 days ago
 
-  [11812](https://github.com/microsoft/vscode-python/issues/11812 "Allow &quot;Run Python File in Terminal&quot; button to be configurable"): 3rd party responded 97 days ago but team last responded 102 days ago
+  [11537](https://github.com/microsoft/vscode-python/issues/11537 "MyPy should receive the python interpreter used in the project"): 3rd party responded 130 days ago but team last responded 130 days ago
 
-  [12973](https://github.com/microsoft/vscode-python/issues/12973 "Use pytest hooks for test execution instead of &quot;scraping&quot; the JUnit XML results."): 3rd party responded 4 days ago but team last responded 4 days ago
+  [11812](https://github.com/microsoft/vscode-python/issues/11812 "Allow &quot;Run Python File in Terminal&quot; button to be configurable"): 3rd party responded 104 days ago but team last responded 109 days ago
 
-  [13315](https://github.com/microsoft/vscode-python/issues/13315 "pylint checks with pylance enabled"): 3rd party responded 520 days ago but team last responded 871 days ago
+  [12973](https://github.com/microsoft/vscode-python/issues/12973 "Use pytest hooks for test execution instead of &quot;scraping&quot; the JUnit XML results."): 3rd party responded 11 days ago but team last responded 11 days ago
 
-  [13673](https://github.com/microsoft/vscode-python/issues/13673 "Enable matching curly braces inside of quotation marks in an f-string"): 3rd party responded 279 days ago but team last responded 622 days ago
+  [13315](https://github.com/microsoft/vscode-python/issues/13315 "pylint checks with pylance enabled"): 3rd party responded 527 days ago but team last responded 878 days ago
 
-  [13899](https://github.com/microsoft/vscode-python/issues/13899 "Support hiding &quot;private&quot; variables/attributes for auto complete "): 3rd party responded 48 days ago but team last responded 349 days ago
+  [13673](https://github.com/microsoft/vscode-python/issues/13673 "Enable matching curly braces inside of quotation marks in an f-string"): 3rd party responded 286 days ago but team last responded 629 days ago
 
-  [14323](https://github.com/microsoft/vscode-python/issues/14323 "Add support for &quot;editor.formatOnSaveMode&quot;"): 3rd party responded 738 days ago but team last responded 808 days ago
+  [13899](https://github.com/microsoft/vscode-python/issues/13899 "Support hiding &quot;private&quot; variables/attributes for auto complete "): 3rd party responded 55 days ago but team last responded 356 days ago
 
-  [14495](https://github.com/microsoft/vscode-python/issues/14495 "Feature Request: Open packages in requirements.txt in browser"): 3rd party responded 450 days ago but team last responded 530 days ago
+  [14323](https://github.com/microsoft/vscode-python/issues/14323 "Add support for &quot;editor.formatOnSaveMode&quot;"): 3rd party responded 745 days ago but team last responded 815 days ago
 
-  [14695](https://github.com/microsoft/vscode-python/issues/14695 "Go to next line"): 3rd party responded 733 days ago but team last responded 773 days ago
+  [14495](https://github.com/microsoft/vscode-python/issues/14495 "Feature Request: Open packages in requirements.txt in browser"): 3rd party responded 457 days ago but team last responded 537 days ago
 
-  [15473](https://github.com/microsoft/vscode-python/issues/15473 "Respect .python-version as suggested by pyenv (and pyenv-virtualenv)"): 3rd party responded 269 days ago but team last responded 671 days ago
+  [14695](https://github.com/microsoft/vscode-python/issues/14695 "Go to next line"): 3rd party responded 740 days ago but team last responded 780 days ago
 
-  [15770](https://github.com/microsoft/vscode-python/issues/15770 "Improve run in terminal experience  "): 3rd party responded 397 days ago but team last responded 641 days ago
+  [15473](https://github.com/microsoft/vscode-python/issues/15473 "Respect .python-version as suggested by pyenv (and pyenv-virtualenv)"): 3rd party responded 276 days ago but team last responded 678 days ago
 
-  [15858](https://github.com/microsoft/vscode-python/issues/15858 "Turn off snippets for jedi LSP"): 3rd party responded 291 days ago but team last responded 325 days ago
+  [15770](https://github.com/microsoft/vscode-python/issues/15770 "Improve run in terminal experience  "): 3rd party responded 404 days ago but team last responded 648 days ago
 
-  [16840](https://github.com/microsoft/vscode-python/issues/16840 "Remove unused dependencies from package.json"): 3rd party responded 312 days ago but team last responded 513 days ago
+  [15858](https://github.com/microsoft/vscode-python/issues/15858 "Turn off snippets for jedi LSP"): 3rd party responded 298 days ago but team last responded 332 days ago
 
-  [16852](https://github.com/microsoft/vscode-python/issues/16852 "Support pytest plugins"): 3rd party responded 121 days ago but team last responded 396 days ago
+  [16840](https://github.com/microsoft/vscode-python/issues/16840 "Remove unused dependencies from package.json"): 3rd party responded 319 days ago but team last responded 520 days ago
 
-  [17171](https://github.com/microsoft/vscode-python/issues/17171 "Support setting environmental variables for the test runner"): 3rd party responded 369 days ago but team last responded 419 days ago
+  [16852](https://github.com/microsoft/vscode-python/issues/16852 "Support pytest plugins"): 3rd party responded 128 days ago but team last responded 403 days ago
 
-  [17172](https://github.com/microsoft/vscode-python/issues/17172 "Support IPython for Shift+Enter (execute line in terminal)"): 3rd party responded 12 days ago but team last responded 419 days ago
+  [17171](https://github.com/microsoft/vscode-python/issues/17171 "Support setting environmental variables for the test runner"): 3rd party responded 376 days ago but team last responded 426 days ago
 
-  [17713](https://github.com/microsoft/vscode-python/issues/17713 "Enable linters also on Jupyter notebooks"): 3rd party responded 107 days ago but team last responded 108 days ago
+  [17172](https://github.com/microsoft/vscode-python/issues/17172 "Support IPython for Shift+Enter (execute line in terminal)"): 3rd party responded 19 days ago but team last responded 426 days ago
 
-  [17772](https://github.com/microsoft/vscode-python/issues/17772 "Improve feedback when user tries a pytest test when pytest is not installed, but is selected as the testing library"): 3rd party responded 416 days ago but team last responded 433 days ago
+  [17713](https://github.com/microsoft/vscode-python/issues/17713 "Enable linters also on Jupyter notebooks"): 3rd party responded 114 days ago but team last responded 115 days ago
 
-  [18105](https://github.com/microsoft/vscode-python/issues/18105 "Run Selection/Line in xxx be more smart?"): 3rd party responded 24 days ago but team last responded 34 days ago
+  [17772](https://github.com/microsoft/vscode-python/issues/17772 "Improve feedback when user tries a pytest test when pytest is not installed, but is selected as the testing library"): 3rd party responded 423 days ago but team last responded 440 days ago
 
-  [18177](https://github.com/microsoft/vscode-python/issues/18177 "Directly integrate with Python's REPL"): 3rd party responded 80 days ago but team last responded 376 days ago
+  [18105](https://github.com/microsoft/vscode-python/issues/18105 "Run Selection/Line in xxx be more smart?"): 3rd party responded 31 days ago but team last responded 41 days ago
 
-  [18255](https://github.com/microsoft/vscode-python/issues/18255 "Add a button to clear selected interpreter"): 3rd party responded 69 days ago but team last responded 324 days ago
+  [18177](https://github.com/microsoft/vscode-python/issues/18177 "Directly integrate with Python's REPL"): 3rd party responded 87 days ago but team last responded 383 days ago
 
-  [18559](https://github.com/microsoft/vscode-python/issues/18559 "show class hierarchy or method override like pycharm"): 3rd party responded 79 days ago but team last responded 248 days ago
+  [18255](https://github.com/microsoft/vscode-python/issues/18255 "Add a button to clear selected interpreter"): 3rd party responded 76 days ago but team last responded 331 days ago
 
-  [19030](https://github.com/microsoft/vscode-python/issues/19030 "Restart test debugger with &quot;purpose&quot;==[&quot;debug-test&quot;] doesn't work with test-config in launch.json"): 3rd party responded 94 days ago but team last responded 178 days ago
+  [18559](https://github.com/microsoft/vscode-python/issues/18559 "show class hierarchy or method override like pycharm"): 3rd party responded 86 days ago but team last responded 255 days ago
 
-  [19166](https://github.com/microsoft/vscode-python/issues/19166 "Support symlink Python environments "): 3rd party responded 68 days ago but team last responded 68 days ago
+  [19030](https://github.com/microsoft/vscode-python/issues/19030 "Restart test debugger with &quot;purpose&quot;==[&quot;debug-test&quot;] doesn't work with test-config in launch.json"): 3rd party responded 101 days ago but team last responded 185 days ago
 
-  [19904](https://github.com/microsoft/vscode-python/issues/19904 "Select interpreter is confusing when there're very few envs"): 3rd party responded 12 days ago but team last responded 13 days ago
+  [19166](https://github.com/microsoft/vscode-python/issues/19166 "Support symlink Python environments "): 3rd party responded 75 days ago but team last responded 75 days ago
 
-\* [19982](https://github.com/microsoft/vscode-python/issues/19982 "Jupyter extension breaks code folding in ordinary python files"): 3rd party responded 1 days ago but team last responded 52 days ago
+  [19904](https://github.com/microsoft/vscode-python/issues/19904 "Select interpreter is confusing when there're very few envs"): 3rd party responded 19 days ago but team last responded 20 days ago
 
-  [20250](https://github.com/microsoft/vscode-python/issues/20250 "Stuck on Discovering Python Interpreters"): 3rd party responded 4 days ago but team last responded 13 days ago
+  [20250](https://github.com/microsoft/vscode-python/issues/20250 "Stuck on Discovering Python Interpreters"): 3rd party responded 11 days ago but team last responded 20 days ago
 
-  [20267](https://github.com/microsoft/vscode-python/issues/20267 "Go through our docs and make sure the content is up to date   "): 3rd party responded 19 days ago but team last responded 19 days ago
+  [20267](https://github.com/microsoft/vscode-python/issues/20267 "Go through our docs and make sure the content is up to date   "): 3rd party responded 26 days ago but team last responded 26 days ago
 
 ### Issues in vscode-python that have no external responses since team response in 30+ days:
 
 
-  [1167](https://github.com/microsoft/vscode-python/issues/1167 "Select pyenv environment based on folder .python-version file"): team response was last response and no others in 153 days
+  [1167](https://github.com/microsoft/vscode-python/issues/1167 "Select pyenv environment based on folder .python-version file"): team response was last response and no others in 160 days
 
-  [1883](https://github.com/microsoft/vscode-python/issues/1883 "More gracefully handle the fact that Black does not support &quot;Format Selection&quot;"): team response was last response and no others in 96 days
+  [1883](https://github.com/microsoft/vscode-python/issues/1883 "More gracefully handle the fact that Black does not support &quot;Format Selection&quot;"): team response was last response and no others in 103 days
 
-  [2653](https://github.com/microsoft/vscode-python/issues/2653 "Quick fix action to create class, method etc."): team response was last response and no others in 32 days
+  [2653](https://github.com/microsoft/vscode-python/issues/2653 "Quick fix action to create class, method etc."): team response was last response and no others in 39 days
 
-  [3828](https://github.com/microsoft/vscode-python/issues/3828 "Default Python Problem Matcher"): team response was last response and no others in 131 days
+  [3828](https://github.com/microsoft/vscode-python/issues/3828 "Default Python Problem Matcher"): team response was last response and no others in 138 days
 
-  [3836](https://github.com/microsoft/vscode-python/issues/3836 "Run linter on all files in a workspace, even the unopened ones"): team response was last response and no others in 34 days
+  [3836](https://github.com/microsoft/vscode-python/issues/3836 "Run linter on all files in a workspace, even the unopened ones"): team response was last response and no others in 41 days
 
-  [4205](https://github.com/microsoft/vscode-python/issues/4205 "Move test failure to failing line for failed tests"): team response was last response and no others in 1391 days
+  [4205](https://github.com/microsoft/vscode-python/issues/4205 "Move test failure to failing line for failed tests"): team response was last response and no others in 1398 days
 
-  [6407](https://github.com/microsoft/vscode-python/issues/6407 "Show incremental progress when running tests"): team response was last response and no others in 340 days
+  [6407](https://github.com/microsoft/vscode-python/issues/6407 "Show incremental progress when running tests"): team response was last response and no others in 347 days
 
-  [6544](https://github.com/microsoft/vscode-python/issues/6544 "Improve configuration for search paths "): team response was last response and no others in 1243 days
+  [6544](https://github.com/microsoft/vscode-python/issues/6544 "Improve configuration for search paths "): team response was last response and no others in 1250 days
 
-  [6678](https://github.com/microsoft/vscode-python/issues/6678 "Automatically use mypy.ini"): team response was last response and no others in 1250 days
+  [6678](https://github.com/microsoft/vscode-python/issues/6678 "Automatically use mypy.ini"): team response was last response and no others in 1257 days
 
-  [8425](https://github.com/microsoft/vscode-python/issues/8425 "Make sure tests generated by pytest plugins are not ignored."): team response was last response and no others in 1144 days
+  [8425](https://github.com/microsoft/vscode-python/issues/8425 "Make sure tests generated by pytest plugins are not ignored."): team response was last response and no others in 1151 days
 
-  [8691](https://github.com/microsoft/vscode-python/issues/8691 "Support docstring templates / generate docstrings"): team response was last response and no others in 1124 days
+  [8691](https://github.com/microsoft/vscode-python/issues/8691 "Support docstring templates / generate docstrings"): team response was last response and no others in 1131 days
 
-  [8929](https://github.com/microsoft/vscode-python/issues/8929 "Add unit and functional tests for TestDisplay class in client/testing/display/picker.ts"): team response was last response and no others in 1112 days
+  [8929](https://github.com/microsoft/vscode-python/issues/8929 "Add unit and functional tests for TestDisplay class in client/testing/display/picker.ts"): team response was last response and no others in 1119 days
 
-  [9315](https://github.com/microsoft/vscode-python/issues/9315 "Plans to support the pyflakes linter?"): team response was last response and no others in 128 days
+  [9315](https://github.com/microsoft/vscode-python/issues/9315 "Plans to support the pyflakes linter?"): team response was last response and no others in 135 days
 
-  [10469](https://github.com/microsoft/vscode-python/issues/10469 "Test discovery fails if package is not installed"): team response was last response and no others in 977 days
+  [10469](https://github.com/microsoft/vscode-python/issues/10469 "Test discovery fails if package is not installed"): team response was last response and no others in 984 days
 
-  [11873](https://github.com/microsoft/vscode-python/issues/11873 "Take Visual studio code proxy settings and use them when installing packages e.g. pylint"): team response was last response and no others in 950 days
+  [11873](https://github.com/microsoft/vscode-python/issues/11873 "Take Visual studio code proxy settings and use them when installing packages e.g. pylint"): team response was last response and no others in 957 days
 
-  [11932](https://github.com/microsoft/vscode-python/issues/11932 "Add &quot;Run Tests&quot; to launch.json"): team response was last response and no others in 80 days
+  [11932](https://github.com/microsoft/vscode-python/issues/11932 "Add &quot;Run Tests&quot; to launch.json"): team response was last response and no others in 87 days
 
-  [12063](https://github.com/microsoft/vscode-python/issues/12063 "allow usage of unittest's load_tests protocol in python unit tests"): team response was last response and no others in 936 days
+  [12063](https://github.com/microsoft/vscode-python/issues/12063 "allow usage of unittest's load_tests protocol in python unit tests"): team response was last response and no others in 943 days
 
-  [12075](https://github.com/microsoft/vscode-python/issues/12075 "Enable multiple test suites and test configurations in the Test UI"): team response was last response and no others in 32 days
+  [12075](https://github.com/microsoft/vscode-python/issues/12075 "Enable multiple test suites and test configurations in the Test UI"): team response was last response and no others in 39 days
 
-  [12615](https://github.com/microsoft/vscode-python/issues/12615 "No output panel color support"): team response was last response and no others in 74 days
+  [12615](https://github.com/microsoft/vscode-python/issues/12615 "No output panel color support"): team response was last response and no others in 81 days
 
-  [12619](https://github.com/microsoft/vscode-python/issues/12619 "Consider changing default Mypy Arguments setting to avoid spurious errors when used with warn_unused_ignores"): team response was last response and no others in 909 days
+  [12619](https://github.com/microsoft/vscode-python/issues/12619 "Consider changing default Mypy Arguments setting to avoid spurious errors when used with warn_unused_ignores"): team response was last response and no others in 916 days
 
-  [12716](https://github.com/microsoft/vscode-python/issues/12716 "Opt into debugSessionOptions compact flag"): team response was last response and no others in 906 days
+  [12716](https://github.com/microsoft/vscode-python/issues/12716 "Opt into debugSessionOptions compact flag"): team response was last response and no others in 913 days
 
-  [12997](https://github.com/microsoft/vscode-python/issues/12997 "launch.json &quot;args&quot; don't get passed to pytest unittests"): team response was last response and no others in 306 days
+  [12997](https://github.com/microsoft/vscode-python/issues/12997 "launch.json &quot;args&quot; don't get passed to pytest unittests"): team response was last response and no others in 313 days
 
-  [13020](https://github.com/microsoft/vscode-python/issues/13020 "Test discovery with pytest fails when import pre_commit.main"): team response was last response and no others in 846 days
+  [13020](https://github.com/microsoft/vscode-python/issues/13020 "Test discovery with pytest fails when import pre_commit.main"): team response was last response and no others in 853 days
 
-  [13203](https://github.com/microsoft/vscode-python/issues/13203 "Enhanced f-string completion"): team response was last response and no others in 832 days
+  [13203](https://github.com/microsoft/vscode-python/issues/13203 "Enhanced f-string completion"): team response was last response and no others in 839 days
 
-  [13327](https://github.com/microsoft/vscode-python/issues/13327 "Add a selected global `python` interpreter  on to `PATH`"): team response was last response and no others in 823 days
+  [13327](https://github.com/microsoft/vscode-python/issues/13327 "Add a selected global `python` interpreter  on to `PATH`"): team response was last response and no others in 830 days
 
-  [14116](https://github.com/microsoft/vscode-python/issues/14116 "Perform partial test discovery with pytest in the face of other test discovery errors"): team response was last response and no others in 818 days
+  [14116](https://github.com/microsoft/vscode-python/issues/14116 "Perform partial test discovery with pytest in the face of other test discovery errors"): team response was last response and no others in 825 days
 
-  [14518](https://github.com/microsoft/vscode-python/issues/14518 "vscode-variables only expanded in some environment vars from .env file "): team response was last response and no others in 787 days
+  [14518](https://github.com/microsoft/vscode-python/issues/14518 "vscode-variables only expanded in some environment vars from .env file "): team response was last response and no others in 794 days
 
-  [15148](https://github.com/microsoft/vscode-python/issues/15148 "Support different options for discovering and running tests with pytest"): team response was last response and no others in 710 days
+  [15148](https://github.com/microsoft/vscode-python/issues/15148 "Support different options for discovering and running tests with pytest"): team response was last response and no others in 717 days
 
-  [15202](https://github.com/microsoft/vscode-python/issues/15202 "Add ability to &quot;expand all&quot;"): team response was last response and no others in 699 days
+  [15202](https://github.com/microsoft/vscode-python/issues/15202 "Add ability to &quot;expand all&quot;"): team response was last response and no others in 706 days
 
-  [15204](https://github.com/microsoft/vscode-python/issues/15204 "&quot;Compilation&quot; error does not report tests in test tree"): team response was last response and no others in 699 days
+  [15204](https://github.com/microsoft/vscode-python/issues/15204 "&quot;Compilation&quot; error does not report tests in test tree"): team response was last response and no others in 706 days
 
-  [15507](https://github.com/microsoft/vscode-python/issues/15507 "Set modules that the application needs"): team response was last response and no others in 668 days
+  [15507](https://github.com/microsoft/vscode-python/issues/15507 "Set modules that the application needs"): team response was last response and no others in 675 days
 
-  [16333](https://github.com/microsoft/vscode-python/issues/16333 "Severity of `pydocstyle` possibly incorrect"): team response was last response and no others in 419 days
+  [16333](https://github.com/microsoft/vscode-python/issues/16333 "Severity of `pydocstyle` possibly incorrect"): team response was last response and no others in 426 days
 
-  [17419](https://github.com/microsoft/vscode-python/issues/17419 "show some indication that mypy is running"): team response was last response and no others in 325 days
+  [17419](https://github.com/microsoft/vscode-python/issues/17419 "show some indication that mypy is running"): team response was last response and no others in 332 days
 
-  [17776](https://github.com/microsoft/vscode-python/issues/17776 "Jedi LS: &quot;python.autoComplete.showAdvancedMembers&quot; setting ignored"): team response was last response and no others in 433 days
+  [17776](https://github.com/microsoft/vscode-python/issues/17776 "Jedi LS: &quot;python.autoComplete.showAdvancedMembers&quot; setting ignored"): team response was last response and no others in 440 days
 
-  [18055](https://github.com/microsoft/vscode-python/issues/18055 "Support port numbers in attach debug configurations as strings"): team response was last response and no others in 90 days
+  [18055](https://github.com/microsoft/vscode-python/issues/18055 "Support port numbers in attach debug configurations as strings"): team response was last response and no others in 97 days
 
-  [18115](https://github.com/microsoft/vscode-python/issues/18115 "Add a pip audit command/task"): team response was last response and no others in 292 days
+  [18115](https://github.com/microsoft/vscode-python/issues/18115 "Add a pip audit command/task"): team response was last response and no others in 299 days
 
-  [18353](https://github.com/microsoft/vscode-python/issues/18353 "Feature request: `&quot;python.debug.settings.console&quot;`"): team response was last response and no others in 269 days
+  [18353](https://github.com/microsoft/vscode-python/issues/18353 "Feature request: `&quot;python.debug.settings.console&quot;`"): team response was last response and no others in 276 days
 
-  [18804](https://github.com/microsoft/vscode-python/issues/18804 "be able to switch `JustMyCode` for the debugger on the UI panel quickly?"): team response was last response and no others in 206 days
+  [18804](https://github.com/microsoft/vscode-python/issues/18804 "be able to switch `JustMyCode` for the debugger on the UI panel quickly?"): team response was last response and no others in 213 days
 
-  [18936](https://github.com/microsoft/vscode-python/issues/18936 "Support for Virtual environment activation with `/bin/sh`"): team response was last response and no others in 192 days
+  [18936](https://github.com/microsoft/vscode-python/issues/18936 "Support for Virtual environment activation with `/bin/sh`"): team response was last response and no others in 199 days
 
-  [19132](https://github.com/microsoft/vscode-python/issues/19132 "Allow Environment Shims"): team response was last response and no others in 164 days
+  [19132](https://github.com/microsoft/vscode-python/issues/19132 "Allow Environment Shims"): team response was last response and no others in 171 days
 
-  [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): team response was last response and no others in 157 days
+  [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): team response was last response and no others in 164 days
 
-  [19321](https://github.com/microsoft/vscode-python/issues/19321 "Allow pytest to be invoked as a module"): team response was last response and no others in 122 days
+  [19321](https://github.com/microsoft/vscode-python/issues/19321 "Allow pytest to be invoked as a module"): team response was last response and no others in 129 days
 
-  [19401](https://github.com/microsoft/vscode-python/issues/19401 "[Pytest] Add an inline error indicating the location in code where test discovery failed"): team response was last response and no others in 94 days
+  [19401](https://github.com/microsoft/vscode-python/issues/19401 "[Pytest] Add an inline error indicating the location in code where test discovery failed"): team response was last response and no others in 101 days
 
-  [19405](https://github.com/microsoft/vscode-python/issues/19405 "Environment created with mamba missing prefix"): team response was last response and no others in 94 days
+  [19405](https://github.com/microsoft/vscode-python/issues/19405 "Environment created with mamba missing prefix"): team response was last response and no others in 101 days
 
-  [19415](https://github.com/microsoft/vscode-python/issues/19415 "Support for PyScript & Brython."): team response was last response and no others in 94 days
+  [19415](https://github.com/microsoft/vscode-python/issues/19415 "Support for PyScript & Brython."): team response was last response and no others in 101 days
 
-  [19975](https://github.com/microsoft/vscode-python/issues/19975 "Simplify running other things across the board."): team response was last response and no others in 68 days
+  [19975](https://github.com/microsoft/vscode-python/issues/19975 "Simplify running other things across the board."): team response was last response and no others in 75 days
 
-  [20047](https://github.com/microsoft/vscode-python/issues/20047 "Add path of function in pytest format to the clipboard from breadcrumb"): team response was last response and no others in 62 days
+  [20047](https://github.com/microsoft/vscode-python/issues/20047 "Add path of function in pytest format to the clipboard from breadcrumb"): team response was last response and no others in 69 days
 
-  [20054](https://github.com/microsoft/vscode-python/issues/20054 "Feature Request: Provide &quot;Activate Current Python environment&quot; command variable to use in tasks"): team response was last response and no others in 46 days
+  [20054](https://github.com/microsoft/vscode-python/issues/20054 "Feature Request: Provide &quot;Activate Current Python environment&quot; command variable to use in tasks"): team response was last response and no others in 53 days
 
-  [20225](https://github.com/microsoft/vscode-python/issues/20225 "different behavior of Run vs Run Without Debugging ?"): team response was last response and no others in 41 days
+  [20225](https://github.com/microsoft/vscode-python/issues/20225 "different behavior of Run vs Run Without Debugging ?"): team response was last response and no others in 48 days
 
-  [20269](https://github.com/microsoft/vscode-python/issues/20269 "List run configurations from the run button drop-down menu"): team response was last response and no others in 32 days
+  [20269](https://github.com/microsoft/vscode-python/issues/20269 "List run configurations from the run button drop-down menu"): team response was last response and no others in 39 days
+
+  [20299](https://github.com/microsoft/vscode-python/issues/20299 "Python extension should not register 'python' debugger in web"): team response was last response and no others in 32 days
