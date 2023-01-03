@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2022-12-27 using: stale=30, all=0
+Generated on 2023-01-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,6 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20432](https://github.com/microsoft/vscode-python/issues/20432 "'debug adapter' error in jupyter notebook "): needs an initial team response (0 days old)
+\* [20446](https://github.com/microsoft/vscode-python/issues/20446 "Install Command Line Developer Tools -pop up keeps appearing"): needs an initial team response (1 days old)
 
-\* [20435](https://github.com/microsoft/vscode-python/issues/20435 "Github"): needs an initial team response (0 days old)
+\* [20449](https://github.com/microsoft/vscode-python/issues/20449 "Option to disable execution of test discovery during active test run."): needs an initial team response (0 days old)
