@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-01-02 using: stale=30, all=0
+Generated on 2023-01-09 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3795](https://github.com/microsoft/pylance-release/issues/3795 "Can the extension only download binary specific to my operating system and CPU architecture?"): needs an initial team response (0 days old)
+\* [3813](https://github.com/microsoft/pylance-release/issues/3813 "Pylance not killing python processes it spawns"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3793](https://github.com/microsoft/pylance-release/issues/3793 "Cannot suppress Pylance diagnostic errors in Python library files when try to set up configuration options"): OP responded 0 days ago but team last responded 2 days ago
+\* [3793](https://github.com/microsoft/pylance-release/issues/3793 "Cannot suppress Pylance diagnostic errors in Python library files when try to set up configuration options"): OP responded 1 days ago but team last responded 9 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [3742](https://github.com/microsoft/pylance-release/issues/3742 "semantic highlighting of cached_property"): team response was last response and no others in 30 days
