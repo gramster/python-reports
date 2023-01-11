@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-01-04 using: stale=30, all=0
+Generated on 2023-01-11 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3796](https://github.com/microsoft/pylance-release/issues/3796 "Provides code hints based on inferred types"): needs an initial team response (0 days old)
+\* [3817](https://github.com/microsoft/pylance-release/issues/3817 "A small bug related to auto-complete or intellisense"): needs an initial team response (0 days old)
