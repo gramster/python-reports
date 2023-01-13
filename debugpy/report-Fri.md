@@ -2,18 +2,35 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-01-06 using: stale=30, all=0
+Generated on 2023-01-13 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [891](https://github.com/microsoft/debugpy/issues/891 "Error: Server[1] disconnected unexpectedly when typing anything in the Python debug console while debugging"): OP responded 0 days ago but team last responded 1 days ago
+
+\* [1171](https://github.com/microsoft/debugpy/issues/1171 "Debugger Not Stopping or Stopping in Random Places"): OP responded 0 days ago but team last responded 1 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have no external responses since team response in 30+ days:
+### Issues in debugpy that need a response from team:
 
 
-\* [1143](https://github.com/microsoft/debugpy/issues/1143 "Can't expand to check the data of a Variable when debugging pytorch code"): team response was last response and no others in 30 days
+\* [1172](https://github.com/microsoft/debugpy/issues/1172 "atexit not respected in subprocess.Popen"): needs an initial team response (0 days old)
+
+\* [1173](https://github.com/microsoft/debugpy/issues/1173 "Make exclude from debugging work for tests"): needs an initial team response (0 days old)
+
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [1169](https://github.com/microsoft/debugpy/issues/1169 "Missing examples of configurations"): OP responded 0 days ago but team last responded 2 days ago
