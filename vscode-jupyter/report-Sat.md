@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-01-07 using: stale=30, all=0
+Generated on 2023-01-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,32 +11,42 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [12537](https://github.com/microsoft/vscode-jupyter/issues/12537 "LaTeX not rendering in cell text/html encoded outputs when embedded inside html"): needs an initial team response (1 days old)
+
+\* [12538](https://github.com/microsoft/vscode-jupyter/issues/12538 "Data viewer rounding large integers to incorrect values"): needs an initial team response (1 days old)
+
+\* [12539](https://github.com/microsoft/vscode-jupyter/issues/12539 "Interactive window stuck with Python 3.11.1"): needs an initial team response (1 days old)
+
+\* [12540](https://github.com/microsoft/vscode-jupyter/issues/12540 "Problem reconnecting to jupyter notebook"): needs an initial team response (1 days old)
+
+\* [12544](https://github.com/microsoft/vscode-jupyter/issues/12544 "Jupyter PowerToys not working after updating latest realeased version of jupyter"): needs an initial team response (0 days old)
+
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12399](https://github.com/microsoft/vscode-jupyter/issues/12399 "Wrong elapsed time reported"): OP responded 0 days ago but team last responded 3 days ago
+\* [12511](https://github.com/microsoft/vscode-jupyter/issues/12511 "[Bug] Infinite Recursion Leads to Kernel Death"): OP responded 0 days ago but team last responded 1 days ago
 
-\* [12410](https://github.com/microsoft/vscode-jupyter/issues/12410 "intellisense not working in ipynb files, only in .py files "): OP responded 1 days ago but team last responded 1 days ago
+\* [12543](https://github.com/microsoft/vscode-jupyter/issues/12543 "Not able to run any cell on vscode"): OP responded 0 days ago but team last responded 0 days ago
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6705](https://github.com/microsoft/vscode-jupyter/issues/6705 "Failed to launch Data Viewer when debugging pandas in docker container"): team response was last response and no others in 30 days
-
-\* [11352](https://github.com/microsoft/vscode-jupyter/issues/11352 "no currency symbols for Indian currency (₹)"): team response was last response and no others in 30 days
-
-\* [12314](https://github.com/microsoft/vscode-jupyter/issues/12314 "Can't start Jupyter"): team response was last response and no others in 30 days
-
-\* [12344](https://github.com/microsoft/vscode-jupyter/issues/12344 "Optional detail for remote kernels in kernel picker looks weird"): team response was last response and no others in 30 days
+\* [12529](https://github.com/microsoft/vscode-jupyter/issues/12529 "Connecting to kernel: Python 3.9.7... loading to infinity"): 3rd party responded 0 days ago but team last responded 3 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+### Issues in vscode-jupyter that need a response from team:
 
 
-\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): team response was last response and no others in 30 days
+\* [12542](https://github.com/microsoft/vscode-jupyter/issues/12542 "kernelspec not detected"): needs an initial team response (0 days old)
 
-\* [12338](https://github.com/microsoft/vscode-jupyter/issues/12338 "Different files can be connected to the specified kernel when using python interactive window"): team response was last response and no others in 30 days
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+
+
+\* [12483](https://github.com/microsoft/vscode-jupyter/issues/12483 "select kernel not selecting"): 3rd party responded 1 days ago but team last responded 1 days ago
