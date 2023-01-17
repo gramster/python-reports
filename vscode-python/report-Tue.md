@@ -2,23 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-01-10 using: stale=30, all=0
+Generated on 2023-01-17 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [11915](https://github.com/microsoft/vscode-python/issues/11915 "launch envFile cannot use the variable ${fileDirname}"): 3rd party responded 0 days ago but team last responded 845 days ago
-
-\* [19804](https://github.com/microsoft/vscode-python/issues/19804 "unexpected situation while processing a pytest node during test discovery"): 3rd party responded 0 days ago but team last responded 122 days ago
-
-\* [20253](https://github.com/microsoft/vscode-python/issues/20253 "With Python 3.11.0, PyInt_FromLong not found is spammed in terminal"): 3rd party responded 1 days ago but team last responded 3 days ago
 
 ---
 
@@ -28,20 +16,12 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20483](https://github.com/microsoft/vscode-python/issues/20483 "Attach to an external terminal for code execution"): needs an initial team response (0 days old)
+\* [20512](https://github.com/microsoft/vscode-python/issues/20512 "Bad code insertion when typing Calalble params as ellipsis "): needs an initial team response (1 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [20513](https://github.com/microsoft/vscode-python/issues/20513 "Get a list of methods for override in subclass"): needs an initial team response (1 days old)
 
+\* [20514](https://github.com/microsoft/vscode-python/issues/20514 "The select interpreter for python is not working for me."): needs an initial team response (0 days old)
 
-\* [19982](https://github.com/microsoft/vscode-python/issues/19982 "Jupyter extension breaks code folding in ordinary python files"): OP responded 0 days ago but team last responded 0 days ago
+\* [20515](https://github.com/microsoft/vscode-python/issues/20515 "Python Extention loading forever"): needs an initial team response (0 days old)
 
-\* [20478](https://github.com/microsoft/vscode-python/issues/20478 "short cut of ”Run selection/line in python terminal' doesn't work"): OP responded 0 days ago but team last responded 0 days ago
-
-### Issues in vscode-python that have comments from 3rd party after last team response:
-
-
-\* [481](https://github.com/microsoft/vscode-python/issues/481 "Improve auto-indentation behaviour"): 3rd party responded 0 days ago but team last responded 4 days ago
-
-\* [11932](https://github.com/microsoft/vscode-python/issues/11932 "Add &quot;Run Tests&quot; to launch.json"): 3rd party responded 0 days ago but team last responded 95 days ago
-
-\* [20297](https://github.com/microsoft/vscode-python/issues/20297 "&quot;Create environment&quot; error message isn't helpful"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [20516](https://github.com/microsoft/vscode-python/issues/20516 "Name debug console automatically using launch.json file"): needs an initial team response (0 days old)
