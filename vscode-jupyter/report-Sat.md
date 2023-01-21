@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-01-14 using: stale=30, all=0
+Generated on 2023-01-21 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,27 +14,21 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12537](https://github.com/microsoft/vscode-jupyter/issues/12537 "LaTeX not rendering in cell text/html encoded outputs when embedded inside html"): needs an initial team response (1 days old)
+\* [12583](https://github.com/microsoft/vscode-jupyter/issues/12583 "Data Viewer doesn't show unique values when dataframe has duplicate column names"): needs an initial team response (1 days old)
 
-\* [12538](https://github.com/microsoft/vscode-jupyter/issues/12538 "Data viewer rounding large integers to incorrect values"): needs an initial team response (1 days old)
-
-\* [12539](https://github.com/microsoft/vscode-jupyter/issues/12539 "Interactive window stuck with Python 3.11.1"): needs an initial team response (1 days old)
-
-\* [12540](https://github.com/microsoft/vscode-jupyter/issues/12540 "Problem reconnecting to jupyter notebook"): needs an initial team response (1 days old)
-
-\* [12544](https://github.com/microsoft/vscode-jupyter/issues/12544 "Jupyter PowerToys not working after updating latest realeased version of jupyter"): needs an initial team response (0 days old)
+\* [12586](https://github.com/microsoft/vscode-jupyter/issues/12586 "Private configured DevOps NuGet repo blocks package install in Jupyter Notebooks"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12511](https://github.com/microsoft/vscode-jupyter/issues/12511 "[Bug] Infinite Recursion Leads to Kernel Death"): OP responded 0 days ago but team last responded 1 days ago
+\* [12401](https://github.com/microsoft/vscode-jupyter/issues/12401 "Interactive plot not working with vscode Jupyter"): OP responded 0 days ago but team last responded 8 days ago
 
-\* [12543](https://github.com/microsoft/vscode-jupyter/issues/12543 "Not able to run any cell on vscode"): OP responded 0 days ago but team last responded 0 days ago
+\* [12581](https://github.com/microsoft/vscode-jupyter/issues/12581 "Kernel start fails with /projectfolder/venv path only"): OP responded 1 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [12529](https://github.com/microsoft/vscode-jupyter/issues/12529 "Connecting to kernel: Python 3.9.7... loading to infinity"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [8552](https://github.com/microsoft/vscode-jupyter/issues/8552 "Add support for ipywidgets 8"): 3rd party responded 1 days ago but team last responded 75 days ago
 
 ---
 
@@ -44,9 +38,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12542](https://github.com/microsoft/vscode-jupyter/issues/12542 "kernelspec not detected"): needs an initial team response (0 days old)
+\* [12598](https://github.com/microsoft/vscode-jupyter/issues/12598 "Feature request: allow widgetScriptSources other than jsdelivr.com and unpkg.com"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [12483](https://github.com/microsoft/vscode-jupyter/issues/12483 "select kernel not selecting"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 0 days ago but team last responded 44 days ago
+
+\* [9976](https://github.com/microsoft/vscode-jupyter/issues/9976 "Better intellisense in the web version of jupyter extension"): 3rd party responded 0 days ago but team last responded 255 days ago
