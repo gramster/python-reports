@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-01-17 using: stale=30, all=0
+Generated on 2023-01-24 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in vscode-python that need a response from team:
+
+
+\* [20546](https://github.com/microsoft/vscode-python/issues/20546 "Python extension should not run .txt files "): needs an initial team response (0 days old)
 
 ---
 
@@ -16,12 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20512](https://github.com/microsoft/vscode-python/issues/20512 "Bad code insertion when typing Calalble params as ellipsis "): needs an initial team response (1 days old)
+\* [20541](https://github.com/microsoft/vscode-python/issues/20541 "Pytest discovery fails with &quot;unknown commands&quot; happening from VSCode's python plugin temporary js scripts"): needs an initial team response (0 days old)
 
-\* [20513](https://github.com/microsoft/vscode-python/issues/20513 "Get a list of methods for override in subclass"): needs an initial team response (1 days old)
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
-\* [20514](https://github.com/microsoft/vscode-python/issues/20514 "The select interpreter for python is not working for me."): needs an initial team response (0 days old)
 
-\* [20515](https://github.com/microsoft/vscode-python/issues/20515 "Python Extention loading forever"): needs an initial team response (0 days old)
-
-\* [20516](https://github.com/microsoft/vscode-python/issues/20516 "Name debug console automatically using launch.json file"): needs an initial team response (0 days old)
+\* [19153](https://github.com/microsoft/vscode-python/issues/19153 "Default to pipenv environment if available"): 3rd party responded 0 days ago but team last responded 186 days ago
