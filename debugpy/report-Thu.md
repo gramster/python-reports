@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-01-19 using: stale=30, all=0
+Generated on 2023-01-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [891](https://github.com/microsoft/debugpy/issues/891 "Error: Server[1] disconnected unexpectedly when typing anything in the Python debug console while debugging"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [1187](https://github.com/microsoft/debugpy/issues/1187 " [Mac] Debugpy 1.6.5 not installable with poetry"): OP responded 1 days ago but team last responded 5 days ago
 
 ---
 
@@ -24,4 +24,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1172](https://github.com/microsoft/debugpy/issues/1172 "atexit not respected in subprocess.Popen"): OP responded 0 days ago but team last responded 1 days ago
+\* [1191](https://github.com/microsoft/debugpy/issues/1191 "Change debugger info of pytorch tensor from value to shape"): OP responded 0 days ago but team last responded 1 days ago
