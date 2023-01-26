@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-01-19 using: stale=30, all=0
+Generated on 2023-01-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,16 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+### Issues in vscode-python that need a response from team:
 
 
-\* [18270](https://github.com/microsoft/vscode-python/issues/18270 "First use of shift-enter does not run code"): team response was last response and no others in 30 days
+\* [20555](https://github.com/microsoft/vscode-python/issues/20555 "Issue w python 3 discovery"): needs an initial team response (1 days old)
+
+\* [20560](https://github.com/microsoft/vscode-python/issues/20560 "Prompted to install requirements from another module while creating an environment"): needs an initial team response (1 days old)
+
+\* [20568](https://github.com/microsoft/vscode-python/issues/20568 "Unable to parse version of Conda, 23.1.0.post7+d5281f611"): needs an initial team response (0 days old)
+
+\* [20569](https://github.com/microsoft/vscode-python/issues/20569 "Pytest does not correctly activate conda environment when running tests in debug mode (re-open)"): needs an initial team response (0 days old)
 
 ---
 
@@ -24,20 +30,24 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20520](https://github.com/microsoft/vscode-python/issues/20520 "Unable to restart test debugger"): needs an initial team response (1 days old)
+\* [20557](https://github.com/microsoft/vscode-python/issues/20557 "Testing selected env when vscode is launched - modal confusion"): needs an initial team response (1 days old)
 
-\* [20527](https://github.com/microsoft/vscode-python/issues/20527 "python.defaultInterpreterPath is relative to cwd of the terminal?"): needs an initial team response (0 days old)
+\* [20578](https://github.com/microsoft/vscode-python/issues/20578 "python.analysis.exclude setting description is not rendered nicely"): needs an initial team response (0 days old)
+
+\* [20579](https://github.com/microsoft/vscode-python/issues/20579 "Python 2.7 listed as recommended interpreter "): needs an initial team response (0 days old)
+
+### Issues in vscode-python that have comments from OP after last team response:
+
+
+\* [20537](https://github.com/microsoft/vscode-python/issues/20537 "Python extension doesn't load"): OP responded 0 days ago but team last responded 2 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20514](https://github.com/microsoft/vscode-python/issues/20514 "The select interpreter for python is not working for me."): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [14957](https://github.com/microsoft/vscode-python/issues/14957 "add &quot;just my code&quot; global setting"): 3rd party responded 0 days ago but team last responded 35 days ago
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+\* [18871](https://github.com/microsoft/vscode-python/issues/18871 "Consider removing extensions to prototypes of base types in favor of custom functions"): 3rd party responded 0 days ago but team last responded 294 days ago
 
+\* [20426](https://github.com/microsoft/vscode-python/issues/20426 "Stuck at unittest discovery."): 3rd party responded 0 days ago but team last responded 22 days ago
 
-\* [14094](https://github.com/microsoft/vscode-python/issues/14094 "Can VSCode automatically run python scripts in two or more terminals at the same time? "): team response was last response and no others in 30 days
-
-\* [17286](https://github.com/microsoft/vscode-python/issues/17286 "Minor UX improvement: Don't show duplicate (simlinked) entries when choosing python interpreter"): team response was last response and no others in 30 days
-
-\* [20088](https://github.com/microsoft/vscode-python/issues/20088 "Support terminal link provider to handle python error stacks"): team response was last response and no others in 30 days
+\* [20476](https://github.com/microsoft/vscode-python/issues/20476 "Python extension loading..."): 3rd party responded 0 days ago but team last responded 20 days ago
