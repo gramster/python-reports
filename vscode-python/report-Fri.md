@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-01-20 using: stale=30, all=0
+Generated on 2023-01-27 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,14 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from 3rd party after last team response:
+### Issues in vscode-python that need a response from team:
 
 
-\* [19486](https://github.com/microsoft/vscode-python/issues/19486 " Test Discovery fails with ModuleNotFoundError while command is working on console"): 3rd party responded 0 days ago but team last responded 185 days ago
+\* [20568](https://github.com/microsoft/vscode-python/issues/20568 "Unable to parse version of Conda, 23.1.0.post7+d5281f611"): needs an initial team response (1 days old)
+
+\* [20569](https://github.com/microsoft/vscode-python/issues/20569 "Pytest does not correctly activate conda environment when running tests in debug mode (re-open)"): needs an initial team response (1 days old)
+
+\* [20578](https://github.com/microsoft/vscode-python/issues/20578 "python.analysis.exclude setting description is not rendered nicely"): needs an initial team response (1 days old)
 
 ---
 
@@ -24,29 +28,28 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20527](https://github.com/microsoft/vscode-python/issues/20527 "python.defaultInterpreterPath is relative to cwd of the terminal?"): needs an initial team response (1 days old)
+\* [20579](https://github.com/microsoft/vscode-python/issues/20579 "Python 2.7 listed as recommended interpreter "): needs an initial team response (1 days old)
 
-\* [20532](https://github.com/microsoft/vscode-python/issues/20532 "Detect ActiveState Python Runtimes"): needs an initial team response (0 days old)
+\* [20581](https://github.com/microsoft/vscode-python/issues/20581 "Python extension"): needs an initial team response (0 days old)
 
-\* [20536](https://github.com/microsoft/vscode-python/issues/20536 "Lazy evaluation during debug"): needs an initial team response (0 days old)
+\* [20582](https://github.com/microsoft/vscode-python/issues/20582 "Exteriment settings have plain text links"): needs an initial team response (0 days old)
+
+\* [20583](https://github.com/microsoft/vscode-python/issues/20583 "Run selection/line in interactive terminal does not handle decorators when decorator is first line"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [20529](https://github.com/microsoft/vscode-python/issues/20529 "torchvision ModuleNotFoundError in unittest test discovery"): OP responded 0 days ago but team last responded 0 days ago
+\* [20567](https://github.com/microsoft/vscode-python/issues/20567 "Error: spawn C:/xxx/conda.exe ENOENT When linting with pycodestyle"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20514](https://github.com/microsoft/vscode-python/issues/20514 "The select interpreter for python is not working for me."): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [14957](https://github.com/microsoft/vscode-python/issues/14957 "add &quot;just my code&quot; global setting"): 3rd party responded 1 days ago but team last responded 36 days ago
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+\* [18871](https://github.com/microsoft/vscode-python/issues/18871 "Consider removing extensions to prototypes of base types in favor of custom functions"): 3rd party responded 1 days ago but team last responded 295 days ago
 
+\* [20250](https://github.com/microsoft/vscode-python/issues/20250 "Stuck on Discovering Python Interpreters"): 3rd party responded 0 days ago but team last responded 45 days ago
 
-\* [4922](https://github.com/microsoft/vscode-python/issues/4922 "Need a way to find tools (linters, formatters) via PATH"): team response was last response and no others in 30 days
+\* [20426](https://github.com/microsoft/vscode-python/issues/20426 "Stuck at unittest discovery."): 3rd party responded 1 days ago but team last responded 23 days ago
 
-\* [6676](https://github.com/microsoft/vscode-python/issues/6676 "Documentation for how to format docstrings for correct tooltips using Jedi"): team response was last response and no others in 30 days
-
-\* [9268](https://github.com/microsoft/vscode-python/issues/9268 "Debug: contribute a start view"): team response was last response and no others in 30 days
-
-\* [12467](https://github.com/microsoft/vscode-python/issues/12467 "Ripgrep causes out of memory crash due to `search.exclude` not being respected"): team response was last response and no others in 30 days
+\* [20476](https://github.com/microsoft/vscode-python/issues/20476 "Python extension loading..."): 3rd party responded 1 days ago but team last responded 21 days ago
