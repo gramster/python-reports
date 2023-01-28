@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-01-21 using: stale=30, all=0
+Generated on 2023-01-28 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,21 +14,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12583](https://github.com/microsoft/vscode-jupyter/issues/12583 "Data Viewer doesn't show unique values when dataframe has duplicate column names"): needs an initial team response (1 days old)
+\* [12650](https://github.com/microsoft/vscode-jupyter/issues/12650 "Interactive window stdout stops working after 1-2 days of usage"): needs an initial team response (1 days old)
 
-\* [12586](https://github.com/microsoft/vscode-jupyter/issues/12586 "Private configured DevOps NuGet repo blocks package install in Jupyter Notebooks"): needs an initial team response (1 days old)
+\* [12651](https://github.com/microsoft/vscode-jupyter/issues/12651 "How to install kernel in VS code"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [12652](https://github.com/microsoft/vscode-jupyter/issues/12652 "Kernel constantly crashing when debugging a cell"): needs an initial team response (1 days old)
 
+\* [12653](https://github.com/microsoft/vscode-jupyter/issues/12653 "xeus-cling kernel doesn't work in VS Code Jupyter notebook on WSL remote"): needs an initial team response (1 days old)
 
-\* [12401](https://github.com/microsoft/vscode-jupyter/issues/12401 "Interactive plot not working with vscode Jupyter"): OP responded 0 days ago but team last responded 8 days ago
-
-\* [12581](https://github.com/microsoft/vscode-jupyter/issues/12581 "Kernel start fails with /projectfolder/venv path only"): OP responded 1 days ago but team last responded 1 days ago
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [8552](https://github.com/microsoft/vscode-jupyter/issues/8552 "Add support for ipywidgets 8"): 3rd party responded 1 days ago but team last responded 75 days ago
+\* [12668](https://github.com/microsoft/vscode-jupyter/issues/12668 "Installing Python and Jupyter on fresh macOS multiple prompts"): needs an initial team response (0 days old)
 
 ---
 
@@ -38,11 +32,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12598](https://github.com/microsoft/vscode-jupyter/issues/12598 "Feature request: allow widgetScriptSources other than jsdelivr.com and unpkg.com"): needs an initial team response (0 days old)
+\* [12655](https://github.com/microsoft/vscode-jupyter/issues/12655 "Remove `{Locked='kernel'}` from localized strings"): needs an initial team response (1 days old)
+
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [12646](https://github.com/microsoft/vscode-jupyter/issues/12646 "Detected project namespace not in sync if notebook is not in root folder"): OP responded 0 days ago but team last responded 1 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 0 days ago but team last responded 44 days ago
+\* [4946](https://github.com/microsoft/vscode-jupyter/issues/4946 "[Suggestion] Add for Jupyter Notebook's Python Markdown"): 3rd party responded 0 days ago but team last responded 303 days ago
 
-\* [9976](https://github.com/microsoft/vscode-jupyter/issues/9976 "Better intellisense in the web version of jupyter extension"): 3rd party responded 0 days ago but team last responded 255 days ago
+\* [12663](https://github.com/microsoft/vscode-jupyter/issues/12663 "Use @vscode/vsce instead of vsce"): 3rd party responded 0 days ago but team last responded 0 days ago
