@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-04 using: stale=30, all=0
+Generated on 2023-02-11 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,19 +14,26 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12725](https://github.com/microsoft/vscode-jupyter/issues/12725 "HTML export doesn't show plots"): needs an initial team response (0 days old)
+\* [12792](https://github.com/microsoft/vscode-jupyter/issues/12792 "Infinitely connecting to kernel"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
+\* [12797](https://github.com/microsoft/vscode-jupyter/issues/12797 "Unhandled @jupyterlab kernel exception"): needs an initial team response (1 days old)
 
+\* [12809](https://github.com/microsoft/vscode-jupyter/issues/12809 "GridspecLayout isn't rendered"): needs an initial team response (0 days old)
 
-\* [11806](https://github.com/microsoft/vscode-jupyter/issues/11806 "Widgets on remote server stop working after restart/kernel switch"): OP responded 1 days ago but team last responded 22 days ago
-
-\* [12721](https://github.com/microsoft/vscode-jupyter/issues/12721 "constant stream of Forbidden requests made by vscode-jupyter to remote jupyter server"): OP responded 1 days ago but team last responded 1 days ago
+\* [12814](https://github.com/microsoft/vscode-jupyter/issues/12814 "KaTeX parse error with third derivative"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 0 days ago but team last responded 117 days ago
+\* [9264](https://github.com/microsoft/vscode-jupyter/issues/9264 "Data viewer is not recognizing objects of `pandas.DataFrame` subclass"): 3rd party responded 0 days ago but team last responded 340 days ago
+
+\* [12029](https://github.com/microsoft/vscode-jupyter/issues/12029 "Duplicate intellisense tooltips and dropdowns"): 3rd party responded 0 days ago but team last responded 64 days ago
+
+\* [12637](https://github.com/microsoft/vscode-jupyter/issues/12637 "MRU kernel picker won't open existing servers list"): 3rd party responded 0 days ago but team last responded 0 days ago
+
+\* [12695](https://github.com/microsoft/vscode-jupyter/issues/12695 "Identify flaky kernel failures"): 3rd party responded 1 days ago but team last responded 11 days ago
+
+\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): 3rd party responded 1 days ago but team last responded 3 days ago
 
 ---
 
@@ -36,6 +43,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12724](https://github.com/microsoft/vscode-jupyter/issues/12724 "Deleting cell should have confirmation before removing cell"): needs an initial team response (1 days old)
+\* [12793](https://github.com/microsoft/vscode-jupyter/issues/12793 "SVG adjust width, fit to display width"): needs an initial team response (1 days old)
 
-\* [12727](https://github.com/microsoft/vscode-jupyter/issues/12727 "Switching between interactive windows"): needs an initial team response (0 days old)
+\* [12796](https://github.com/microsoft/vscode-jupyter/issues/12796 "Implement R and SQL code with Python in the same Jupyter Notebook"): needs an initial team response (1 days old)
+
+\* [12806](https://github.com/microsoft/vscode-jupyter/issues/12806 "C/C++ support for jupyter in VSCode"): needs an initial team response (1 days old)
