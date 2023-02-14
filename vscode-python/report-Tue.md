@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-02-07 using: stale=30, all=0
+Generated on 2023-02-14 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,29 +11,32 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [19499](https://github.com/microsoft/vscode-python/issues/19499 "VSCode运行Python程序提示：ModuleNotFoundError，VSCode未找到导入的自定义的模块，只能手动向sys.path中把项目路径添加，但十分麻烦；Pycharm运行时会自动把项目经路添加至sys.path，开发者无需这般麻烦操作"): OP responded 1 days ago but team last responded 201 days ago
-
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20493](https://github.com/microsoft/vscode-python/issues/20493 "Running selection forces focus to move to terminal when {&quot;terminal.integrated.defaultLocation&quot;: &quot;editor&quot;}"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [7055](https://github.com/microsoft/vscode-python/issues/7055 "Pytest doesn't exit properly when stopping test sessions"): 3rd party responded 0 days ago but team last responded 480 days ago
+
+\* [10722](https://github.com/microsoft/vscode-python/issues/10722 "Debugging test in VS Code does not work"): 3rd party responded 0 days ago but team last responded 234 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
-
-
-\* [20654](https://github.com/microsoft/vscode-python/issues/20654 "Mark unused variables in Jupyter notebooks"): needs an initial team response (0 days old)
-
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [20607](https://github.com/microsoft/vscode-python/issues/20607 "Can't start debug on dockerized Python app in WSL "): OP responded 1 days ago but team last responded 4 days ago
+\* [20607](https://github.com/microsoft/vscode-python/issues/20607 "Can't start debug on dockerized Python app in WSL "): OP responded 1 days ago but team last responded 11 days ago
 
-\* [20652](https://github.com/microsoft/vscode-python/issues/20652 "Python Extension will not load"): OP responded 0 days ago but team last responded 0 days ago
+\* [20683](https://github.com/microsoft/vscode-python/issues/20683 "Discovery of active environment venv fails on initial launch on WSL"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [20688](https://github.com/microsoft/vscode-python/issues/20688 "Fails to activate conda environment (miniconda)"): OP responded 0 days ago but team last responded 0 days ago
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 0 days ago but team last responded 4 days ago
+
+\* [20087](https://github.com/microsoft/vscode-python/issues/20087 "Notify users to upgrade conda when applicable"): 3rd party responded 0 days ago but team last responded 61 days ago
+
+\* [20669](https://github.com/microsoft/vscode-python/issues/20669 "Python test runner is extremely slow"): 3rd party responded 0 days ago but team last responded 5 days ago
