@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-11 using: stale=30, all=0
+Generated on 2023-02-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,26 +14,20 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12792](https://github.com/microsoft/vscode-jupyter/issues/12792 "Infinitely connecting to kernel"): needs an initial team response (1 days old)
+\* [12858](https://github.com/microsoft/vscode-jupyter/issues/12858 "Inside of a notebook, magic cells should not cause an error in pylance"): needs an initial team response (1 days old)
 
-\* [12797](https://github.com/microsoft/vscode-jupyter/issues/12797 "Unhandled @jupyterlab kernel exception"): needs an initial team response (1 days old)
+\* [12859](https://github.com/microsoft/vscode-jupyter/issues/12859 "MRU picker ignores jupyter.kernels.filter setting"): needs an initial team response (1 days old)
 
-\* [12809](https://github.com/microsoft/vscode-jupyter/issues/12809 "GridspecLayout isn't rendered"): needs an initial team response (0 days old)
+\* [12863](https://github.com/microsoft/vscode-jupyter/issues/12863 "Cell randomly losing focus, view jumping"): needs an initial team response (0 days old)
 
-\* [12814](https://github.com/microsoft/vscode-jupyter/issues/12814 "KaTeX parse error with third derivative"): needs an initial team response (0 days old)
+\* [12867](https://github.com/microsoft/vscode-jupyter/issues/12867 "Python code hints tab completion not working"): needs an initial team response (0 days old)
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [9264](https://github.com/microsoft/vscode-jupyter/issues/9264 "Data viewer is not recognizing objects of `pandas.DataFrame` subclass"): 3rd party responded 0 days ago but team last responded 340 days ago
+\* [12827](https://github.com/microsoft/vscode-jupyter/issues/12827 "Enabling the Jupyter extension causes high CPU usage"): OP responded 1 days ago but team last responded 2 days ago
 
-\* [12029](https://github.com/microsoft/vscode-jupyter/issues/12029 "Duplicate intellisense tooltips and dropdowns"): 3rd party responded 0 days ago but team last responded 64 days ago
-
-\* [12637](https://github.com/microsoft/vscode-jupyter/issues/12637 "MRU kernel picker won't open existing servers list"): 3rd party responded 0 days ago but team last responded 0 days ago
-
-\* [12695](https://github.com/microsoft/vscode-jupyter/issues/12695 "Identify flaky kernel failures"): 3rd party responded 1 days ago but team last responded 11 days ago
-
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): 3rd party responded 1 days ago but team last responded 3 days ago
+\* [12828](https://github.com/microsoft/vscode-jupyter/issues/12828 "Jupyter Notebook kernel "): OP responded 0 days ago but team last responded 0 days ago
 
 ---
 
@@ -43,8 +37,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12793](https://github.com/microsoft/vscode-jupyter/issues/12793 "SVG adjust width, fit to display width"): needs an initial team response (1 days old)
+\* [12862](https://github.com/microsoft/vscode-jupyter/issues/12862 "provide option to use custom css files for notebook"): needs an initial team response (0 days old)
 
-\* [12796](https://github.com/microsoft/vscode-jupyter/issues/12796 "Implement R and SQL code with Python in the same Jupyter Notebook"): needs an initial team response (1 days old)
+\* [12866](https://github.com/microsoft/vscode-jupyter/issues/12866 "Hovering on variables once a jupyter session starts should reflect the value of the variable"): needs an initial team response (0 days old)
 
-\* [12806](https://github.com/microsoft/vscode-jupyter/issues/12806 "C/C++ support for jupyter in VSCode"): needs an initial team response (1 days old)
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+
+
+\* [3998](https://github.com/microsoft/vscode-jupyter/issues/3998 "Restore connection (Re-connect) to an already running Local & Remote kernel (even Remote SSH)"): 3rd party responded 1 days ago but team last responded 28 days ago
+
+\* [7161](https://github.com/microsoft/vscode-jupyter/issues/7161 "Add support for theming of IPyWidgets"): 3rd party responded 1 days ago but team last responded 145 days ago
