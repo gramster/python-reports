@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-02-12 using: stale=30, all=0
+Generated on 2023-02-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20682](https://github.com/microsoft/vscode-python/issues/20682 "Enabling the Jupyter extension causes high CPU usage"): needs an initial team response (1 days old)
+\* [20568](https://github.com/microsoft/vscode-python/issues/20568 "Unable to parse version of Conda, 23.1.0.post7+d5281f611"): 3rd party responded 1 days ago but team last responded 16 days ago
 
 ---
 
@@ -24,13 +24,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20679](https://github.com/microsoft/vscode-python/issues/20679 "duplicate tooltips"): needs an initial team response (1 days old)
-
-\* [20680](https://github.com/microsoft/vscode-python/issues/20680 "Debug test does not load env variables from conda"): needs an initial team response (1 days old)
-
-\* [20681](https://github.com/microsoft/vscode-python/issues/20681 "Debug tests doesn't load environment variables properly"): needs an initial team response (1 days old)
+\* [20713](https://github.com/microsoft/vscode-python/issues/20713 "Potentially disastrous behaviour from auto-formatting in Jupyter Notebooks"): needs an initial team response (1 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [20461](https://github.com/microsoft/vscode-python/issues/20461 ".env files don't resolve ${workspaceFolder} in PYTHONPATH"): 3rd party responded 0 days ago but team last responded 43 days ago
+
+\* [20668](https://github.com/microsoft/vscode-python/issues/20668 "stray Python processes when running mypy, maxing out CPU completely"): 3rd party responded 1 days ago but team last responded 10 days ago
+
+\* [20688](https://github.com/microsoft/vscode-python/issues/20688 "Fails to activate conda environment (miniconda)"): 3rd party responded 0 days ago but team last responded 1 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [20449](https://github.com/microsoft/vscode-python/issues/20449 "Option to disable execution of test discovery during active test run"): team response was last response and no others in 30 days
