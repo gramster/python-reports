@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-12 using: stale=30, all=0
+Generated on 2023-02-19 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,32 +14,52 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12809](https://github.com/microsoft/vscode-jupyter/issues/12809 "GridspecLayout isn't rendered"): needs an initial team response (1 days old)
+\* [12863](https://github.com/microsoft/vscode-jupyter/issues/12863 "Cell randomly losing focus, view jumping"): needs an initial team response (1 days old)
 
-\* [12814](https://github.com/microsoft/vscode-jupyter/issues/12814 "KaTeX parse error with third derivative"): needs an initial team response (1 days old)
+\* [12867](https://github.com/microsoft/vscode-jupyter/issues/12867 "Python code hints tab completion not working"): needs an initial team response (1 days old)
 
-\* [12816](https://github.com/microsoft/vscode-jupyter/issues/12816 "Malposition after layout change"): needs an initial team response (0 days old)
+\* [12868](https://github.com/microsoft/vscode-jupyter/issues/12868 "cannot scroll down when cursor put on cell output"): needs an initial team response (0 days old)
+
+\* [12870](https://github.com/microsoft/vscode-jupyter/issues/12870 "Notebook editor Find/Replace widget occludes notebook toolbar"): needs an initial team response (0 days old)
+
+\* [12871](https://github.com/microsoft/vscode-jupyter/issues/12871 "Vscode debugger does not start for all kernels"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 4 days ago
+\* [12828](https://github.com/microsoft/vscode-jupyter/issues/12828 "Jupyter Notebook kernel "): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [9264](https://github.com/microsoft/vscode-jupyter/issues/9264 "Data viewer is not recognizing objects of `pandas.DataFrame` subclass"): 3rd party responded 1 days ago but team last responded 341 days ago
+\* [12737](https://github.com/microsoft/vscode-jupyter/issues/12737 "LiveShare Jupyter Notebook output synch problem "): 3rd party responded 0 days ago but team last responded 12 days ago
 
-\* [12029](https://github.com/microsoft/vscode-jupyter/issues/12029 "Duplicate intellisense tooltips and dropdowns"): 3rd party responded 1 days ago but team last responded 65 days ago
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
-\* [12637](https://github.com/microsoft/vscode-jupyter/issues/12637 "MRU kernel picker won't open existing servers list"): 3rd party responded 1 days ago but team last responded 1 days ago
+
+\* [10422](https://github.com/microsoft/vscode-jupyter/issues/10422 "Alert box styling seems not to actually work"): team response was last response and no others in 30 days
+
+\* [12452](https://github.com/microsoft/vscode-jupyter/issues/12452 "Jupyter extension doesn't activate python environment in internal terminal"): team response was last response and no others in 30 days
+
+\* [12582](https://github.com/microsoft/vscode-jupyter/issues/12582 "Remove old kernels"): team response was last response and no others in 30 days
+
+\* [12584](https://github.com/microsoft/vscode-jupyter/issues/12584 "kernel issue"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in vscode-jupyter that need a response from team:
+
+
+\* [12862](https://github.com/microsoft/vscode-jupyter/issues/12862 "provide option to use custom css files for notebook"): needs an initial team response (1 days old)
+
+\* [12866](https://github.com/microsoft/vscode-jupyter/issues/12866 "Hovering on variables once a jupyter session starts should reflect the value of the variable"): needs an initial team response (1 days old)
+
+\* [12869](https://github.com/microsoft/vscode-jupyter/issues/12869 "Python Intellisense makes a lot of trash suggestions when opening quotes in Notebooks"): needs an initial team response (1 days old)
+
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [11220](https://github.com/microsoft/vscode-jupyter/issues/11220 "Support opening a notebook with a specific Kernel"): team response was last response and no others in 30 days
+\* [11717](https://github.com/microsoft/vscode-jupyter/issues/11717 "Support reconnect/create in JupyterUriProvider "): team response was last response and no others in 30 days
