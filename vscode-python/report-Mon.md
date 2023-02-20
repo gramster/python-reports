@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-02-13 using: stale=30, all=0
+Generated on 2023-02-20 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20503](https://github.com/microsoft/vscode-python/issues/20503 "Conda environment in vscode terminal"): team response was last response and no others in 30 days
+\* [20407](https://github.com/microsoft/vscode-python/issues/20407 "Debugging inside a container: debugger does not hit breakpoints anymore"): 3rd party responded 0 days ago but team last responded 3 days ago
 
 ---
 
@@ -24,17 +24,20 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20683](https://github.com/microsoft/vscode-python/issues/20683 "Discovery of active environment venv fails on initial launch"): needs an initial team response (0 days old)
+\* [20717](https://github.com/microsoft/vscode-python/issues/20717 "problems installing python extension in vscode.please someone assist"): needs an initial team response (0 days old)
 
-\* [20684](https://github.com/microsoft/vscode-python/issues/20684 "Jupyter Notebook kernel "): needs an initial team response (0 days old)
-
-\* [20685](https://github.com/microsoft/vscode-python/issues/20685 "breakpoints in PyQt's QThread are ignored"): needs an initial team response (0 days old)
-
-\* [20686](https://github.com/microsoft/vscode-python/issues/20686 "Is it possible to send to REPL function definition from a context?"): needs an initial team response (0 days old)
-
-\* [20687](https://github.com/microsoft/vscode-python/issues/20687 "Installing python extension hangs（remote）"): needs an initial team response (0 days old)
+\* [20718](https://github.com/microsoft/vscode-python/issues/20718 "Tests not discovered"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [20607](https://github.com/microsoft/vscode-python/issues/20607 "Can't start debug on dockerized Python app in WSL "): OP responded 0 days ago but team last responded 10 days ago
+\* [20529](https://github.com/microsoft/vscode-python/issues/20529 "torchvision ModuleNotFoundError in unittest test discovery"): OP responded 0 days ago but team last responded 28 days ago
+
+### Issues in vscode-python that have comments from 3rd party after last team response:
+
+
+\* [20461](https://github.com/microsoft/vscode-python/issues/20461 ".env files don't resolve ${workspaceFolder} in PYTHONPATH"): 3rd party responded 1 days ago but team last responded 44 days ago
+
+\* [20688](https://github.com/microsoft/vscode-python/issues/20688 "Fails to activate conda environment (miniconda)"): 3rd party responded 1 days ago but team last responded 2 days ago
+
+\* [20707](https://github.com/microsoft/vscode-python/issues/20707 "Unit tests not disovered if `\n===\n` is printed "): 3rd party responded 0 days ago but team last responded 3 days ago
