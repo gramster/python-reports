@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-15 using: stale=30, all=0
+Generated on 2023-02-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,20 +14,24 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12829](https://github.com/microsoft/vscode-jupyter/issues/12829 "Data Viewer can't filter multi-index"): needs an initial team response (1 days old)
-
-\* [12844](https://github.com/microsoft/vscode-jupyter/issues/12844 "Insert code cell above (ESC, A) doesn't work if text in the cell is selected"): needs an initial team response (0 days old)
-
-\* [12845](https://github.com/microsoft/vscode-jupyter/issues/12845 "Can't view dataframe in data viewer while debugging &quot;Cannot read properties of undefined (reading 'disposed')&quot;"): needs an initial team response (0 days old)
+\* [12886](https://github.com/microsoft/vscode-jupyter/issues/12886 "Editor Find Widget Does Not Search Output Cells"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 1 days ago but team last responded 7 days ago
+\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 14 days ago
 
-\* [12827](https://github.com/microsoft/vscode-jupyter/issues/12827 "Enabling the Jupyter extension causes high CPU usage"): OP responded 1 days ago but team last responded 1 days ago
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
-\* [12828](https://github.com/microsoft/vscode-jupyter/issues/12828 "Jupyter Notebook kernel "): OP responded 0 days ago but team last responded 1 days ago
+
+\* [11519](https://github.com/microsoft/vscode-jupyter/issues/11519 "Unable to detect nor run R kernels"): 3rd party responded 0 days ago but team last responded 2 days ago
+
+\* [11871](https://github.com/microsoft/vscode-jupyter/issues/11871 "Pasting text into ipywidgets does not work in VS Code desktop"): 3rd party responded 1 days ago but team last responded 78 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [12420](https://github.com/microsoft/vscode-jupyter/issues/12420 "Launching TensorBoard keeps on asking to install TensorBoard and PyTorch Profiler"): team response was last response and no others in 30 days
 
 ---
 
@@ -37,11 +41,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12826](https://github.com/microsoft/vscode-jupyter/issues/12826 "Add `pathMappings` to remote Jupyter server debugging"): needs an initial team response (1 days old)
+\* [12891](https://github.com/microsoft/vscode-jupyter/issues/12891 "ipywidgets don't render under ipywidget 8"): needs an initial team response (0 days old)
 
-\* [12837](https://github.com/microsoft/vscode-jupyter/issues/12837 "Allow typing in cell when scrolled away from cell"): needs an initial team response (0 days old)
+\* [12893](https://github.com/microsoft/vscode-jupyter/issues/12893 "No direct cell output when CDN disabled"): needs an initial team response (0 days old)
+
+\* [12894](https://github.com/microsoft/vscode-jupyter/issues/12894 "Kernel picker shows up when pressing run button even when there is only one suggested option"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1149](https://github.com/microsoft/vscode-jupyter/issues/1149 "Dataviewer needs export and copy"): 3rd party responded 1 days ago but team last responded 742 days ago
+\* [7058](https://github.com/microsoft/vscode-jupyter/issues/7058 "Format cell on run like the nb_black extension does."): 3rd party responded 1 days ago but team last responded 308 days ago
+
+### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
+
+
+\* [12598](https://github.com/microsoft/vscode-jupyter/issues/12598 "Feature request: allow widgetScriptSources other than jsdelivr.com and unpkg.com"): team response was last response and no others in 30 days
