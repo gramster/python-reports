@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-16 using: stale=30, all=0
+Generated on 2023-02-23 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,25 +14,25 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12850](https://github.com/microsoft/vscode-jupyter/issues/12850 "Cell output slash highlight/hyperlinking not useful / confusing / broken"): needs an initial team response (0 days old)
+\* [12886](https://github.com/microsoft/vscode-jupyter/issues/12886 "Editor Find Widget Does Not Search Output Cells"): needs an initial team response (1 days old)
 
-\* [12856](https://github.com/microsoft/vscode-jupyter/issues/12856 "Kernel list is not accurate, points to non-existent kernel.json"): needs an initial team response (0 days old)
+\* [12908](https://github.com/microsoft/vscode-jupyter/issues/12908 "Clicking on path in exception traceback shows error on Windows"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 8 days ago
+\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 15 days ago
 
-\* [12827](https://github.com/microsoft/vscode-jupyter/issues/12827 "Enabling the Jupyter extension causes high CPU usage"): OP responded 0 days ago but team last responded 0 days ago
+\* [12900](https://github.com/microsoft/vscode-jupyter/issues/12900 "&quot;provider FAILED&quot; Error when using notebooks"): OP responded 0 days ago but team last responded 0 days ago
 
-\* [12843](https://github.com/microsoft/vscode-jupyter/issues/12843 "Matplotlib widgets do not load with ipywidgets 8 and the recent preview version of vscode-jupyter"): OP responded 0 days ago but team last responded 1 days ago
+\* [12910](https://github.com/microsoft/vscode-jupyter/issues/12910 "Select Kernel not finding python interpreter"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 0 days ago but team last responded 129 days ago
+\* [11519](https://github.com/microsoft/vscode-jupyter/issues/11519 "Unable to detect nor run R kernels"): 3rd party responded 1 days ago but team last responded 3 days ago
 
-\* [12542](https://github.com/microsoft/vscode-jupyter/issues/12542 "Fails to run Kernel in Python venv created using PyEnv"): 3rd party responded 0 days ago but team last responded 3 days ago
+\* [12827](https://github.com/microsoft/vscode-jupyter/issues/12827 "Enabling the Jupyter extension causes high CPU usage"): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -42,11 +42,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12849](https://github.com/microsoft/vscode-jupyter/issues/12849 "Reconnecting to Kernel takes forever"): needs an initial team response (0 days old)
-
-\* [12852](https://github.com/microsoft/vscode-jupyter/issues/12852 "Tensorboard still takes a huge amount of memory after closing it"): needs an initial team response (1 days old)
+\* [12894](https://github.com/microsoft/vscode-jupyter/issues/12894 "Kernel picker shows up when pressing run button even when there is only one suggested option"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [8368](https://github.com/microsoft/vscode-jupyter/issues/8368 "Option to display a line for every cell in .py files with percent markup"): 3rd party responded 0 days ago but team last responded 89 days ago
+\* [12663](https://github.com/microsoft/vscode-jupyter/issues/12663 "Use @vscode/vsce instead of vsce"): 3rd party responded 0 days ago but team last responded 25 days ago
