@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-02-17 using: stale=30, all=0
+Generated on 2023-02-24 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,15 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [20711](https://github.com/microsoft/vscode-python/issues/20711 "Unit test won't debug"): OP responded 0 days ago but team last responded 0 days ago
-
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20407](https://github.com/microsoft/vscode-python/issues/20407 "Debugging inside a container: debugger does not hit breakpoints anymore"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [20655](https://github.com/microsoft/vscode-python/issues/20655 "Docker launch config not running after last update"): 3rd party responded 0 days ago but team last responded 16 days ago
 
 ---
 
@@ -29,21 +24,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20705](https://github.com/microsoft/vscode-python/issues/20705 "Python unittests: Error is display in the Log Output after test run"): needs an initial team response (1 days old)
+\* [20729](https://github.com/microsoft/vscode-python/issues/20729 "black format on save no longer works inside devcontainer"): needs an initial team response (0 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [20735](https://github.com/microsoft/vscode-python/issues/20735 "Extension host crash with python and limited extensions"): needs an initial team response (0 days old)
 
+\* [20740](https://github.com/microsoft/vscode-python/issues/20740 "Investigate Getting Started Walkthrough flow "): needs an initial team response (0 days old)
 
-\* [20659](https://github.com/microsoft/vscode-python/issues/20659 "Allow other extensions to indicate which file types are python related"): OP responded 0 days ago but team last responded 3 days ago
-
-\* [20701](https://github.com/microsoft/vscode-python/issues/20701 "Python test framework"): OP responded 1 days ago but team last responded 1 days ago
+\* [20746](https://github.com/microsoft/vscode-python/issues/20746 "VS Code and Python: configure the &quot;Run&quot; button next to the editor tabs"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [11039](https://github.com/microsoft/vscode-python/issues/11039 "Use new vsc API to activate terminal without running any commands in terminal"): 3rd party responded 1 days ago but team last responded 182 days ago
-
-### Issues in vscode-python that have no external responses since team response in 30+ days:
-
-
-\* [20518](https://github.com/microsoft/vscode-python/issues/20518 "can't find python"): team response was last response and no others in 30 days
+\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 1 days ago but team last responded 191 days ago
