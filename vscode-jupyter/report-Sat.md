@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-18 using: stale=30, all=0
+Generated on 2023-02-25 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,20 +14,21 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12858](https://github.com/microsoft/vscode-jupyter/issues/12858 "Inside of a notebook, magic cells should not cause an error in pylance"): needs an initial team response (1 days old)
-
-\* [12859](https://github.com/microsoft/vscode-jupyter/issues/12859 "MRU picker ignores jupyter.kernels.filter setting"): needs an initial team response (1 days old)
-
-\* [12863](https://github.com/microsoft/vscode-jupyter/issues/12863 "Cell randomly losing focus, view jumping"): needs an initial team response (0 days old)
-
-\* [12867](https://github.com/microsoft/vscode-jupyter/issues/12867 "Python code hints tab completion not working"): needs an initial team response (0 days old)
+\* [12913](https://github.com/microsoft/vscode-jupyter/issues/12913 "Pip module Unable to parse debugpy output"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12827](https://github.com/microsoft/vscode-jupyter/issues/12827 "Enabling the Jupyter extension causes high CPU usage"): OP responded 1 days ago but team last responded 2 days ago
+\* [12845](https://github.com/microsoft/vscode-jupyter/issues/12845 "Can't view dataframe in data viewer while debugging &quot;Cannot read properties of undefined (reading 'disposed')&quot;"): OP responded 0 days ago but team last responded 2 days ago
 
-\* [12828](https://github.com/microsoft/vscode-jupyter/issues/12828 "Jupyter Notebook kernel "): OP responded 0 days ago but team last responded 0 days ago
+\* [12893](https://github.com/microsoft/vscode-jupyter/issues/12893 "No direct cell output when CDN disabled"): OP responded 0 days ago but team last responded 2 days ago
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+
+
+\* [4406](https://github.com/microsoft/vscode-jupyter/issues/4406 "Scroll settings are not honored in Native Notebook"): 3rd party responded 1 days ago but team last responded 711 days ago
+
+\* [11519](https://github.com/microsoft/vscode-jupyter/issues/11519 "Unable to detect nor run R kernels"): 3rd party responded 1 days ago but team last responded 5 days ago
 
 ---
 
@@ -37,13 +38,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12862](https://github.com/microsoft/vscode-jupyter/issues/12862 "provide option to use custom css files for notebook"): needs an initial team response (0 days old)
+\* [12927](https://github.com/microsoft/vscode-jupyter/issues/12927 "[jupyter] Possible delay in output for stdin redirect? Support for inline inputs?"): needs an initial team response (0 days old)
 
-\* [12866](https://github.com/microsoft/vscode-jupyter/issues/12866 "Hovering on variables once a jupyter session starts should reflect the value of the variable"): needs an initial team response (0 days old)
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [12925](https://github.com/microsoft/vscode-jupyter/issues/12925 "Do not use environment APIs if the workspace is not trusted"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [3998](https://github.com/microsoft/vscode-jupyter/issues/3998 "Restore connection (Re-connect) to an already running Local & Remote kernel (even Remote SSH)"): 3rd party responded 1 days ago but team last responded 28 days ago
-
-\* [7161](https://github.com/microsoft/vscode-jupyter/issues/7161 "Add support for theming of IPyWidgets"): 3rd party responded 1 days ago but team last responded 145 days ago
+\* [3998](https://github.com/microsoft/vscode-jupyter/issues/3998 "Restore connection (Re-connect) to an already running Local & Remote kernel (even Remote SSH)"): 3rd party responded 0 days ago but team last responded 35 days ago
