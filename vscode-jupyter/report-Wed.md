@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-22 using: stale=30, all=0
+Generated on 2023-03-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,24 +14,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12886](https://github.com/microsoft/vscode-jupyter/issues/12886 "Editor Find Widget Does Not Search Output Cells"): needs an initial team response (0 days old)
+\* [12945](https://github.com/microsoft/vscode-jupyter/issues/12945 "Connection to kernel lost during debugging"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from OP after last team response:
-
-
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 14 days ago
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [11519](https://github.com/microsoft/vscode-jupyter/issues/11519 "Unable to detect nor run R kernels"): 3rd party responded 0 days ago but team last responded 2 days ago
-
-\* [11871](https://github.com/microsoft/vscode-jupyter/issues/11871 "Pasting text into ipywidgets does not work in VS Code desktop"): 3rd party responded 1 days ago but team last responded 78 days ago
-
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [12420](https://github.com/microsoft/vscode-jupyter/issues/12420 "Launching TensorBoard keeps on asking to install TensorBoard and PyTorch Profiler"): team response was last response and no others in 30 days
+\* [12972](https://github.com/microsoft/vscode-jupyter/issues/12972 "Jupyter Notebook cell runs infinitely and cannot be interrupted if setting a numpy array element as a sequence"): needs an initial team response (0 days old)
 
 ---
 
@@ -41,18 +26,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12891](https://github.com/microsoft/vscode-jupyter/issues/12891 "ipywidgets don't render under ipywidget 8"): needs an initial team response (0 days old)
+\* [12960](https://github.com/microsoft/vscode-jupyter/issues/12960 "Replace deprecated `set-output` github"): needs an initial team response (0 days old)
 
-\* [12893](https://github.com/microsoft/vscode-jupyter/issues/12893 "No direct cell output when CDN disabled"): needs an initial team response (0 days old)
-
-\* [12894](https://github.com/microsoft/vscode-jupyter/issues/12894 "Kernel picker shows up when pressing run button even when there is only one suggested option"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [7058](https://github.com/microsoft/vscode-jupyter/issues/7058 "Format cell on run like the nb_black extension does."): 3rd party responded 1 days ago but team last responded 308 days ago
+\* [12947](https://github.com/microsoft/vscode-jupyter/issues/12947 "cannot select a kernel in jupyter notebooks "): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
 
-\* [12598](https://github.com/microsoft/vscode-jupyter/issues/12598 "Feature request: allow widgetScriptSources other than jsdelivr.com and unpkg.com"): team response was last response and no others in 30 days
+\* [10152](https://github.com/microsoft/vscode-jupyter/issues/10152 "Circular dependencies / Tangles between modules"): team response was last response and no others in 30 days
