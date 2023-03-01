@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-02-22 using: stale=30, all=0
+Generated on 2023-03-01 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that need a response from team:
+
+
+\* [4018](https://github.com/microsoft/pylance-release/issues/4018 "incomplete movement expression while Refactor -> Move symbol to"): needs an initial team response (0 days old)
 
 ---
 
@@ -16,9 +24,18 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [3987](https://github.com/microsoft/pylance-release/issues/3987 "IntelliSense fails to load packages from keras in .venv/lib/python 3.10/site-packages/keras/ also from tensorflow"): needs an initial team response (0 days old)
+\* [4020](https://github.com/microsoft/pylance-release/issues/4020 "Import &quot;bokeh.plotting&quot; could not be resolved"): needs an initial team response (0 days old)
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [3762](https://github.com/microsoft/pylance-release/issues/3762 "Pylance extension leads to high CPU usage and heat"): 3rd party responded 0 days ago but team last responded 11 days ago
+\* [3279](https://github.com/microsoft/pylance-release/issues/3279 "Renaming in Jupyter notebooks only works in a single cell"): OP responded 1 days ago but team last responded 1 days ago
+
+\* [4014](https://github.com/microsoft/pylance-release/issues/4014 "Pylance cannot detect attributes from implicitly imported modules"): OP responded 0 days ago but team last responded 1 days ago
+
+\* [4023](https://github.com/microsoft/pylance-release/issues/4023 "No error when to exist the variables not to be defined in class"): OP responded 0 days ago but team last responded 0 days ago
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+
+\* [3838](https://github.com/microsoft/pylance-release/issues/3838 "How to best deal with the inconsistencies between pyright, VS, and VSC?"): team response was last response and no others in 30 days
