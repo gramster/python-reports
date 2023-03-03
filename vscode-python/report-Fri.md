@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-02-24 using: stale=30, all=0
+Generated on 2023-03-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,25 +14,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [20655](https://github.com/microsoft/vscode-python/issues/20655 "Docker launch config not running after last update"): 3rd party responded 0 days ago but team last responded 16 days ago
+\* [19643](https://github.com/microsoft/vscode-python/issues/19643 "Python unit tests are not discovered if the conda environment has an explicit dependency on conda"): 3rd party responded 0 days ago but team last responded 3 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python that need a response from team:
-
-
-\* [20729](https://github.com/microsoft/vscode-python/issues/20729 "black format on save no longer works inside devcontainer"): needs an initial team response (0 days old)
-
-\* [20735](https://github.com/microsoft/vscode-python/issues/20735 "Extension host crash with python and limited extensions"): needs an initial team response (0 days old)
-
-\* [20740](https://github.com/microsoft/vscode-python/issues/20740 "Investigate Getting Started Walkthrough flow "): needs an initial team response (0 days old)
-
-\* [20746](https://github.com/microsoft/vscode-python/issues/20746 "VS Code and Python: configure the &quot;Run&quot; button next to the editor tabs"): needs an initial team response (0 days old)
-
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [10165](https://github.com/microsoft/vscode-python/issues/10165 "Fix environment-dependent git pre-commit hooks"): 3rd party responded 1 days ago but team last responded 191 days ago
+\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 0 days ago but team last responded 21 days ago
