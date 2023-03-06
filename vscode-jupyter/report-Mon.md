@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-02-27 using: stale=30, all=0
+Generated on 2023-03-06 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,15 +11,12 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+### Issues in vscode-jupyter that need a response from team:
 
 
-\* [11519](https://github.com/microsoft/vscode-jupyter/issues/11519 "Unable to detect nor run R kernels"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [12995](https://github.com/microsoft/vscode-jupyter/issues/12995 "Selecting &quot;Visible After Execute&quot; for the &quot;Show Cell Status Bar&quot; setting leads to layout glitches"): needs an initial team response (0 days old)
 
-### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
-
-
-\* [12530](https://github.com/microsoft/vscode-jupyter/issues/12530 "Cannot import modules from other folders, even if included in Workspace Folder"): team response was last response and no others in 30 days
+\* [13000](https://github.com/microsoft/vscode-jupyter/issues/13000 "Input passwork UI does not work"): needs an initial team response (0 days old)
 
 ---
 
@@ -29,11 +26,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [12930](https://github.com/microsoft/vscode-jupyter/issues/12930 "Highlight Selected Words in another cells"): needs an initial team response (1 days old)
+\* [12997](https://github.com/microsoft/vscode-jupyter/issues/12997 "Reduce margins within each cell and spaces between cells in Jupyter in VSCode"): needs an initial team response (0 days old)
 
-\* [12935](https://github.com/microsoft/vscode-jupyter/issues/12935 "&quot;Les sorties sont réduites&quot; reste visible"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from OP after last team response:
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [11220](https://github.com/microsoft/vscode-jupyter/issues/11220 "Support opening a notebook with a specific Kernel"): OP responded 0 days ago but team last responded 45 days ago
+\* [1138](https://github.com/microsoft/vscode-jupyter/issues/1138 "Data Viewer/Variable Explorer support for non-array like objects (such as nested dicts)"): 3rd party responded 1 days ago but team last responded 1144 days ago
