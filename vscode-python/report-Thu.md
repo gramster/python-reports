@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-03-02 using: stale=30, all=0
+Generated on 2023-03-09 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,14 +16,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20782](https://github.com/microsoft/vscode-python/issues/20782 "Code folding on `with` blocks breaks on multi-line `with` statement."): needs an initial team response (0 days old)
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [20750](https://github.com/microsoft/vscode-python/issues/20750 "Unable to discover using pytest"): OP responded 1 days ago but team last responded 2 days ago
+\* [20817](https://github.com/microsoft/vscode-python/issues/20817 "not all pytest tests are discovered"): needs an initial team response (0 days old)
 
 ### Issues in vscode-python that have comments from 3rd party after last team response:
 
 
-\* [73](https://github.com/microsoft/vscode-python/issues/73 "Feature suggestion: run Django unittests"): 3rd party responded 0 days ago but team last responded 20 days ago
+\* [20720](https://github.com/microsoft/vscode-python/issues/20720 "Debugger issues"): 3rd party responded 0 days ago but team last responded 2 days ago
+
+\* [20750](https://github.com/microsoft/vscode-python/issues/20750 "Unable to discover using pytest"): 3rd party responded 1 days ago but team last responded 9 days ago
+
+### Issues in vscode-python that have no external responses since team response in 30+ days:
+
+
+\* [20633](https://github.com/microsoft/vscode-python/issues/20633 "add option to turn off launched from activated conda prompt"): team response was last response and no others in 30 days
