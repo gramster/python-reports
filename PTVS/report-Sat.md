@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2023-03-04 using: stale=30, all=0
+Generated on 2023-03-11 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from 3rd party after last team response:
+### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [6774](https://github.com/microsoft/PTVS/issues/6774 "The Python installed from Microsoft Store couldn't view installed packages when first use the environment."): 3rd party responded 1 days ago but team last responded 29 days ago
+\* [6829](https://github.com/microsoft/PTVS/issues/6829 "IntelliSense which is modified manually does not work after restart the VS."): OP responded 1 days ago but team last responded 394 days ago
 
 ---
 
@@ -24,4 +24,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-\* [7406](https://github.com/microsoft/PTVS/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced"): 3rd party responded 1 days ago but team last responded 1 days ago
+\* [7439](https://github.com/microsoft/PTVS/issues/7439 "Installing VS 2022 v17.5.0 update removed Python that wasn't installed by VS"): 3rd party responded 1 days ago but team last responded 1 days ago
