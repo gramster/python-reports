@@ -2,19 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-03-06 using: stale=30, all=0
+Generated on 2023-03-13 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python that have comments from OP after last team response:
-
-
-\* [20567](https://github.com/microsoft/vscode-python/issues/20567 "Error: spawn C:/xxx/conda.exe ENOENT When linting with pycodestyle"): OP responded 1 days ago but team last responded 37 days ago
 
 ---
 
@@ -24,11 +16,12 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20798](https://github.com/microsoft/vscode-python/issues/20798 "python unit test debugger throws FileNotFoundException"): needs an initial team response (0 days old)
+\* [20834](https://github.com/microsoft/vscode-python/issues/20834 "Extention doesn't can open a .venv in the root project using WSL"): needs an initial team response (1 days old)
 
-### Issues in vscode-python that have comments from OP after last team response:
+\* [20835](https://github.com/microsoft/vscode-python/issues/20835 "Perennialaddict"): needs an initial team response (1 days old)
 
+\* [20836](https://github.com/microsoft/vscode-python/issues/20836 "CMD window show up during conda env activation on Windows"): needs an initial team response (0 days old)
 
-\* [20794](https://github.com/microsoft/vscode-python/issues/20794 "An invalid Python interpreter is selected"): OP responded 1 days ago but team last responded 2 days ago
+\* [20837](https://github.com/microsoft/vscode-python/issues/20837 "Took to much CPU"): needs an initial team response (0 days old)
 
-\* [20797](https://github.com/microsoft/vscode-python/issues/20797 "Memory Leak when openning a ipynb file"): OP responded 0 days ago but team last responded 0 days ago
+\* [20838](https://github.com/microsoft/vscode-python/issues/20838 "integrate isort into your extension"): needs an initial team response (0 days old)
