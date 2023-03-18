@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-03-11 using: stale=30, all=0
+Generated on 2023-03-18 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,31 +11,35 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [4056](https://github.com/microsoft/pylance-release/issues/4056 "Inconsistent automatic indentation inside brackets"): needs an initial team response (0 days old)
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-
-\* [4022](https://github.com/microsoft/pylance-release/issues/4022 "Enabling the Jupyter extension causes high CPU usage"): OP responded 0 days ago but team last responded 9 days ago
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-
-\* [3857](https://github.com/microsoft/pylance-release/issues/3857 "`region` at the start of a normal comment triggers error about `endregion` being missing"): 3rd party responded 0 days ago but team last responded 41 days ago
+\* [3961](https://github.com/microsoft/pylance-release/issues/3961 "Indentation gets removed"): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in pylance-release that need a response from team:
+
+
+\* [4105](https://github.com/microsoft/pylance-release/issues/4105 "Python intellisense is showing nonsense"): needs an initial team response (0 days old)
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [3998](https://github.com/microsoft/pylance-release/issues/3998 "rename symbol not working"): OP responded 1 days ago but team last responded 1 days ago
+
+\* [4097](https://github.com/microsoft/pylance-release/issues/4097 "Pylance is linting standard library and venv site-packages"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [4099](https://github.com/microsoft/pylance-release/issues/4099 "Introspecting Enumerations?"): OP responded 0 days ago but team last responded 0 days ago
+
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [906](https://github.com/microsoft/pylance-release/issues/906 "Cannot install Pylance 2021.1.3 in a Docker container with &quot;Remote - Containers&quot; plugin"): 3rd party responded 0 days ago but team last responded 4 days ago
+\* [379](https://github.com/microsoft/pylance-release/issues/379 "Enhancement: Allow specification of a list of modules to not do type checking for"): 3rd party responded 1 days ago but team last responded 413 days ago
 
-\* [3838](https://github.com/microsoft/pylance-release/issues/3838 "How to best deal with the inconsistencies between pyright, VS, and VSC?"): 3rd party responded 0 days ago but team last responded 40 days ago
+\* [3838](https://github.com/microsoft/pylance-release/issues/3838 "How to best deal with the inconsistencies between pyright, VS, and VSC?"): 3rd party responded 1 days ago but team last responded 1 days ago
 
-\* [3918](https://github.com/microsoft/pylance-release/issues/3918 "Django. Several DoesNotExist exceptions not reached"): 3rd party responded 0 days ago but team last responded 30 days ago
+\* [4085](https://github.com/microsoft/pylance-release/issues/4085 "Create documentation on the topic of using pylance and pyright (CLI) together"): 3rd party responded 1 days ago but team last responded 1 days ago
