@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-03-19 using: stale=30, all=0
+Generated on 2023-03-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that have no external responses since team response in 30+ days:
 
 
-\* [1211](https://github.com/microsoft/debugpy/issues/1211 "Enable setting access token from launch.json"): team response was last response and no others in 30 days
+\* [807](https://github.com/microsoft/debugpy/issues/807 "Gracefully handle debugpy.listen() in subprocesses"): team response was last response and no others in 30 days
