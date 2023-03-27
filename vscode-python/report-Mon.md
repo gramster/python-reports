@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python
 
 
-Generated on 2023-03-20 using: stale=30, all=0
+Generated on 2023-03-27 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,13 +16,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-python that need a response from team:
 
 
-\* [20873](https://github.com/microsoft/vscode-python/issues/20873 "python-vscode need class-arguments-auto-complete feature"): needs an initial team response (1 days old)
+\* [20915](https://github.com/microsoft/vscode-python/issues/20915 "Cannot rename imports"): needs an initial team response (1 days old)
 
-\* [20875](https://github.com/microsoft/vscode-python/issues/20875 "Extension Hijacks whitespace preferences, inserts spaces regardless settings or editorconfig"): needs an initial team response (0 days old)
+\* [20916](https://github.com/microsoft/vscode-python/issues/20916 "Tensorboard cannot be correctly closed after closing the window."): needs an initial team response (1 days old)
 
-\* [20877](https://github.com/microsoft/vscode-python/issues/20877 "Is there a way to save the debug cache"): needs an initial team response (0 days old)
+\* [20917](https://github.com/microsoft/vscode-python/issues/20917 "&quot;suggestion details&quot; in intellisense stopped showing on Ctrl+Space"): needs an initial team response (0 days old)
 
-### Issues in vscode-python that have no external responses since team response in 30+ days:
+\* [20918](https://github.com/microsoft/vscode-python/issues/20918 "Python extension to break long strings"): needs an initial team response (0 days old)
+
+### Issues in vscode-python that have comments from OP after last team response:
 
 
-\* [20672](https://github.com/microsoft/vscode-python/issues/20672 "Python env not activate when use pwsh as terminal profile on Mac m1 "): team response was last response and no others in 30 days
+\* [20874](https://github.com/microsoft/vscode-python/issues/20874 "Run Button"): OP responded 0 days ago but team last responded 6 days ago
