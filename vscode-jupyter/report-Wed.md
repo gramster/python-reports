@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-03-22 using: stale=30, all=0
+Generated on 2023-03-29 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,7 +14,25 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13112](https://github.com/microsoft/vscode-jupyter/issues/13112 "Jupyter cannot connect to a remote server using a custom ServerPicker "): needs an initial team response (1 days old)
+\* [13195](https://github.com/microsoft/vscode-jupyter/issues/13195 "Show description of kernels on main list."): needs an initial team response (0 days old)
+
+\* [13200](https://github.com/microsoft/vscode-jupyter/issues/13200 "Flaky smoke test"): needs an initial team response (0 days old)
+
+\* [13201](https://github.com/microsoft/vscode-jupyter/issues/13201 "Test failure: Clearing output while executing will ensure output is cleared"): needs an initial team response (0 days old)
+
+\* [13202](https://github.com/microsoft/vscode-jupyter/issues/13202 "Test failure: Interrupting kernel with Cancelling token will cancel cell execution"): needs an initial team response (0 days old)
+
+\* [13203](https://github.com/microsoft/vscode-jupyter/issues/13203 "Test failure: Shell commands should give preference to executables in Python Environment"): needs an initial team response (0 days old)
+
+### Issues in vscode-jupyter that have comments from OP after last team response:
+
+
+\* [13189](https://github.com/microsoft/vscode-jupyter/issues/13189 "Cannot connect to jupyterhub server using VS Code, but link works from the browser"): OP responded 0 days ago but team last responded 1 days ago
+
+### Issues in vscode-jupyter that have comments from 3rd party after last team response:
+
+
+\* [12540](https://github.com/microsoft/vscode-jupyter/issues/12540 "Problem reconnecting to jupyter notebook"): 3rd party responded 1 days ago but team last responded 1 days ago
 
 ---
 
@@ -24,17 +42,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13116](https://github.com/microsoft/vscode-jupyter/issues/13116 " we cannot see what we entered in the &quot; input() &quot; "): needs an initial team response (1 days old)
+\* [13196](https://github.com/microsoft/vscode-jupyter/issues/13196 "Enable hover on kernel selecting button"): needs an initial team response (0 days old)
 
-\* [13125](https://github.com/microsoft/vscode-jupyter/issues/13125 "Support for not automatically wrapping when reading csv files"): needs an initial team response (0 days old)
-
-\* [13128](https://github.com/microsoft/vscode-jupyter/issues/13128 "Nit: Period in tooltip"): needs an initial team response (0 days old)
-
-\* [13130](https://github.com/microsoft/vscode-jupyter/issues/13130 "Expose reference to Python file from Interactive Window cell"): needs an initial team response (0 days old)
-
-\* [13136](https://github.com/microsoft/vscode-jupyter/issues/13136 "Walkthrough overflowing with long buttons and text"): needs an initial team response (0 days old)
-
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [13087](https://github.com/microsoft/vscode-jupyter/issues/13087 "Provide a better error message when kernel crashes while running a cell"): 3rd party responded 0 days ago but team last responded 1 days ago
+\* [13207](https://github.com/microsoft/vscode-jupyter/issues/13207 "Copy cell code and output together as plain text"): needs an initial team response (0 days old)
