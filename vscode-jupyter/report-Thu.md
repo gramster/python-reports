@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-03-23 using: stale=30, all=0
+Generated on 2023-03-30 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,23 +14,25 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13139](https://github.com/microsoft/vscode-jupyter/issues/13139 "&quot;Debug cell&quot; not working in Jupyter notebooks"): needs an initial team response (0 days old)
+\* [13195](https://github.com/microsoft/vscode-jupyter/issues/13195 "Show description of kernels on main list."): needs an initial team response (1 days old)
 
-\* [13142](https://github.com/microsoft/vscode-jupyter/issues/13142 "Blue cell running spinner bar not visible sometimes"): needs an initial team response (0 days old)
+\* [13202](https://github.com/microsoft/vscode-jupyter/issues/13202 "Test failure: Interrupting kernel with Cancelling token will cancel cell execution"): needs an initial team response (1 days old)
 
-\* [13143](https://github.com/microsoft/vscode-jupyter/issues/13143 "March 2023 Endgame"): needs an initial team response (0 days old)
-
-\* [13148](https://github.com/microsoft/vscode-jupyter/issues/13148 "Open the ipynb file in vs code and can't see the cells"): needs an initial team response (0 days old)
+\* [13212](https://github.com/microsoft/vscode-jupyter/issues/13212 "Stack trace links cannot be opened with remote VSCode"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 0 days ago but team last responded 43 days ago
+\* [13138](https://github.com/microsoft/vscode-jupyter/issues/13138 "Jupyter kernel not restarting"): OP responded 0 days ago but team last responded 8 days ago
+
+\* [13214](https://github.com/microsoft/vscode-jupyter/issues/13214 "notebook crash when displaying Plotly FigureWidget"): OP responded 0 days ago but team last responded 0 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [12845](https://github.com/microsoft/vscode-jupyter/issues/12845 "Can't view dataframe in data viewer while debugging &quot;Cannot read properties of undefined (reading 'disposed')&quot;"): 3rd party responded 0 days ago but team last responded 28 days ago
+\* [8771](https://github.com/microsoft/vscode-jupyter/issues/8771 "Relative Path not work for Remote Kernel"): 3rd party responded 0 days ago but team last responded 30 days ago
+
+\* [11031](https://github.com/microsoft/vscode-jupyter/issues/11031 "VS Code crashes when running a cell that produces a lot of output"): 3rd party responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -40,17 +42,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13125](https://github.com/microsoft/vscode-jupyter/issues/13125 "Support for not automatically wrapping when reading csv files"): needs an initial team response (1 days old)
+\* [13196](https://github.com/microsoft/vscode-jupyter/issues/13196 "Enable hover on kernel selecting button"): needs an initial team response (1 days old)
 
-\* [13128](https://github.com/microsoft/vscode-jupyter/issues/13128 "Nit: Period in tooltip"): needs an initial team response (1 days old)
-
-\* [13130](https://github.com/microsoft/vscode-jupyter/issues/13130 "Expose reference to Python file from Interactive Window cell"): needs an initial team response (1 days old)
-
-\* [13136](https://github.com/microsoft/vscode-jupyter/issues/13136 "Walkthrough overflowing with long buttons and text"): needs an initial team response (1 days old)
+\* [13207](https://github.com/microsoft/vscode-jupyter/issues/13207 "Copy cell code and output together as plain text"): needs an initial team response (1 days old)
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [1376](https://github.com/microsoft/vscode-jupyter/issues/1376 "Export as markdown option for .ipynb files (Jupyter notebooks)"): 3rd party responded 0 days ago but team last responded 427 days ago
+\* [8368](https://github.com/microsoft/vscode-jupyter/issues/8368 "Option to display a line for every cell in .py files with percent markup"): 3rd party responded 0 days ago but team last responded 131 days ago
 
-\* [13087](https://github.com/microsoft/vscode-jupyter/issues/13087 "Provide a better error message when kernel crashes while running a cell"): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [9242](https://github.com/microsoft/vscode-jupyter/issues/9242 "Add &quot;Restart and run all&quot; command "): 3rd party responded 0 days ago but team last responded 112 days ago
