@@ -2,18 +2,23 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-03-23 using: stale=30, all=0
+Generated on 2023-03-30 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
+---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
 ### Issues in debugpy that need a response from team:
 
 
-\* [1248](https://github.com/microsoft/debugpy/issues/1248 "User Uncaught Exceptions fails on imports"): needs an initial team response (1 days old)
+\* [1252](https://github.com/microsoft/debugpy/issues/1252 "[Feature request] Support connect to ipv6 address"): needs an initial team response (1 days old)
 
----
+### Issues in debugpy that have comments from OP after last team response:
+
+
+\* [1220](https://github.com/microsoft/debugpy/issues/1220 "Error attaching Python debugger with debugpy: 'Could not find .so for attach to process' on macbook m1"): OP responded 0 days ago but team last responded 30 days ago
