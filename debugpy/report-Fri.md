@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-03-24 using: stale=30, all=0
+Generated on 2023-03-31 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that need a response from team:
+### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1250](https://github.com/microsoft/debugpy/issues/1250 "Debugging code with `pexpect.spawn` is taking 5s longer  "): needs an initial team response (0 days old)
+\* [1220](https://github.com/microsoft/debugpy/issues/1220 "Error attaching Python debugger with debugpy: 'Could not find .so for attach to process' on macbook m1"): OP responded 1 days ago but team last responded 31 days ago
