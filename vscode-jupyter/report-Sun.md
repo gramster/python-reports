@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-03-26 using: stale=30, all=0
+Generated on 2023-04-02 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,17 +14,29 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13163](https://github.com/microsoft/vscode-jupyter/issues/13163 "fastprogress progress bar not showing"): needs an initial team response (1 days old)
+\* [13243](https://github.com/microsoft/vscode-jupyter/issues/13243 "`display` stops working after Comm open"): needs an initial team response (1 days old)
+
+\* [13245](https://github.com/microsoft/vscode-jupyter/issues/13245 "Cell debugger fails to step-over at end of function"): needs an initial team response (0 days old)
+
+\* [13246](https://github.com/microsoft/vscode-jupyter/issues/13246 "Cell debugger needs &quot;break at exception or warning&quot;"): needs an initial team response (0 days old)
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
 
-\* [13150](https://github.com/microsoft/vscode-jupyter/issues/13150 "IPyWidget renderer failed to render widget while using matplotlib"): OP responded 1 days ago but team last responded 1 days ago
+\* [13039](https://github.com/microsoft/vscode-jupyter/issues/13039 "Calls to `input()` should flush stdout when executing cells"): OP responded 1 days ago but team last responded 2 days ago
+
+\* [13139](https://github.com/microsoft/vscode-jupyter/issues/13139 "&quot;Debug cell&quot; not working in Jupyter notebooks"): OP responded 1 days ago but team last responded 3 days ago
+
+\* [13187](https://github.com/microsoft/vscode-jupyter/issues/13187 "Jupyter notebooks not running"): OP responded 1 days ago but team last responded 5 days ago
+
+\* [13213](https://github.com/microsoft/vscode-jupyter/issues/13213 "Error: Command 'Python: Select Interpreter' resulted in an error"): OP responded 1 days ago but team last responded 2 days ago
+
+\* [13214](https://github.com/microsoft/vscode-jupyter/issues/13214 "notebook crash when displaying Plotly FigureWidget"): OP responded 1 days ago but team last responded 2 days ago
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
 
-\* [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 1 days ago but team last responded 28 days ago
+\* [12738](https://github.com/microsoft/vscode-jupyter/issues/12738 "Weird behavior of j/k command for moving to the next/previous cell "): 3rd party responded 1 days ago but team last responded 39 days ago
 
 ---
 
@@ -34,9 +46,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in vscode-jupyter that need a response from team:
 
 
-\* [13167](https://github.com/microsoft/vscode-jupyter/issues/13167 "Dark mode when exporting to HTML"): needs an initial team response (0 days old)
+\* [13240](https://github.com/microsoft/vscode-jupyter/issues/13240 "Jupyter Server not connecting"): needs an initial team response (1 days old)
 
-### Issues in vscode-jupyter that have comments from 3rd party after last team response:
-
-
-\* [4404](https://github.com/microsoft/vscode-jupyter/issues/4404 "Save notebook widget state"): 3rd party responded 1 days ago but team last responded 215 days ago
+\* [13247](https://github.com/microsoft/vscode-jupyter/issues/13247 "Disable filepath highlighting"): needs an initial team response (0 days old)
