@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-03-30 using: stale=30, all=0
+Generated on 2023-04-13 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,12 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that need a response from team:
+### Issues in debugpy that have comments from 3rd party after last team response:
 
 
-\* [1252](https://github.com/microsoft/debugpy/issues/1252 "[Feature request] Support connect to ipv6 address"): needs an initial team response (1 days old)
-
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [1220](https://github.com/microsoft/debugpy/issues/1220 "Error attaching Python debugger with debugpy: 'Could not find .so for attach to process' on macbook m1"): OP responded 0 days ago but team last responded 30 days ago
+\* [1114](https://github.com/microsoft/debugpy/issues/1114 "Display Python asyncio Tasks in VS Code Debugger"): 3rd party responded 0 days ago but team last responded 155 days ago
