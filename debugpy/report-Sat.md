@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-04-15 using: stale=30, all=0
+Generated on 2023-04-22 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from OP after last team response:
+### Issues in debugpy that have comments from 3rd party after last team response:
 
 
-\* [1271](https://github.com/microsoft/debugpy/issues/1271 "Timeout while using vscode debugger with any program which spawns a process"): OP responded 0 days ago but team last responded 2 days ago
+\* [1206](https://github.com/microsoft/debugpy/issues/1206 "Debugger with gevent doesn't hit breakpoints"): 3rd party responded 1 days ago but team last responded 70 days ago
 
 ---
 
@@ -24,4 +24,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1274](https://github.com/microsoft/debugpy/issues/1274 "plugin problem"): needs an initial team response (0 days old)
+\* [1278](https://github.com/microsoft/debugpy/issues/1278 "Debugpy throwing caught exception"): needs an initial team response (1 days old)
