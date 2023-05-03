@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-04-26 using: stale=30, all=0
+Generated on 2023-05-03 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [2765](https://github.com/microsoft/pylance-release/issues/2765 "Error: command 'pyright.createtypestub' already exists"): 3rd party responded 0 days ago but team last responded 0 days ago
-
-\* [4263](https://github.com/microsoft/pylance-release/issues/4263 "Saving .py files delayed by Getting code actions from ''Python'"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [4286](https://github.com/microsoft/pylance-release/issues/4286 "Rename does not rename module in test directory"): OP responded 0 days ago but team last responded 6 days ago
 
 ---
 
@@ -26,9 +24,15 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [4284](https://github.com/microsoft/pylance-release/issues/4284 "issue"): needs an initial team response (0 days old)
+\* [4299](https://github.com/microsoft/pylance-release/issues/4299 "code action for imports should prefer pathlib (quick fix sort order for add import)"): needs an initial team response (1 days old)
+
+\* [4304](https://github.com/microsoft/pylance-release/issues/4304 "False positive reportShadowedImports with PEP562 package-level getattr"): needs an initial team response (1 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [4135](https://github.com/microsoft/pylance-release/issues/4135 "How to inform `reportGeneralTypeIssues` of TypeAliases?"): OP responded 1 days ago but team last responded 15 days ago
+\* [4295](https://github.com/microsoft/pylance-release/issues/4295 "Slow computer -> &quot;Expected 0 positional arguments&quot;"): OP responded 1 days ago but team last responded 1 days ago
+
+\* [4301](https://github.com/microsoft/pylance-release/issues/4301 "For conditional function definition, Pylance inference picks up wrong definition"): OP responded 1 days ago but team last responded 1 days ago
+
+\* [4308](https://github.com/microsoft/pylance-release/issues/4308 "pylance forces the import from typehint."): OP responded 0 days ago but team last responded 0 days ago
