@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-06-19 using: stale=30, all=0
+Generated on 2023-06-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,24 +11,9 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [4391](https://github.com/microsoft/pylance-release/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)"): team response was last response and no others in 30 days
+\* [2251](https://github.com/microsoft/pylance-release/issues/2251 "Sphinx Style Docstring Rendering Feature"): 3rd party responded 0 days ago but team last responded 440 days ago
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in pylance-release that need a response from team:
-
-
-\* [4508](https://github.com/microsoft/pylance-release/issues/4508 "Pylance doesn't work after updating to Python 3.11 in virtual environment with include-system-site-packages=true"): needs an initial team response (1 days old)
-
-\* [4511](https://github.com/microsoft/pylance-release/issues/4511 "Pylance can't discriminate some functions or modules to highlight it .Especially some have connections with cpp."): needs an initial team response (0 days old)
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [4389](https://github.com/microsoft/pylance-release/issues/4389 "Automatically infer class variables based on declaration"): team response was last response and no others in 30 days
