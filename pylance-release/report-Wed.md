@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-06-21 using: stale=30, all=0
+Generated on 2023-06-28 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [4531](https://github.com/microsoft/pylance-release/issues/4531 "Pylance does not find scipy functions (e.g. &quot;filtfilt&quot; is not a known member of &quot;scipy.signal&quot;) since Pylance 2023.6.20"): OP responded 1 days ago but team last responded 2 days ago
 
 ---
 
@@ -16,13 +24,13 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [4511](https://github.com/microsoft/pylance-release/issues/4511 "Pylance can't discriminate some functions or modules to highlight it .Especially some have connections with cpp."): needs an initial team response (1 days old)
+\* [4550](https://github.com/microsoft/pylance-release/issues/4550 "Go to definition goes to stub files instead of actual definitions"): needs an initial team response (0 days old)
 
-\* [4520](https://github.com/microsoft/pylance-release/issues/4520 "Go to definition.  No Definition found for torch.utils.data.get_worker_info()"): needs an initial team response (0 days old)
+\* [4552](https://github.com/microsoft/pylance-release/issues/4552 "An internal error occured while type checking file"): needs an initial team response (0 days old)
 
-### Issues in pylance-release that have comments from OP after last team response:
+\* [4553](https://github.com/microsoft/pylance-release/issues/4553 "Huge memory leak after installing python package via integrated terminal"): needs an initial team response (0 days old)
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [4508](https://github.com/microsoft/pylance-release/issues/4508 "Pylance doesn't work after updating to Python 3.11 in virtual environment with include-system-site-packages=true"): OP responded 0 days ago but team last responded 0 days ago
-
-\* [4514](https://github.com/microsoft/pylance-release/issues/4514 "Pylance slow to analyze files even in &quot;simple&quot; example"): OP responded 0 days ago but team last responded 0 days ago
+\* [3318](https://github.com/microsoft/pylance-release/issues/3318 "[Auto Import] - Suggest equivalents from `collections.abc` rather than `typing`"): 3rd party responded 1 days ago but team last responded 288 days ago
