@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2023-07-28 using: stale=30, all=0
+Generated on 2023-08-04 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1336](https://github.com/microsoft/debugpy/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter"): needs an initial team response (0 days old)
+\* [1342](https://github.com/microsoft/debugpy/issues/1342 "Can not debug multiprocess code with streamlit"): needs an initial team response (1 days old)
 
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [1242](https://github.com/microsoft/debugpy/issues/1242 "1.6.6: pytest is failing"): OP responded 0 days ago but team last responded 99 days ago
+\* [1344](https://github.com/microsoft/debugpy/issues/1344 "More direct integration with vscode"): needs an initial team response (0 days old)
