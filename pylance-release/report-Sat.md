@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-07-29 using: stale=30, all=0
+Generated on 2023-08-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,17 +13,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [4655](https://github.com/microsoft/pylance-release/issues/4655 "Unable to remote install to firewalled machine"): needs an initial team response (1 days old)
+\* [4669](https://github.com/microsoft/pylance-release/issues/4669 "IntelliSense has a half-second delay"): OP responded 1 days ago but team last responded 3 days ago
 
-\* [4660](https://github.com/microsoft/pylance-release/issues/4660 "Autocomplete for __getattr__ by Literal values"): needs an initial team response (0 days old)
+\* [4684](https://github.com/microsoft/pylance-release/issues/4684 "Sometimes the referenced objects and methods may appear as Unknown"): OP responded 1 days ago but team last responded 2 days ago
 
-\* [4661](https://github.com/microsoft/pylance-release/issues/4661 "Function return type hints cannot be disabled"): needs an initial team response (0 days old)
-
-\* [4663](https://github.com/microsoft/pylance-release/issues/4663 "django and rest_framework conflict in packageIndexDepths"): needs an initial team response (0 days old)
-
-\* [4664](https://github.com/microsoft/pylance-release/issues/4664 "Pylance does not recognize 'develop' Poetry dependencies"): needs an initial team response (0 days old)
-
-\* [4666](https://github.com/microsoft/pylance-release/issues/4666 "Wrong color for decorator parameters when chaining calls"): needs an initial team response (0 days old)
+\* [4685](https://github.com/microsoft/pylance-release/issues/4685 "Lint Server crashing on Jupyter Notebook Cell Deletion"): OP responded 1 days ago but team last responded 1 days ago
