@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/python-type-stubs
 
 
-Generated on 2023-08-07 using: stale=30, all=1
+Generated on 2023-08-14 using: stale=30, all=1
 
 
 * marks items that are new to report in past 1 day(s)
@@ -14,9 +14,7 @@ Generated on 2023-08-07 using: stale=30, all=1
 ### Issues in python-type-stubs that have comments from 3rd party after last team response:
 
 
-  [213](https://github.com/microsoft/python-type-stubs/issues/213 "CV2 stub defines type aliases with circular references"): 3rd party responded 55 days ago but team last responded 426 days ago
-
-  [249](https://github.com/microsoft/python-type-stubs/issues/249 "matplotlib colors.py stub"): 3rd party responded 97 days ago but team last responded 194 days ago
+  [249](https://github.com/microsoft/python-type-stubs/issues/249 "matplotlib colors.py stub"): 3rd party responded 104 days ago but team last responded 201 days ago
 
 ---
 
@@ -26,30 +24,21 @@ Generated on 2023-08-07 using: stale=30, all=1
 ### Issues in python-type-stubs that need a response from team:
 
 
-  [240](https://github.com/microsoft/python-type-stubs/issues/240 "[Matplotlib] Uncorrect type-hint in `font_manager.FontProperties`"): needs an initial team response (260 days old)
+  [240](https://github.com/microsoft/python-type-stubs/issues/240 "[Matplotlib] Uncorrect type-hint in `font_manager.FontProperties`"): needs an initial team response (267 days old)
 
-  [256](https://github.com/microsoft/python-type-stubs/issues/256 "Why does the dict returned by matplotlib.pyplot.subplot_mosaic have Text as key type?"): needs an initial team response (139 days old)
-
-  [279](https://github.com/microsoft/python-type-stubs/issues/279 "`cv2` missing function `imwritemulti`"): needs an initial team response (74 days old)
-
-### Issues in python-type-stubs that have comments from OP after last team response:
-
-
-  [176](https://github.com/microsoft/python-type-stubs/issues/176 "request : opencv-contrib"): OP responded 466 days ago but team last responded 466 days ago
+  [256](https://github.com/microsoft/python-type-stubs/issues/256 "Why does the dict returned by matplotlib.pyplot.subplot_mosaic have Text as key type?"): needs an initial team response (146 days old)
 
 ### Issues in python-type-stubs that have comments from 3rd party after last team response:
 
 
-  [193](https://github.com/microsoft/python-type-stubs/issues/193 "VS Code AutoComplete does not include some functions of 3rd Party Modules like (NumPy, Pandas, Matplotlib,...)"): 3rd party responded 97 days ago but team last responded 307 days ago
+  [193](https://github.com/microsoft/python-type-stubs/issues/193 "VS Code AutoComplete does not include some functions of 3rd Party Modules like (NumPy, Pandas, Matplotlib,...)"): 3rd party responded 104 days ago but team last responded 314 days ago
 
-  [202](https://github.com/microsoft/python-type-stubs/issues/202 "vscode autocomplete not working for 'cv2.dnn_DetectionModel' Class"): 3rd party responded 55 days ago but team last responded 474 days ago
+  [204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)"): 3rd party responded 7 days ago but team last responded 587 days ago
 
-\* [204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)"): 3rd party responded 0 days ago but team last responded 580 days ago
+  [207](https://github.com/microsoft/python-type-stubs/issues/207 "RPi.GPIO does not work"): 3rd party responded 7 days ago but team last responded 901 days ago
 
-\* [207](https://github.com/microsoft/python-type-stubs/issues/207 "RPi.GPIO does not work"): 3rd party responded 0 days ago but team last responded 894 days ago
+  [211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package"): 3rd party responded 340 days ago but team last responded 355 days ago
 
-  [211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package"): 3rd party responded 333 days ago but team last responded 348 days ago
+  [212](https://github.com/microsoft/python-type-stubs/issues/212 "Pylance not be resolved the mongoengine"): 3rd party responded 7 days ago but team last responded 276 days ago
 
-\* [212](https://github.com/microsoft/python-type-stubs/issues/212 "Pylance not be resolved the mongoengine"): 3rd party responded 0 days ago but team last responded 269 days ago
-
-  [264](https://github.com/microsoft/python-type-stubs/issues/264 "Add how to install and use section to README"): 3rd party responded 83 days ago but team last responded 120 days ago
+  [264](https://github.com/microsoft/python-type-stubs/issues/264 "Add how to install and use section to README"): 3rd party responded 90 days ago but team last responded 127 days ago
