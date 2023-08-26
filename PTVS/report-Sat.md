@@ -2,20 +2,31 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2023-08-19 using: stale=30, all=0
+Generated on 2023-08-26 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in PTVS that have comments from OP after last team response:
+
+
+\* [7631](https://github.com/microsoft/PTVS/issues/7631 "An unexpected error occured when first creating the conda env."): OP responded 0 days ago but team last responded 2 days ago
+
+### Issues in PTVS that have comments from 3rd party after last team response:
+
+
+\* [6610](https://github.com/microsoft/PTVS/issues/6610 "Remote debug attach does not support path mapping"): 3rd party responded 1 days ago but team last responded 172 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in PTVS that need a response from team:
+### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [7700](https://github.com/microsoft/PTVS/issues/7700 "Python code not working on mac "): needs an initial team response (1 days old)
-
-\* [7701](https://github.com/microsoft/PTVS/issues/7701 "No IntelliSense when import a new created django app."): needs an initial team response (0 days old)
+\* [7684](https://github.com/microsoft/PTVS/issues/7684 "Formatting documents doesn't work in autopep8."): OP responded 1 days ago but team last responded 1 days ago
