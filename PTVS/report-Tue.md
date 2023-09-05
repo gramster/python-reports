@@ -2,23 +2,23 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2023-08-29 using: stale=30, all=0
+Generated on 2023-09-05 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
+---
 
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in PTVS that need a response from team:
+
+
+\* [7714](https://github.com/microsoft/PTVS/issues/7714 "[Window Title] devenv.exe  [Main Instruction] An unexpected error occurred  [Content] Please press Ctrl+C to copy the contents of this dialog and report this error to our issue tracker.  [V] Show details  [Close]  [Expanded Information] ``` Build: 17.0.23189.3  System.ObjectDisposedException: Cannot access a disposed object.    at Microsoft.VisualStudioTools.Project.ProjectNode.GetMsBuildProperty(String propertyName, Boolean resetCache)    at Microsoft.VisualStudioTools.Project.ProjectNode.GetProjectProperty(String propertyName, Boolean resetCache)    at Microsoft.PythonTools.Project.CondaEnvCreateProjectInfoBar.<CheckAsync>d__4.MoveNext() --- End of stack trace from previous location where exception was thrown ---    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)    at Microsoft.PythonTools.Infrastructure.VSTaskExtensions.<HandleAllExceptions>d__5.MoveNext() ```"): needs an initial team response (1 days old)
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 
-\* [7693](https://github.com/microsoft/PTVS/issues/7693 "IntelliSense doesn't work after reopen solution"): OP responded 0 days ago but team last responded 5 days ago
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [7520](https://github.com/microsoft/PTVS/issues/7520 " Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally"): 3rd party responded 0 days ago but team last responded 126 days ago
-
----
+\* [7684](https://github.com/microsoft/PTVS/issues/7684 "Formatting documents doesn't work in autopep8."): OP responded 0 days ago but team last responded 11 days ago
