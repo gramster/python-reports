@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-08-31 using: stale=30, all=0
+Generated on 2023-09-07 using: stale=30, all=0
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [4170](https://github.com/microsoft/pylance-release/issues/4170 "Incorrect problems reported when module names conflict with bundled type stubs"): OP responded 0 days ago but team last responded 142 days ago
 
 ---
 
@@ -16,14 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [4772](https://github.com/microsoft/pylance-release/issues/4772 "Type is not inferred properly in PyQt5 (Type is Unknown)"): needs an initial team response (1 days old)
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-
-\* [4691](https://github.com/microsoft/pylance-release/issues/4691 "Support for declaring classes in try/except"): OP responded 0 days ago but team last responded 1 days ago
+\* [4806](https://github.com/microsoft/pylance-release/issues/4806 "Latest insiders does not recognise active pyenv virtualenv"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [4579](https://github.com/microsoft/pylance-release/issues/4579 "How do we change the locale in Pylance's error message?"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [4704](https://github.com/microsoft/pylance-release/issues/4704 "IntelliSense randomly stops working in Python notebooks with Keras"): 3rd party responded 0 days ago but team last responded 6 days ago
