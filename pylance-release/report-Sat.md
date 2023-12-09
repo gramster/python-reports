@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-09-09 using: stale=30, all=0
+Generated on 2023-12-09 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [4818](https://github.com/microsoft/pylance-release/issues/4818 "Pylance reporting type errors when selecting a slice from a Pandas DataFrame with a MultiIndex"): needs an initial team response (0 days old)
+\* [5231](https://github.com/microsoft/pylance-release/issues/5231 "&quot;Quick Fix&quot; doesn't suggest `__init__.py` imports"): needs an initial team response (0 days old)
+
+\* [5233](https://github.com/microsoft/pylance-release/issues/5233 "Starting server failed"): needs an initial team response (0 days old)
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [5209](https://github.com/microsoft/pylance-release/issues/5209 "Feature request: When setting `python.analysis.typeshedPaths`, use its stubs for typing absolute imports"): OP responded 1 days ago but team last responded 4 days ago
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+
+\* [5154](https://github.com/microsoft/pylance-release/issues/5154 "Enabling Black formatter removes syntax highlighting"): 3rd party responded 1 days ago but team last responded 4 days ago
