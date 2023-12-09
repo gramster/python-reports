@@ -16,9 +16,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5231](https://github.com/microsoft/pylance-release/issues/5231 "&quot;Quick Fix&quot; doesn't suggest `__init__.py` imports"): needs an initial team response (0 days old)
-
 \* [5233](https://github.com/microsoft/pylance-release/issues/5233 "Starting server failed"): needs an initial team response (0 days old)
+
+\* [5235](https://github.com/microsoft/pylance-release/issues/5235 "Output error messages are garbled in Japanese-locale Windows"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
