@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-09-10 using: stale=30, all=0
+Generated on 2023-12-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,8 +16,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [4818](https://github.com/microsoft/pylance-release/issues/4818 "Pylance reporting type errors when selecting a slice from a Pandas DataFrame with a MultiIndex"): needs an initial team response (1 days old)
+\* [5233](https://github.com/microsoft/pylance-release/issues/5233 "Starting server failed"): needs an initial team response (1 days old)
 
-\* [4821](https://github.com/microsoft/pylance-release/issues/4821 "Lintint not working"): needs an initial team response (0 days old)
+\* [5235](https://github.com/microsoft/pylance-release/issues/5235 "Output error messages are garbled in Japanese-locale Windows"): needs an initial team response (1 days old)
 
-\* [4822](https://github.com/microsoft/pylance-release/issues/4822 "high memory usage(100%) when using vscode remote"): needs an initial team response (0 days old)
+\* [5236](https://github.com/microsoft/pylance-release/issues/5236 "Out of memory while analyzing Terraform CDK Imports"): needs an initial team response (0 days old)
