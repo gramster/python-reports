@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-09-08 using: stale=30, all=0
+Generated on 2023-12-15 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,19 +11,24 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that need a response from team:
 
 
-\* [4170](https://github.com/microsoft/pylance-release/issues/4170 "Incorrect problems reported when module names conflict with bundled type stubs"): OP responded 1 days ago but team last responded 143 days ago
+\* [5255](https://github.com/microsoft/pylance-release/issues/5255 "Pylance inlay hints do not honor python version"): needs an initial team response (1 days old)
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in pylance-release that have comments from OP after last team response:
+
+
+\* [4682](https://github.com/microsoft/pylance-release/issues/4682 "Auto-import is limited by packageIndexDepth"): OP responded 1 days ago but team last responded 133 days ago
+
+\* [5250](https://github.com/microsoft/pylance-release/issues/5250 "syntax highlight broken for partialmethods"): OP responded 1 days ago but team last responded 1 days ago
+
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 
-\* [4704](https://github.com/microsoft/pylance-release/issues/4704 "IntelliSense randomly stops working in Python notebooks with Keras"): 3rd party responded 1 days ago but team last responded 7 days ago
-
-\* [4806](https://github.com/microsoft/pylance-release/issues/4806 "Latest insiders does not recognise active pyenv virtualenv"): 3rd party responded 0 days ago but team last responded 0 days ago
+\* [4428](https://github.com/microsoft/pylance-release/issues/4428 "Autocomplete of Literal value only takes last overload into account"): 3rd party responded 0 days ago but team last responded 199 days ago
