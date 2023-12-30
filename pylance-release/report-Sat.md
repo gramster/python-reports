@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-12-23 using: stale=30, all=False
+Generated on 2023-12-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,10 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5114](https://github.com/microsoft/pylance-release/issues/5114 "Go to Definition(F12) of the pytest fixture does not work in a workspace project.   "): 3rd party responded 1 days ago but team last responded 2 days ago
+\* [5300](https://github.com/microsoft/pylance-release/issues/5300 "INtellisense not working"): OP responded 0 days ago but team last responded 7 days ago
 
 ---
 
@@ -24,18 +24,17 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5301](https://github.com/microsoft/pylance-release/issues/5301 "[ms-python.python] provider FAILED"): needs an initial team response (1 days old)
+\* [5305](https://github.com/microsoft/pylance-release/issues/5305 "The overview ruler doesn't indicate selections when the Pylance extension is enabled"): needs an initial team response (1 days old)
 
-\* [5302](https://github.com/microsoft/pylance-release/issues/5302 "Repo indexing is confused"): needs an initial team response (0 days old)
+\* [5306](https://github.com/microsoft/pylance-release/issues/5306 "Pylance does not recognize 'import cpuinfo' "): needs an initial team response (1 days old)
 
-### Issues in pylance-release that have comments from OP after last team response:
+\* [5307](https://github.com/microsoft/pylance-release/issues/5307 "Configuration for numpy"): needs an initial team response (0 days old)
+
+\* [5308](https://github.com/microsoft/pylance-release/issues/5308 "node use 100% cpu when pylance is enabled"): needs an initial team response (0 days old)
+
+\* [5310](https://github.com/microsoft/pylance-release/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports"): needs an initial team response (0 days old)
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [5230](https://github.com/microsoft/pylance-release/issues/5230 "Unexplained Crash in Pylance"): OP responded 0 days ago but team last responded 14 days ago
-
-\* [5297](https://github.com/microsoft/pylance-release/issues/5297 "Painfully slow autocomplete suggestions if you type fast"): OP responded 1 days ago but team last responded 1 days ago
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-
-\* [4885](https://github.com/microsoft/pylance-release/issues/4885 "pylance causing 100% CPU utilization frequently"): 3rd party responded 1 days ago but team last responded 86 days ago
+\* [5158](https://github.com/microsoft/pylance-release/issues/5158 "Add a feature to disable following symlinks when indexing repository"): team response was last response and no others in 30 days
