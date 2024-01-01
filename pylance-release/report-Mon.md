@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2023-12-25 using: stale=30, all=False
+Generated on 2024-01-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,9 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5303](https://github.com/microsoft/pylance-release/issues/5303 "How do I extend third party type annotations?"): needs an initial team response (1 days old)
+\* [5311](https://github.com/microsoft/pylance-release/issues/5311 "Jupyter notebook magic command displays `reportUndefinedVariable` error "): needs an initial team response (1 days old)
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+\* [5312](https://github.com/microsoft/pylance-release/issues/5312 "Show function return value documentation on hover over the `->` annotation"): needs an initial team response (0 days old)
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [4428](https://github.com/microsoft/pylance-release/issues/4428 "Autocomplete of Literal value only takes last overload into account"): 3rd party responded 0 days ago but team last responded 209 days ago
+\* [5072](https://github.com/microsoft/pylance-release/issues/5072 "Filters for autoimport suggestions"): team response was last response and no others in 30 days
