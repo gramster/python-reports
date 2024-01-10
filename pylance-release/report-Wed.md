@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-01-03 using: stale=30, all=False
+Generated on 2024-01-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,14 +16,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5315](https://github.com/microsoft/pylance-release/issues/5315 "Proper Syntax Highlighting for 3.12-Style Type Aliases"): needs an initial team response (1 days old)
+\* [5341](https://github.com/microsoft/pylance-release/issues/5341 "an unexpected error on overload and Literal[True, False]"): needs an initial team response (0 days old)
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5301](https://github.com/microsoft/pylance-release/issues/5301 "[ms-python.python] provider FAILED"): OP responded 0 days ago but team last responded 0 days ago
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-
-\* [4295](https://github.com/microsoft/pylance-release/issues/4295 "Slow computer -> &quot;Expected 0 positional arguments&quot;"): 3rd party responded 0 days ago but team last responded 246 days ago
+\* [5070](https://github.com/microsoft/pylance-release/issues/5070 "Pylance language server 100% CPU usage while scanning folders in multi-root workspace"): OP responded 1 days ago but team last responded 4 days ago
