@@ -2,18 +2,10 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-01-05 using: stale=30, all=False
+Generated on 2024-01-12 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in debugpy that have comments from OP after last team response:
-
-
-\* [1490](https://github.com/microsoft/debugpy/issues/1490 "Several flask tests fail with Python 3.12"): OP responded 1 days ago but team last responded 1 days ago
