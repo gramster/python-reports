@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-01-21 using: stale=30, all=False
+Generated on 2024-01-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,8 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1496](https://github.com/microsoft/debugpy/issues/1496 "Python 3.12 runs much slower than Python 3.11"): needs an initial team response (1 days old)
+\* [1501](https://github.com/microsoft/debugpy/issues/1501 "Allow multiple debug connections in VS code using the same port"): needs an initial team response (1 days old)
+
+\* [1502](https://github.com/microsoft/debugpy/issues/1502 "Does debugpy send telemetry?"): needs an initial team response (0 days old)
+
+\* [1503](https://github.com/microsoft/debugpy/issues/1503 "Support debugging of indirect child processes."): needs an initial team response (0 days old)
