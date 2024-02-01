@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-01-25 using: stale=30, all=False
+Generated on 2024-02-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,8 +16,16 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5385](https://github.com/microsoft/pylance-release/issues/5385 "option to disable double-click to insert for inlay hints"): needs an initial team response (1 days old)
+\* [5427](https://github.com/microsoft/pylance-release/issues/5427 "&quot;Auto-Import&quot; imports from wrong path when import format is &quot;relative&quot;"): needs an initial team response (1 days old)
 
-\* [5388](https://github.com/microsoft/pylance-release/issues/5388 "Advice on fixing attrs import quick-fix"): needs an initial team response (1 days old)
+### Issues in pylance-release that have comments from OP after last team response:
 
-\* [5392](https://github.com/microsoft/pylance-release/issues/5392 "`python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches"): needs an initial team response (0 days old)
+
+\* [5429](https://github.com/microsoft/pylance-release/issues/5429 "No docstrings when using pylance in vscode.dev"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [5431](https://github.com/microsoft/pylance-release/issues/5431 "Some lines in docstrings aren't rendered at all"): OP responded 0 days ago but team last responded 0 days ago
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+
+\* [4428](https://github.com/microsoft/pylance-release/issues/4428 "Autocomplete of Literal value only takes last overload into account"): 3rd party responded 0 days ago but team last responded 247 days ago
