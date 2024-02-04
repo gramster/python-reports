@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-01-28 using: stale=30, all=False
+Generated on 2024-02-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,8 +16,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1501](https://github.com/microsoft/debugpy/issues/1501 "Allow multiple debug connections in VS code using the same port"): needs an initial team response (1 days old)
+\* [1513](https://github.com/microsoft/debugpy/issues/1513 "&quot;View Value in Data Viewer&quot; Just Disappear from python debugger "): needs an initial team response (1 days old)
 
-\* [1502](https://github.com/microsoft/debugpy/issues/1502 "Does debugpy send telemetry?"): needs an initial team response (0 days old)
-
-\* [1503](https://github.com/microsoft/debugpy/issues/1503 "Support debugging of indirect child processes."): needs an initial team response (0 days old)
+\* [1514](https://github.com/microsoft/debugpy/issues/1514 "Breakpoints ignored if file extension is not `.py`"): needs an initial team response (1 days old)
