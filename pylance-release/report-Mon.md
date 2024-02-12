@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-02-05 using: stale=30, all=False
+Generated on 2024-02-12 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,12 +13,9 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that need a response from team:
 
 
-\* [4709](https://github.com/microsoft/pylance-release/issues/4709 "Pylance server does not work after restart"): 3rd party responded 1 days ago but team last responded 48 days ago
+\* [5458](https://github.com/microsoft/pylance-release/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions"): needs an initial team response (1 days old)
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [4924](https://github.com/microsoft/pylance-release/issues/4924 "Developer: inspect editor tokens and scopes"): team response was last response and no others in 30 days
+\* [5459](https://github.com/microsoft/pylance-release/issues/5459 "Release version 2024.2.1 shows missing imports error for function imported from another python file"): needs an initial team response (0 days old)
