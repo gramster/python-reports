@@ -2,18 +2,18 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-02-12 using: stale=30, all=False
+Generated on 2024-02-19 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from 3rd party after last team response:
+
+
+\* [1521](https://github.com/microsoft/debugpy/issues/1521 "Running debugging shows errors, but the functionality is normal."): 3rd party responded 0 days ago but team last responded 2 days ago
+
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in debugpy that need a response from team:
-
-
-\* [1518](https://github.com/microsoft/debugpy/issues/1518 "debugpy extension not working"): needs an initial team response (0 days old)
