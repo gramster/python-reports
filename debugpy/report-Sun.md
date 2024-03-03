@@ -2,25 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-02-25 using: stale=30, all=False
+Generated on 2024-03-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in debugpy that have comments from 3rd party after last team response:
-
-
-\* [1296](https://github.com/microsoft/debugpy/issues/1296 "Debugpy unable to start Flask server"): 3rd party responded 1 days ago but team last responded 82 days ago
-
-\* [1521](https://github.com/microsoft/debugpy/issues/1521 "Running debugging shows errors, but the functionality is normal."): 3rd party responded 0 days ago but team last responded 8 days ago
-
-### Issues in debugpy that have no external responses since team response in 30+ days:
-
-
-\* [1499](https://github.com/microsoft/debugpy/issues/1499 "Python debugger changes __file__"): team response was last response and no others in 30 days
-
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in debugpy that need a response from team:
+
+
+\* [1529](https://github.com/microsoft/debugpy/issues/1529 "api to retrieve debugpy endpoint and access token?"): needs an initial team response (0 days old)
+
+\* [1530](https://github.com/microsoft/debugpy/issues/1530 "Easy Post Mortem Function"): needs an initial team response (0 days old)
