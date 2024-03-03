@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-02-25 using: stale=30, all=False
+Generated on 2024-03-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,14 +14,14 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-\* [7068](https://github.com/microsoft/PTVS/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window"): 3rd party responded 0 days ago but team last responded 10 days ago
+\* [7520](https://github.com/microsoft/PTVS/issues/7520 " Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally"): 3rd party responded 0 days ago but team last responded 313 days ago
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from OP after last team response:
+### Issues in PTVS that need a response from team:
 
 
-\* [7829](https://github.com/microsoft/PTVS/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. "): OP responded 1 days ago but team last responded 2 days ago
+\* [7843](https://github.com/microsoft/PTVS/issues/7843 "Bogus Environment Names in UI"): needs an initial team response (0 days old)
