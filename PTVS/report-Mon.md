@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-02-26 using: stale=30, all=False
+Generated on 2024-03-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -14,6 +14,6 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 
-\* [7068](https://github.com/microsoft/PTVS/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window"): 3rd party responded 1 days ago but team last responded 11 days ago
+\* [7520](https://github.com/microsoft/PTVS/issues/7520 " Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally"): 3rd party responded 1 days ago but team last responded 314 days ago
 
 ---
