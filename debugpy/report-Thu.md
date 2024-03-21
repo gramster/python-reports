@@ -2,11 +2,19 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-03-14 using: stale=30, all=False
+Generated on 2024-03-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from 3rd party after last team response:
+
+
+\* [1476](https://github.com/microsoft/debugpy/issues/1476 "Python3.12 Unable to attach to PID (Jupyter python process)"): 3rd party responded 0 days ago but team last responded 107 days ago
 
 ---
 
@@ -16,13 +24,9 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in debugpy that need a response from team:
 
 
-\* [1536](https://github.com/microsoft/debugpy/issues/1536 "Subprocess debugging not working when --pid and --configure-subProcess are used"): needs an initial team response (1 days old)
-
-\* [1538](https://github.com/microsoft/debugpy/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process"): needs an initial team response (1 days old)
-
-\* [1539](https://github.com/microsoft/debugpy/issues/1539 "Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1"): needs an initial team response (1 days old)
+\* [1542](https://github.com/microsoft/debugpy/issues/1542 "Misunderstanding behavior of debugging with debugpy"): needs an initial team response (1 days old)
 
 ### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1537](https://github.com/microsoft/debugpy/issues/1537 "Using multiprocessing -> TypeError: Cannot read properties of null (reading 'testsuites')"): OP responded 0 days ago but team last responded 1 days ago
+\* [1242](https://github.com/microsoft/debugpy/issues/1242 "1.6.6: pytest is failing"): OP responded 0 days ago but team last responded 336 days ago
