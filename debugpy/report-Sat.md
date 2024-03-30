@@ -2,18 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-03-23 using: stale=30, all=False
+Generated on 2024-03-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in debugpy that have comments from 3rd party after last team response:
-
-
-\* [1296](https://github.com/microsoft/debugpy/issues/1296 "Debugpy unable to start Flask server"): 3rd party responded 1 days ago but team last responded 109 days ago
-
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in debugpy that need a response from team:
+
+
+\* [1552](https://github.com/microsoft/debugpy/issues/1552 "Unable to find thread to evaluate variable reference."): needs an initial team response (1 days old)
+
+\* [1553](https://github.com/microsoft/debugpy/issues/1553 "possible to effectively get something like &quot;jupyter.debugJustMyCode&quot;: 'sometimes true'?"): needs an initial team response (0 days old)
