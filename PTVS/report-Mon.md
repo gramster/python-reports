@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-05-06 using: stale=30, all=False
+Generated on 2024-05-13 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7892](https://github.com/microsoft/PTVS/issues/7892 "Unexpected error"): needs an initial team response (1 days old)
+\* [7899](https://github.com/microsoft/PTVS/issues/7899 "Error occurred "): needs an initial team response (1 days old)
