@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-05-14 using: stale=30, all=False
+Generated on 2024-05-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,9 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5877](https://github.com/microsoft/pylance-release/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings"): needs an initial team response (1 days old)
+\* [5895](https://github.com/microsoft/pylance-release/issues/5895 "Pylance reports import Missing in inexistent file when git enabled"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [5896](https://github.com/microsoft/pylance-release/issues/5896 "Pylance still report problems in excluded or ignored directories, even in a closed file"): OP responded 0 days ago but team last responded 0 days ago
