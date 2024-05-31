@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-05-24 using: stale=30, all=False
+Generated on 2024-05-31 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -16,4 +16,4 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in PTVS that need a response from team:
 
 
-\* [7912](https://github.com/microsoft/PTVS/issues/7912 "Microsoft.VisualStudio.CommonIDE.Solutions.HResultExtensions+WrapperCOMException (0x8000FFFF): "): needs an initial team response (0 days old)
+\* [7913](https://github.com/microsoft/PTVS/issues/7913 "python vesion is 3.12.3 but in vs2022(17.10.0) show 3.1"): needs an initial team response (1 days old)
