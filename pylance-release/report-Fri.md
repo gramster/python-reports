@@ -2,31 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-05-24 using: stale=30, all=False
+Generated on 2024-05-31 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-
-\* [5742](https://github.com/microsoft/pylance-release/issues/5742 "Better parsing strings that contain `{{` "): team response was last response and no others in 30 days
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 
-\* [5912](https://github.com/microsoft/pylance-release/issues/5912 "My VSCode keep freezing because of Pylance"): needs an initial team response (0 days old)
+\* [5762](https://github.com/microsoft/pylance-release/issues/5762 "Pylance Crashing Constantly: `Error: Unhandled method python/isTrustedWorkspace`"): team response was last response and no others in 30 days
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+\* [5824](https://github.com/microsoft/pylance-release/issues/5824 "switch to a different tool for python syntax highlighting"): team response was last response and no others in 30 days
 
-
-\* [5763](https://github.com/microsoft/pylance-release/issues/5763 "A promblem or question about pylance crashing in GPU rental platforms"): 3rd party responded 1 days ago but team last responded 21 days ago
+\* [5828](https://github.com/microsoft/pylance-release/issues/5828 "Can't access certain members errors"): team response was last response and no others in 30 days
