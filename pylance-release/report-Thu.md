@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-05-30 using: stale=30, all=False
+Generated on 2024-06-13 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,12 +11,10 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5794](https://github.com/microsoft/pylance-release/issues/5794 "How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace"): team response was last response and no others in 30 days
-
-\* [5808](https://github.com/microsoft/pylance-release/issues/5808 "parse error on magic statement on ipython mode."): team response was last response and no others in 30 days
+\* [5977](https://github.com/microsoft/pylance-release/issues/5977 "Annoying intellisense: showing me parameter popup during editing str parameter"): OP responded 0 days ago but team last responded 2 days ago
 
 ---
 
@@ -26,4 +24,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5925](https://github.com/microsoft/pylance-release/issues/5925 "pylance crash: Allocation failed - JavaScript heap out of memory"): OP responded 0 days ago but team last responded 0 days ago
+\* [5991](https://github.com/microsoft/pylance-release/issues/5991 "Pylance crashed due to oom"): OP responded 0 days ago but team last responded 0 days ago
+
+\* [5996](https://github.com/microsoft/pylance-release/issues/5996 "autoImportCompletions: auto import completions not working at all"): OP responded 0 days ago but team last responded 0 days ago
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+
+\* [5138](https://github.com/microsoft/pylance-release/issues/5138 "Go-to-definition and find-all-references don't work on TypedDict properties"): 3rd party responded 1 days ago but team last responded 187 days ago
