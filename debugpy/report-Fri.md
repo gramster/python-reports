@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-06-07 using: stale=30, all=False
+Generated on 2024-06-14 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that need a response from team:
+### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1596](https://github.com/microsoft/debugpy/issues/1596 "VSCode python debugger does not go inside the third party library code even with justmycode set to false"): needs an initial team response (0 days old)
+\* [1599](https://github.com/microsoft/debugpy/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)"): OP responded 0 days ago but team last responded 1 days ago
