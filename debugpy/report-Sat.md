@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-06-08 using: stale=30, all=False
+Generated on 2024-06-15 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,7 +13,7 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that have comments from OP after last team response:
 
 
-\* [1496](https://github.com/microsoft/debugpy/issues/1496 "Python 3.12 runs much slower than Python 3.11"): 3rd party responded 0 days ago but team last responded 137 days ago
+\* [1599](https://github.com/microsoft/debugpy/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)"): OP responded 1 days ago but team last responded 2 days ago
