@@ -2,19 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-06-12 using: stale=30, all=False
+Generated on 2024-07-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-
-\* [5977](https://github.com/microsoft/pylance-release/issues/5977 "Annoying intellisense: showing me parameter popup during editing str parameter"): OP responded 0 days ago but team last responded 1 days ago
 
 ---
 
@@ -24,11 +16,11 @@ Only showing items that are new to report in past 1 day(s)
 ### Issues in pylance-release that need a response from team:
 
 
-\* [5990](https://github.com/microsoft/pylance-release/issues/5990 "Pylance fails to recognice pkgutil.extend_path on src folders on &quot;python.analysis.extraPaths&quot;"): needs an initial team response (1 days old)
+\* [6091](https://github.com/microsoft/pylance-release/issues/6091 "Spurious '&quot;/path/to/python_build_standalone_install/cpython@3.11/lib/python3.11/pathlib.py&quot; is overriding the stdlib module &quot;pathlib&quot;' warning"): needs an initial team response (0 days old)
 
-\* [5996](https://github.com/microsoft/pylance-release/issues/5996 "autoImportCompletions: auto import completions not working at all"): needs an initial team response (0 days old)
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 
-\* [5138](https://github.com/microsoft/pylance-release/issues/5138 "Go-to-definition and find-all-references don't work on TypedDict properties"): 3rd party responded 0 days ago but team last responded 186 days ago
+\* [5995](https://github.com/microsoft/pylance-release/issues/5995 "Highlighting fails after switching between monorepo projects (when switching python interpreters)"): OP responded 0 days ago but team last responded 8 days ago
+
+\* [6067](https://github.com/microsoft/pylance-release/issues/6067 "Pylance does not know Bluetoothlib 'simplepyble'"): OP responded 0 days ago but team last responded 0 days ago
