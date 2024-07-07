@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-06-30 using: stale=30, all=False
+Generated on 2024-07-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,5 +15,6 @@ Only showing items that are new to report in past 1 day(s)
 
 ### Issues in debugpy that need a response from team:
 
-
-\* [1615](https://github.com/microsoft/debugpy/issues/1615 "Got stuck when debugging a multi-process program in PyTorch"): needs an initial team response (0 days old)
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:1  |[1620](https://github.com/microsoft/debugpy/issues/1620 "Updated pytest-timeout changes internal functions")  |Updated pytest-timeout changes internal functions |
