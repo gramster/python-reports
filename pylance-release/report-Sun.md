@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-06-30 using: stale=30, all=False
+Generated on 2024-07-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,12 +15,12 @@ Only showing items that are new to report in past 1 day(s)
 
 ### Issues in pylance-release that need a response from team:
 
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:1  |[6100](https://github.com/microsoft/pylance-release/issues/6100 "Sphinx Style Docstring Incorrectly Rendering &quot;Other Parameters&quot;")  |Sphinx Style Docstring Incorrectly Rendering "Other Parameters" |
 
-\* [6074](https://github.com/microsoft/pylance-release/issues/6074 "False unreachable code message"): needs an initial team response (0 days old)
+### Issues in pylance-release that have comments from OP after last team response:
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-
-\* [4428](https://github.com/microsoft/pylance-release/issues/4428 "Autocomplete of Literal value only takes last overload into account"): 3rd party responded 0 days ago but team last responded 397 days ago
-
-\* [5034](https://github.com/microsoft/pylance-release/issues/5034 "Jupyter notebook raises error: &quot;NO notebook document&quot; in VSCode (WSL v2)"): 3rd party responded 1 days ago but team last responded 18 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:2, OP:1  |[6091](https://github.com/microsoft/pylance-release/issues/6091 "Spurious '&quot;/path/to/python_build_standalone_install/cpython@3.11/lib/python3.11/pathlib.py&quot; is overriding the stdlib module &quot;pathlib&quot;' warning")  |Spurious '"/path/to/python_build_standalone_install/cpython@3.11/lib/python3.11/pathlib.py" is overriding the stdlib module "pathlib"' warning |
