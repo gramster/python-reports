@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-06-30 using: stale=30, all=False
+Generated on 2024-07-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,14 +15,7 @@ Only showing items that are new to report in past 1 day(s)
 
 ### Issues in PTVS that need a response from team:
 
-
-\* [7932](https://github.com/microsoft/PTVS/issues/7932 "Unable to select any environment in the toolbar combo box."): needs an initial team response (1 days old)
-
-\* [7933](https://github.com/microsoft/PTVS/issues/7933 "Unable to display the Property page."): needs an initial team response (1 days old)
-
-\* [7934](https://github.com/microsoft/PTVS/issues/7934 "IntelliSense does not work when type @."): needs an initial team response (1 days old)
-
-### Issues in PTVS that have comments from 3rd party after last team response:
-
-
-\* [7829](https://github.com/microsoft/PTVS/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. "): 3rd party responded 1 days ago but team last responded 5 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:1  |[7944](https://github.com/microsoft/PTVS/issues/7944 "Breakpoints fail to be hit when 'Native Code Debugging' is enabled.")  |Breakpoints fail to be hit when 'Native Code Debugging' is enabled. |
+ | \* OP:0  |[7945](https://github.com/microsoft/PTVS/issues/7945 "I genuinely cannot understand why cookiecutter does not work.")  |I genuinely cannot understand why cookiecutter does not work. |
