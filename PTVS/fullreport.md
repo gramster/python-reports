@@ -91,7 +91,7 @@ Generated on 2024-07-09 using: stale=30, all=True
  |  TM:440, OP:432  |[7429](https://github.com/microsoft/PTVS/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
  |  TM:186, OP:186  |[7724](https://github.com/microsoft/PTVS/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
  |  TM:251, OP:251  |[7743](https://github.com/microsoft/PTVS/issues/7743 "environment load sequence broken") | environment load sequence broken |
- |  TM:222, OP:221  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
+ |  TM:223, OP:221  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
  |  TM:189, OP:188  |[7794](https://github.com/microsoft/PTVS/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
  |  TM:15, OP:14  |[7829](https://github.com/microsoft/PTVS/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
  |  TM:47, OP:46  |[7877](https://github.com/microsoft/PTVS/issues/7877 "The Quick Action icon for 'remove unused imports' only appear if the code is selected.") | The Quick Action icon for 'remove unused imports' only appear if the code is selected. |
@@ -116,192 +116,44 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 
 
-### Issues with term 'python'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6774](/issues/6774 "The Python installed from Microsoft Store couldn't view installed packages when first use the environment.") | The Python installed from Microsoft Store couldn't view installed packages when first use the environment. |
-
-
-
- |  OP:3  |[6797](/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor") | VS2022 no longer allows mapping file extensions to the Python editor |
-
-
-
- |  OP:3  |[6900](/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.") | Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
-
-
-
- |  OP:3  |[6910](/issues/6910 "Python Editor - SendSelectionToInteractive not working on VS2022") | Python Editor - SendSelectionToInteractive not working on VS2022 |
-
-
-
- |  OP:3  |[6955](/issues/6955 "Clean up unsupported Python versions") | Clean up unsupported Python versions |
-
-
-
- |  OP:3  |[7129](/issues/7129 "Step into from Python to C++ doesn't work if arguments are unpacked into function call") | Step into from Python to C++ doesn't work if arguments are unpacked into function call |
-
-
-
- |  OP:3  |[7232](/issues/7232 "native/python debugger cannot find python source code") | native/python debugger cannot find python source code |
-
-
-
- |  OP:3  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
-
-
-
- |  OP:3  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
-
-
-
- |  OP:3  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
-
-
-
- |  OP:3  |[7406](/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced") | Python project reports a .NET Framwork error when .NET Core library is referenced |
-
-
-
- |  OP:3  |[7514](/issues/7514 "Subprocess with visual studio debugger attached to process causes a problem in python project") | Subprocess with visual studio debugger attached to process causes a problem in python project |
-
-
-
- |  OP:3  |[7520](/issues/7520 " Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally") |  Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally |
-
-
-
- |  OP:3  |[7689](/issues/7689 "invalid breakpoint condition in python causes endless errors in vs 2022") | invalid breakpoint condition in python causes endless errors in vs 2022 |
-
-
-
- |  OP:3  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
-
-
-
- |  OP:3  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
-
-
-
- |  OP:3  |[7733](/issues/7733 "Unable to disable python exceptions") | Unable to disable python exceptions |
-
-
-
- |  OP:3  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
-
-
-
- |  OP:3  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
-
-
-
- |  OP:3  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
-
-
-
- |  OP:3  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
-
-
-
- |  OP:3  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
-
-
-
- |  OP:3  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
-
-
-
- |  OP:3  |[7812](/issues/7812 "&quot;Existing environment&quot; doesn't show Microsoft Store python versions > 3.9") | "Existing environment" doesn't show Microsoft Store python versions > 3.9 |
-
-
-
- |  OP:3  |[7813](/issues/7813 "Modifying Python Environment") | Modifying Python Environment |
-
-
-
- |  OP:3  |[7829](/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
-
-
-
- |  OP:3  |[7896](/issues/7896 "Problem creates &quot;Search Path&quot; inside Python Project") | Problem creates "Search Path" inside Python Project |
-
-
-
- |  OP:3  |[7897](/issues/7897 "Ctrl + M + O Shortcut Not Working as Expected in Python") | Ctrl + M + O Shortcut Not Working as Expected in Python |
-
-
-
- |  OP:3  |[7905](/issues/7905 "Launch Python Profiling,the VSP file always shows loading") | Launch Python Profiling,the VSP file always shows loading |
-
-
-
- |  OP:3  |[7906](/issues/7906 "Python Tools: Add support for running __main__.py based packages.") | Python Tools: Add support for running __main__.py based packages. |
-
-
-
- |  OP:3  |[7910](/issues/7910 "Issue with Rename Functionality in Python Editor") | Issue with Rename Functionality in Python Editor |
-
-
-
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
-
-
-
-
-
-
 ### Issues with term 'error'
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6750](/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
-
+ |  OP:1005  |[6750](/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
 
 
- |  OP:3  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
+ |  OP:736  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
 
 
-
- |  OP:3  |[7274](/issues/7274 "Changing error messages - differences in reported errors between VS and pyright cli") | Changing error messages - differences in reported errors between VS and pyright cli |
-
+ |  OP:571  |[7274](/issues/7274 "Changing error messages - differences in reported errors between VS and pyright cli") | Changing error messages - differences in reported errors between VS and pyright cli |
 
 
- |  OP:3  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
+ |  OP:565  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
 
 
-
- |  OP:3  |[7406](/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced") | Python project reports a .NET Framwork error when .NET Core library is referenced |
-
+ |  OP:503  |[7406](/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced") | Python project reports a .NET Framwork error when .NET Core library is referenced |
 
 
- |  OP:3  |[7631](/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
+ |  OP:397  |[7631](/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
 
 
-
- |  OP:3  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
-
+ |  OP:294  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
 
 
- |  OP:3  |[7803](/issues/7803 "Empty error dialog") | Empty error dialog |
+ |  OP:183  |[7803](/issues/7803 "Empty error dialog") | Empty error dialog |
 
 
-
- |  OP:3  |[7823](/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
-
+ |  OP:150  |[7823](/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
 
 
- |  OP:3  |[7903](/issues/7903 "An Unexpected error occurred") | An Unexpected error occurred |
+ |  OP:51  |[7903](/issues/7903 "An Unexpected error occurred") | An Unexpected error occurred |
 
 
-
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
-
+ |  OP:27  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
 
 
- |  OP:3  |[7928](/issues/7928 "error") | error |
+ |  OP:26  |[7928](/issues/7928 "error") | error |
 
 
 
@@ -312,44 +164,34 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6538](/issues/6538 "No static analysis suggestions in Interactive window.") | No static analysis suggestions in Interactive window. |
-
+ |  OP:1138  |[6538](/issues/6538 "No static analysis suggestions in Interactive window.") | No static analysis suggestions in Interactive window. |
 
 
- |  OP:3  |[6760](/issues/6760 "Evaluates all the expressions in interactive windows ignore the Completion Mode setting.") | Evaluates all the expressions in interactive windows ignore the Completion Mode setting. |
+ |  OP:994  |[6760](/issues/6760 "Evaluates all the expressions in interactive windows ignore the Completion Mode setting.") | Evaluates all the expressions in interactive windows ignore the Completion Mode setting. |
 
 
-
- |  OP:3  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
-
+ |  OP:903  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
 
 
- |  OP:3  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
+ |  OP:740  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
 
 
-
- |  OP:3  |[7118](/issues/7118 "IPython interactive mode always freezing") | IPython interactive mode always freezing |
-
+ |  OP:699  |[7118](/issues/7118 "IPython interactive mode always freezing") | IPython interactive mode always freezing |
 
 
- |  OP:3  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
+ |  OP:600  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
 
 
-
- |  OP:3  |[7643](/issues/7643 "Interactive Debugging not working anymore like expected") | Interactive Debugging not working anymore like expected |
-
+ |  OP:384  |[7643](/issues/7643 "Interactive Debugging not working anymore like expected") | Interactive Debugging not working anymore like expected |
 
 
- |  OP:3  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
+ |  OP:305  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
 
 
-
- |  OP:3  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
-
+ |  OP:91  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
 
 
- |  OP:3  |[7940](/issues/7940 "Open interactive window，loading all the time after entering enter in the Anaconda environment.") | Open interactive window，loading all the time after entering enter in the Anaconda environment. |
+ |  OP:7  |[7940](/issues/7940 "Open interactive window，loading all the time after entering enter in the Anaconda environment.") | Open interactive window，loading all the time after entering enter in the Anaconda environment. |
 
 
 
@@ -360,160 +202,31 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
+ |  OP:740  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
 
- |  OP:3  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
 
+ |  OP:736  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
 
 
- |  OP:3  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
+ |  OP:600  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
 
 
+ |  OP:438  |[7561](/issues/7561 "Configure the execution window to embed directly in the debug view instead of separate window ") | Configure the execution window to embed directly in the debug view instead of separate window  |
 
- |  OP:3  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
 
+ |  OP:307  |[7715](/issues/7715 "After switching to the &quot;Packages&quot; window a second time, the packages are not displayed.") | After switching to the "Packages" window a second time, the packages are not displayed. |
 
 
- |  OP:3  |[7561](/issues/7561 "Configure the execution window to embed directly in the debug view instead of separate window ") | Configure the execution window to embed directly in the debug view instead of separate window  |
+ |  OP:305  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
 
 
+ |  OP:218  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
 
- |  OP:3  |[7715](/issues/7715 "After switching to the &quot;Packages&quot; window a second time, the packages are not displayed.") | After switching to the "Packages" window a second time, the packages are not displayed. |
 
+ |  OP:91  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
 
 
- |  OP:3  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
-
-
-
- |  OP:3  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
-
-
-
- |  OP:3  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
-
-
-
- |  OP:3  |[7939](/issues/7939 "It shows empty window after clicking &quot;Open details&quot; on the .vsp file.") | It shows empty window after clicking "Open details" on the .vsp file. |
-
-
-
-
-
-
-### Issues with term 'support'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6610](/issues/6610 "Remote debug attach does not support path mapping") | Remote debug attach does not support path mapping |
-
-
-
- |  OP:3  |[7434](/issues/7434 "Support launch.vs.json") | Support launch.vs.json |
-
-
-
- |  OP:3  |[7572](/issues/7572 "Support Visual Studio additions to the LSP") | Support Visual Studio additions to the LSP |
-
-
-
- |  OP:3  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
-
-
-
- |  OP:3  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
-
-
-
- |  OP:3  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
-
-
-
- |  OP:3  |[7860](/issues/7860 "Visual studio completions don't support variables in the edit text") | Visual studio completions don't support variables in the edit text |
-
-
-
- |  OP:3  |[7906](/issues/7906 "Python Tools: Add support for running __main__.py based packages.") | Python Tools: Add support for running __main__.py based packages. |
-
-
-
-
-
-
-### Issues with term 'work'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
-
-
-
- |  OP:3  |[6876](/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
-
-
-
- |  OP:3  |[6796](/issues/6796 "Test debugging doesn't work") | Test debugging doesn't work |
-
-
-
- |  OP:3  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
-
-
-
- |  OP:3  |[7129](/issues/7129 "Step into from Python to C++ doesn't work if arguments are unpacked into function call") | Step into from Python to C++ doesn't work if arguments are unpacked into function call |
-
-
-
- |  OP:3  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
-
-
-
- |  OP:3  |[7828](/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
-
-
-
- |  OP:3  |[7934](/issues/7934 "IntelliSense does not work when type @.") | IntelliSense does not work when type @. |
-
-
-
-
-
-
-### Issues with term 'vs'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6954](/issues/6954 "Clean up unsupported VS versions") | Clean up unsupported VS versions |
-
-
-
- |  OP:3  |[7274](/issues/7274 "Changing error messages - differences in reported errors between VS and pyright cli") | Changing error messages - differences in reported errors between VS and pyright cli |
-
-
-
- |  OP:3  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
-
-
-
- |  OP:3  |[7689](/issues/7689 "invalid breakpoint condition in python causes endless errors in vs 2022") | invalid breakpoint condition in python causes endless errors in vs 2022 |
-
-
-
- |  OP:3  |[7725](/issues/7725 "The VS crashed after choose the progress when remote debug.") | The VS crashed after choose the progress when remote debug. |
-
-
-
- |  OP:3  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
-
-
-
- |  OP:3  |[7786](/issues/7786 "Update to cpython 3.12 in VS installer") | Update to cpython 3.12 in VS installer |
-
-
-
- |  OP:3  |[7861](/issues/7861 "Pylance has quite a few options that aren't represented in the VS Options Dialog") | Pylance has quite a few options that aren't represented in the VS Options Dialog |
+ |  OP:7  |[7939](/issues/7939 "It shows empty window after clicking &quot;Open details&quot; on the .vsp file.") | It shows empty window after clicking "Open details" on the .vsp file. |
 
 
 
@@ -524,36 +237,28 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
-
+ |  OP:524  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
 
 
- |  OP:3  |[7406](/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced") | Python project reports a .NET Framwork error when .NET Core library is referenced |
+ |  OP:503  |[7406](/issues/7406 "Python project reports a .NET Framwork error when .NET Core library is referenced") | Python project reports a .NET Framwork error when .NET Core library is referenced |
 
 
-
- |  OP:3  |[7514](/issues/7514 "Subprocess with visual studio debugger attached to process causes a problem in python project") | Subprocess with visual studio debugger attached to process causes a problem in python project |
-
+ |  OP:454  |[7514](/issues/7514 "Subprocess with visual studio debugger attached to process causes a problem in python project") | Subprocess with visual studio debugger attached to process causes a problem in python project |
 
 
- |  OP:3  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
+ |  OP:439  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
 
 
-
- |  OP:3  |[7696](/issues/7696 "Go To All can't find the method where is defined in another project") | Go To All can't find the method where is defined in another project |
-
+ |  OP:330  |[7696](/issues/7696 "Go To All can't find the method where is defined in another project") | Go To All can't find the method where is defined in another project |
 
 
- |  OP:3  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
+ |  OP:305  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
 
 
-
- |  OP:3  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
-
+ |  OP:218  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
 
 
- |  OP:3  |[7896](/issues/7896 "Problem creates &quot;Search Path&quot; inside Python Project") | Problem creates "Search Path" inside Python Project |
+ |  OP:62  |[7896](/issues/7896 "Problem creates &quot;Search Path&quot; inside Python Project") | Problem creates "Search Path" inside Python Project |
 
 
 
@@ -564,32 +269,25 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
-
+ |  OP:1071  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
 
 
- |  OP:3  |[6974](/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
+ |  OP:806  |[6974](/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
 
 
-
- |  OP:3  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
-
+ |  OP:740  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
 
 
- |  OP:3  |[7637](/issues/7637 "IntelliSense hangs indefinitely on various occasions, only process restart helps") | IntelliSense hangs indefinitely on various occasions, only process restart helps |
+ |  OP:389  |[7637](/issues/7637 "IntelliSense hangs indefinitely on various occasions, only process restart helps") | IntelliSense hangs indefinitely on various occasions, only process restart helps |
 
 
-
- |  OP:3  |[7701](/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
-
+ |  OP:326  |[7701](/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
 
 
- |  OP:3  |[7828](/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
+ |  OP:143  |[7828](/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
 
 
-
- |  OP:3  |[7934](/issues/7934 "IntelliSense does not work when type @.") | IntelliSense does not work when type @. |
+ |  OP:11  |[7934](/issues/7934 "IntelliSense does not work when type @.") | IntelliSense does not work when type @. |
 
 
 
@@ -600,32 +298,25 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6900](/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.") | Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
-
+ |  OP:859  |[6900](/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.") | Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
 
 
- |  OP:3  |[6936](/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
+ |  OP:839  |[6936](/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
 
 
-
- |  OP:3  |[7232](/issues/7232 "native/python debugger cannot find python source code") | native/python debugger cannot find python source code |
-
+ |  OP:587  |[7232](/issues/7232 "native/python debugger cannot find python source code") | native/python debugger cannot find python source code |
 
 
- |  OP:3  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
+ |  OP:203  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
 
 
-
- |  OP:3  |[7877](/issues/7877 "The Quick Action icon for 'remove unused imports' only appear if the code is selected.") | The Quick Action icon for 'remove unused imports' only appear if the code is selected. |
-
+ |  OP:76  |[7877](/issues/7877 "The Quick Action icon for 'remove unused imports' only appear if the code is selected.") | The Quick Action icon for 'remove unused imports' only appear if the code is selected. |
 
 
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
+ |  OP:27  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
 
 
-
- |  OP:3  |[7944](/issues/7944 "Breakpoints fail to be hit when 'Native Code Debugging' is enabled.") | Breakpoints fail to be hit when 'Native Code Debugging' is enabled. |
+ |  OP:4  |[7944](/issues/7944 "Breakpoints fail to be hit when 'Native Code Debugging' is enabled.") | Breakpoints fail to be hit when 'Native Code Debugging' is enabled. |
 
 
 
@@ -636,32 +327,25 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
-
+ |  OP:616  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
 
 
- |  OP:3  |[7743](/issues/7743 "environment load sequence broken") | environment load sequence broken |
+ |  OP:252  |[7743](/issues/7743 "environment load sequence broken") | environment load sequence broken |
 
 
-
- |  OP:3  |[7813](/issues/7813 "Modifying Python Environment") | Modifying Python Environment |
-
+ |  OP:160  |[7813](/issues/7813 "Modifying Python Environment") | Modifying Python Environment |
 
 
- |  OP:3  |[7843](/issues/7843 "Bogus Environment Names in UI") | Bogus Environment Names in UI |
+ |  OP:129  |[7843](/issues/7843 "Bogus Environment Names in UI") | Bogus Environment Names in UI |
 
 
-
- |  OP:3  |[7923](/issues/7923 "Anaconda displays incorrectly in environment list.") | Anaconda displays incorrectly in environment list. |
-
+ |  OP:34  |[7923](/issues/7923 "Anaconda displays incorrectly in environment list.") | Anaconda displays incorrectly in environment list. |
 
 
- |  OP:3  |[7932](/issues/7932 "Unable to select any environment in the toolbar combo box.") | Unable to select any environment in the toolbar combo box. |
+ |  OP:11  |[7932](/issues/7932 "Unable to select any environment in the toolbar combo box.") | Unable to select any environment in the toolbar combo box. |
 
 
-
- |  OP:3  |[7935](/issues/7935 "Conda environment is not detected after restart the VS.") | Conda environment is not detected after restart the VS. |
+ |  OP:8  |[7935](/issues/7935 "Conda environment is not detected after restart the VS.") | Conda environment is not detected after restart the VS. |
 
 
 
@@ -672,28 +356,22 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[125](/issues/125 "Automatically attach to subprocesses when debugging") | Automatically attach to subprocesses when debugging |
-
+ |  OP:3346  |[125](/issues/125 "Automatically attach to subprocesses when debugging") | Automatically attach to subprocesses when debugging |
 
 
- |  OP:3  |[6796](/issues/6796 "Test debugging doesn't work") | Test debugging doesn't work |
+ |  OP:963  |[6796](/issues/6796 "Test debugging doesn't work") | Test debugging doesn't work |
 
 
-
- |  OP:3  |[7643](/issues/7643 "Interactive Debugging not working anymore like expected") | Interactive Debugging not working anymore like expected |
-
+ |  OP:384  |[7643](/issues/7643 "Interactive Debugging not working anymore like expected") | Interactive Debugging not working anymore like expected |
 
 
- |  OP:3  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
+ |  OP:244  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
 
 
-
- |  OP:3  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
-
+ |  OP:209  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
 
 
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
+ |  OP:27  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
 
 
 
@@ -704,28 +382,22 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6610](/issues/6610 "Remote debug attach does not support path mapping") | Remote debug attach does not support path mapping |
-
+ |  OP:1089  |[6610](/issues/6610 "Remote debug attach does not support path mapping") | Remote debug attach does not support path mapping |
 
 
- |  OP:3  |[7429](/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
+ |  OP:496  |[7429](/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
 
 
-
- |  OP:3  |[7561](/issues/7561 "Configure the execution window to embed directly in the debug view instead of separate window ") | Configure the execution window to embed directly in the debug view instead of separate window  |
-
+ |  OP:438  |[7561](/issues/7561 "Configure the execution window to embed directly in the debug view instead of separate window ") | Configure the execution window to embed directly in the debug view instead of separate window  |
 
 
- |  OP:3  |[7616](/issues/7616 "Lots of debug symbols are being loaded at every application start") | Lots of debug symbols are being loaded at every application start |
+ |  OP:416  |[7616](/issues/7616 "Lots of debug symbols are being loaded at every application start") | Lots of debug symbols are being loaded at every application start |
 
 
-
- |  OP:3  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
-
+ |  OP:203  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
 
 
- |  OP:3  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
+ |  OP:201  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
 
 
 
@@ -736,28 +408,22 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
-
+ |  OP:1071  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
 
 
- |  OP:3  |[6797](/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor") | VS2022 no longer allows mapping file extensions to the Python editor |
+ |  OP:963  |[6797](/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor") | VS2022 no longer allows mapping file extensions to the Python editor |
 
 
-
- |  OP:3  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
-
+ |  OP:587  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
 
 
- |  OP:3  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
+ |  OP:439  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
 
 
-
- |  OP:3  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
-
+ |  OP:218  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
 
 
- |  OP:3  |[7905](/issues/7905 "Launch Python Profiling,the VSP file always shows loading") | Launch Python Profiling,the VSP file always shows loading |
+ |  OP:49  |[7905](/issues/7905 "Launch Python Profiling,the VSP file always shows loading") | Launch Python Profiling,the VSP file always shows loading |
 
 
 
@@ -768,24 +434,19 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6876](/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
-
+ |  OP:1056  |[6876](/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
 
 
- |  OP:3  |[7696](/issues/7696 "Go To All can't find the method where is defined in another project") | Go To All can't find the method where is defined in another project |
+ |  OP:330  |[7696](/issues/7696 "Go To All can't find the method where is defined in another project") | Go To All can't find the method where is defined in another project |
 
 
-
- |  OP:3  |[7805](/issues/7805 "Refactor rename incorrect when the referenced method is defined in another project.") | Refactor rename incorrect when the referenced method is defined in another project. |
-
+ |  OP:175  |[7805](/issues/7805 "Refactor rename incorrect when the referenced method is defined in another project.") | Refactor rename incorrect when the referenced method is defined in another project. |
 
 
- |  OP:3  |[7859](/issues/7859 "Auto indent for completion of a method is incorrect") | Auto indent for completion of a method is incorrect |
+ |  OP:106  |[7859](/issues/7859 "Auto indent for completion of a method is incorrect") | Auto indent for completion of a method is incorrect |
 
 
-
- |  OP:3  |[7875](/issues/7875 "Extract Method on multiple lines inside of a function does nothing") | Extract Method on multiple lines inside of a function does nothing |
+ |  OP:83  |[7875](/issues/7875 "Extract Method on multiple lines inside of a function does nothing") | Extract Method on multiple lines inside of a function does nothing |
 
 
 
@@ -796,24 +457,19 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6750](/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
-
+ |  OP:1005  |[6750](/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
 
 
- |  OP:3  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
+ |  OP:201  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
 
 
-
- |  OP:3  |[7829](/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
-
+ |  OP:142  |[7829](/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
 
 
- |  OP:3  |[7866](/issues/7866 "build fails when run automated, but succeeds when run manually") | build fails when run automated, but succeeds when run manually |
+ |  OP:97  |[7866](/issues/7866 "build fails when run automated, but succeeds when run manually") | build fails when run automated, but succeeds when run manually |
 
 
-
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
+ |  OP:27  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
 
 
 
@@ -824,24 +480,19 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
-
- |  OP:3  |[6936](/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
-
+ |  OP:839  |[6936](/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
 
 
- |  OP:3  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
+ |  OP:524  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
 
 
-
- |  OP:3  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
-
+ |  OP:294  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
 
 
- |  OP:3  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
+ |  OP:218  |[7773](/issues/7773 "After Save As with a different name, clicking on the original file in the project jumps to the window with the new name") | After Save As with a different name, clicking on the original file in the project jumps to the window with the new name |
 
 
-
- |  OP:3  |[7939](/issues/7939 "It shows empty window after clicking &quot;Open details&quot; on the .vsp file.") | It shows empty window after clicking "Open details" on the .vsp file. |
+ |  OP:7  |[7939](/issues/7939 "It shows empty window after clicking &quot;Open details&quot; on the .vsp file.") | It shows empty window after clicking "Open details" on the .vsp file. |
 
 
 
@@ -852,611 +503,18 @@ Generated on 2024-07-09 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
+ |  OP:223  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
 
- |  OP:3  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
 
+ |  OP:218  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
 
 
- |  OP:3  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
+ |  OP:211  |[7786](/issues/7786 "Update to cpython 3.12 in VS installer") | Update to cpython 3.12 in VS installer |
 
 
+ |  OP:211  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
 
- |  OP:3  |[7786](/issues/7786 "Update to cpython 3.12 in VS installer") | Update to cpython 3.12 in VS installer |
 
-
-
- |  OP:3  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
-
-
-
- |  OP:3  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
-
-
-
-
-
-
-### Issues with term 'open'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
-
-
-
- |  OP:3  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
-
-
-
- |  OP:3  |[7745](/issues/7745 "There is no info bar appear to suggest install pytest when Test Explorer is open ") | There is no info bar appear to suggest install pytest when Test Explorer is open  |
-
-
-
- |  OP:3  |[7940](/issues/7940 "Open interactive window，loading all the time after entering enter in the Anaconda environment.") | Open interactive window，loading all the time after entering enter in the Anaconda environment. |
-
-
-
-
-
-
-### Issues with term 'create'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6750](/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
-
-
-
- |  OP:3  |[7330](/issues/7330 "Unable to create DLL for C++ ") | Unable to create DLL for C++  |
-
-
-
- |  OP:3  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
-
-
-
- |  OP:3  |[7760](/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
-
-
-
-
-
-
-### Issues with term 'debugger'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7232](/issues/7232 "native/python debugger cannot find python source code") | native/python debugger cannot find python source code |
-
-
-
- |  OP:3  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
-
-
-
- |  OP:3  |[7514](/issues/7514 "Subprocess with visual studio debugger attached to process causes a problem in python project") | Subprocess with visual studio debugger attached to process causes a problem in python project |
-
-
-
- |  OP:3  |[7926](/issues/7926 "Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth") | Getting Thread Error While Executing Python Code :: In other debugger or without debugging its run smooth |
-
-
-
-
-
-
-### Issues with term 'breakpoint'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
-
-
-
- |  OP:3  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
-
-
-
- |  OP:3  |[7600](/issues/7600 "Modal pop-up persists when a breakpoint cannot resolve conditional expression ") | Modal pop-up persists when a breakpoint cannot resolve conditional expression  |
-
-
-
- |  OP:3  |[7689](/issues/7689 "invalid breakpoint condition in python causes endless errors in vs 2022") | invalid breakpoint condition in python causes endless errors in vs 2022 |
-
-
-
-
-
-
-### Issues with term '2022'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7520](/issues/7520 " Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally") |  Visual Studio 2022 keeps breaking on exception which seems to be handled in Python internally |
-
-
-
- |  OP:3  |[7689](/issues/7689 "invalid breakpoint condition in python causes endless errors in vs 2022") | invalid breakpoint condition in python causes endless errors in vs 2022 |
-
-
-
- |  OP:3  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
-
-
-
- |  OP:3  |[7915](/issues/7915 "VSStudio Community 2022 version 17.10.0 not backward compatible with NVIDIA CUDA 11.8") | VSStudio Community 2022 version 17.10.0 not backward compatible with NVIDIA CUDA 11.8 |
-
-
-
-
-
-
-### Issues with term 'conda'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7541](/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
-
-
-
- |  OP:3  |[7631](/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
-
-
-
- |  OP:3  |[7823](/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
-
-
-
- |  OP:3  |[7935](/issues/7935 "Conda environment is not detected after restart the VS.") | Conda environment is not detected after restart the VS. |
-
-
-
-
-
-
-### Issues with term 'ptvs'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
-
-
-
- |  OP:3  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
-
-
-
- |  OP:3  |[7904](/issues/7904 "PTVS Profiling Revamp") | PTVS Profiling Revamp |
-
-
-
- |  OP:3  |[7922](/issues/7922 "Improve PTVS documentations") | Improve PTVS documentations |
-
-
-
-
-
-
-### Issues with term 'attach'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[125](/issues/125 "Automatically attach to subprocesses when debugging") | Automatically attach to subprocesses when debugging |
-
-
-
- |  OP:3  |[6610](/issues/6610 "Remote debug attach does not support path mapping") | Remote debug attach does not support path mapping |
-
-
-
- |  OP:3  |[7724](/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
-
-
-
-
-
-
-### Issues with term 'remote'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6610](/issues/6610 "Remote debug attach does not support path mapping") | Remote debug attach does not support path mapping |
-
-
-
- |  OP:3  |[7236](/issues/7236 "I get &quot;Breakpoint in file that does not exist&quot; when setting a breakpoint in remote Linux Python debugger") | I get "Breakpoint in file that does not exist" when setting a breakpoint in remote Linux Python debugger |
-
-
-
- |  OP:3  |[7725](/issues/7725 "The VS crashed after choose the progress when remote debug.") | The VS crashed after choose the progress when remote debug. |
-
-
-
-
-
-
-### Issues with term 'extract'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6876](/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
-
-
-
- |  OP:3  |[7875](/issues/7875 "Extract Method on multiple lines inside of a function does nothing") | Extract Method on multiple lines inside of a function does nothing |
-
-
-
- |  OP:3  |[7943](/issues/7943 "Extract variable inserts duplicate variable name") | Extract variable inserts duplicate variable name |
-
-
-
-
-
-
-### Issues with term 'rename'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6876](/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
-
-
-
- |  OP:3  |[7805](/issues/7805 "Refactor rename incorrect when the referenced method is defined in another project.") | Refactor rename incorrect when the referenced method is defined in another project. |
-
-
-
- |  OP:3  |[7910](/issues/7910 "Issue with Rename Functionality in Python Editor") | Issue with Rename Functionality in Python Editor |
-
-
-
-
-
-
-### Issues with term 'mode'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6760](/issues/6760 "Evaluates all the expressions in interactive windows ignore the Completion Mode setting.") | Evaluates all the expressions in interactive windows ignore the Completion Mode setting. |
-
-
-
- |  OP:3  |[7118](/issues/7118 "IPython interactive mode always freezing") | IPython interactive mode always freezing |
-
-
-
- |  OP:3  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
-
-
-
-
-
-
-### Issues with term 'test'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6796](/issues/6796 "Test debugging doesn't work") | Test debugging doesn't work |
-
-
-
- |  OP:3  |[6988](/issues/6988 "Migrate test pipelines to DartLab") | Migrate test pipelines to DartLab |
-
-
-
- |  OP:3  |[7745](/issues/7745 "There is no info bar appear to suggest install pytest when Test Explorer is open ") | There is no info bar appear to suggest install pytest when Test Explorer is open  |
-
-
-
-
-
-
-### Issues with term 'editor'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6797](/issues/6797 "VS2022 no longer allows mapping file extensions to the Python editor") | VS2022 no longer allows mapping file extensions to the Python editor |
-
-
-
- |  OP:3  |[6910](/issues/6910 "Python Editor - SendSelectionToInteractive not working on VS2022") | Python Editor - SendSelectionToInteractive not working on VS2022 |
-
-
-
- |  OP:3  |[7910](/issues/7910 "Issue with Rename Functionality in Python Editor") | Issue with Rename Functionality in Python Editor |
-
-
-
-
-
-
-### Issues with term 'install'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
-
-
-
- |  OP:3  |[7745](/issues/7745 "There is no info bar appear to suggest install pytest when Test Explorer is open ") | There is no info bar appear to suggest install pytest when Test Explorer is open  |
-
-
-
- |  OP:3  |[7829](/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
-
-
-
-
-
-
-### Issues with term 'module'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
-
-
-
- |  OP:3  |[7044](/issues/7044 "Go to definition on module not working") | Go to definition on module not working |
-
-
-
- |  OP:3  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
-
-
-
-
-
-
-### Issues with term 'ipython'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
-
-
-
- |  OP:3  |[7118](/issues/7118 "IPython interactive mode always freezing") | IPython interactive mode always freezing |
-
-
-
- |  OP:3  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
-
-
-
-
-
-
-### Issues with term 'show'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6877](/issues/6877 "Live share doesn't show LSP features") | Live share doesn't show LSP features |
-
-
-
- |  OP:3  |[7750](/issues/7750 "VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure") | VS 2022 Native (GDB) debugging with Python pretty-printers: watch/popup does not show object's structure |
-
-
-
- |  OP:3  |[7812](/issues/7812 "&quot;Existing environment&quot; doesn't show Microsoft Store python versions > 3.9") | "Existing environment" doesn't show Microsoft Store python versions > 3.9 |
-
-
-
-
-
-
-### Issues with term 'tests'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6936](/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
-
-
-
- |  OP:3  |[7039](/issues/7039 "Fix integration tests") | Fix integration tests |
-
-
-
- |  OP:3  |[7797](/issues/7797 "Run Tests and Debug Tests does not work if click from the context menu and SE window. ") | Run Tests and Debug Tests does not work if click from the context menu and SE window.  |
-
-
-
-
-
-
-### Issues with term 'versions'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6954](/issues/6954 "Clean up unsupported VS versions") | Clean up unsupported VS versions |
-
-
-
- |  OP:3  |[6955](/issues/6955 "Clean up unsupported Python versions") | Clean up unsupported Python versions |
-
-
-
- |  OP:3  |[7812](/issues/7812 "&quot;Existing environment&quot; doesn't show Microsoft Store python versions > 3.9") | "Existing environment" doesn't show Microsoft Store python versions > 3.9 |
-
-
-
-
-
-
-### Issues with term 'import'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[6974](/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
-
-
-
- |  OP:3  |[7701](/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
-
-
-
- |  OP:3  |[7828](/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
-
-
-
-
-
-
-### Issues with term 'c++'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7129](/issues/7129 "Step into from Python to C++ doesn't work if arguments are unpacked into function call") | Step into from Python to C++ doesn't work if arguments are unpacked into function call |
-
-
-
- |  OP:3  |[7330](/issues/7330 "Unable to create DLL for C++ ") | Unable to create DLL for C++  |
-
-
-
- |  OP:3  |[7794](/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
-
-
-
-
-
-
-### Issues with term 'cookiecutter'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
-
-
-
- |  OP:3  |[7938](/issues/7938 "Please, help me. My Cookiecutter Classifier template is not installing (MS Visual Studio 2022)") | Please, help me. My Cookiecutter Classifier template is not installing (MS Visual Studio 2022) |
-
-
-
- |  OP:3  |[7945](/issues/7945 "I genuinely cannot understand why cookiecutter does not work.") | I genuinely cannot understand why cookiecutter does not work. |
-
-
-
-
-
-
-### Issues with term 'output'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
-
-
-
- |  OP:3  |[7367](/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
-
-
-
- |  OP:3  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
-
-
-
-
-
-
-### Issues with term 'dialog'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7288](/issues/7288 "Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog") | Python debug: invalid condition in a breakpoint makes VS stuck in the error dialog |
-
-
-
- |  OP:3  |[7803](/issues/7803 "Empty error dialog") | Empty error dialog |
-
-
-
- |  OP:3  |[7861](/issues/7861 "Pylance has quite a few options that aren't represented in the VS Options Dialog") | Pylance has quite a few options that aren't represented in the VS Options Dialog |
-
-
-
-
-
-
-### Issues with term 'start'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7429](/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
-
-
-
- |  OP:3  |[7616](/issues/7616 "Lots of debug symbols are being loaded at every application start") | Lots of debug symbols are being loaded at every application start |
-
-
-
- |  OP:3  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
-
-
-
-
-
-
-### Issues with term 'unexpected'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7631](/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
-
-
-
- |  OP:3  |[7823](/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
-
-
-
- |  OP:3  |[7903](/issues/7903 "An Unexpected error occurred") | An Unexpected error occurred |
-
-
-
-
-
-
-### Issues with term 'empty'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
-
- |  OP:3  |[7803](/issues/7803 "Empty error dialog") | Empty error dialog |
-
-
-
- |  OP:3  |[7807](/issues/7807 "It showed empty class name when type @.") | It showed empty class name when type @. |
-
-
-
- |  OP:3  |[7939](/issues/7939 "It shows empty window after clicking &quot;Open details&quot; on the .vsp file.") | It shows empty window after clicking "Open details" on the .vsp file. |
+ |  OP:209  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
 
 
