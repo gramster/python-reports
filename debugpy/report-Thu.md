@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-07-11 using: stale=30, all=False
+Generated on 2024-07-18 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,58 +10,49 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in debugpy that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:1  |[1623](https://github.com/microsoft/debugpy/issues/1623 "Failed test due to matplotlib deprecation of interactive_bk")  |Failed test due to matplotlib deprecation of interactive_bk |
-
 
 
 ### Issues with term '[sys.monitoring]'
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:238  |[1420](/issues/1420 "[sys.monitoring] Tracing execution flow") | [sys.monitoring] Tracing execution flow |
- |  OP:238  |[1421](/issues/1421 "[sys.monitoring] Stack tracing") | [sys.monitoring] Stack tracing |
- |  OP:238  |[1424](/issues/1424 "[sys.monitoring] Stepping") | [sys.monitoring] Stepping |
- |  OP:238  |[1428](/issues/1428 "[sys.monitoring] Stop on entry") | [sys.monitoring] Stop on entry |
- |  OP:238  |[1429](/issues/1429 "[sys.monitoring] Breakpoints") | [sys.monitoring] Breakpoints |
- |  OP:238  |[1433](/issues/1433 "[sys.monitoring] Breakpoint verification") | [sys.monitoring] Breakpoint verification |
- |  OP:238  |[1434](/issues/1434 "[sys.monitoring] Snap breakpoints to valid locations") | [sys.monitoring] Snap breakpoints to valid locations |
- |  OP:238  |[1435](/issues/1435 "[sys.monitoring] breakpoint() hook") | [sys.monitoring] breakpoint() hook |
- |  OP:237  |[1436](/issues/1436 "[sys.monitoring] Exception breakpoints") | [sys.monitoring] Exception breakpoints |
- |  OP:237  |[1437](/issues/1437 "[sys.monitoring] Expression evaluation") | [sys.monitoring] Expression evaluation |
- |  OP:237  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
- |  OP:237  |[1440](/issues/1440 "[sys.monitoring] Variable values") | [sys.monitoring] Variable values |
- |  OP:237  |[1446](/issues/1446 "[sys.monitoring] Returned values") | [sys.monitoring] Returned values |
- |  OP:237  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
- |  OP:237  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
- |  OP:237  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
- |  OP:237  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
- |  OP:237  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
- |  OP:237  |[1454](/issues/1454 "[sys.monitoring] Break on user-uncaught exception") | [sys.monitoring] Break on user-uncaught exception |
- |  OP:237  |[1455](/issues/1455 "[sys.monitoring] SystemExit handling") | [sys.monitoring] SystemExit handling |
- |  OP:237  |[1456](/issues/1456 "[sys.monitoring] Children - object attributes") | [sys.monitoring] Children - object attributes |
- |  OP:237  |[1457](/issues/1457 "[sys.monitoring] Children - sequence & set items") | [sys.monitoring] Children - sequence & set items |
- |  OP:237  |[1458](/issues/1458 "[sys.monitoring] Children - mapping items") | [sys.monitoring] Children - mapping items |
- |  OP:237  |[1459](/issues/1459 "[sys.monitoring] Children - numpy collections") | [sys.monitoring] Children - numpy collections |
- |  OP:237  |[1460](/issues/1460 "[sys.monitoring] Children - pandas collections") | [sys.monitoring] Children - pandas collections |
- |  OP:237  |[1461](/issues/1461 "[sys.monitoring] Children - tensorflow collections") | [sys.monitoring] Children - tensorflow collections |
- |  OP:232  |[1466](/issues/1466 "[sys.monitoring] Django breakpoints") | [sys.monitoring] Django breakpoints |
- |  OP:232  |[1467](/issues/1467 "[sys.monitoring] Flask (Jinja) breakpoints") | [sys.monitoring] Flask (Jinja) breakpoints |
- |  OP:232  |[1468](/issues/1468 "[sys.monitoring] Django template stack frames") | [sys.monitoring] Django template stack frames |
- |  OP:232  |[1469](/issues/1469 "[sys.monitoring] Jinja template stack frames") | [sys.monitoring] Jinja template stack frames |
- |  OP:232  |[1470](/issues/1470 "[sys.monitoring] Stdout redirection") | [sys.monitoring] Stdout redirection |
- |  OP:232  |[1471](/issues/1471 "[sys.monitoring] Performance telemetry") | [sys.monitoring] Performance telemetry |
- |  OP:232  |[1472](/issues/1472 "[sys.monitoring] Report loaded modules") | [sys.monitoring] Report loaded modules |
- |  OP:162  |[1507](/issues/1507 "[sys.monitoring] API to hide threads and files from debugger") | [sys.monitoring] API to hide threads and files from debugger |
- |  OP:162  |[1508](/issues/1508 "[sys.monitoring] Async stepping") | [sys.monitoring] Async stepping |
- |  OP:162  |[1509](/issues/1509 "[sys.monitoring] Just my code") | [sys.monitoring] Just my code |
- |  OP:106  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
+ |  OP:245  |[1420](/issues/1420 "[sys.monitoring] Tracing execution flow") | [sys.monitoring] Tracing execution flow |
+ |  OP:245  |[1421](/issues/1421 "[sys.monitoring] Stack tracing") | [sys.monitoring] Stack tracing |
+ |  OP:245  |[1424](/issues/1424 "[sys.monitoring] Stepping") | [sys.monitoring] Stepping |
+ |  OP:245  |[1428](/issues/1428 "[sys.monitoring] Stop on entry") | [sys.monitoring] Stop on entry |
+ |  OP:245  |[1429](/issues/1429 "[sys.monitoring] Breakpoints") | [sys.monitoring] Breakpoints |
+ |  OP:245  |[1433](/issues/1433 "[sys.monitoring] Breakpoint verification") | [sys.monitoring] Breakpoint verification |
+ |  OP:245  |[1434](/issues/1434 "[sys.monitoring] Snap breakpoints to valid locations") | [sys.monitoring] Snap breakpoints to valid locations |
+ |  OP:245  |[1435](/issues/1435 "[sys.monitoring] breakpoint() hook") | [sys.monitoring] breakpoint() hook |
+ |  OP:244  |[1436](/issues/1436 "[sys.monitoring] Exception breakpoints") | [sys.monitoring] Exception breakpoints |
+ |  OP:244  |[1437](/issues/1437 "[sys.monitoring] Expression evaluation") | [sys.monitoring] Expression evaluation |
+ |  OP:244  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
+ |  OP:244  |[1440](/issues/1440 "[sys.monitoring] Variable values") | [sys.monitoring] Variable values |
+ |  OP:244  |[1446](/issues/1446 "[sys.monitoring] Returned values") | [sys.monitoring] Returned values |
+ |  OP:244  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
+ |  OP:244  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
+ |  OP:244  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
+ |  OP:244  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
+ |  OP:244  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
+ |  OP:244  |[1454](/issues/1454 "[sys.monitoring] Break on user-uncaught exception") | [sys.monitoring] Break on user-uncaught exception |
+ |  OP:244  |[1455](/issues/1455 "[sys.monitoring] SystemExit handling") | [sys.monitoring] SystemExit handling |
+ |  OP:244  |[1456](/issues/1456 "[sys.monitoring] Children - object attributes") | [sys.monitoring] Children - object attributes |
+ |  OP:244  |[1457](/issues/1457 "[sys.monitoring] Children - sequence & set items") | [sys.monitoring] Children - sequence & set items |
+ |  OP:244  |[1458](/issues/1458 "[sys.monitoring] Children - mapping items") | [sys.monitoring] Children - mapping items |
+ |  OP:244  |[1459](/issues/1459 "[sys.monitoring] Children - numpy collections") | [sys.monitoring] Children - numpy collections |
+ |  OP:244  |[1460](/issues/1460 "[sys.monitoring] Children - pandas collections") | [sys.monitoring] Children - pandas collections |
+ |  OP:244  |[1461](/issues/1461 "[sys.monitoring] Children - tensorflow collections") | [sys.monitoring] Children - tensorflow collections |
+ |  OP:239  |[1466](/issues/1466 "[sys.monitoring] Django breakpoints") | [sys.monitoring] Django breakpoints |
+ |  OP:239  |[1467](/issues/1467 "[sys.monitoring] Flask (Jinja) breakpoints") | [sys.monitoring] Flask (Jinja) breakpoints |
+ |  OP:239  |[1468](/issues/1468 "[sys.monitoring] Django template stack frames") | [sys.monitoring] Django template stack frames |
+ |  OP:239  |[1469](/issues/1469 "[sys.monitoring] Jinja template stack frames") | [sys.monitoring] Jinja template stack frames |
+ |  OP:239  |[1470](/issues/1470 "[sys.monitoring] Stdout redirection") | [sys.monitoring] Stdout redirection |
+ |  OP:239  |[1471](/issues/1471 "[sys.monitoring] Performance telemetry") | [sys.monitoring] Performance telemetry |
+ |  OP:239  |[1472](/issues/1472 "[sys.monitoring] Report loaded modules") | [sys.monitoring] Report loaded modules |
+ |  OP:169  |[1507](/issues/1507 "[sys.monitoring] API to hide threads and files from debugger") | [sys.monitoring] API to hide threads and files from debugger |
+ |  OP:169  |[1508](/issues/1508 "[sys.monitoring] Async stepping") | [sys.monitoring] Async stepping |
+ |  OP:169  |[1509](/issues/1509 "[sys.monitoring] Just my code") | [sys.monitoring] Just my code |
+ |  OP:113  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
 
 
 
@@ -70,64 +61,32 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1767  |[176](/issues/176 "Sequence diagrams and architecture diagrams for the debugger") | Sequence diagrams and architecture diagrams for the debugger |
- |  OP:1044  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
- |  OP:692  |[1155](/issues/1155 "Python debugger breaks on caught exception within a decorator and context manager") | Python debugger breaks on caught exception within a decorator and context manager |
- |  OP:614  |[1114](/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
- |  OP:482  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
- |  OP:455  |[1271](/issues/1271 "Timeout while using vscode debugger with any program which spawns a process") | Timeout while using vscode debugger with any program which spawns a process |
- |  OP:455  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
- |  OP:441  |[1283](/issues/1283 "Python Debugger stops in first few seconds without output") | Python Debugger stops in first few seconds without output |
- |  OP:425  |[1291](/issues/1291 "Add debugger data breakpoints") | Add debugger data breakpoints |
- |  OP:365  |[1328](/issues/1328 "View thread state in debugger without breakpoints") | View thread state in debugger without breakpoints |
- |  OP:330  |[1355](/issues/1355 "Pytest debugger isn't compatible with vscode+playwright") | Pytest debugger isn't compatible with vscode+playwright |
- |  OP:308  |[1377](/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
- |  OP:303  |[1382](/issues/1382 "Python debugger frozen eternall with poetry env") | Python debugger frozen eternall with poetry env |
- |  OP:302  |[1384](/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
- |  OP:233  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
- |  OP:233  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
- |  OP:205  |[1488](/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
- |  OP:170  |[1497](/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
- |  OP:168  |[1499](/issues/1499 "Python debugger changes __file__") | Python debugger changes __file__ |
- |  OP:162  |[1505](/issues/1505 "Python Debugger not showing NumPy array values after update - NOT resolved") | Python Debugger not showing NumPy array values after update - NOT resolved |
- |  OP:162  |[1507](/issues/1507 "[sys.monitoring] API to hide threads and files from debugger") | [sys.monitoring] API to hide threads and files from debugger |
- |  OP:106  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
- |  OP:94  |[1561](/issues/1561 "&quot;import akshare as ak&quot; blocks the debugger after I upgrade to python 3.12.2") | "import akshare as ak" blocks the debugger after I upgrade to python 3.12.2 |
- |  OP:64  |[1579](/issues/1579 "Debugger times out if shell startup is &quot;slow&quot;") | Debugger times out if shell startup is "slow" |
- |  OP:41  |[1593](/issues/1593 "python debugger ignores breakpoints?") | python debugger ignores breakpoints? |
- |  OP:40  |[1592](/issues/1592 "Microsoft Python Debugger not working in a virtual environment created with venv module on windows") | Microsoft Python Debugger not working in a virtual environment created with venv module on windows |
-
-
-
-
-### Issues with term 'debug'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:527  |[1193](/issues/1193 "Debug crashes when running a Python2 subprocess") | Debug crashes when running a Python2 subprocess |
- |  OP:488  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
- |  OP:427  |[1288](/issues/1288 "Can't debug if project resides in folder whose name contains special characters") | Can't debug if project resides in folder whose name contains special characters |
- |  OP:406  |[1304](/issues/1304 "Show a warning that we can't debug when &quot;--cov&quot; is in pytestArgs") | Show a warning that we can't debug when "--cov" is in pytestArgs |
- |  OP:402  |[1308](/issues/1308 "remote debug port stucks upon `nc -z` but `nc` works") | remote debug port stucks upon `nc -z` but `nc` works |
- |  OP:386  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
- |  OP:385  |[1320](/issues/1320 "Adopt lifecycleManagedByParent for debug sessions") | Adopt lifecycleManagedByParent for debug sessions |
- |  OP:358  |[1332](/issues/1332 "Debug variable displays verbose info") | Debug variable displays verbose info |
- |  OP:343  |[1342](/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
- |  OP:340  |[1346](/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
- |  OP:265  |[1409](/issues/1409 "Debug console shows too much detail and too little data information ") | Debug console shows too much detail and too little data information  |
- |  OP:239  |[1419](/issues/1419 "[meta] debug server based on sys.monitoring for Python 3.12+") | [meta] debug server based on sys.monitoring for Python 3.12+ |
- |  OP:191  |[1491](/issues/1491 "debug python with docker-compose cannot hit breakpoint") | debug python with docker-compose cannot hit breakpoint |
- |  OP:180  |[1493](/issues/1493 "tries to debug a wrong file, behaves weird if file is moved") | tries to debug a wrong file, behaves weird if file is moved |
- |  OP:176  |[1494](/issues/1494 "Debug windows stuck on loading local variable(large img tensor) when debug pytorch code.") | Debug windows stuck on loading local variable(large img tensor) when debug pytorch code. |
- |  OP:166  |[1501](/issues/1501 "Allow multiple debug connections in VS code using the same port") | Allow multiple debug connections in VS code using the same port |
- |  OP:133  |[1527](/issues/1527 "Debug should skip arguments assignment for step into action by default") | Debug should skip arguments assignment for step into action by default |
- |  OP:120  |[1539](/issues/1539 "Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1") | Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1 |
- |  OP:82  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
- |  OP:60  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
- |  OP:28  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
- |  OP:20  |[1606](/issues/1606 "Can't create plot from the debug console") | Can't create plot from the debug console |
- |  OP:15  |[1609](/issues/1609 "Troubles when expanding self object during debug in constructor") | Troubles when expanding self object during debug in constructor |
- |  OP:14  |[1612](/issues/1612 "Terminal debug experience in Python Debbuger Extension") | Terminal debug experience in Python Debbuger Extension |
+ |  OP:1774  |[176](/issues/176 "Sequence diagrams and architecture diagrams for the debugger") | Sequence diagrams and architecture diagrams for the debugger |
+ |  OP:1051  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
+ |  OP:699  |[1155](/issues/1155 "Python debugger breaks on caught exception within a decorator and context manager") | Python debugger breaks on caught exception within a decorator and context manager |
+ |  OP:621  |[1114](/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
+ |  OP:489  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
+ |  OP:462  |[1271](/issues/1271 "Timeout while using vscode debugger with any program which spawns a process") | Timeout while using vscode debugger with any program which spawns a process |
+ |  OP:462  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
+ |  OP:448  |[1283](/issues/1283 "Python Debugger stops in first few seconds without output") | Python Debugger stops in first few seconds without output |
+ |  OP:432  |[1291](/issues/1291 "Add debugger data breakpoints") | Add debugger data breakpoints |
+ |  OP:372  |[1328](/issues/1328 "View thread state in debugger without breakpoints") | View thread state in debugger without breakpoints |
+ |  OP:337  |[1355](/issues/1355 "Pytest debugger isn't compatible with vscode+playwright") | Pytest debugger isn't compatible with vscode+playwright |
+ |  OP:315  |[1377](/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
+ |  OP:310  |[1382](/issues/1382 "Python debugger frozen eternall with poetry env") | Python debugger frozen eternall with poetry env |
+ |  OP:309  |[1384](/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
+ |  OP:240  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
+ |  OP:240  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
+ |  OP:212  |[1488](/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
+ |  OP:177  |[1497](/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
+ |  OP:175  |[1499](/issues/1499 "Python debugger changes __file__") | Python debugger changes __file__ |
+ |  OP:169  |[1505](/issues/1505 "Python Debugger not showing NumPy array values after update - NOT resolved") | Python Debugger not showing NumPy array values after update - NOT resolved |
+ |  OP:169  |[1507](/issues/1507 "[sys.monitoring] API to hide threads and files from debugger") | [sys.monitoring] API to hide threads and files from debugger |
+ |  OP:113  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
+ |  OP:101  |[1561](/issues/1561 "&quot;import akshare as ak&quot; blocks the debugger after I upgrade to python 3.12.2") | "import akshare as ak" blocks the debugger after I upgrade to python 3.12.2 |
+ |  OP:71  |[1579](/issues/1579 "Debugger times out if shell startup is &quot;slow&quot;") | Debugger times out if shell startup is "slow" |
+ |  OP:48  |[1593](/issues/1593 "python debugger ignores breakpoints?") | python debugger ignores breakpoints? |
+ |  OP:47  |[1592](/issues/1592 "Microsoft Python Debugger not working in a virtual environment created with venv module on windows") | Microsoft Python Debugger not working in a virtual environment created with venv module on windows |
 
 
 
@@ -136,29 +95,60 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1698  |[165](/issues/165 "Entry points aren't being found while test debugging") | Entry points aren't being found while test debugging |
- |  OP:595  |[1134](/issues/1134 "async code debugging") | async code debugging |
- |  OP:558  |[1167](/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
- |  OP:482  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
- |  OP:475  |[1250](/issues/1250 "Debugging code with `pexpect.spawn` is taking 5s longer  ") | Debugging code with `pexpect.spawn` is taking 5s longer   |
- |  OP:435  |[1284](/issues/1284 "Debugging under python 3.11 will skip the breakpoint") | Debugging under python 3.11 will skip the breakpoint |
- |  OP:435  |[1285](/issues/1285 "Terminal cuts off long strings when debugging") | Terminal cuts off long strings when debugging |
- |  OP:409  |[1303](/issues/1303 "When using python debugging class properties are showed after private and protected members.") | When using python debugging class properties are showed after private and protected members. |
- |  OP:395  |[1311](/issues/1311 "Support debugging console scripts from launch.json") | Support debugging console scripts from launch.json |
- |  OP:386  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
- |  OP:349  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
- |  OP:289  |[1400](/issues/1400 "Debugging Panel Apps written as IPython Notebook in VSCode") | Debugging Panel Apps written as IPython Notebook in VSCode |
- |  OP:207  |[1485](/issues/1485 "Bug while debugging list comprehension (01)") | Bug while debugging list comprehension (01) |
- |  OP:207  |[1486](/issues/1486 "Bug while debugging list comprehension (02)") | Bug while debugging list comprehension (02) |
- |  OP:165  |[1503](/issues/1503 "Support debugging of indirect child processes.") | Support debugging of indirect child processes. |
- |  OP:147  |[1521](/issues/1521 "Running debugging shows errors, but the functionality is normal.") | Running debugging shows errors, but the functionality is normal. |
- |  OP:135  |[1525](/issues/1525 "Display order of properties of a tensor object in debugging") | Display order of properties of a tensor object in debugging |
- |  OP:126  |[1533](/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
- |  OP:120  |[1536](/issues/1536 "Subprocess debugging not working when --pid and --configure-subProcess are used") | Subprocess debugging not working when --pid and --configure-subProcess are used |
- |  OP:113  |[1542](/issues/1542 "Puzzling behavior of debugging with debugpy") | Puzzling behavior of debugging with debugpy |
- |  OP:85  |[1565](/issues/1565 "Skip nonrelevant `case`s in `match/case` during step by step debugging") | Skip nonrelevant `case`s in `match/case` during step by step debugging |
- |  OP:51  |[1589](/issues/1589 "[DTS] Unable to attach to embedded python in mixed mode debugging") | [DTS] Unable to attach to embedded python in mixed mode debugging |
- |  OP:11  |[1615](/issues/1615 "Got stuck when debugging a multi-process program in PyTorch") | Got stuck when debugging a multi-process program in PyTorch |
+ |  OP:1705  |[165](/issues/165 "Entry points aren't being found while test debugging") | Entry points aren't being found while test debugging |
+ |  OP:602  |[1134](/issues/1134 "async code debugging") | async code debugging |
+ |  OP:565  |[1167](/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
+ |  OP:489  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
+ |  OP:482  |[1250](/issues/1250 "Debugging code with `pexpect.spawn` is taking 5s longer  ") | Debugging code with `pexpect.spawn` is taking 5s longer   |
+ |  OP:442  |[1284](/issues/1284 "Debugging under python 3.11 will skip the breakpoint") | Debugging under python 3.11 will skip the breakpoint |
+ |  OP:442  |[1285](/issues/1285 "Terminal cuts off long strings when debugging") | Terminal cuts off long strings when debugging |
+ |  OP:416  |[1303](/issues/1303 "When using python debugging class properties are showed after private and protected members.") | When using python debugging class properties are showed after private and protected members. |
+ |  OP:402  |[1311](/issues/1311 "Support debugging console scripts from launch.json") | Support debugging console scripts from launch.json |
+ |  OP:393  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
+ |  OP:356  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
+ |  OP:296  |[1400](/issues/1400 "Debugging Panel Apps written as IPython Notebook in VSCode") | Debugging Panel Apps written as IPython Notebook in VSCode |
+ |  OP:214  |[1485](/issues/1485 "Bug while debugging list comprehension (01)") | Bug while debugging list comprehension (01) |
+ |  OP:214  |[1486](/issues/1486 "Bug while debugging list comprehension (02)") | Bug while debugging list comprehension (02) |
+ |  OP:172  |[1503](/issues/1503 "Support debugging of indirect child processes.") | Support debugging of indirect child processes. |
+ |  OP:154  |[1521](/issues/1521 "Running debugging shows errors, but the functionality is normal.") | Running debugging shows errors, but the functionality is normal. |
+ |  OP:142  |[1525](/issues/1525 "Display order of properties of a tensor object in debugging") | Display order of properties of a tensor object in debugging |
+ |  OP:133  |[1533](/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
+ |  OP:127  |[1536](/issues/1536 "Subprocess debugging not working when --pid and --configure-subProcess are used") | Subprocess debugging not working when --pid and --configure-subProcess are used |
+ |  OP:120  |[1542](/issues/1542 "Puzzling behavior of debugging with debugpy") | Puzzling behavior of debugging with debugpy |
+ |  OP:92  |[1565](/issues/1565 "Skip nonrelevant `case`s in `match/case` during step by step debugging") | Skip nonrelevant `case`s in `match/case` during step by step debugging |
+ |  OP:58  |[1589](/issues/1589 "[DTS] Unable to attach to embedded python in mixed mode debugging") | [DTS] Unable to attach to embedded python in mixed mode debugging |
+ |  OP:18  |[1615](/issues/1615 "Got stuck when debugging a multi-process program in PyTorch") | Got stuck when debugging a multi-process program in PyTorch |
+
+
+
+
+### Issues with term 'debug'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:534  |[1193](/issues/1193 "Debug crashes when running a Python2 subprocess") | Debug crashes when running a Python2 subprocess |
+ |  OP:495  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
+ |  OP:434  |[1288](/issues/1288 "Can't debug if project resides in folder whose name contains special characters") | Can't debug if project resides in folder whose name contains special characters |
+ |  OP:413  |[1304](/issues/1304 "Show a warning that we can't debug when &quot;--cov&quot; is in pytestArgs") | Show a warning that we can't debug when "--cov" is in pytestArgs |
+ |  OP:409  |[1308](/issues/1308 "remote debug port stucks upon `nc -z` but `nc` works") | remote debug port stucks upon `nc -z` but `nc` works |
+ |  OP:393  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
+ |  OP:392  |[1320](/issues/1320 "Adopt lifecycleManagedByParent for debug sessions") | Adopt lifecycleManagedByParent for debug sessions |
+ |  OP:365  |[1332](/issues/1332 "Debug variable displays verbose info") | Debug variable displays verbose info |
+ |  OP:350  |[1342](/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
+ |  OP:347  |[1346](/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
+ |  OP:272  |[1409](/issues/1409 "Debug console shows too much detail and too little data information ") | Debug console shows too much detail and too little data information  |
+ |  OP:246  |[1419](/issues/1419 "[meta] debug server based on sys.monitoring for Python 3.12+") | [meta] debug server based on sys.monitoring for Python 3.12+ |
+ |  OP:198  |[1491](/issues/1491 "debug python with docker-compose cannot hit breakpoint") | debug python with docker-compose cannot hit breakpoint |
+ |  OP:187  |[1493](/issues/1493 "tries to debug a wrong file, behaves weird if file is moved") | tries to debug a wrong file, behaves weird if file is moved |
+ |  OP:183  |[1494](/issues/1494 "Debug windows stuck on loading local variable(large img tensor) when debug pytorch code.") | Debug windows stuck on loading local variable(large img tensor) when debug pytorch code. |
+ |  OP:173  |[1501](/issues/1501 "Allow multiple debug connections in VS code using the same port") | Allow multiple debug connections in VS code using the same port |
+ |  OP:140  |[1527](/issues/1527 "Debug should skip arguments assignment for step into action by default") | Debug should skip arguments assignment for step into action by default |
+ |  OP:127  |[1539](/issues/1539 "Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1") | Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1 |
+ |  OP:89  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
+ |  OP:67  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
+ |  OP:35  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
+ |  OP:22  |[1609](/issues/1609 "Troubles when expanding self object during debug in constructor") | Troubles when expanding self object during debug in constructor |
+ |  OP:21  |[1612](/issues/1612 "Terminal debug experience in Python Debbuger Extension") | Terminal debug experience in Python Debbuger Extension |
 
 
 
@@ -167,19 +157,19 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:614  |[1114](/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
- |  OP:595  |[1134](/issues/1134 "async code debugging") | async code debugging |
- |  OP:475  |[1250](/issues/1250 "Debugging code with `pexpect.spawn` is taking 5s longer  ") | Debugging code with `pexpect.spawn` is taking 5s longer   |
- |  OP:386  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
- |  OP:343  |[1342](/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
- |  OP:280  |[1405](/issues/1405 "F10 to step through the code is slow") | F10 to step through the code is slow |
- |  OP:166  |[1501](/issues/1501 "Allow multiple debug connections in VS code using the same port") | Allow multiple debug connections in VS code using the same port |
- |  OP:162  |[1509](/issues/1509 "[sys.monitoring] Just my code") | [sys.monitoring] Just my code |
- |  OP:147  |[1522](/issues/1522 "warning on code property") | warning on code property |
- |  OP:120  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
- |  OP:82  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
- |  OP:57  |[1584](/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
- |  OP:28  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
+ |  OP:621  |[1114](/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
+ |  OP:602  |[1134](/issues/1134 "async code debugging") | async code debugging |
+ |  OP:482  |[1250](/issues/1250 "Debugging code with `pexpect.spawn` is taking 5s longer  ") | Debugging code with `pexpect.spawn` is taking 5s longer   |
+ |  OP:393  |[1315](/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
+ |  OP:350  |[1342](/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
+ |  OP:287  |[1405](/issues/1405 "F10 to step through the code is slow") | F10 to step through the code is slow |
+ |  OP:173  |[1501](/issues/1501 "Allow multiple debug connections in VS code using the same port") | Allow multiple debug connections in VS code using the same port |
+ |  OP:169  |[1509](/issues/1509 "[sys.monitoring] Just my code") | [sys.monitoring] Just my code |
+ |  OP:154  |[1522](/issues/1522 "warning on code property") | warning on code property |
+ |  OP:127  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
+ |  OP:89  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
+ |  OP:64  |[1584](/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
+ |  OP:35  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
 
 
 
@@ -188,18 +178,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1295  |[510](/issues/510 "Stop at breakpoints during evaluate request (recursive debugging)") | Stop at breakpoints during evaluate request (recursive debugging) |
- |  OP:677  |[1041](/issues/1041 "Breakpoints on secondary threads don't trigger when using PyQt5") | Breakpoints on secondary threads don't trigger when using PyQt5 |
- |  OP:425  |[1291](/issues/1291 "Add debugger data breakpoints") | Add debugger data breakpoints |
- |  OP:365  |[1328](/issues/1328 "View thread state in debugger without breakpoints") | View thread state in debugger without breakpoints |
- |  OP:238  |[1429](/issues/1429 "[sys.monitoring] Breakpoints") | [sys.monitoring] Breakpoints |
- |  OP:238  |[1434](/issues/1434 "[sys.monitoring] Snap breakpoints to valid locations") | [sys.monitoring] Snap breakpoints to valid locations |
- |  OP:237  |[1436](/issues/1436 "[sys.monitoring] Exception breakpoints") | [sys.monitoring] Exception breakpoints |
- |  OP:232  |[1466](/issues/1466 "[sys.monitoring] Django breakpoints") | [sys.monitoring] Django breakpoints |
- |  OP:232  |[1467](/issues/1467 "[sys.monitoring] Flask (Jinja) breakpoints") | [sys.monitoring] Flask (Jinja) breakpoints |
- |  OP:205  |[1489](/issues/1489 "Breakpoints not triggered in Flask app") | Breakpoints not triggered in Flask app |
- |  OP:159  |[1514](/issues/1514 "Breakpoints ignored if file extension is not `.py`") | Breakpoints ignored if file extension is not `.py` |
- |  OP:114  |[1541](/issues/1541 "Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3)") | Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3) |
+ |  OP:1302  |[510](/issues/510 "Stop at breakpoints during evaluate request (recursive debugging)") | Stop at breakpoints during evaluate request (recursive debugging) |
+ |  OP:684  |[1041](/issues/1041 "Breakpoints on secondary threads don't trigger when using PyQt5") | Breakpoints on secondary threads don't trigger when using PyQt5 |
+ |  OP:432  |[1291](/issues/1291 "Add debugger data breakpoints") | Add debugger data breakpoints |
+ |  OP:372  |[1328](/issues/1328 "View thread state in debugger without breakpoints") | View thread state in debugger without breakpoints |
+ |  OP:245  |[1429](/issues/1429 "[sys.monitoring] Breakpoints") | [sys.monitoring] Breakpoints |
+ |  OP:245  |[1434](/issues/1434 "[sys.monitoring] Snap breakpoints to valid locations") | [sys.monitoring] Snap breakpoints to valid locations |
+ |  OP:244  |[1436](/issues/1436 "[sys.monitoring] Exception breakpoints") | [sys.monitoring] Exception breakpoints |
+ |  OP:239  |[1466](/issues/1466 "[sys.monitoring] Django breakpoints") | [sys.monitoring] Django breakpoints |
+ |  OP:239  |[1467](/issues/1467 "[sys.monitoring] Flask (Jinja) breakpoints") | [sys.monitoring] Flask (Jinja) breakpoints |
+ |  OP:212  |[1489](/issues/1489 "Breakpoints not triggered in Flask app") | Breakpoints not triggered in Flask app |
+ |  OP:166  |[1514](/issues/1514 "Breakpoints ignored if file extension is not `.py`") | Breakpoints ignored if file extension is not `.py` |
+ |  OP:121  |[1541](/issues/1541 "Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3)") | Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3) |
 
 
 
@@ -208,18 +198,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:692  |[1101](/issues/1101 "Improve inline breakpoint experience to be similar to TypeScript's  ") | Improve inline breakpoint experience to be similar to TypeScript's   |
- |  OP:455  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
- |  OP:448  |[1277](/issues/1277 "Breakpoint not working in Odoo with multiple workers (gevent)") | Breakpoint not working in Odoo with multiple workers (gevent) |
- |  OP:435  |[1284](/issues/1284 "Debugging under python 3.11 will skip the breakpoint") | Debugging under python 3.11 will skip the breakpoint |
- |  OP:349  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
- |  OP:238  |[1433](/issues/1433 "[sys.monitoring] Breakpoint verification") | [sys.monitoring] Breakpoint verification |
- |  OP:205  |[1488](/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
- |  OP:191  |[1491](/issues/1491 "debug python with docker-compose cannot hit breakpoint") | debug python with docker-compose cannot hit breakpoint |
- |  OP:175  |[1495](/issues/1495 "Hitting a breakpoint in symlinked file opens a new instance of the file") | Hitting a breakpoint in symlinked file opens a new instance of the file |
- |  OP:149  |[1519](/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
- |  OP:120  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
- |  OP:28  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
+ |  OP:699  |[1101](/issues/1101 "Improve inline breakpoint experience to be similar to TypeScript's  ") | Improve inline breakpoint experience to be similar to TypeScript's   |
+ |  OP:462  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
+ |  OP:455  |[1277](/issues/1277 "Breakpoint not working in Odoo with multiple workers (gevent)") | Breakpoint not working in Odoo with multiple workers (gevent) |
+ |  OP:442  |[1284](/issues/1284 "Debugging under python 3.11 will skip the breakpoint") | Debugging under python 3.11 will skip the breakpoint |
+ |  OP:356  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
+ |  OP:245  |[1433](/issues/1433 "[sys.monitoring] Breakpoint verification") | [sys.monitoring] Breakpoint verification |
+ |  OP:212  |[1488](/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
+ |  OP:198  |[1491](/issues/1491 "debug python with docker-compose cannot hit breakpoint") | debug python with docker-compose cannot hit breakpoint |
+ |  OP:182  |[1495](/issues/1495 "Hitting a breakpoint in symlinked file opens a new instance of the file") | Hitting a breakpoint in symlinked file opens a new instance of the file |
+ |  OP:156  |[1519](/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
+ |  OP:127  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
+ |  OP:35  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
 
 
 
@@ -228,18 +218,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:420  |[1296](/issues/1296 "Debugpy unable to start Flask server") | Debugpy unable to start Flask server |
- |  OP:357  |[1333](/issues/1333 "Release debugpy source as tar.gz instead of zip") | Release debugpy source as tar.gz instead of zip |
- |  OP:348  |[1338](/issues/1338 "Debugpy Server Disconnects Unexpectedly when Inspecting Variable") | Debugpy Server Disconnects Unexpectedly when Inspecting Variable |
- |  OP:293  |[1393](/issues/1393 "Misnamed wheel file name for Debugpy 1.8.0") | Misnamed wheel file name for Debugpy 1.8.0 |
- |  OP:292  |[1396](/issues/1396 "Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1)") | Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1) |
- |  OP:292  |[1397](/issues/1397 "Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes')") | Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes') |
- |  OP:262  |[1410](/issues/1410 "How to make debugpy respect custom eval frame functions?") | How to make debugpy respect custom eval frame functions? |
- |  OP:233  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
- |  OP:130  |[1529](/issues/1529 "api to retrieve debugpy endpoint and access token?") | api to retrieve debugpy endpoint and access token? |
- |  OP:113  |[1542](/issues/1542 "Puzzling behavior of debugging with debugpy") | Puzzling behavior of debugging with debugpy |
- |  OP:37  |[1594](/issues/1594 "Verify debugpy test plans") | Verify debugpy test plans |
- |  OP:19  |[1607](/issues/1607 "Enable debugpy to work with domain sockets") | Enable debugpy to work with domain sockets |
+ |  OP:427  |[1296](/issues/1296 "Debugpy unable to start Flask server") | Debugpy unable to start Flask server |
+ |  OP:364  |[1333](/issues/1333 "Release debugpy source as tar.gz instead of zip") | Release debugpy source as tar.gz instead of zip |
+ |  OP:355  |[1338](/issues/1338 "Debugpy Server Disconnects Unexpectedly when Inspecting Variable") | Debugpy Server Disconnects Unexpectedly when Inspecting Variable |
+ |  OP:300  |[1393](/issues/1393 "Misnamed wheel file name for Debugpy 1.8.0") | Misnamed wheel file name for Debugpy 1.8.0 |
+ |  OP:299  |[1396](/issues/1396 "Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1)") | Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1) |
+ |  OP:299  |[1397](/issues/1397 "Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes')") | Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes') |
+ |  OP:269  |[1410](/issues/1410 "How to make debugpy respect custom eval frame functions?") | How to make debugpy respect custom eval frame functions? |
+ |  OP:240  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
+ |  OP:137  |[1529](/issues/1529 "api to retrieve debugpy endpoint and access token?") | api to retrieve debugpy endpoint and access token? |
+ |  OP:120  |[1542](/issues/1542 "Puzzling behavior of debugging with debugpy") | Puzzling behavior of debugging with debugpy |
+ |  OP:44  |[1594](/issues/1594 "Verify debugpy test plans") | Verify debugpy test plans |
+ |  OP:26  |[1607](/issues/1607 "Enable debugpy to work with domain sockets") | Enable debugpy to work with domain sockets |
 
 
 
@@ -248,15 +238,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1490  |[286](/issues/286 "Attach to local process assumes i386 architecture? ") | Attach to local process assumes i386 architecture?  |
- |  OP:259  |[1413](/issues/1413 "Attach function doesn't work with ubuntu 22.04") | Attach function doesn't work with ubuntu 22.04 |
- |  OP:233  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
- |  OP:233  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
- |  OP:220  |[1476](/issues/1476 "Python3.12 Unable to attach to PID (Jupyter python process)") | Python3.12 Unable to attach to PID (Jupyter python process) |
- |  OP:212  |[1480](/issues/1480 "Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode ") | Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode  |
- |  OP:82  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
- |  OP:57  |[1584](/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
- |  OP:51  |[1589](/issues/1589 "[DTS] Unable to attach to embedded python in mixed mode debugging") | [DTS] Unable to attach to embedded python in mixed mode debugging |
+ |  OP:1497  |[286](/issues/286 "Attach to local process assumes i386 architecture? ") | Attach to local process assumes i386 architecture?  |
+ |  OP:266  |[1413](/issues/1413 "Attach function doesn't work with ubuntu 22.04") | Attach function doesn't work with ubuntu 22.04 |
+ |  OP:240  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
+ |  OP:240  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
+ |  OP:227  |[1476](/issues/1476 "Python3.12 Unable to attach to PID (Jupyter python process)") | Python3.12 Unable to attach to PID (Jupyter python process) |
+ |  OP:219  |[1480](/issues/1480 "Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode ") | Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode  |
+ |  OP:89  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
+ |  OP:64  |[1584](/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
+ |  OP:58  |[1589](/issues/1589 "[DTS] Unable to attach to embedded python in mixed mode debugging") | [DTS] Unable to attach to embedded python in mixed mode debugging |
 
 
 
@@ -265,14 +255,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1490  |[286](/issues/286 "Attach to local process assumes i386 architecture? ") | Attach to local process assumes i386 architecture?  |
- |  OP:1044  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
- |  OP:455  |[1271](/issues/1271 "Timeout while using vscode debugger with any program which spawns a process") | Timeout while using vscode debugger with any program which spawns a process |
- |  OP:308  |[1377](/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
- |  OP:233  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
- |  OP:233  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
- |  OP:120  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
- |  OP:82  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
+ |  OP:1497  |[286](/issues/286 "Attach to local process assumes i386 architecture? ") | Attach to local process assumes i386 architecture?  |
+ |  OP:1051  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
+ |  OP:462  |[1271](/issues/1271 "Timeout while using vscode debugger with any program which spawns a process") | Timeout while using vscode debugger with any program which spawns a process |
+ |  OP:315  |[1377](/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
+ |  OP:240  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
+ |  OP:240  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
+ |  OP:127  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
+ |  OP:89  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
 
 
 
@@ -281,13 +271,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1475  |[317](/issues/317 "Make variable order for dict keys configurable") | Make variable order for dict keys configurable |
- |  OP:539  |[1179](/issues/1179 "Support DAP variable paging") | Support DAP variable paging |
- |  OP:358  |[1332](/issues/1332 "Debug variable displays verbose info") | Debug variable displays verbose info |
- |  OP:348  |[1338](/issues/1338 "Debugpy Server Disconnects Unexpectedly when Inspecting Variable") | Debugpy Server Disconnects Unexpectedly when Inspecting Variable |
- |  OP:237  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
- |  OP:237  |[1440](/issues/1440 "[sys.monitoring] Variable values") | [sys.monitoring] Variable values |
- |  OP:106  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
+ |  OP:1482  |[317](/issues/317 "Make variable order for dict keys configurable") | Make variable order for dict keys configurable |
+ |  OP:546  |[1179](/issues/1179 "Support DAP variable paging") | Support DAP variable paging |
+ |  OP:365  |[1332](/issues/1332 "Debug variable displays verbose info") | Debug variable displays verbose info |
+ |  OP:355  |[1338](/issues/1338 "Debugpy Server Disconnects Unexpectedly when Inspecting Variable") | Debugpy Server Disconnects Unexpectedly when Inspecting Variable |
+ |  OP:244  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
+ |  OP:244  |[1440](/issues/1440 "[sys.monitoring] Variable values") | [sys.monitoring] Variable values |
+ |  OP:113  |[1548](/issues/1548 "[sys.monitoring] Local variable cleanup is delayed by debugger") | [sys.monitoring] Local variable cleanup is delayed by debugger |
 
 
 
@@ -296,27 +286,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:237  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
- |  OP:237  |[1456](/issues/1456 "[sys.monitoring] Children - object attributes") | [sys.monitoring] Children - object attributes |
- |  OP:237  |[1457](/issues/1457 "[sys.monitoring] Children - sequence & set items") | [sys.monitoring] Children - sequence & set items |
- |  OP:237  |[1458](/issues/1458 "[sys.monitoring] Children - mapping items") | [sys.monitoring] Children - mapping items |
- |  OP:237  |[1459](/issues/1459 "[sys.monitoring] Children - numpy collections") | [sys.monitoring] Children - numpy collections |
- |  OP:237  |[1460](/issues/1460 "[sys.monitoring] Children - pandas collections") | [sys.monitoring] Children - pandas collections |
- |  OP:237  |[1461](/issues/1461 "[sys.monitoring] Children - tensorflow collections") | [sys.monitoring] Children - tensorflow collections |
-
-
-
-
-### Issues with term 'console'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:488  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
- |  OP:395  |[1311](/issues/1311 "Support debugging console scripts from launch.json") | Support debugging console scripts from launch.json |
- |  OP:340  |[1346](/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
- |  OP:265  |[1409](/issues/1409 "Debug console shows too much detail and too little data information ") | Debug console shows too much detail and too little data information  |
- |  OP:120  |[1539](/issues/1539 "Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1") | Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1 |
- |  OP:20  |[1606](/issues/1606 "Can't create plot from the debug console") | Can't create plot from the debug console |
+ |  OP:244  |[1439](/issues/1439 "[sys.monitoring] Variable children") | [sys.monitoring] Variable children |
+ |  OP:244  |[1456](/issues/1456 "[sys.monitoring] Children - object attributes") | [sys.monitoring] Children - object attributes |
+ |  OP:244  |[1457](/issues/1457 "[sys.monitoring] Children - sequence & set items") | [sys.monitoring] Children - sequence & set items |
+ |  OP:244  |[1458](/issues/1458 "[sys.monitoring] Children - mapping items") | [sys.monitoring] Children - mapping items |
+ |  OP:244  |[1459](/issues/1459 "[sys.monitoring] Children - numpy collections") | [sys.monitoring] Children - numpy collections |
+ |  OP:244  |[1460](/issues/1460 "[sys.monitoring] Children - pandas collections") | [sys.monitoring] Children - pandas collections |
+ |  OP:244  |[1461](/issues/1461 "[sys.monitoring] Children - tensorflow collections") | [sys.monitoring] Children - tensorflow collections |
 
 
 
@@ -325,11 +301,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1610  |[43](/issues/43 "Subprocesses are stuck if they have no known parent") | Subprocesses are stuck if they have no known parent |
- |  OP:394  |[1310](/issues/1310 "Variables pane stuck loading") | Variables pane stuck loading |
- |  OP:349  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
- |  OP:176  |[1494](/issues/1494 "Debug windows stuck on loading local variable(large img tensor) when debug pytorch code.") | Debug windows stuck on loading local variable(large img tensor) when debug pytorch code. |
- |  OP:11  |[1615](/issues/1615 "Got stuck when debugging a multi-process program in PyTorch") | Got stuck when debugging a multi-process program in PyTorch |
+ |  OP:1617  |[43](/issues/43 "Subprocesses are stuck if they have no known parent") | Subprocesses are stuck if they have no known parent |
+ |  OP:401  |[1310](/issues/1310 "Variables pane stuck loading") | Variables pane stuck loading |
+ |  OP:356  |[1336](/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
+ |  OP:183  |[1494](/issues/1494 "Debug windows stuck on loading local variable(large img tensor) when debug pytorch code.") | Debug windows stuck on loading local variable(large img tensor) when debug pytorch code. |
+ |  OP:18  |[1615](/issues/1615 "Got stuck when debugging a multi-process program in PyTorch") | Got stuck when debugging a multi-process program in PyTorch |
 
 
 
@@ -338,11 +314,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1505  |[268](/issues/268 "Add documentation for clients that we expect python to be able to run directory") | Add documentation for clients that we expect python to be able to run directory |
- |  OP:1282  |[519](/issues/519 "Tests run on all platforms with non-latin character paths or pseudo loc") | Tests run on all platforms with non-latin character paths or pseudo loc |
- |  OP:302  |[1384](/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
- |  OP:292  |[1396](/issues/1396 "Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1)") | Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1) |
- |  OP:60  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
+ |  OP:1512  |[268](/issues/268 "Add documentation for clients that we expect python to be able to run directory") | Add documentation for clients that we expect python to be able to run directory |
+ |  OP:1289  |[519](/issues/519 "Tests run on all platforms with non-latin character paths or pseudo loc") | Tests run on all platforms with non-latin character paths or pseudo loc |
+ |  OP:309  |[1384](/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
+ |  OP:299  |[1396](/issues/1396 "Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1)") | Cannot run Debugpy - ms-python.debugpy CANNOT USE these API proposals (Macos M1) |
+ |  OP:67  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
 
 
 
@@ -351,11 +327,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1448  |[342](/issues/342 "test_nodebug broken if not running under tox") | test_nodebug broken if not running under tox |
- |  OP:527  |[1193](/issues/1193 "Debug crashes when running a Python2 subprocess") | Debug crashes when running a Python2 subprocess |
- |  OP:233  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
- |  OP:149  |[1519](/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
- |  OP:147  |[1521](/issues/1521 "Running debugging shows errors, but the functionality is normal.") | Running debugging shows errors, but the functionality is normal. |
+ |  OP:1455  |[342](/issues/342 "test_nodebug broken if not running under tox") | test_nodebug broken if not running under tox |
+ |  OP:534  |[1193](/issues/1193 "Debug crashes when running a Python2 subprocess") | Debug crashes when running a Python2 subprocess |
+ |  OP:240  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
+ |  OP:156  |[1519](/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
+ |  OP:154  |[1521](/issues/1521 "Running debugging shows errors, but the functionality is normal.") | Running debugging shows errors, but the functionality is normal. |
 
 
 
@@ -364,11 +340,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1345  |[460](/issues/460 "Repeated debugpy.listen() calls should be an error") | Repeated debugpy.listen() calls should be an error |
- |  OP:126  |[1533](/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
- |  OP:60  |[1583](/issues/1583 "IPython Qt incorrect string formatting in raised error") | IPython Qt incorrect string formatting in raised error |
- |  OP:51  |[1587](/issues/1587 "Error : TypeError: '>' not supported between instances of 'int' and 'NoneType'") | Error : TypeError: '>' not supported between instances of 'int' and 'NoneType' |
- |  OP:20  |[1604](/issues/1604 "Fatal Python Error on debugpy.adapter shutdown") | Fatal Python Error on debugpy.adapter shutdown |
+ |  OP:1352  |[460](/issues/460 "Repeated debugpy.listen() calls should be an error") | Repeated debugpy.listen() calls should be an error |
+ |  OP:133  |[1533](/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
+ |  OP:67  |[1583](/issues/1583 "IPython Qt incorrect string formatting in raised error") | IPython Qt incorrect string formatting in raised error |
+ |  OP:58  |[1587](/issues/1587 "Error : TypeError: '>' not supported between instances of 'int' and 'NoneType'") | Error : TypeError: '>' not supported between instances of 'int' and 'NoneType' |
+ |  OP:27  |[1604](/issues/1604 "Fatal Python Error on debugpy.adapter shutdown") | Fatal Python Error on debugpy.adapter shutdown |
 
 
 
@@ -377,11 +353,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:1044  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
- |  OP:482  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
- |  OP:279  |[1406](/issues/1406 "IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr") | IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr |
- |  OP:103  |[1553](/issues/1553 "possible to effectively get something like &quot;jupyter.debugJustMyCode&quot;: 'sometimes true'?") | possible to effectively get something like "jupyter.debugJustMyCode": 'sometimes true'? |
- |  OP:82  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
+ |  OP:1051  |[712](/issues/712 "notification like &quot;Failed launch debugger for child process xxxx&quot;.") | notification like "Failed launch debugger for child process xxxx". |
+ |  OP:489  |[1245](/issues/1245 "Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm") | Don't collapse nested lists/tuples into ... in debugger | make debugging more like PyCharm |
+ |  OP:286  |[1406](/issues/1406 "IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr") | IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr |
+ |  OP:110  |[1553](/issues/1553 "possible to effectively get something like &quot;jupyter.debugJustMyCode&quot;: 'sometimes true'?") | possible to effectively get something like "jupyter.debugJustMyCode": 'sometimes true'? |
+ |  OP:89  |[1568](/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
 
 
 
@@ -390,11 +366,24 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:558  |[1167](/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
- |  OP:488  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
- |  OP:394  |[1310](/issues/1310 "Variables pane stuck loading") | Variables pane stuck loading |
- |  OP:170  |[1497](/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
- |  OP:61  |[1581](/issues/1581 "Configure variables view presentation of `len()`") | Configure variables view presentation of `len()` |
+ |  OP:565  |[1167](/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
+ |  OP:495  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
+ |  OP:401  |[1310](/issues/1310 "Variables pane stuck loading") | Variables pane stuck loading |
+ |  OP:177  |[1497](/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
+ |  OP:68  |[1581](/issues/1581 "Configure variables view presentation of `len()`") | Configure variables view presentation of `len()` |
+
+
+
+
+### Issues with term 'console'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:495  |[1236](/issues/1236 "Local and global variables are not available in list comprehensions in the debug console") | Local and global variables are not available in list comprehensions in the debug console |
+ |  OP:402  |[1311](/issues/1311 "Support debugging console scripts from launch.json") | Support debugging console scripts from launch.json |
+ |  OP:347  |[1346](/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
+ |  OP:272  |[1409](/issues/1409 "Debug console shows too much detail and too little data information ") | Debug console shows too much detail and too little data information  |
+ |  OP:127  |[1539](/issues/1539 "Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1") | Python Debug console reports multiple wxPyDeprecationWarning when using wxPython 4.2.1 |
 
 
 
@@ -403,11 +392,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:455  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
- |  OP:402  |[1308](/issues/1308 "remote debug port stucks upon `nc -z` but `nc` works") | remote debug port stucks upon `nc -z` but `nc` works |
- |  OP:233  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
- |  OP:114  |[1541](/issues/1541 "Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3)") | Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3) |
- |  OP:60  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
+ |  OP:462  |[1272](/issues/1272 "When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint") | When using debugger in remote environment it hangs and never successfully breaks when reaching a breakpoint |
+ |  OP:409  |[1308](/issues/1308 "remote debug port stucks upon `nc -z` but `nc` works") | remote debug port stucks upon `nc -z` but `nc` works |
+ |  OP:240  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
+ |  OP:121  |[1541](/issues/1541 "Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3)") | Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3) |
+ |  OP:67  |[1582](/issues/1582 "Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678") | Run remote Debug success,But restart Debug errorInfo-show: connect ECONNREFUSED ip-address:5678 |
 
 
 
@@ -416,11 +405,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:293  |[1393](/issues/1393 "Misnamed wheel file name for Debugpy 1.8.0") | Misnamed wheel file name for Debugpy 1.8.0 |
- |  OP:180  |[1493](/issues/1493 "tries to debug a wrong file, behaves weird if file is moved") | tries to debug a wrong file, behaves weird if file is moved |
- |  OP:175  |[1495](/issues/1495 "Hitting a breakpoint in symlinked file opens a new instance of the file") | Hitting a breakpoint in symlinked file opens a new instance of the file |
- |  OP:159  |[1514](/issues/1514 "Breakpoints ignored if file extension is not `.py`") | Breakpoints ignored if file extension is not `.py` |
- |  OP:28  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
+ |  OP:300  |[1393](/issues/1393 "Misnamed wheel file name for Debugpy 1.8.0") | Misnamed wheel file name for Debugpy 1.8.0 |
+ |  OP:187  |[1493](/issues/1493 "tries to debug a wrong file, behaves weird if file is moved") | tries to debug a wrong file, behaves weird if file is moved |
+ |  OP:182  |[1495](/issues/1495 "Hitting a breakpoint in symlinked file opens a new instance of the file") | Hitting a breakpoint in symlinked file opens a new instance of the file |
+ |  OP:166  |[1514](/issues/1514 "Breakpoints ignored if file extension is not `.py`") | Breakpoints ignored if file extension is not `.py` |
+ |  OP:35  |[1599](/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
 
 
 
@@ -429,11 +418,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:238  |[1421](/issues/1421 "[sys.monitoring] Stack tracing") | [sys.monitoring] Stack tracing |
- |  OP:232  |[1468](/issues/1468 "[sys.monitoring] Django template stack frames") | [sys.monitoring] Django template stack frames |
- |  OP:232  |[1469](/issues/1469 "[sys.monitoring] Jinja template stack frames") | [sys.monitoring] Jinja template stack frames |
- |  OP:225  |[1474](/issues/1474 "Can't see libraries in stack trace even with &quot;justMyCode&quot;: false") | Can't see libraries in stack trace even with "justMyCode": false |
- |  OP:73  |[1572](/issues/1572 "The dead thread  won't disappear in call stack monitor") | The dead thread  won't disappear in call stack monitor |
+ |  OP:245  |[1421](/issues/1421 "[sys.monitoring] Stack tracing") | [sys.monitoring] Stack tracing |
+ |  OP:239  |[1468](/issues/1468 "[sys.monitoring] Django template stack frames") | [sys.monitoring] Django template stack frames |
+ |  OP:239  |[1469](/issues/1469 "[sys.monitoring] Jinja template stack frames") | [sys.monitoring] Jinja template stack frames |
+ |  OP:232  |[1474](/issues/1474 "Can't see libraries in stack trace even with &quot;justMyCode&quot;: false") | Can't see libraries in stack trace even with "justMyCode": false |
+ |  OP:80  |[1572](/issues/1572 "The dead thread  won't disappear in call stack monitor") | The dead thread  won't disappear in call stack monitor |
 
 
 
@@ -442,11 +431,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:237  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
- |  OP:237  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
- |  OP:237  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
- |  OP:237  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
- |  OP:237  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
+ |  OP:244  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
+ |  OP:244  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
+ |  OP:244  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
+ |  OP:244  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
+ |  OP:244  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
 
 
 
@@ -455,8 +444,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:237  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
- |  OP:237  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
- |  OP:237  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
- |  OP:237  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
- |  OP:237  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
+ |  OP:244  |[1447](/issues/1447 "[sys.monitoring] safe repr - strings") | [sys.monitoring] safe repr - strings |
+ |  OP:244  |[1448](/issues/1448 "[sys.monitoring] safe repr - collections") | [sys.monitoring] safe repr - collections |
+ |  OP:244  |[1449](/issues/1449 "[sys.monitoring] safe repr - numpy") | [sys.monitoring] safe repr - numpy |
+ |  OP:244  |[1450](/issues/1450 "[sys.monitoring] safe repr - pandas") | [sys.monitoring] safe repr - pandas |
+ |  OP:244  |[1451](/issues/1451 "[sys.monitoring] safe repr - tensorflow") | [sys.monitoring] safe repr - tensorflow |
