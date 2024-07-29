@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-07-22 using: stale=30, all=False
+Generated on 2024-07-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,11 +11,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:5, OP:0  |[5464](https://github.com/microsoft/pylance-release/issues/5464 "Autocomplete for function definition using a TypeAlias is broken ")  |Autocomplete for function definition using a TypeAlias is broken  |
+ | \* TM:30  |[6066](https://github.com/microsoft/pylance-release/issues/6066 "Wrong argument provided during auto completion if inside a collection")  |Wrong argument provided during auto completion if inside a collection |
 
 ---
 
@@ -26,14 +26,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6164](https://github.com/microsoft/pylance-release/issues/6164 "Marks local imports as &quot;missing&quot;")  |Marks local imports as "missing" |
- | \* OP:0  |[6166](https://github.com/microsoft/pylance-release/issues/6166 "Pylance fails with TypeError: Cannot read properties of undefined (reading 'nameWithScope')")  |Pylance fails with TypeError: Cannot read properties of undefined (reading 'nameWithScope') |
+ | \* OP:1  |[6201](https://github.com/microsoft/pylance-release/issues/6201 "Allow toggling fstring using keyboard shortcut (vscode command)")  |Allow toggling fstring using keyboard shortcut (vscode command) |
+ | \* OP:0  |[6203](https://github.com/microsoft/pylance-release/issues/6203 "Pylance + VS Code - Inline Quick Suggestions swapping with each keypress")  |Pylance + VS Code - Inline Quick Suggestions swapping with each keypress |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[6154](https://github.com/microsoft/pylance-release/issues/6154 "Pylance has crashed. Would you like to try using a Node.js executable to run the language server?")  |Pylance has crashed. Would you like to try using a Node.js executable to run the language server? |
+ | \* P:0,  |[5034](https://github.com/microsoft/pylance-release/issues/5034 "Jupyter notebook raises error: &quot;NO notebook document&quot; in VSCode (WSL v2)")  |Jupyter notebook raises error: "NO notebook document" in VSCode (WSL v2) |
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[6071](https://github.com/microsoft/pylance-release/issues/6071 "Quickfix add import proposes import that are not available for my python version (ignores sys.version_info)")  |Quickfix add import proposes import that are not available for my python version (ignores sys.version_info) |
 
 
 
@@ -41,38 +47,38 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:857  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
- |  OP:598  |[3702](/issues/3702 "Offer to install type stub packages for users") | Offer to install type stub packages for users |
- |  OP:575  |[3785](/issues/3785 "auto-imports: `Self` type is imported from `typing` module, not `typing_extensions` in Python 3.9") | auto-imports: `Self` type is imported from `typing` module, not `typing_extensions` in Python 3.9 |
- |  OP:430  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
- |  OP:424  |[4412](/issues/4412 "Add autocomplete for type parameters in 3.12") | Add autocomplete for type parameters in 3.12 |
- |  OP:333  |[4749](/issues/4749 "Python keywords, type names, etc should not be localized") | Python keywords, type names, etc should not be localized |
- |  OP:327  |[4772](/issues/4772 "Type is not inferred properly in PyQt5 (Type is Unknown)") | Type is not inferred properly in PyQt5 (Type is Unknown) |
- |  OP:318  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
- |  OP:278  |[4970](/issues/4970 "Feature: &quot;Add Explicit Type Annotation&quot; code-action") | Feature: "Add Explicit Type Annotation" code-action |
- |  OP:270  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
- |  OP:221  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
- |  OP:214  |[5299](/issues/5299 "Descriptor type shown in autocomplete popover is incorrect") | Descriptor type shown in autocomplete popover is incorrect |
- |  OP:196  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
- |  OP:185  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
- |  OP:178  |[5403](/issues/5403 "Show Type Hierarchy doesn't show subtypes") | Show Type Hierarchy doesn't show subtypes |
- |  OP:149  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
- |  OP:144  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
- |  OP:144  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
- |  OP:135  |[5607](/issues/5607 "Documentation on dataclass constructor argument typed as optional with default value does not show the full type") | Documentation on dataclass constructor argument typed as optional with default value does not show the full type |
- |  OP:134  |[5612](/issues/5612 "Semantic Token Type / Tooltip Info changes depending on order of Assignments") | Semantic Token Type / Tooltip Info changes depending on order of Assignments |
- |  OP:132  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
- |  OP:124  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
- |  OP:122  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
- |  OP:115  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
- |  OP:105  |[5737](/issues/5737 "`__init__` params not displayed when hovering over type name") | `__init__` params not displayed when hovering over type name |
- |  OP:100  |[5758](/issues/5758 "Surface reportAttributeAccessIssue even when type checking mode set to off ") | Surface reportAttributeAccessIssue even when type checking mode set to off  |
- |  OP:86  |[5810](/issues/5810 "Semantic colorization for quoted type annotations is inconsistent") | Semantic colorization for quoted type annotations is inconsistent |
- |  OP:83  |[5827](/issues/5827 "Bundled type hints for lxml are inconsistent with source, lxml-stubs") | Bundled type hints for lxml are inconsistent with source, lxml-stubs |
- |  OP:75  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
- |  OP:66  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
- |  OP:33  |[6029](/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
- |  OP:1  |[6162](/issues/6162 "Internal Error while Type Checking") | Internal Error while Type Checking |
+ |  OP:864  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
+ |  OP:605  |[3702](/issues/3702 "Offer to install type stub packages for users") | Offer to install type stub packages for users |
+ |  OP:582  |[3785](/issues/3785 "auto-imports: `Self` type is imported from `typing` module, not `typing_extensions` in Python 3.9") | auto-imports: `Self` type is imported from `typing` module, not `typing_extensions` in Python 3.9 |
+ |  OP:437  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
+ |  OP:431  |[4412](/issues/4412 "Add autocomplete for type parameters in 3.12") | Add autocomplete for type parameters in 3.12 |
+ |  OP:340  |[4749](/issues/4749 "Python keywords, type names, etc should not be localized") | Python keywords, type names, etc should not be localized |
+ |  OP:334  |[4772](/issues/4772 "Type is not inferred properly in PyQt5 (Type is Unknown)") | Type is not inferred properly in PyQt5 (Type is Unknown) |
+ |  OP:325  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
+ |  OP:285  |[4970](/issues/4970 "Feature: &quot;Add Explicit Type Annotation&quot; code-action") | Feature: "Add Explicit Type Annotation" code-action |
+ |  OP:277  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
+ |  OP:228  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
+ |  OP:221  |[5299](/issues/5299 "Descriptor type shown in autocomplete popover is incorrect") | Descriptor type shown in autocomplete popover is incorrect |
+ |  OP:203  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
+ |  OP:192  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
+ |  OP:185  |[5403](/issues/5403 "Show Type Hierarchy doesn't show subtypes") | Show Type Hierarchy doesn't show subtypes |
+ |  OP:156  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
+ |  OP:151  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
+ |  OP:151  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
+ |  OP:142  |[5607](/issues/5607 "Documentation on dataclass constructor argument typed as optional with default value does not show the full type") | Documentation on dataclass constructor argument typed as optional with default value does not show the full type |
+ |  OP:141  |[5612](/issues/5612 "Semantic Token Type / Tooltip Info changes depending on order of Assignments") | Semantic Token Type / Tooltip Info changes depending on order of Assignments |
+ |  OP:139  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
+ |  OP:131  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
+ |  OP:129  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
+ |  OP:122  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
+ |  OP:112  |[5737](/issues/5737 "`__init__` params not displayed when hovering over type name") | `__init__` params not displayed when hovering over type name |
+ |  OP:107  |[5758](/issues/5758 "Surface reportAttributeAccessIssue even when type checking mode set to off ") | Surface reportAttributeAccessIssue even when type checking mode set to off  |
+ |  OP:93  |[5810](/issues/5810 "Semantic colorization for quoted type annotations is inconsistent") | Semantic colorization for quoted type annotations is inconsistent |
+ |  OP:90  |[5827](/issues/5827 "Bundled type hints for lxml are inconsistent with source, lxml-stubs") | Bundled type hints for lxml are inconsistent with source, lxml-stubs |
+ |  OP:82  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
+ |  OP:73  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
+ |  OP:40  |[6029](/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
+ |  OP:8  |[6162](/issues/6162 "Internal Error while Type Checking") | Internal Error while Type Checking |
 
 
 
@@ -81,27 +87,27 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:578  |[3808](/issues/3808 "Problem with highlight code in diff comparison mode for python ") | Problem with highlight code in diff comparison mode for python  |
- |  OP:508  |[4036](/issues/4036 "Code folding on `with` blocks breaks on multi-line `with` statement.") | Code folding on `with` blocks breaks on multi-line `with` statement. |
- |  OP:269  |[5113](/issues/5113 "Code completion doesn't recognise a new venv") | Code completion doesn't recognise a new venv |
- |  OP:268  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
- |  OP:249  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
- |  OP:247  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
- |  OP:236  |[5161](/issues/5161 "undo for code action `add extraPaths` doesn't work.") | undo for code action `add extraPaths` doesn't work. |
- |  OP:236  |[5162](/issues/5162 "Undo for code action `Rename shadowing file` doesn't work") | Undo for code action `Rename shadowing file` doesn't work |
- |  OP:185  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
- |  OP:173  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
- |  OP:166  |[5447](/issues/5447 "VS Code Python Issue: &quot;Default Python Functions Not Defined&quot; Error") | VS Code Python Issue: "Default Python Functions Not Defined" Error |
- |  OP:143  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
- |  OP:142  |[5561](/issues/5561 "&quot;Extract method&quot; refactor produces incorrect code") | "Extract method" refactor produces incorrect code |
- |  OP:132  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
- |  OP:124  |[5658](/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
- |  OP:124  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
- |  OP:116  |[5699](/issues/5699 "Auto format of strings doesn't work until you reload VS code") | Auto format of strings doesn't work until you reload VS code |
- |  OP:67  |[5885](/issues/5885 "Copying and pasting code from function body messes up with indentation ") | Copying and pasting code from function body messes up with indentation  |
- |  OP:38  |[6008](/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks") | Explore Python IntelliSense in Copilot chat code blocks |
- |  OP:12  |[6114](/issues/6114 "python code are not rendered in correct colors in &quot;Visual Studio Dark&quot; and &quot;Default Dark Modern&quot; theme") | python code are not rendered in correct colors in "Visual Studio Dark" and "Default Dark Modern" theme |
- |  OP:11  |[6115](/issues/6115 "Notification of breaking api change with v1.92 release of VS Code") | Notification of breaking api change with v1.92 release of VS Code |
+ |  OP:585  |[3808](/issues/3808 "Problem with highlight code in diff comparison mode for python ") | Problem with highlight code in diff comparison mode for python  |
+ |  OP:515  |[4036](/issues/4036 "Code folding on `with` blocks breaks on multi-line `with` statement.") | Code folding on `with` blocks breaks on multi-line `with` statement. |
+ |  OP:276  |[5113](/issues/5113 "Code completion doesn't recognise a new venv") | Code completion doesn't recognise a new venv |
+ |  OP:275  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
+ |  OP:256  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
+ |  OP:254  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
+ |  OP:243  |[5161](/issues/5161 "undo for code action `add extraPaths` doesn't work.") | undo for code action `add extraPaths` doesn't work. |
+ |  OP:243  |[5162](/issues/5162 "Undo for code action `Rename shadowing file` doesn't work") | Undo for code action `Rename shadowing file` doesn't work |
+ |  OP:192  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
+ |  OP:180  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
+ |  OP:150  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
+ |  OP:149  |[5561](/issues/5561 "&quot;Extract method&quot; refactor produces incorrect code") | "Extract method" refactor produces incorrect code |
+ |  OP:139  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
+ |  OP:131  |[5658](/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
+ |  OP:131  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
+ |  OP:123  |[5699](/issues/5699 "Auto format of strings doesn't work until you reload VS code") | Auto format of strings doesn't work until you reload VS code |
+ |  OP:74  |[5885](/issues/5885 "Copying and pasting code from function body messes up with indentation ") | Copying and pasting code from function body messes up with indentation  |
+ |  OP:45  |[6008](/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks") | Explore Python IntelliSense in Copilot chat code blocks |
+ |  OP:19  |[6114](/issues/6114 "python code are not rendered in correct colors in &quot;Visual Studio Dark&quot; and &quot;Default Dark Modern&quot; theme") | python code are not rendered in correct colors in "Visual Studio Dark" and "Default Dark Modern" theme |
+ |  OP:18  |[6115](/issues/6115 "Notification of breaking api change with v1.92 release of VS Code") | Notification of breaking api change with v1.92 release of VS Code |
+ |  OP:0  |[6203](/issues/6203 "Pylance + VS Code - Inline Quick Suggestions swapping with each keypress") | Pylance + VS Code - Inline Quick Suggestions swapping with each keypress |
 
 
 
@@ -110,52 +116,25 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:769  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
- |  OP:740  |[3032](/issues/3032 "[Bug] Function parentheses autocomplete does not recognize existing parentheses ") | [Bug] Function parentheses autocomplete does not recognize existing parentheses  |
- |  OP:715  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
- |  OP:515  |[3991](/issues/3991 "Cannot access TypeVar from class property in function signature") | Cannot access TypeVar from class property in function signature |
- |  OP:457  |[4274](/issues/4274 "Issue with AutoComplete of Function Signatures in Derived Classes") | Issue with AutoComplete of Function Signatures in Derived Classes |
- |  OP:430  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
- |  OP:396  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
- |  OP:298  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
- |  OP:285  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
- |  OP:203  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
- |  OP:178  |[5404](/issues/5404 "Extract method/variable doesn't work in the middle of a function") | Extract method/variable doesn't work in the middle of a function |
- |  OP:163  |[5456](/issues/5456 "Incorrect function argument indentation") | Incorrect function argument indentation |
- |  OP:159  |[5464](/issues/5464 "Autocomplete for function definition using a TypeAlias is broken ") | Autocomplete for function definition using a TypeAlias is broken  |
- |  OP:143  |[5553](/issues/5553 "When function with `Optional` param is moved, `Optional` is not imported in target file") | When function with `Optional` param is moved, `Optional` is not imported in target file |
- |  OP:136  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
- |  OP:131  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
- |  OP:115  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
- |  OP:81  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
- |  OP:67  |[5885](/issues/5885 "Copying and pasting code from function body messes up with indentation ") | Copying and pasting code from function body messes up with indentation  |
- |  OP:65  |[5951](/issues/5951 "Renaming variable in a function renames it everywhere") | Renaming variable in a function renames it everywhere |
-
-
-
-
-### Issues with term 'imports'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:435  |[4359](/issues/4359 "Pylance flags new submodules as missing imports with default settings") | Pylance flags new submodules as missing imports with default settings |
- |  OP:249  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
- |  OP:235  |[5172](/issues/5172 "Imports not being found in notebook after changing the kernel") | Imports not being found in notebook after changing the kernel |
- |  OP:226  |[5231](/issues/5231 "&quot;Quick Fix&quot; doesn't suggest `__init__.py` imports") | "Quick Fix" doesn't suggest `__init__.py` imports |
- |  OP:205  |[5310](/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports") | Moving multiple files or renaming modules doesn't refactor imports |
- |  OP:175  |[5414](/issues/5414 "grey out unused imports transitively") | grey out unused imports transitively |
- |  OP:149  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
- |  OP:145  |[5527](/issues/5527 "Search imports command doesn't always show results") | Search imports command doesn't always show results |
- |  OP:145  |[5528](/issues/5528 "Search imports adds dupilcated symbols") | Search imports adds dupilcated symbols |
- |  OP:143  |[5550](/issues/5550 "Generated relative local imports are mixed with absolute local imports") | Generated relative local imports are mixed with absolute local imports |
- |  OP:128  |[5650](/issues/5650 "Importing from tests prefers deeper imports over package entry-point") | Importing from tests prefers deeper imports over package entry-point |
- |  OP:124  |[5660](/issues/5660 "Add imports favors 3rd party imports over current package") | Add imports favors 3rd party imports over current package |
- |  OP:87  |[5801](/issues/5801 "How to remove unused imports from ALL files as a one-off task") | How to remove unused imports from ALL files as a one-off task |
- |  OP:87  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
- |  OP:87  |[5807](/issues/5807 "Symlinking a directory does not cause a reresolve of imports") | Symlinking a directory does not cause a reresolve of imports |
- |  OP:81  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
- |  OP:48  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
- |  OP:0  |[6164](/issues/6164 "Marks local imports as &quot;missing&quot;") | Marks local imports as "missing" |
+ |  OP:776  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
+ |  OP:747  |[3032](/issues/3032 "[Bug] Function parentheses autocomplete does not recognize existing parentheses ") | [Bug] Function parentheses autocomplete does not recognize existing parentheses  |
+ |  OP:722  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
+ |  OP:522  |[3991](/issues/3991 "Cannot access TypeVar from class property in function signature") | Cannot access TypeVar from class property in function signature |
+ |  OP:464  |[4274](/issues/4274 "Issue with AutoComplete of Function Signatures in Derived Classes") | Issue with AutoComplete of Function Signatures in Derived Classes |
+ |  OP:437  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
+ |  OP:403  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
+ |  OP:305  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
+ |  OP:292  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
+ |  OP:210  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
+ |  OP:185  |[5404](/issues/5404 "Extract method/variable doesn't work in the middle of a function") | Extract method/variable doesn't work in the middle of a function |
+ |  OP:170  |[5456](/issues/5456 "Incorrect function argument indentation") | Incorrect function argument indentation |
+ |  OP:150  |[5553](/issues/5553 "When function with `Optional` param is moved, `Optional` is not imported in target file") | When function with `Optional` param is moved, `Optional` is not imported in target file |
+ |  OP:143  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
+ |  OP:138  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
+ |  OP:122  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
+ |  OP:88  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
+ |  OP:74  |[5885](/issues/5885 "Copying and pasting code from function body messes up with indentation ") | Copying and pasting code from function body messes up with indentation  |
+ |  OP:72  |[5951](/issues/5951 "Renaming variable in a function renames it everywhere") | Renaming variable in a function renames it everywhere |
 
 
 
@@ -164,22 +143,48 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:558  |[3817](/issues/3817 "No Intellisense when the file is saved after Pylance initializes") | No Intellisense when the file is saved after Pylance initializes |
- |  OP:499  |[4065](/issues/4065 "Autoimport from module, not directly from file") | Autoimport from module, not directly from file |
- |  OP:277  |[4975](/issues/4975 "Add a warning when writing a Python file inside virtual environments ") | Add a warning when writing a Python file inside virtual environments  |
- |  OP:233  |[5199](/issues/5199 "improve symlink file handling") | improve symlink file handling |
- |  OP:228  |[5219](/issues/5219 "'Move to file' refactoring should allow me to specify a new file name") | 'Move to file' refactoring should allow me to specify a new file name |
- |  OP:178  |[5402](/issues/5402 "Diagnostics from open files sometime not cleared up when file is closed.") | Diagnostics from open files sometime not cleared up when file is closed. |
- |  OP:178  |[5405](/issues/5405 "reportShadowedImports is not showing up in the file that is shadowing the import") | reportShadowedImports is not showing up in the file that is shadowing the import |
- |  OP:174  |[5418](/issues/5418 "File change events keep coming long after all the files are done installing") | File change events keep coming long after all the files are done installing |
- |  OP:143  |[5553](/issues/5553 "When function with `Optional` param is moved, `Optional` is not imported in target file") | When function with `Optional` param is moved, `Optional` is not imported in target file |
- |  OP:142  |[5562](/issues/5562 "Moving a .pyi file shoudn't move it's .py twin when under the typings folder") | Moving a .pyi file shoudn't move it's .py twin when under the typings folder |
- |  OP:142  |[5564](/issues/5564 "Proposal: Use Nearest Configuration File") | Proposal: Use Nearest Configuration File |
- |  OP:132  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
- |  OP:75  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
- |  OP:54  |[5932](/issues/5932 "provide standalone file mode") | provide standalone file mode |
- |  OP:46  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
- |  OP:20  |[6078](/issues/6078 "when config file is added, pylance doesn't detect it automatically") | when config file is added, pylance doesn't detect it automatically |
+ |  OP:565  |[3817](/issues/3817 "No Intellisense when the file is saved after Pylance initializes") | No Intellisense when the file is saved after Pylance initializes |
+ |  OP:506  |[4065](/issues/4065 "Autoimport from module, not directly from file") | Autoimport from module, not directly from file |
+ |  OP:284  |[4975](/issues/4975 "Add a warning when writing a Python file inside virtual environments ") | Add a warning when writing a Python file inside virtual environments  |
+ |  OP:240  |[5199](/issues/5199 "improve symlink file handling") | improve symlink file handling |
+ |  OP:235  |[5219](/issues/5219 "'Move to file' refactoring should allow me to specify a new file name") | 'Move to file' refactoring should allow me to specify a new file name |
+ |  OP:185  |[5402](/issues/5402 "Diagnostics from open files sometime not cleared up when file is closed.") | Diagnostics from open files sometime not cleared up when file is closed. |
+ |  OP:185  |[5405](/issues/5405 "reportShadowedImports is not showing up in the file that is shadowing the import") | reportShadowedImports is not showing up in the file that is shadowing the import |
+ |  OP:181  |[5418](/issues/5418 "File change events keep coming long after all the files are done installing") | File change events keep coming long after all the files are done installing |
+ |  OP:150  |[5553](/issues/5553 "When function with `Optional` param is moved, `Optional` is not imported in target file") | When function with `Optional` param is moved, `Optional` is not imported in target file |
+ |  OP:149  |[5562](/issues/5562 "Moving a .pyi file shoudn't move it's .py twin when under the typings folder") | Moving a .pyi file shoudn't move it's .py twin when under the typings folder |
+ |  OP:149  |[5564](/issues/5564 "Proposal: Use Nearest Configuration File") | Proposal: Use Nearest Configuration File |
+ |  OP:139  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
+ |  OP:82  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
+ |  OP:61  |[5932](/issues/5932 "provide standalone file mode") | provide standalone file mode |
+ |  OP:53  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
+ |  OP:27  |[6078](/issues/6078 "when config file is added, pylance doesn't detect it automatically") | when config file is added, pylance doesn't detect it automatically |
+ |  OP:6  |[6169](/issues/6169 "Chained file crash") | Chained file crash |
+
+
+
+
+### Issues with term 'imports'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:442  |[4359](/issues/4359 "Pylance flags new submodules as missing imports with default settings") | Pylance flags new submodules as missing imports with default settings |
+ |  OP:256  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
+ |  OP:242  |[5172](/issues/5172 "Imports not being found in notebook after changing the kernel") | Imports not being found in notebook after changing the kernel |
+ |  OP:233  |[5231](/issues/5231 "&quot;Quick Fix&quot; doesn't suggest `__init__.py` imports") | "Quick Fix" doesn't suggest `__init__.py` imports |
+ |  OP:212  |[5310](/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports") | Moving multiple files or renaming modules doesn't refactor imports |
+ |  OP:182  |[5414](/issues/5414 "grey out unused imports transitively") | grey out unused imports transitively |
+ |  OP:156  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
+ |  OP:152  |[5527](/issues/5527 "Search imports command doesn't always show results") | Search imports command doesn't always show results |
+ |  OP:152  |[5528](/issues/5528 "Search imports adds dupilcated symbols") | Search imports adds dupilcated symbols |
+ |  OP:150  |[5550](/issues/5550 "Generated relative local imports are mixed with absolute local imports") | Generated relative local imports are mixed with absolute local imports |
+ |  OP:135  |[5650](/issues/5650 "Importing from tests prefers deeper imports over package entry-point") | Importing from tests prefers deeper imports over package entry-point |
+ |  OP:131  |[5660](/issues/5660 "Add imports favors 3rd party imports over current package") | Add imports favors 3rd party imports over current package |
+ |  OP:94  |[5801](/issues/5801 "How to remove unused imports from ALL files as a one-off task") | How to remove unused imports from ALL files as a one-off task |
+ |  OP:94  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
+ |  OP:94  |[5807](/issues/5807 "Symlinking a directory does not cause a reresolve of imports") | Symlinking a directory does not cause a reresolve of imports |
+ |  OP:88  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
+ |  OP:55  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
 
 
 
@@ -188,43 +193,22 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:433  |[4368](/issues/4368 "Import resolution errors should show more information about the environment in use") | Import resolution errors should show more information about the environment in use |
- |  OP:283  |[4955](/issues/4955 "Feature request: Auto import should work for submodules") | Feature request: Auto import should work for submodules |
- |  OP:236  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
- |  OP:233  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
- |  OP:178  |[5405](/issues/5405 "reportShadowedImports is not showing up in the file that is shadowing the import") | reportShadowedImports is not showing up in the file that is shadowing the import |
- |  OP:173  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
- |  OP:171  |[5437](/issues/5437 "provide an option for import style when import statement is automatically inserted.") | provide an option for import style when import statement is automatically inserted. |
- |  OP:171  |[5439](/issues/5439 "automatically remove auto inserted import statement if the trigger is removed/cancelled right away") | automatically remove auto inserted import statement if the trigger is removed/cancelled right away |
- |  OP:143  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
- |  OP:132  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
- |  OP:87  |[5803](/issues/5803 "Import resolve failures are hard to figure out") | Import resolve failures are hard to figure out |
- |  OP:81  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
- |  OP:74  |[5861](/issues/5861 "v2024.5.1: Resolving the import of non-&quot;third party&quot; modules") | v2024.5.1: Resolving the import of non-"third party" modules |
- |  OP:48  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
- |  OP:46  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
- |  OP:23  |[6071](/issues/6071 "Quickfix add import proposes import that are not available for my python version (ignores sys.version_info)") | Quickfix add import proposes import that are not available for my python version (ignores sys.version_info) |
-
-
-
-
-### Issues with term 'error'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:957  |[2146](/issues/2146 "&quot;Extract method&quot; produces syntax error with multiline except clause") | "Extract method" produces syntax error with multiline except clause |
- |  OP:490  |[4108](/issues/4108 "Stop displaying error messages about packages not being installed for Jupyter Notebooks ") | Stop displaying error messages about packages not being installed for Jupyter Notebooks  |
- |  OP:356  |[4674](/issues/4674 "Diagnostic 'code' is remapped regardless of the error") | Diagnostic 'code' is remapped regardless of the error |
- |  OP:298  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
- |  OP:233  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
- |  OP:226  |[5235](/issues/5235 "Output error messages are garbled in Japanese-locale Windows") | Output error messages are garbled in Japanese-locale Windows |
- |  OP:166  |[5447](/issues/5447 "VS Code Python Issue: &quot;Default Python Functions Not Defined&quot; Error") | VS Code Python Issue: "Default Python Functions Not Defined" Error |
- |  OP:109  |[5726](/issues/5726 "Pylance error for query_selector of Playwright") | Pylance error for query_selector of Playwright |
- |  OP:86  |[5808](/issues/5808 "parse error on magic statement on ipython mode.") | parse error on magic statement on ipython mode. |
- |  OP:56  |[5922](/issues/5922 "&quot;Not a known attribute&quot; error") | "Not a known attribute" error |
- |  OP:20  |[6081](/issues/6081 "Practically any function/method from matplotlib will raise the &quot;reportUnknownMemberType&quot; error") | Practically any function/method from matplotlib will raise the "reportUnknownMemberType" error |
- |  OP:6  |[6143](/issues/6143 "Asyncio.TaskGroup doc string causes parsing error") | Asyncio.TaskGroup doc string causes parsing error |
- |  OP:1  |[6162](/issues/6162 "Internal Error while Type Checking") | Internal Error while Type Checking |
+ |  OP:440  |[4368](/issues/4368 "Import resolution errors should show more information about the environment in use") | Import resolution errors should show more information about the environment in use |
+ |  OP:290  |[4955](/issues/4955 "Feature request: Auto import should work for submodules") | Feature request: Auto import should work for submodules |
+ |  OP:243  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
+ |  OP:240  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
+ |  OP:185  |[5405](/issues/5405 "reportShadowedImports is not showing up in the file that is shadowing the import") | reportShadowedImports is not showing up in the file that is shadowing the import |
+ |  OP:180  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
+ |  OP:178  |[5437](/issues/5437 "provide an option for import style when import statement is automatically inserted.") | provide an option for import style when import statement is automatically inserted. |
+ |  OP:178  |[5439](/issues/5439 "automatically remove auto inserted import statement if the trigger is removed/cancelled right away") | automatically remove auto inserted import statement if the trigger is removed/cancelled right away |
+ |  OP:150  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
+ |  OP:139  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
+ |  OP:94  |[5803](/issues/5803 "Import resolve failures are hard to figure out") | Import resolve failures are hard to figure out |
+ |  OP:88  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
+ |  OP:81  |[5861](/issues/5861 "v2024.5.1: Resolving the import of non-&quot;third party&quot; modules") | v2024.5.1: Resolving the import of non-"third party" modules |
+ |  OP:55  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
+ |  OP:53  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
+ |  OP:30  |[6071](/issues/6071 "Quickfix add import proposes import that are not available for my python version (ignores sys.version_info)") | Quickfix add import proposes import that are not available for my python version (ignores sys.version_info) |
 
 
 
@@ -233,19 +217,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:740  |[3032](/issues/3032 "[Bug] Function parentheses autocomplete does not recognize existing parentheses ") | [Bug] Function parentheses autocomplete does not recognize existing parentheses  |
- |  OP:626  |[3573](/issues/3573 "The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available") | The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available |
- |  OP:530  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
- |  OP:457  |[4274](/issues/4274 "Issue with AutoComplete of Function Signatures in Derived Classes") | Issue with AutoComplete of Function Signatures in Derived Classes |
- |  OP:424  |[4412](/issues/4412 "Add autocomplete for type parameters in 3.12") | Add autocomplete for type parameters in 3.12 |
- |  OP:419  |[4428](/issues/4428 "Autocomplete of Literal value only takes last overload into account") | Autocomplete of Literal value only takes last overload into account |
- |  OP:318  |[4808](/issues/4808 "Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg") | Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg |
- |  OP:214  |[5299](/issues/5299 "Descriptor type shown in autocomplete popover is incorrect") | Descriptor type shown in autocomplete popover is incorrect |
- |  OP:196  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
- |  OP:162  |[5458](/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions") | Autocomplete for class parameters not working on 2023.12.1 and later versions |
- |  OP:159  |[5464](/issues/5464 "Autocomplete for function definition using a TypeAlias is broken ") | Autocomplete for function definition using a TypeAlias is broken  |
- |  OP:124  |[5659](/issues/5659 "String interpolation (f strings) is breaking autocomplete") | String interpolation (f strings) is breaking autocomplete |
- |  OP:115  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
+ |  OP:747  |[3032](/issues/3032 "[Bug] Function parentheses autocomplete does not recognize existing parentheses ") | [Bug] Function parentheses autocomplete does not recognize existing parentheses  |
+ |  OP:633  |[3573](/issues/3573 "The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available") | The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available |
+ |  OP:537  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
+ |  OP:464  |[4274](/issues/4274 "Issue with AutoComplete of Function Signatures in Derived Classes") | Issue with AutoComplete of Function Signatures in Derived Classes |
+ |  OP:431  |[4412](/issues/4412 "Add autocomplete for type parameters in 3.12") | Add autocomplete for type parameters in 3.12 |
+ |  OP:426  |[4428](/issues/4428 "Autocomplete of Literal value only takes last overload into account") | Autocomplete of Literal value only takes last overload into account |
+ |  OP:325  |[4808](/issues/4808 "Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg") | Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg |
+ |  OP:221  |[5299](/issues/5299 "Descriptor type shown in autocomplete popover is incorrect") | Descriptor type shown in autocomplete popover is incorrect |
+ |  OP:203  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
+ |  OP:169  |[5458](/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions") | Autocomplete for class parameters not working on 2023.12.1 and later versions |
+ |  OP:131  |[5659](/issues/5659 "String interpolation (f strings) is breaking autocomplete") | String interpolation (f strings) is breaking autocomplete |
+ |  OP:122  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
 
 
 
@@ -254,73 +237,37 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:597  |[3706](/issues/3706 "pyvenv.cfg in the root of workspace will force all files to be excluded") | pyvenv.cfg in the root of workspace will force all files to be excluded |
- |  OP:373  |[4607](/issues/4607 "reportMissingImports when using multi-root workspace") | reportMissingImports when using multi-root workspace |
- |  OP:326  |[4777](/issues/4777 "offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace") | offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace |
- |  OP:247  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
- |  OP:235  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
- |  OP:153  |[5486](/issues/5486 "Intellisense not updating for workspace with multiple folders") | Intellisense not updating for workspace with multiple folders |
- |  OP:143  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
- |  OP:128  |[5645](/issues/5645 "Workspace folder names are evaluated as regular expressions") | Workspace folder names are evaluated as regular expressions |
- |  OP:89  |[5794](/issues/5794 "How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace") | How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace |
- |  OP:86  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
- |  OP:86  |[5811](/issues/5811 "Virtual workspace has duplicates for show call hierarchy") | Virtual workspace has duplicates for show call hierarchy |
- |  OP:52  |[5946](/issues/5946 "&quot;Add...to extraPaths&quot; doesn't work in multiroot workspace") | "Add...to extraPaths" doesn't work in multiroot workspace |
+ |  OP:604  |[3706](/issues/3706 "pyvenv.cfg in the root of workspace will force all files to be excluded") | pyvenv.cfg in the root of workspace will force all files to be excluded |
+ |  OP:380  |[4607](/issues/4607 "reportMissingImports when using multi-root workspace") | reportMissingImports when using multi-root workspace |
+ |  OP:333  |[4777](/issues/4777 "offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace") | offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace |
+ |  OP:254  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
+ |  OP:242  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
+ |  OP:160  |[5486](/issues/5486 "Intellisense not updating for workspace with multiple folders") | Intellisense not updating for workspace with multiple folders |
+ |  OP:150  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
+ |  OP:135  |[5645](/issues/5645 "Workspace folder names are evaluated as regular expressions") | Workspace folder names are evaluated as regular expressions |
+ |  OP:96  |[5794](/issues/5794 "How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace") | How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace |
+ |  OP:93  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
+ |  OP:93  |[5811](/issues/5811 "Virtual workspace has duplicates for show call hierarchy") | Virtual workspace has duplicates for show call hierarchy |
+ |  OP:59  |[5946](/issues/5946 "&quot;Add...to extraPaths&quot; doesn't work in multiroot workspace") | "Add...to extraPaths" doesn't work in multiroot workspace |
 
 
 
 
-### Issues with term 'intellisense'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:558  |[3817](/issues/3817 "No Intellisense when the file is saved after Pylance initializes") | No Intellisense when the file is saved after Pylance initializes |
- |  OP:398  |[4920](/issues/4920 "More informative with IntelliSense ") | More informative with IntelliSense  |
- |  OP:290  |[4925](/issues/4925 "No Intellisense in python interactive window until running the first cell") | No Intellisense in python interactive window until running the first cell |
- |  OP:290  |[4926](/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
- |  OP:171  |[5434](/issues/5434 "Offer different pylance modes to enable light vs full IntelliSense experience    ") | Offer different pylance modes to enable light vs full IntelliSense experience     |
- |  OP:153  |[5486](/issues/5486 "Intellisense not updating for workspace with multiple folders") | Intellisense not updating for workspace with multiple folders |
- |  OP:136  |[5618](/issues/5618 "Intellisense breaks with this extension in docker.") | Intellisense breaks with this extension in docker. |
- |  OP:124  |[5658](/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
- |  OP:117  |[5689](/issues/5689 "Intellisense not working when using pylance (no suggestions Ctrl+Space)") | Intellisense not working when using pylance (no suggestions Ctrl+Space) |
- |  OP:47  |[5965](/issues/5965 "Intellisense is popping up parameters when it is definitely NOT needed") | Intellisense is popping up parameters when it is definitely NOT needed |
- |  OP:38  |[6008](/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks") | Explore Python IntelliSense in Copilot chat code blocks |
-
-
-
-
-### Issues with term 'class'
+### Issues with term 'error'
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:883  |[4972](/issues/4972 "show class hierarchy or method override like pycharm") | show class hierarchy or method override like pycharm |
- |  OP:515  |[3991](/issues/3991 "Cannot access TypeVar from class property in function signature") | Cannot access TypeVar from class property in function signature |
- |  OP:298  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
- |  OP:285  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
- |  OP:242  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
- |  OP:185  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
- |  OP:162  |[5458](/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions") | Autocomplete for class parameters not working on 2023.12.1 and later versions |
- |  OP:131  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
- |  OP:124  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
- |  OP:20  |[6086](/issues/6086 "Go to def doesnt go to user-defined class") | Go to def doesnt go to user-defined class |
-
-
-
-
-### Issues with term 'variable'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:819  |[3114](/issues/3114 "Assign to variable from commented-out magic command") | Assign to variable from commented-out magic command |
- |  OP:715  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
- |  OP:318  |[4809](/issues/4809 "Hover over variable obtained via `__getattr__` should not say it is a `function`") | Hover over variable obtained via `__getattr__` should not say it is a `function` |
- |  OP:318  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
- |  OP:179  |[5392](/issues/5392 "`python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches") | `python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches |
- |  OP:128  |[5652](/issues/5652 "Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal`") | Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal` |
- |  OP:122  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
- |  OP:66  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
- |  OP:65  |[5951](/issues/5951 "Renaming variable in a function renames it everywhere") | Renaming variable in a function renames it everywhere |
- |  OP:52  |[5942](/issues/5942 "Go to definition when already on a definition of a variable jumps to the first use") | Go to definition when already on a definition of a variable jumps to the first use |
+ |  OP:964  |[2146](/issues/2146 "&quot;Extract method&quot; produces syntax error with multiline except clause") | "Extract method" produces syntax error with multiline except clause |
+ |  OP:497  |[4108](/issues/4108 "Stop displaying error messages about packages not being installed for Jupyter Notebooks ") | Stop displaying error messages about packages not being installed for Jupyter Notebooks  |
+ |  OP:363  |[4674](/issues/4674 "Diagnostic 'code' is remapped regardless of the error") | Diagnostic 'code' is remapped regardless of the error |
+ |  OP:305  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
+ |  OP:240  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
+ |  OP:233  |[5235](/issues/5235 "Output error messages are garbled in Japanese-locale Windows") | Output error messages are garbled in Japanese-locale Windows |
+ |  OP:116  |[5726](/issues/5726 "Pylance error for query_selector of Playwright") | Pylance error for query_selector of Playwright |
+ |  OP:93  |[5808](/issues/5808 "parse error on magic statement on ipython mode.") | parse error on magic statement on ipython mode. |
+ |  OP:63  |[5922](/issues/5922 "&quot;Not a known attribute&quot; error") | "Not a known attribute" error |
+ |  OP:27  |[6081](/issues/6081 "Practically any function/method from matplotlib will raise the &quot;reportUnknownMemberType&quot; error") | Practically any function/method from matplotlib will raise the "reportUnknownMemberType" error |
+ |  OP:8  |[6162](/issues/6162 "Internal Error while Type Checking") | Internal Error while Type Checking |
 
 
 
@@ -329,106 +276,36 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:728  |[3100](/issues/3100 "Improve semantic highlighting of `TypeAlias`") | Improve semantic highlighting of `TypeAlias` |
- |  OP:296  |[4937](/issues/4937 "Syntax highlighting and formatting of tooltips in Python") | Syntax highlighting and formatting of tooltips in Python |
- |  OP:268  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
- |  OP:144  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
- |  OP:134  |[5611](/issues/5611 "Semantic Highlighting for Constants") | Semantic Highlighting for Constants |
- |  OP:115  |[5706](/issues/5706 "Document highlighting doesn't work in notebooks") | Document highlighting doesn't work in notebooks |
- |  OP:90  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
- |  OP:86  |[5824](/issues/5824 "switch to a different tool for python syntax highlighting") | switch to a different tool for python syntax highlighting |
- |  OP:70  |[5877](/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings") | Syntax highlighting works differently in the last curly brackets in f-strings |
- |  OP:43  |[5995](/issues/5995 "Highlighting fails after switching between monorepo projects (when switching python interpreters)") | Highlighting fails after switching between monorepo projects (when switching python interpreters) |
+ |  OP:735  |[3100](/issues/3100 "Improve semantic highlighting of `TypeAlias`") | Improve semantic highlighting of `TypeAlias` |
+ |  OP:303  |[4937](/issues/4937 "Syntax highlighting and formatting of tooltips in Python") | Syntax highlighting and formatting of tooltips in Python |
+ |  OP:275  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
+ |  OP:151  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
+ |  OP:141  |[5611](/issues/5611 "Semantic Highlighting for Constants") | Semantic Highlighting for Constants |
+ |  OP:122  |[5706](/issues/5706 "Document highlighting doesn't work in notebooks") | Document highlighting doesn't work in notebooks |
+ |  OP:97  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
+ |  OP:93  |[5824](/issues/5824 "switch to a different tool for python syntax highlighting") | switch to a different tool for python syntax highlighting |
+ |  OP:77  |[5877](/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings") | Syntax highlighting works differently in the last curly brackets in f-strings |
+ |  OP:50  |[5995](/issues/5995 "Highlighting fails after switching between monorepo projects (when switching python interpreters)") | Highlighting fails after switching between monorepo projects (when switching python interpreters) |
+ |  OP:3  |[6191](/issues/6191 "Python Syntax Highlighting Issue") | Python Syntax Highlighting Issue |
 
 
 
 
-### Issues with term 'files'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:597  |[3706](/issues/3706 "pyvenv.cfg in the root of workspace will force all files to be excluded") | pyvenv.cfg in the root of workspace will force all files to be excluded |
- |  OP:249  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
- |  OP:235  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
- |  OP:205  |[5310](/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports") | Moving multiple files or renaming modules doesn't refactor imports |
- |  OP:178  |[5402](/issues/5402 "Diagnostics from open files sometime not cleared up when file is closed.") | Diagnostics from open files sometime not cleared up when file is closed. |
- |  OP:174  |[5418](/issues/5418 "File change events keep coming long after all the files are done installing") | File change events keep coming long after all the files are done installing |
- |  OP:87  |[5801](/issues/5801 "How to remove unused imports from ALL files as a one-off task") | How to remove unused imports from ALL files as a one-off task |
- |  OP:74  |[5867](/issues/5867 "Pylance doesn't stop analyzing files") | Pylance doesn't stop analyzing files |
- |  OP:45  |[5979](/issues/5979 "`reportShadowedImports` doesn't report diagnostics for files that are overriding a `stdlib` module") | `reportShadowedImports` doesn't report diagnostics for files that are overriding a `stdlib` module |
- |  OP:7  |[6134](/issues/6134 "language server analyse files with extremely high delay") | language server analyse files with extremely high delay |
-
-
-
-
-### Issues with term 'completion'
+### Issues with term 'intellisense'
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:508  |[4026](/issues/4026 "Explicit completion invocation without any pretext doesn't show pytest fixture") | Explicit completion invocation without any pretext doesn't show pytest fixture |
- |  OP:498  |[4059](/issues/4059 "Pylance shows non-public exports in completion suggestions") | Pylance shows non-public exports in completion suggestions |
- |  OP:291  |[4919](/issues/4919 "Completion items are sent back with a lot of duplicates") | Completion items are sent back with a lot of duplicates |
- |  OP:269  |[5113](/issues/5113 "Code completion doesn't recognise a new venv") | Code completion doesn't recognise a new venv |
- |  OP:268  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
- |  OP:237  |[5151](/issues/5151 "typed dict completion should show all keys as one of arguments for typed dict constructor.") | typed dict completion should show all keys as one of arguments for typed dict constructor. |
- |  OP:235  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
- |  OP:185  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
- |  OP:31  |[6036](/issues/6036 "There are still some deficiencies in automatic completion") | There are still some deficiencies in automatic completion |
- |  OP:25  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
-
-
-
-
-### Issues with term 'hints'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:492  |[4098](/issues/4098 "semantic highlight and hints for a TypedDict's get function.") | semantic highlight and hints for a TypedDict's get function. |
- |  OP:430  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
- |  OP:270  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
- |  OP:221  |[5253](/issues/5253 "allow inserting inlay hints with Any inside a callable") | allow inserting inlay hints with Any inside a callable |
- |  OP:221  |[5255](/issues/5255 "Pylance inlay hints do not honor python version") | Pylance inlay hints do not honor python version |
- |  OP:180  |[5385](/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
- |  OP:111  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
- |  OP:83  |[5827](/issues/5827 "Bundled type hints for lxml are inconsistent with source, lxml-stubs") | Bundled type hints for lxml are inconsistent with source, lxml-stubs |
- |  OP:20  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
- |  OP:13  |[6106](/issues/6106 "Provide a way to disable unreachability hints") | Provide a way to disable unreachability hints |
-
-
-
-
-### Issues with term 'auto'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:471  |[4215](/issues/4215 "pylance is adding () when auto paran is enabled for decorator") | pylance is adding () when auto paran is enabled for decorator |
- |  OP:283  |[4955](/issues/4955 "Feature request: Auto import should work for submodules") | Feature request: Auto import should work for submodules |
- |  OP:236  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
- |  OP:174  |[5415](/issues/5415 "Indentation format is enforcing auto pep 8 even when the previous line is at a different indent") | Indentation format is enforcing auto pep 8 even when the previous line is at a different indent |
- |  OP:171  |[5439](/issues/5439 "automatically remove auto inserted import statement if the trigger is removed/cancelled right away") | automatically remove auto inserted import statement if the trigger is removed/cancelled right away |
- |  OP:143  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
- |  OP:116  |[5699](/issues/5699 "Auto format of strings doesn't work until you reload VS code") | Auto format of strings doesn't work until you reload VS code |
- |  OP:115  |[5703](/issues/5703 "Auto format strings doesn't work for `r` strings") | Auto format strings doesn't work for `r` strings |
- |  OP:48  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
- |  OP:25  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
-
-
-
-
-### Issues with term 'inlay'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:396  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
- |  OP:318  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
- |  OP:269  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
- |  OP:230  |[5210](/issues/5210 "Feature request: Support 'go to def' and interacting with inlay hint components") | Feature request: Support 'go to def' and interacting with inlay hint components |
- |  OP:221  |[5253](/issues/5253 "allow inserting inlay hints with Any inside a callable") | allow inserting inlay hints with Any inside a callable |
- |  OP:221  |[5255](/issues/5255 "Pylance inlay hints do not honor python version") | Pylance inlay hints do not honor python version |
- |  OP:180  |[5385](/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
- |  OP:111  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
- |  OP:20  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
- |  OP:18  |[6096](/issues/6096 "Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys'") | Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys' |
+ |  OP:565  |[3817](/issues/3817 "No Intellisense when the file is saved after Pylance initializes") | No Intellisense when the file is saved after Pylance initializes |
+ |  OP:405  |[4920](/issues/4920 "More informative with IntelliSense ") | More informative with IntelliSense  |
+ |  OP:297  |[4925](/issues/4925 "No Intellisense in python interactive window until running the first cell") | No Intellisense in python interactive window until running the first cell |
+ |  OP:297  |[4926](/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
+ |  OP:178  |[5434](/issues/5434 "Offer different pylance modes to enable light vs full IntelliSense experience    ") | Offer different pylance modes to enable light vs full IntelliSense experience     |
+ |  OP:160  |[5486](/issues/5486 "Intellisense not updating for workspace with multiple folders") | Intellisense not updating for workspace with multiple folders |
+ |  OP:143  |[5618](/issues/5618 "Intellisense breaks with this extension in docker.") | Intellisense breaks with this extension in docker. |
+ |  OP:131  |[5658](/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
+ |  OP:124  |[5689](/issues/5689 "Intellisense not working when using pylance (no suggestions Ctrl+Space)") | Intellisense not working when using pylance (no suggestions Ctrl+Space) |
+ |  OP:54  |[5965](/issues/5965 "Intellisense is popping up parameters when it is definitely NOT needed") | Intellisense is popping up parameters when it is definitely NOT needed |
+ |  OP:45  |[6008](/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks") | Explore Python IntelliSense in Copilot chat code blocks |
 
 
 
@@ -437,15 +314,124 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:957  |[2146](/issues/2146 "&quot;Extract method&quot; produces syntax error with multiline except clause") | "Extract method" produces syntax error with multiline except clause |
- |  OP:530  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
- |  OP:298  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
- |  OP:296  |[4937](/issues/4937 "Syntax highlighting and formatting of tooltips in Python") | Syntax highlighting and formatting of tooltips in Python |
- |  OP:268  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
- |  OP:144  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
- |  OP:90  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
- |  OP:86  |[5824](/issues/5824 "switch to a different tool for python syntax highlighting") | switch to a different tool for python syntax highlighting |
- |  OP:70  |[5877](/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings") | Syntax highlighting works differently in the last curly brackets in f-strings |
+ |  OP:964  |[2146](/issues/2146 "&quot;Extract method&quot; produces syntax error with multiline except clause") | "Extract method" produces syntax error with multiline except clause |
+ |  OP:537  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
+ |  OP:305  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
+ |  OP:303  |[4937](/issues/4937 "Syntax highlighting and formatting of tooltips in Python") | Syntax highlighting and formatting of tooltips in Python |
+ |  OP:275  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
+ |  OP:151  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
+ |  OP:97  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
+ |  OP:93  |[5824](/issues/5824 "switch to a different tool for python syntax highlighting") | switch to a different tool for python syntax highlighting |
+ |  OP:77  |[5877](/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings") | Syntax highlighting works differently in the last curly brackets in f-strings |
+ |  OP:3  |[6191](/issues/6191 "Python Syntax Highlighting Issue") | Python Syntax Highlighting Issue |
+
+
+
+
+### Issues with term 'class'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:890  |[4972](/issues/4972 "show class hierarchy or method override like pycharm") | show class hierarchy or method override like pycharm |
+ |  OP:522  |[3991](/issues/3991 "Cannot access TypeVar from class property in function signature") | Cannot access TypeVar from class property in function signature |
+ |  OP:305  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
+ |  OP:292  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
+ |  OP:249  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
+ |  OP:192  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
+ |  OP:169  |[5458](/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions") | Autocomplete for class parameters not working on 2023.12.1 and later versions |
+ |  OP:138  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
+ |  OP:131  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
+ |  OP:27  |[6086](/issues/6086 "Go to def doesnt go to user-defined class") | Go to def doesnt go to user-defined class |
+
+
+
+
+### Issues with term 'variable'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:826  |[3114](/issues/3114 "Assign to variable from commented-out magic command") | Assign to variable from commented-out magic command |
+ |  OP:722  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
+ |  OP:325  |[4809](/issues/4809 "Hover over variable obtained via `__getattr__` should not say it is a `function`") | Hover over variable obtained via `__getattr__` should not say it is a `function` |
+ |  OP:325  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
+ |  OP:186  |[5392](/issues/5392 "`python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches") | `python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches |
+ |  OP:135  |[5652](/issues/5652 "Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal`") | Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal` |
+ |  OP:129  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
+ |  OP:73  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
+ |  OP:72  |[5951](/issues/5951 "Renaming variable in a function renames it everywhere") | Renaming variable in a function renames it everywhere |
+ |  OP:59  |[5942](/issues/5942 "Go to definition when already on a definition of a variable jumps to the first use") | Go to definition when already on a definition of a variable jumps to the first use |
+
+
+
+
+### Issues with term 'files'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:604  |[3706](/issues/3706 "pyvenv.cfg in the root of workspace will force all files to be excluded") | pyvenv.cfg in the root of workspace will force all files to be excluded |
+ |  OP:256  |[5119](/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
+ |  OP:242  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
+ |  OP:212  |[5310](/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports") | Moving multiple files or renaming modules doesn't refactor imports |
+ |  OP:185  |[5402](/issues/5402 "Diagnostics from open files sometime not cleared up when file is closed.") | Diagnostics from open files sometime not cleared up when file is closed. |
+ |  OP:181  |[5418](/issues/5418 "File change events keep coming long after all the files are done installing") | File change events keep coming long after all the files are done installing |
+ |  OP:94  |[5801](/issues/5801 "How to remove unused imports from ALL files as a one-off task") | How to remove unused imports from ALL files as a one-off task |
+ |  OP:81  |[5867](/issues/5867 "Pylance doesn't stop analyzing files") | Pylance doesn't stop analyzing files |
+ |  OP:52  |[5979](/issues/5979 "`reportShadowedImports` doesn't report diagnostics for files that are overriding a `stdlib` module") | `reportShadowedImports` doesn't report diagnostics for files that are overriding a `stdlib` module |
+ |  OP:14  |[6134](/issues/6134 "language server analyse files with extremely high delay") | language server analyse files with extremely high delay |
+
+
+
+
+### Issues with term 'completion'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:515  |[4026](/issues/4026 "Explicit completion invocation without any pretext doesn't show pytest fixture") | Explicit completion invocation without any pretext doesn't show pytest fixture |
+ |  OP:505  |[4059](/issues/4059 "Pylance shows non-public exports in completion suggestions") | Pylance shows non-public exports in completion suggestions |
+ |  OP:298  |[4919](/issues/4919 "Completion items are sent back with a lot of duplicates") | Completion items are sent back with a lot of duplicates |
+ |  OP:276  |[5113](/issues/5113 "Code completion doesn't recognise a new venv") | Code completion doesn't recognise a new venv |
+ |  OP:275  |[5021](/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
+ |  OP:244  |[5151](/issues/5151 "typed dict completion should show all keys as one of arguments for typed dict constructor.") | typed dict completion should show all keys as one of arguments for typed dict constructor. |
+ |  OP:242  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
+ |  OP:192  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
+ |  OP:38  |[6036](/issues/6036 "There are still some deficiencies in automatic completion") | There are still some deficiencies in automatic completion |
+ |  OP:32  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
+
+
+
+
+### Issues with term 'auto'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:478  |[4215](/issues/4215 "pylance is adding () when auto paran is enabled for decorator") | pylance is adding () when auto paran is enabled for decorator |
+ |  OP:290  |[4955](/issues/4955 "Feature request: Auto import should work for submodules") | Feature request: Auto import should work for submodules |
+ |  OP:243  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
+ |  OP:181  |[5415](/issues/5415 "Indentation format is enforcing auto pep 8 even when the previous line is at a different indent") | Indentation format is enforcing auto pep 8 even when the previous line is at a different indent |
+ |  OP:178  |[5439](/issues/5439 "automatically remove auto inserted import statement if the trigger is removed/cancelled right away") | automatically remove auto inserted import statement if the trigger is removed/cancelled right away |
+ |  OP:150  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
+ |  OP:123  |[5699](/issues/5699 "Auto format of strings doesn't work until you reload VS code") | Auto format of strings doesn't work until you reload VS code |
+ |  OP:122  |[5703](/issues/5703 "Auto format strings doesn't work for `r` strings") | Auto format strings doesn't work for `r` strings |
+ |  OP:55  |[5961](/issues/5961 "Completing an overload doesn't auto import the necessary imports") | Completing an overload doesn't auto import the necessary imports |
+ |  OP:32  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
+
+
+
+
+### Issues with term 'inlay'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:403  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
+ |  OP:325  |[4812](/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
+ |  OP:276  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
+ |  OP:237  |[5210](/issues/5210 "Feature request: Support 'go to def' and interacting with inlay hint components") | Feature request: Support 'go to def' and interacting with inlay hint components |
+ |  OP:228  |[5253](/issues/5253 "allow inserting inlay hints with Any inside a callable") | allow inserting inlay hints with Any inside a callable |
+ |  OP:228  |[5255](/issues/5255 "Pylance inlay hints do not honor python version") | Pylance inlay hints do not honor python version |
+ |  OP:187  |[5385](/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
+ |  OP:118  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
+ |  OP:27  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
+ |  OP:25  |[6096](/issues/6096 "Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys'") | Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys' |
 
 
 
@@ -454,15 +440,32 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:857  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
- |  OP:411  |[4457](/issues/4457 "Hover for operators could show for builtins") | Hover for operators could show for builtins |
- |  OP:318  |[4809](/issues/4809 "Hover over variable obtained via `__getattr__` should not say it is a `function`") | Hover over variable obtained via `__getattr__` should not say it is a `function` |
- |  OP:297  |[4900](/issues/4900 "Unimported pytest fixtures are recognized by hover") | Unimported pytest fixtures are recognized by hover |
- |  OP:270  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
- |  OP:237  |[5150](/issues/5150 "typed dict key hover shows incorrect header") | typed dict key hover shows incorrect header |
- |  OP:203  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
- |  OP:136  |[5598](/issues/5598 "Investigate hover perf issue") | Investigate hover perf issue |
- |  OP:131  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
+ |  OP:864  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
+ |  OP:418  |[4457](/issues/4457 "Hover for operators could show for builtins") | Hover for operators could show for builtins |
+ |  OP:325  |[4809](/issues/4809 "Hover over variable obtained via `__getattr__` should not say it is a `function`") | Hover over variable obtained via `__getattr__` should not say it is a `function` |
+ |  OP:304  |[4900](/issues/4900 "Unimported pytest fixtures are recognized by hover") | Unimported pytest fixtures are recognized by hover |
+ |  OP:277  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
+ |  OP:244  |[5150](/issues/5150 "typed dict key hover shows incorrect header") | typed dict key hover shows incorrect header |
+ |  OP:210  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
+ |  OP:143  |[5598](/issues/5598 "Investigate hover perf issue") | Investigate hover perf issue |
+ |  OP:138  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
+
+
+
+
+### Issues with term 'hints'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:499  |[4098](/issues/4098 "semantic highlight and hints for a TypedDict's get function.") | semantic highlight and hints for a TypedDict's get function. |
+ |  OP:437  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
+ |  OP:277  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
+ |  OP:228  |[5253](/issues/5253 "allow inserting inlay hints with Any inside a callable") | allow inserting inlay hints with Any inside a callable |
+ |  OP:228  |[5255](/issues/5255 "Pylance inlay hints do not honor python version") | Pylance inlay hints do not honor python version |
+ |  OP:187  |[5385](/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
+ |  OP:118  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
+ |  OP:90  |[5827](/issues/5827 "Bundled type hints for lxml are inconsistent with source, lxml-stubs") | Bundled type hints for lxml are inconsistent with source, lxml-stubs |
+ |  OP:27  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
 
 
 
@@ -471,32 +474,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:475  |[4185](/issues/4185 "Global objects not recognized if defined in a subsequent cell of a Jupyter notebook") | Global objects not recognized if defined in a subsequent cell of a Jupyter notebook |
- |  OP:268  |[5034](/issues/5034 "Jupyter notebook raises error: &quot;NO notebook document&quot; in VSCode (WSL v2)") | Jupyter notebook raises error: "NO notebook document" in VSCode (WSL v2) |
- |  OP:235  |[5172](/issues/5172 "Imports not being found in notebook after changing the kernel") | Imports not being found in notebook after changing the kernel |
- |  OP:235  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
- |  OP:145  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
- |  OP:123  |[5667](/issues/5667 "Analysis of a notebook can be slow") | Analysis of a notebook can be slow |
- |  OP:75  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
- |  OP:52  |[5943](/issues/5943 "Renames are not being applied to notebook cells") | Renames are not being applied to notebook cells |
- |  OP:34  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
-
-
-
-
-### Issues with term 'string'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:405  |[4489](/issues/4489 "Convert string to f-string when adding brackets around a text selection") | Convert string to f-string when adding brackets around a text selection |
- |  OP:196  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
- |  OP:146  |[5521](/issues/5521 "# in raw string not highlighted as string") | # in raw string not highlighted as string |
- |  OP:136  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
- |  OP:124  |[5659](/issues/5659 "String interpolation (f strings) is breaking autocomplete") | String interpolation (f strings) is breaking autocomplete |
- |  OP:106  |[5733](/issues/5733 "Long string changes color if split it and add &quot;\&quot; to the end ") | Long string changes color if split it and add "\" to the end  |
- |  OP:58  |[5915](/issues/5915 "Better string completions") | Better string completions |
- |  OP:39  |[6004](/issues/6004 "Doc string for sqlalchemy.column is misformatted") | Doc string for sqlalchemy.column is misformatted |
- |  OP:6  |[6143](/issues/6143 "Asyncio.TaskGroup doc string causes parsing error") | Asyncio.TaskGroup doc string causes parsing error |
+ |  OP:482  |[4185](/issues/4185 "Global objects not recognized if defined in a subsequent cell of a Jupyter notebook") | Global objects not recognized if defined in a subsequent cell of a Jupyter notebook |
+ |  OP:275  |[5034](/issues/5034 "Jupyter notebook raises error: &quot;NO notebook document&quot; in VSCode (WSL v2)") | Jupyter notebook raises error: "NO notebook document" in VSCode (WSL v2) |
+ |  OP:242  |[5172](/issues/5172 "Imports not being found in notebook after changing the kernel") | Imports not being found in notebook after changing the kernel |
+ |  OP:242  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
+ |  OP:152  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
+ |  OP:130  |[5667](/issues/5667 "Analysis of a notebook can be slow") | Analysis of a notebook can be slow |
+ |  OP:82  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
+ |  OP:59  |[5943](/issues/5943 "Renames are not being applied to notebook cells") | Renames are not being applied to notebook cells |
+ |  OP:41  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
 
 
 
@@ -505,15 +491,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:375  |[4601](/issues/4601 "Go To Symbol doesn't work") | Go To Symbol doesn't work |
- |  OP:173  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
- |  OP:143  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
- |  OP:143  |[5552](/issues/5552 "Moving generic symbol doesn't move/import associated TypeVars") | Moving generic symbol doesn't move/import associated TypeVars |
- |  OP:143  |[5555](/issues/5555 "Can popups showing why &quot;Move symbol to ...&quot; failed be shown fully expanded?") | Can popups showing why "Move symbol to ..." failed be shown fully expanded? |
- |  OP:130  |[5638](/issues/5638 "&quot;Cannot find a symbol to move&quot; when moving symbol from/to filename with leading digit") | "Cannot find a symbol to move" when moving symbol from/to filename with leading digit |
- |  OP:111  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
- |  OP:54  |[5933](/issues/5933 "&quot;Go to symbol in workspace&quot; does not see the symbol") | "Go to symbol in workspace" does not see the symbol |
- |  OP:46  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
+ |  OP:382  |[4601](/issues/4601 "Go To Symbol doesn't work") | Go To Symbol doesn't work |
+ |  OP:180  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
+ |  OP:150  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
+ |  OP:150  |[5552](/issues/5552 "Moving generic symbol doesn't move/import associated TypeVars") | Moving generic symbol doesn't move/import associated TypeVars |
+ |  OP:150  |[5555](/issues/5555 "Can popups showing why &quot;Move symbol to ...&quot; failed be shown fully expanded?") | Can popups showing why "Move symbol to ..." failed be shown fully expanded? |
+ |  OP:137  |[5638](/issues/5638 "&quot;Cannot find a symbol to move&quot; when moving symbol from/to filename with leading digit") | "Cannot find a symbol to move" when moving symbol from/to filename with leading digit |
+ |  OP:118  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
+ |  OP:61  |[5933](/issues/5933 "&quot;Go to symbol in workspace&quot; does not see the symbol") | "Go to symbol in workspace" does not see the symbol |
+ |  OP:53  |[5973](/issues/5973 "Move to symbol fails to move import reference if there's a &quot;from foo import bar&quot; in the destination file") | Move to symbol fails to move import reference if there's a "from foo import bar" in the destination file |
 
 
 
@@ -522,15 +508,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:254  |[5104](/issues/5104 "Add paths next to references when &quot;Show Call Hierarchy&quot; is run") | Add paths next to references when "Show Call Hierarchy" is run |
- |  OP:235  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
- |  OP:145  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
- |  OP:143  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
- |  OP:86  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
- |  OP:52  |[5941](/issues/5941 "Find all references finds references in 3rd party libraries") | Find all references finds references in 3rd party libraries |
- |  OP:34  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
- |  OP:31  |[6042](/issues/6042 "Docstring references could have links that goto def on the reference") | Docstring references could have links that goto def on the reference |
- |  OP:6  |[6146](/issues/6146 "User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name") | User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name |
+ |  OP:261  |[5104](/issues/5104 "Add paths next to references when &quot;Show Call Hierarchy&quot; is run") | Add paths next to references when "Show Call Hierarchy" is run |
+ |  OP:242  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
+ |  OP:152  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
+ |  OP:150  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
+ |  OP:93  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
+ |  OP:59  |[5941](/issues/5941 "Find all references finds references in 3rd party libraries") | Find all references finds references in 3rd party libraries |
+ |  OP:41  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
+ |  OP:38  |[6042](/issues/6042 "Docstring references could have links that goto def on the reference") | Docstring references could have links that goto def on the reference |
+ |  OP:13  |[6146](/issues/6146 "User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name") | User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name |
 
 
 
@@ -539,14 +525,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:883  |[4972](/issues/4972 "show class hierarchy or method override like pycharm") | show class hierarchy or method override like pycharm |
- |  OP:715  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
- |  OP:313  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
- |  OP:298  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
- |  OP:144  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
- |  OP:124  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
- |  OP:98  |[5762](/issues/5762 "Pylance Crashing Constantly: `Error: Unhandled method python/isTrustedWorkspace`") | Pylance Crashing Constantly: `Error: Unhandled method python/isTrustedWorkspace` |
- |  OP:10  |[6144](/issues/6144 "Refactor: Extract Method missing when selection starts with a comment") | Refactor: Extract Method missing when selection starts with a comment |
+ |  OP:890  |[4972](/issues/4972 "show class hierarchy or method override like pycharm") | show class hierarchy or method override like pycharm |
+ |  OP:722  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
+ |  OP:320  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
+ |  OP:305  |[4912](/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
+ |  OP:151  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
+ |  OP:131  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
+ |  OP:105  |[5762](/issues/5762 "Pylance Crashing Constantly: `Error: Unhandled method python/isTrustedWorkspace`") | Pylance Crashing Constantly: `Error: Unhandled method python/isTrustedWorkspace` |
+ |  OP:17  |[6144](/issues/6144 "Refactor: Extract Method missing when selection starts with a comment") | Refactor: Extract Method missing when selection starts with a comment |
 
 
 
@@ -555,14 +541,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:769  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
- |  OP:728  |[3100](/issues/3100 "Improve semantic highlighting of `TypeAlias`") | Improve semantic highlighting of `TypeAlias` |
- |  OP:492  |[4098](/issues/4098 "semantic highlight and hints for a TypedDict's get function.") | semantic highlight and hints for a TypedDict's get function. |
- |  OP:285  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
- |  OP:134  |[5611](/issues/5611 "Semantic Highlighting for Constants") | Semantic Highlighting for Constants |
- |  OP:134  |[5612](/issues/5612 "Semantic Token Type / Tooltip Info changes depending on order of Assignments") | Semantic Token Type / Tooltip Info changes depending on order of Assignments |
- |  OP:86  |[5810](/issues/5810 "Semantic colorization for quoted type annotations is inconsistent") | Semantic colorization for quoted type annotations is inconsistent |
- |  OP:80  |[5841](/issues/5841 "Add semantic token modifiers to callable variables.") | Add semantic token modifiers to callable variables. |
+ |  OP:776  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
+ |  OP:735  |[3100](/issues/3100 "Improve semantic highlighting of `TypeAlias`") | Improve semantic highlighting of `TypeAlias` |
+ |  OP:499  |[4098](/issues/4098 "semantic highlight and hints for a TypedDict's get function.") | semantic highlight and hints for a TypedDict's get function. |
+ |  OP:292  |[4944](/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
+ |  OP:141  |[5611](/issues/5611 "Semantic Highlighting for Constants") | Semantic Highlighting for Constants |
+ |  OP:141  |[5612](/issues/5612 "Semantic Token Type / Tooltip Info changes depending on order of Assignments") | Semantic Token Type / Tooltip Info changes depending on order of Assignments |
+ |  OP:93  |[5810](/issues/5810 "Semantic colorization for quoted type annotations is inconsistent") | Semantic colorization for quoted type annotations is inconsistent |
+ |  OP:87  |[5841](/issues/5841 "Add semantic token modifiers to callable variables.") | Add semantic token modifiers to callable variables. |
 
 
 
@@ -571,14 +557,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:769  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
- |  OP:684  |[3296](/issues/3296 "Display default parameter values instead of ellipses") | Display default parameter values instead of ellipses |
- |  OP:235  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
- |  OP:185  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
- |  OP:144  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
- |  OP:131  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
- |  OP:124  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
- |  OP:45  |[5977](/issues/5977 "Annoying intellisense: showing me parameter popup during editing str parameter") | Annoying intellisense: showing me parameter popup during editing str parameter |
+ |  OP:776  |[2913](/issues/2913 "Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function") | Semantic highlighing doesn't differentiate parameter passing by its name from usage inside the function |
+ |  OP:691  |[3296](/issues/3296 "Display default parameter values instead of ellipses") | Display default parameter values instead of ellipses |
+ |  OP:242  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
+ |  OP:192  |[5368](/issues/5368 "Add support for create function, class or parameter code actions depending on context") | Add support for create function, class or parameter code actions depending on context |
+ |  OP:151  |[5541](/issues/5541 "Syntax highlighting for PEP 695: Type Parameter Syntax") | Syntax highlighting for PEP 695: Type Parameter Syntax |
+ |  OP:138  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
+ |  OP:131  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
+ |  OP:52  |[5977](/issues/5977 "Annoying intellisense: showing me parameter popup during editing str parameter") | Annoying intellisense: showing me parameter popup during editing str parameter |
 
 
 
@@ -587,258 +573,30 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:643  |[3492](/issues/3492 "Cannot find 'decimal.Context' when typing 'decimal.ctxt'") | Cannot find 'decimal.Context' when typing 'decimal.ctxt' |
- |  OP:235  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
- |  OP:145  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
- |  OP:130  |[5638](/issues/5638 "&quot;Cannot find a symbol to move&quot; when moving symbol from/to filename with leading digit") | "Cannot find a symbol to move" when moving symbol from/to filename with leading digit |
- |  OP:86  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
- |  OP:75  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
- |  OP:52  |[5941](/issues/5941 "Find all references finds references in 3rd party libraries") | Find all references finds references in 3rd party libraries |
- |  OP:34  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
+ |  OP:650  |[3492](/issues/3492 "Cannot find 'decimal.Context' when typing 'decimal.ctxt'") | Cannot find 'decimal.Context' when typing 'decimal.ctxt' |
+ |  OP:242  |[5175](/issues/5175 "Find all references doesn't look in closed notebook files") | Find all references doesn't look in closed notebook files |
+ |  OP:152  |[5524](/issues/5524 "Find all references doesn't highlight all the references in notebook") | Find all references doesn't highlight all the references in notebook |
+ |  OP:137  |[5638](/issues/5638 "&quot;Cannot find a symbol to move&quot; when moving symbol from/to filename with leading digit") | "Cannot find a symbol to move" when moving symbol from/to filename with leading digit |
+ |  OP:93  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
+ |  OP:82  |[5858](/issues/5858 "Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file") | Show Type Hierarchy in notebook fails to find subtypes of type imported from .py file |
+ |  OP:59  |[5941](/issues/5941 "Find all references finds references in 3rd party libraries") | Find all references finds references in 3rd party libraries |
+ |  OP:41  |[6026](/issues/6026 "Find All References on list comprehension var in notebook cell includes results from outer name scope") | Find All References on list comprehension var in notebook cell includes results from outer name scope |
 
 
 
 
-### Issues with term 'action'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:467  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
- |  OP:236  |[5161](/issues/5161 "undo for code action `add extraPaths` doesn't work.") | undo for code action `add extraPaths` doesn't work. |
- |  OP:236  |[5162](/issues/5162 "Undo for code action `Rename shadowing file` doesn't work") | Undo for code action `Rename shadowing file` doesn't work |
- |  OP:233  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
- |  OP:173  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
- |  OP:132  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
- |  OP:124  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
-
-
-
-
-### Issues with term 'argument'
+### Issues with term 'string'
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:430  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
- |  OP:396  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
- |  OP:179  |[5392](/issues/5392 "`python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches") | `python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches |
- |  OP:163  |[5456](/issues/5456 "Incorrect function argument indentation") | Incorrect function argument indentation |
- |  OP:136  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
- |  OP:135  |[5607](/issues/5607 "Documentation on dataclass constructor argument typed as optional with default value does not show the full type") | Documentation on dataclass constructor argument typed as optional with default value does not show the full type |
- |  OP:25  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
-
-
-
-
-### Issues with term 'hint'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:396  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
- |  OP:269  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
- |  OP:230  |[5210](/issues/5210 "Feature request: Support 'go to def' and interacting with inlay hint components") | Feature request: Support 'go to def' and interacting with inlay hint components |
- |  OP:196  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
- |  OP:115  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
- |  OP:66  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
- |  OP:18  |[6096](/issues/6096 "Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys'") | Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys' |
-
-
-
-
-### Issues with term 'completions'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:367  |[4635](/issues/4635 "Support a python runtime in the browser (at least for completions and such)") | Support a python runtime in the browser (at least for completions and such) |
- |  OP:313  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
- |  OP:242  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
- |  OP:144  |[5537](/issues/5537 "Completions from extra paths are not updated when extra path items are changed") | Completions from extra paths are not updated when extra path items are changed |
- |  OP:144  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
- |  OP:95  |[5773](/issues/5773 "Offer `self.` completions for methods and attributes") | Offer `self.` completions for methods and attributes |
- |  OP:58  |[5915](/issues/5915 "Better string completions") | Better string completions |
-
-
-
-
-### Issues with term 'docstring'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:300  |[4881](/issues/4881 "Pylance doesn't show docstring for pandas") | Pylance doesn't show docstring for pandas |
- |  OP:261  |[5079](/issues/5079 "Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function)") | Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function) |
- |  OP:82  |[5831](/issues/5831 "No docstring shown for `dict.update`") | No docstring shown for `dict.update` |
- |  OP:52  |[5944](/issues/5944 "Docstring templating") | Docstring templating |
- |  OP:31  |[6042](/issues/6042 "Docstring references could have links that goto def on the reference") | Docstring references could have links that goto def on the reference |
- |  OP:19  |[6088](/issues/6088 "No docstring shown for `np.zeros` in numpy 2.0") | No docstring shown for `np.zeros` in numpy 2.0 |
- |  OP:16  |[6100](/issues/6100 "Sphinx Style Docstring Incorrectly Rendering &quot;Other Parameters&quot;") | Sphinx Style Docstring Incorrectly Rendering "Other Parameters" |
-
-
-
-
-### Issues with term 'virtual'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:277  |[4975](/issues/4975 "Add a warning when writing a Python file inside virtual environments ") | Add a warning when writing a Python file inside virtual environments  |
- |  OP:235  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
- |  OP:179  |[5394](/issues/5394 "Virtual workspaces seem to have limited setting set (like the browser version)") | Virtual workspaces seem to have limited setting set (like the browser version) |
- |  OP:143  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
- |  OP:86  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
- |  OP:86  |[5811](/issues/5811 "Virtual workspace has duplicates for show call hierarchy") | Virtual workspace has duplicates for show call hierarchy |
- |  OP:19  |[6091](/issues/6091 "enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments.") | enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments. |
-
-
-
-
-### Issues with term 'package'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:193  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
- |  OP:165  |[5448](/issues/5448 "Pylance Fail to read package source") | Pylance Fail to read package source |
- |  OP:149  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
- |  OP:128  |[5650](/issues/5650 "Importing from tests prefers deeper imports over package entry-point") | Importing from tests prefers deeper imports over package entry-point |
- |  OP:124  |[5660](/issues/5660 "Add imports favors 3rd party imports over current package") | Add imports favors 3rd party imports over current package |
- |  OP:51  |[5953](/issues/5953 "Default package index depth for django should be higher") | Default package index depth for django should be higher |
- |  OP:29  |[6050](/issues/6050 "&quot;Import could not be resolved&quot; after installing the package") | "Import could not be resolved" after installing the package |
-
-
-
-
-### Issues with term 'paths'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:931  |[2226](/issues/2226 "vscode resolves paths with `..` in them even if the directory doesn't exist / has invalid name") | vscode resolves paths with `..` in them even if the directory doesn't exist / has invalid name |
- |  OP:290  |[4926](/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
- |  OP:254  |[5104](/issues/5104 "Add paths next to references when &quot;Show Call Hierarchy&quot; is run") | Add paths next to references when "Show Call Hierarchy" is run |
- |  OP:233  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
- |  OP:186  |[5364](/issues/5364 "Globs in extra paths") | Globs in extra paths |
- |  OP:144  |[5537](/issues/5537 "Completions from extra paths are not updated when extra path items are changed") | Completions from extra paths are not updated when extra path items are changed |
-
-
-
-
-### Issues with term 'command'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:819  |[3114](/issues/3114 "Assign to variable from commented-out magic command") | Assign to variable from commented-out magic command |
- |  OP:355  |[4677](/issues/4677 "Add a &quot;fold all docstrings&quot; command") | Add a "fold all docstrings" command |
- |  OP:269  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
- |  OP:236  |[5164](/issues/5164 "pyright command except generate stub is not connected to pylance") | pyright command except generate stub is not connected to pylance |
- |  OP:145  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
- |  OP:145  |[5527](/issues/5527 "Search imports command doesn't always show results") | Search imports command doesn't always show results |
-
-
-
-
-### Issues with term 'definition'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:715  |[3153](/issues/3153 "Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions.") | Extract variable and method on arguments of decorator which precedes function definition doesn't create required definitions. |
- |  OP:159  |[5464](/issues/5464 "Autocomplete for function definition using a TypeAlias is broken ") | Autocomplete for function definition using a TypeAlias is broken  |
- |  OP:158  |[5472](/issues/5472 "Can't go to definition on `shutil.rmtree`") | Can't go to definition on `shutil.rmtree` |
- |  OP:131  |[5627](/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
- |  OP:52  |[5942](/issues/5942 "Go to definition when already on a definition of a variable jumps to the first use") | Go to definition when already on a definition of a variable jumps to the first use |
- |  OP:39  |[6000](/issues/6000 "&quot;No definition found for&quot; property") | "No definition found for" property |
-
-
-
-
-### Issues with term 'provide'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:598  |[3701](/issues/3701 "Provide improved support for django") | Provide improved support for django |
- |  OP:565  |[3798](/issues/3798 "Provide improved support for pandas") | Provide improved support for pandas |
- |  OP:171  |[5437](/issues/5437 "provide an option for import style when import statement is automatically inserted.") | provide an option for import style when import statement is automatically inserted. |
- |  OP:145  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
- |  OP:54  |[5932](/issues/5932 "provide standalone file mode") | provide standalone file mode |
- |  OP:13  |[6106](/issues/6106 "Provide a way to disable unreachability hints") | Provide a way to disable unreachability hints |
-
-
-
-
-### Issues with term 'pytest'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:508  |[4026](/issues/4026 "Explicit completion invocation without any pretext doesn't show pytest fixture") | Explicit completion invocation without any pretext doesn't show pytest fixture |
- |  OP:297  |[4900](/issues/4900 "Unimported pytest fixtures are recognized by hover") | Unimported pytest fixtures are recognized by hover |
- |  OP:235  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
- |  OP:231  |[5203](/issues/5203 "Pytest fixtures and tests do not have autocompletion for types") | Pytest fixtures and tests do not have autocompletion for types |
- |  OP:177  |[5410](/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
- |  OP:115  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
-
-
-
-
-### Issues with term 'slow'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:467  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
- |  OP:247  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
- |  OP:181  |[5381](/issues/5381 "Enabling sync server makes web version super slow") | Enabling sync server makes web version super slow |
- |  OP:157  |[5475](/issues/5475 "Extremely slow renaming folders") | Extremely slow renaming folders |
- |  OP:123  |[5667](/issues/5667 "Analysis of a notebook can be slow") | Analysis of a notebook can be slow |
- |  OP:9  |[6124](/issues/6124 "Imrpoved debugging output for slow indexing") | Imrpoved debugging output for slow indexing |
-
-
-
-
-### Issues with term 'quick'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:467  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
- |  OP:233  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
- |  OP:221  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
- |  OP:132  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
- |  OP:123  |[5673](/issues/5673 "Quick fix does not respect analysis exclude path") | Quick fix does not respect analysis exclude path |
- |  OP:87  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
-
-
-
-
-### Issues with term 'docstrings'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:270  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
- |  OP:177  |[5410](/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
- |  OP:172  |[5429](/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
- |  OP:81  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
- |  OP:38  |[6010](/issues/6010 "Sphinx style docstrings claim that return value is named `out`") | Sphinx style docstrings claim that return value is named `out` |
- |  OP:9  |[6127](/issues/6127 "Incorrect Rendering of Google Style Docstrings in Pylance") | Incorrect Rendering of Google Style Docstrings in Pylance |
-
-
-
-
-### Issues with term 'local'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:236  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
- |  OP:143  |[5550](/issues/5550 "Generated relative local imports are mixed with absolute local imports") | Generated relative local imports are mixed with absolute local imports |
- |  OP:124  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
- |  OP:122  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
- |  OP:81  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
- |  OP:0  |[6164](/issues/6164 "Marks local imports as &quot;missing&quot;") | Marks local imports as "missing" |
-
-
-
-
-### Issues with term 'stubs'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:857  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
- |  OP:493  |[4094](/issues/4094 "Pyright users should be able to get all Pylance bundled stubs from a single place") | Pyright users should be able to get all Pylance bundled stubs from a single place |
- |  OP:268  |[5031](/issues/5031 "Installed stubs don't take precedence over bundled stubs") | Installed stubs don't take precedence over bundled stubs |
- |  OP:145  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
- |  OP:33  |[6029](/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
+ |  OP:412  |[4489](/issues/4489 "Convert string to f-string when adding brackets around a text selection") | Convert string to f-string when adding brackets around a text selection |
+ |  OP:203  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
+ |  OP:153  |[5521](/issues/5521 "# in raw string not highlighted as string") | # in raw string not highlighted as string |
+ |  OP:143  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
+ |  OP:131  |[5659](/issues/5659 "String interpolation (f strings) is breaking autocomplete") | String interpolation (f strings) is breaking autocomplete |
+ |  OP:113  |[5733](/issues/5733 "Long string changes color if split it and add &quot;\&quot; to the end ") | Long string changes color if split it and add "\" to the end  |
+ |  OP:65  |[5915](/issues/5915 "Better string completions") | Better string completions |
+ |  OP:46  |[6004](/issues/6004 "Doc string for sqlalchemy.column is misformatted") | Doc string for sqlalchemy.column is misformatted |
 
 
 
@@ -847,11 +605,215 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:626  |[3573](/issues/3573 "The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available") | The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available |
- |  OP:498  |[4059](/issues/4059 "Pylance shows non-public exports in completion suggestions") | Pylance shows non-public exports in completion suggestions |
- |  OP:262  |[5072](/issues/5072 "Filters for autoimport suggestions") | Filters for autoimport suggestions |
- |  OP:193  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
- |  OP:117  |[5689](/issues/5689 "Intellisense not working when using pylance (no suggestions Ctrl+Space)") | Intellisense not working when using pylance (no suggestions Ctrl+Space) |
+ |  OP:633  |[3573](/issues/3573 "The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available") | The autocomplete popup should not appear on typing a left square bracket if no specific suggestions are available |
+ |  OP:505  |[4059](/issues/4059 "Pylance shows non-public exports in completion suggestions") | Pylance shows non-public exports in completion suggestions |
+ |  OP:269  |[5072](/issues/5072 "Filters for autoimport suggestions") | Filters for autoimport suggestions |
+ |  OP:200  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
+ |  OP:124  |[5689](/issues/5689 "Intellisense not working when using pylance (no suggestions Ctrl+Space)") | Intellisense not working when using pylance (no suggestions Ctrl+Space) |
+ |  OP:4  |[6188](/issues/6188 "Inline suggestions not working if bracket not closed") | Inline suggestions not working if bracket not closed |
+ |  OP:0  |[6203](/issues/6203 "Pylance + VS Code - Inline Quick Suggestions swapping with each keypress") | Pylance + VS Code - Inline Quick Suggestions swapping with each keypress |
+
+
+
+
+### Issues with term 'quick'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:474  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
+ |  OP:240  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
+ |  OP:228  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
+ |  OP:139  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
+ |  OP:130  |[5673](/issues/5673 "Quick fix does not respect analysis exclude path") | Quick fix does not respect analysis exclude path |
+ |  OP:94  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
+ |  OP:0  |[6203](/issues/6203 "Pylance + VS Code - Inline Quick Suggestions swapping with each keypress") | Pylance + VS Code - Inline Quick Suggestions swapping with each keypress |
+
+
+
+
+### Issues with term 'action'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:474  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
+ |  OP:243  |[5161](/issues/5161 "undo for code action `add extraPaths` doesn't work.") | undo for code action `add extraPaths` doesn't work. |
+ |  OP:243  |[5162](/issues/5162 "Undo for code action `Rename shadowing file` doesn't work") | Undo for code action `Rename shadowing file` doesn't work |
+ |  OP:240  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
+ |  OP:180  |[5425](/issues/5425 "&quot;Add import&quot; code action can add import after imported symbol usage") | "Add import" code action can add import after imported symbol usage |
+ |  OP:139  |[5624](/issues/5624 "Code action to insert assert to narrow type") | Code action to insert assert to narrow type |
+ |  OP:131  |[5662](/issues/5662 "Code action named &quot;Extract method&quot; even when not in a class context") | Code action named "Extract method" even when not in a class context |
+
+
+
+
+### Issues with term 'argument'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:437  |[4391](/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
+ |  OP:403  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
+ |  OP:186  |[5392](/issues/5392 "`python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches") | `python.analysis.inlayHints.callArgumentNames`: Option to exclude argument names when the variable name matches |
+ |  OP:170  |[5456](/issues/5456 "Incorrect function argument indentation") | Incorrect function argument indentation |
+ |  OP:143  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
+ |  OP:142  |[5607](/issues/5607 "Documentation on dataclass constructor argument typed as optional with default value does not show the full type") | Documentation on dataclass constructor argument typed as optional with default value does not show the full type |
+ |  OP:32  |[6066](/issues/6066 "Wrong argument provided during auto completion if inside a collection") | Wrong argument provided during auto completion if inside a collection |
+
+
+
+
+### Issues with term 'hint'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:403  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
+ |  OP:276  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
+ |  OP:237  |[5210](/issues/5210 "Feature request: Support 'go to def' and interacting with inlay hint components") | Feature request: Support 'go to def' and interacting with inlay hint components |
+ |  OP:203  |[5333](/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
+ |  OP:122  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
+ |  OP:73  |[5890](/issues/5890 "a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint") | a subclass member variable is not recognized as the same variable in superclass unless it has an explicit type hint |
+ |  OP:25  |[6096](/issues/6096 "Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys'") | Trying to insert a 'NoReturn' inlay hint prefixes it with 'sys' |
+
+
+
+
+### Issues with term 'completions'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:374  |[4635](/issues/4635 "Support a python runtime in the browser (at least for completions and such)") | Support a python runtime in the browser (at least for completions and such) |
+ |  OP:320  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
+ |  OP:249  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
+ |  OP:151  |[5537](/issues/5537 "Completions from extra paths are not updated when extra path items are changed") | Completions from extra paths are not updated when extra path items are changed |
+ |  OP:151  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
+ |  OP:102  |[5773](/issues/5773 "Offer `self.` completions for methods and attributes") | Offer `self.` completions for methods and attributes |
+ |  OP:65  |[5915](/issues/5915 "Better string completions") | Better string completions |
+
+
+
+
+### Issues with term 'docstring'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:307  |[4881](/issues/4881 "Pylance doesn't show docstring for pandas") | Pylance doesn't show docstring for pandas |
+ |  OP:268  |[5079](/issues/5079 "Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function)") | Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function) |
+ |  OP:89  |[5831](/issues/5831 "No docstring shown for `dict.update`") | No docstring shown for `dict.update` |
+ |  OP:59  |[5944](/issues/5944 "Docstring templating") | Docstring templating |
+ |  OP:38  |[6042](/issues/6042 "Docstring references could have links that goto def on the reference") | Docstring references could have links that goto def on the reference |
+ |  OP:26  |[6088](/issues/6088 "No docstring shown for `np.zeros` in numpy 2.0") | No docstring shown for `np.zeros` in numpy 2.0 |
+ |  OP:2  |[6197](/issues/6197 "Docstring rst table indentation does not work") | Docstring rst table indentation does not work |
+
+
+
+
+### Issues with term 'virtual'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:284  |[4975](/issues/4975 "Add a warning when writing a Python file inside virtual environments ") | Add a warning when writing a Python file inside virtual environments  |
+ |  OP:242  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
+ |  OP:186  |[5394](/issues/5394 "Virtual workspaces seem to have limited setting set (like the browser version)") | Virtual workspaces seem to have limited setting set (like the browser version) |
+ |  OP:150  |[5548](/issues/5548 "Cross workspace references don't work in virtual workspace scenaro") | Cross workspace references don't work in virtual workspace scenaro |
+ |  OP:93  |[5809](/issues/5809 "In a virtual workspace find all references ends up with duplicates") | In a virtual workspace find all references ends up with duplicates |
+ |  OP:93  |[5811](/issues/5811 "Virtual workspace has duplicates for show call hierarchy") | Virtual workspace has duplicates for show call hierarchy |
+ |  OP:26  |[6091](/issues/6091 "enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments.") | enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments. |
+
+
+
+
+### Issues with term 'package'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:200  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
+ |  OP:172  |[5448](/issues/5448 "Pylance Fail to read package source") | Pylance Fail to read package source |
+ |  OP:156  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
+ |  OP:135  |[5650](/issues/5650 "Importing from tests prefers deeper imports over package entry-point") | Importing from tests prefers deeper imports over package entry-point |
+ |  OP:131  |[5660](/issues/5660 "Add imports favors 3rd party imports over current package") | Add imports favors 3rd party imports over current package |
+ |  OP:58  |[5953](/issues/5953 "Default package index depth for django should be higher") | Default package index depth for django should be higher |
+ |  OP:36  |[6050](/issues/6050 "&quot;Import could not be resolved&quot; after installing the package") | "Import could not be resolved" after installing the package |
+
+
+
+
+### Issues with term 'paths'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:938  |[2226](/issues/2226 "vscode resolves paths with `..` in them even if the directory doesn't exist / has invalid name") | vscode resolves paths with `..` in them even if the directory doesn't exist / has invalid name |
+ |  OP:297  |[4926](/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
+ |  OP:261  |[5104](/issues/5104 "Add paths next to references when &quot;Show Call Hierarchy&quot; is run") | Add paths next to references when "Show Call Hierarchy" is run |
+ |  OP:240  |[5195](/issues/5195 "Add to extra paths quick action doesn't resolve import error") | Add to extra paths quick action doesn't resolve import error |
+ |  OP:193  |[5364](/issues/5364 "Globs in extra paths") | Globs in extra paths |
+ |  OP:151  |[5537](/issues/5537 "Completions from extra paths are not updated when extra path items are changed") | Completions from extra paths are not updated when extra path items are changed |
+
+
+
+
+### Issues with term 'command'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:826  |[3114](/issues/3114 "Assign to variable from commented-out magic command") | Assign to variable from commented-out magic command |
+ |  OP:362  |[4677](/issues/4677 "Add a &quot;fold all docstrings&quot; command") | Add a "fold all docstrings" command |
+ |  OP:276  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
+ |  OP:243  |[5164](/issues/5164 "pyright command except generate stub is not connected to pylance") | pyright command except generate stub is not connected to pylance |
+ |  OP:152  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
+ |  OP:152  |[5527](/issues/5527 "Search imports command doesn't always show results") | Search imports command doesn't always show results |
+
+
+
+
+### Issues with term 'errors'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:537  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
+ |  OP:440  |[4368](/issues/4368 "Import resolution errors should show more information about the environment in use") | Import resolution errors should show more information about the environment in use |
+ |  OP:72  |[5892](/issues/5892 "Multiple libraries not recognized with errors is not a known attribute of module") | Multiple libraries not recognized with errors is not a known attribute of module |
+ |  OP:40  |[6029](/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
+ |  OP:5  |[6176](/issues/6176 "Catch &quot;not is&quot; errors") | Catch "not is" errors |
+ |  OP:5  |[6178](/issues/6178 "Pylance reports false errors then crashes") | Pylance reports false errors then crashes |
+
+
+
+
+### Issues with term 'pytest'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:515  |[4026](/issues/4026 "Explicit completion invocation without any pretext doesn't show pytest fixture") | Explicit completion invocation without any pretext doesn't show pytest fixture |
+ |  OP:304  |[4900](/issues/4900 "Unimported pytest fixtures are recognized by hover") | Unimported pytest fixtures are recognized by hover |
+ |  OP:242  |[5179](/issues/5179 "pytest parameter completion doesn't include fixtures unless at least one char is typed.") | pytest parameter completion doesn't include fixtures unless at least one char is typed. |
+ |  OP:238  |[5203](/issues/5203 "Pytest fixtures and tests do not have autocompletion for types") | Pytest fixtures and tests do not have autocompletion for types |
+ |  OP:184  |[5410](/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
+ |  OP:122  |[5702](/issues/5702 "No type or autocomplete present in test function despite pytest fixture having type hint on mouseover") | No type or autocomplete present in test function despite pytest fixture having type hint on mouseover |
+
+
+
+
+### Issues with term 'stubs'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:864  |[2486](/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
+ |  OP:500  |[4094](/issues/4094 "Pyright users should be able to get all Pylance bundled stubs from a single place") | Pyright users should be able to get all Pylance bundled stubs from a single place |
+ |  OP:275  |[5031](/issues/5031 "Installed stubs don't take precedence over bundled stubs") | Installed stubs don't take precedence over bundled stubs |
+ |  OP:152  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
+ |  OP:40  |[6029](/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
+
+
+
+
+### Issues with term 'provide'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:605  |[3701](/issues/3701 "Provide improved support for django") | Provide improved support for django |
+ |  OP:572  |[3798](/issues/3798 "Provide improved support for pandas") | Provide improved support for pandas |
+ |  OP:178  |[5437](/issues/5437 "provide an option for import style when import statement is automatically inserted.") | provide an option for import style when import statement is automatically inserted. |
+ |  OP:152  |[5526](/issues/5526 "Provide command to generate partial stubs in typings folder") | Provide command to generate partial stubs in typings folder |
+ |  OP:61  |[5932](/issues/5932 "provide standalone file mode") | provide standalone file mode |
 
 
 
@@ -860,11 +822,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:530  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
- |  OP:508  |[4036](/issues/4036 "Code folding on `with` blocks breaks on multi-line `with` statement.") | Code folding on `with` blocks breaks on multi-line `with` statement. |
- |  OP:149  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
- |  OP:136  |[5618](/issues/5618 "Intellisense breaks with this extension in docker.") | Intellisense breaks with this extension in docker. |
- |  OP:90  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
+ |  OP:537  |[3921](/issues/3921 "Python Autocomplete breaks when there are common syntax errors") | Python Autocomplete breaks when there are common syntax errors |
+ |  OP:515  |[4036](/issues/4036 "Code folding on `with` blocks breaks on multi-line `with` statement.") | Code folding on `with` blocks breaks on multi-line `with` statement. |
+ |  OP:156  |[5508](/issues/5508 "Custom partial type package breaks other imports") | Custom partial type package breaks other imports |
+ |  OP:143  |[5618](/issues/5618 "Intellisense breaks with this extension in docker.") | Intellisense breaks with this extension in docker. |
+ |  OP:97  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
 
 
 
@@ -873,11 +835,24 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:493  |[4094](/issues/4094 "Pyright users should be able to get all Pylance bundled stubs from a single place") | Pyright users should be able to get all Pylance bundled stubs from a single place |
- |  OP:279  |[4965](/issues/4965 "Mention in Pyright docs how to override Pyright settings in Pylance") | Mention in Pyright docs how to override Pyright settings in Pylance |
- |  OP:236  |[5164](/issues/5164 "pyright command except generate stub is not connected to pylance") | pyright command except generate stub is not connected to pylance |
- |  OP:230  |[5207](/issues/5207 "Allow specifying Pyright ") | Allow specifying Pyright  |
- |  OP:194  |[5432](/issues/5432 "Pyright is using Incorrect Interpreter Path") | Pyright is using Incorrect Interpreter Path |
+ |  OP:500  |[4094](/issues/4094 "Pyright users should be able to get all Pylance bundled stubs from a single place") | Pyright users should be able to get all Pylance bundled stubs from a single place |
+ |  OP:286  |[4965](/issues/4965 "Mention in Pyright docs how to override Pyright settings in Pylance") | Mention in Pyright docs how to override Pyright settings in Pylance |
+ |  OP:243  |[5164](/issues/5164 "pyright command except generate stub is not connected to pylance") | pyright command except generate stub is not connected to pylance |
+ |  OP:237  |[5207](/issues/5207 "Allow specifying Pyright ") | Allow specifying Pyright  |
+ |  OP:201  |[5432](/issues/5432 "Pyright is using Incorrect Interpreter Path") | Pyright is using Incorrect Interpreter Path |
+
+
+
+
+### Issues with term 'slow'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:474  |[4228](/issues/4228 "Slow hover/completions could put up a quick action to switch to 'super' trace mode") | Slow hover/completions could put up a quick action to switch to 'super' trace mode |
+ |  OP:254  |[5128](/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
+ |  OP:188  |[5381](/issues/5381 "Enabling sync server makes web version super slow") | Enabling sync server makes web version super slow |
+ |  OP:164  |[5475](/issues/5475 "Extremely slow renaming folders") | Extremely slow renaming folders |
+ |  OP:130  |[5667](/issues/5667 "Analysis of a notebook can be slow") | Analysis of a notebook can be slow |
 
 
 
@@ -886,11 +861,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:437  |[4354](/issues/4354 "New line leaves a trailing whitespace") | New line leaves a trailing whitespace |
- |  OP:174  |[5415](/issues/5415 "Indentation format is enforcing auto pep 8 even when the previous line is at a different indent") | Indentation format is enforcing auto pep 8 even when the previous line is at a different indent |
- |  OP:143  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
- |  OP:90  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
- |  OP:20  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
+ |  OP:444  |[4354](/issues/4354 "New line leaves a trailing whitespace") | New line leaves a trailing whitespace |
+ |  OP:181  |[5415](/issues/5415 "Indentation format is enforcing auto pep 8 even when the previous line is at a different indent") | Indentation format is enforcing auto pep 8 even when the previous line is at a different indent |
+ |  OP:150  |[5554](/issues/5554 "Auto import grouping doesnt add blank line between groups in specific order") | Auto import grouping doesnt add blank line between groups in specific order |
+ |  OP:97  |[5791](/issues/5791 "Syntax highlighting breaks down if you line break at curly bracket in f-strings") | Syntax highlighting breaks down if you line break at curly bracket in f-strings |
+ |  OP:27  |[6083](/issues/6083 "Inlay hints get stuck on the wrong line") | Inlay hints get stuck on the wrong line |
 
 
 
@@ -899,11 +874,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:396  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
- |  OP:290  |[4925](/issues/4925 "No Intellisense in python interactive window until running the first cell") | No Intellisense in python interactive window until running the first cell |
- |  OP:136  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
- |  OP:87  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
- |  OP:52  |[5942](/issues/5942 "Go to definition when already on a definition of a variable jumps to the first use") | Go to definition when already on a definition of a variable jumps to the first use |
+ |  OP:403  |[4525](/issues/4525 "`__` prefixed first argument of function gets `/` instead of `=` in inlay hint") | `__` prefixed first argument of function gets `/` instead of `=` in inlay hint |
+ |  OP:297  |[4925](/issues/4925 "No Intellisense in python interactive window until running the first cell") | No Intellisense in python interactive window until running the first cell |
+ |  OP:143  |[5600](/issues/5600 "Rename function must also handle first argument of Annotated if it is string") | Rename function must also handle first argument of Annotated if it is string |
+ |  OP:94  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
+ |  OP:59  |[5942](/issues/5942 "Go to definition when already on a definition of a variable jumps to the first use") | Go to definition when already on a definition of a variable jumps to the first use |
 
 
 
@@ -912,11 +887,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:326  |[4777](/issues/4777 "offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace") | offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace |
- |  OP:235  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
- |  OP:143  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
- |  OP:86  |[5812](/issues/5812 "Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote") | Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote |
- |  OP:6  |[6146](/issues/6146 "User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name") | User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name |
+ |  OP:333  |[4777](/issues/4777 "offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace") | offer to add `**/.venv` to `exclude` if user has explicit `exclude` but `.venv` is not part of it and pylance think it is part of user workspace |
+ |  OP:242  |[5169](/issues/5169 "Virtual envs in the workspace are treated as user source") | Virtual envs in the workspace are treated as user source |
+ |  OP:150  |[5551](/issues/5551 "When &quot;Move symbol&quot; code actions are disabled, tell user why the symbol cannot be moved") | When "Move symbol" code actions are disabled, tell user why the symbol cannot be moved |
+ |  OP:93  |[5812](/issues/5812 "Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote") | Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote |
+ |  OP:13  |[6146](/issues/6146 "User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name") | User should be alerted somehow if `${workspaceFolder:foo}` references unknown folder name |
 
 
 
@@ -925,11 +900,24 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:313  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
- |  OP:242  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
- |  OP:231  |[5203](/issues/5203 "Pytest fixtures and tests do not have autocompletion for types") | Pytest fixtures and tests do not have autocompletion for types |
- |  OP:193  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
- |  OP:111  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
+ |  OP:320  |[4831](/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
+ |  OP:249  |[5141](/issues/5141 "Prioritize completions for class types from union types in `match`/`case`") | Prioritize completions for class types from union types in `match`/`case` |
+ |  OP:238  |[5203](/issues/5203 "Pytest fixtures and tests do not have autocompletion for types") | Pytest fixtures and tests do not have autocompletion for types |
+ |  OP:200  |[5345](/issues/5345 "Sort Quickfix suggestions on assignment types should prefer types from the package you are calling") | Sort Quickfix suggestions on assignment types should prefer types from the package you are calling |
+ |  OP:118  |[5714](/issues/5714 "Inlay hints for aliased types show non-aliased symbol name") | Inlay hints for aliased types show non-aliased symbol name |
+
+
+
+
+### Issues with term 'docstrings'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:277  |[5006](/issues/5006 "TypedDict hover text does not show docstrings for inherited key type hints") | TypedDict hover text does not show docstrings for inherited key type hints |
+ |  OP:184  |[5410](/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
+ |  OP:179  |[5429](/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
+ |  OP:88  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
+ |  OP:45  |[6010](/issues/6010 "Sphinx style docstrings claim that return value is named `out`") | Sphinx style docstrings claim that return value is named `out` |
 
 
 
@@ -938,11 +926,24 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:269  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
- |  OP:221  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
- |  OP:132  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
- |  OP:123  |[5673](/issues/5673 "Quick fix does not respect analysis exclude path") | Quick fix does not respect analysis exclude path |
- |  OP:87  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
+ |  OP:276  |[5012](/issues/5012 "fix all inlay hint command") | fix all inlay hint command |
+ |  OP:228  |[5254](/issues/5254 "Offer quick fix suggestion to update type annotation ") | Offer quick fix suggestion to update type annotation  |
+ |  OP:139  |[5625](/issues/5625 "Quick fix add import depends upon a file being open") | Quick fix add import depends upon a file being open |
+ |  OP:130  |[5673](/issues/5673 "Quick fix does not respect analysis exclude path") | Quick fix does not respect analysis exclude path |
+ |  OP:94  |[5805](/issues/5805 "Add imports don't show up on first quick fix") | Add imports don't show up on first quick fix |
+
+
+
+
+### Issues with term 'local'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:243  |[5159](/issues/5159 "Auto import doesn't work for local modules") | Auto import doesn't work for local modules |
+ |  OP:150  |[5550](/issues/5550 "Generated relative local imports are mixed with absolute local imports") | Generated relative local imports are mixed with absolute local imports |
+ |  OP:131  |[5661](/issues/5661 "Extract Method unexpectedly adds type parameter for local type") | Extract Method unexpectedly adds type parameter for local type |
+ |  OP:129  |[5669](/issues/5669 "A local variable is being treated as type 'Never' in an except handler") | A local variable is being treated as type 'Never' in an except handler |
+ |  OP:88  |[5836](/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
 
 
 
@@ -951,11 +952,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:234  |[5185](/issues/5185 "Edge case in `Auto Format Strings` setting feature") | Edge case in `Auto Format Strings` setting feature |
- |  OP:179  |[5394](/issues/5394 "Virtual workspaces seem to have limited setting set (like the browser version)") | Virtual workspaces seem to have limited setting set (like the browser version) |
- |  OP:86  |[5812](/issues/5812 "Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote") | Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote |
- |  OP:84  |[5820](/issues/5820 "Allow setting --max-old-space-size when using python.analysis.nodeExecutable") | Allow setting --max-old-space-size when using python.analysis.nodeExecutable |
- |  OP:30  |[6047](/issues/6047 "Setting &quot;python.analysis.nodeExecutable&quot; requires a manual confirmation?") | Setting "python.analysis.nodeExecutable" requires a manual confirmation? |
+ |  OP:241  |[5185](/issues/5185 "Edge case in `Auto Format Strings` setting feature") | Edge case in `Auto Format Strings` setting feature |
+ |  OP:186  |[5394](/issues/5394 "Virtual workspaces seem to have limited setting set (like the browser version)") | Virtual workspaces seem to have limited setting set (like the browser version) |
+ |  OP:93  |[5812](/issues/5812 "Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote") | Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote |
+ |  OP:91  |[5820](/issues/5820 "Allow setting --max-old-space-size when using python.analysis.nodeExecutable") | Allow setting --max-old-space-size when using python.analysis.nodeExecutable |
+ |  OP:37  |[6047](/issues/6047 "Setting &quot;python.analysis.nodeExecutable&quot; requires a manual confirmation?") | Setting "python.analysis.nodeExecutable" requires a manual confirmation? |
 
 
 
@@ -964,8 +965,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:203  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
- |  OP:185  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
- |  OP:144  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
- |  OP:81  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
- |  OP:38  |[6010](/issues/6010 "Sphinx style docstrings claim that return value is named `out`") | Sphinx style docstrings claim that return value is named `out` |
+ |  OP:210  |[5312](/issues/5312 "Show function return value documentation on hover over the `->` annotation") | Show function return value documentation on hover over the `->` annotation |
+ |  OP:192  |[5367](/issues/5367 "Remove return type from __init__ override member completion") | Remove return type from __init__ override member completion |
+ |  OP:151  |[5542](/issues/5542 "Derived method completions use incorrect return type annotations when differing by `async` modifier.") | Derived method completions use incorrect return type annotations when differing by `async` modifier. |
+ |  OP:88  |[5840](/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
+ |  OP:45  |[6010](/issues/6010 "Sphinx style docstrings claim that return value is named `out`") | Sphinx style docstrings claim that return value is named `out` |
