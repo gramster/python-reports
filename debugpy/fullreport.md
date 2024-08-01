@@ -142,7 +142,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  TM:594, OP:591  |[1155](https://github.com/microsoft/debugpy/issues/1155 "Python debugger breaks on caught exception within a decorator and context manager") | Python debugger breaks on caught exception within a decorator and context manager |
  |  TM:657, OP:657  |[1085](https://github.com/microsoft/debugpy/issues/1085 "Return scope metadata on ScopesRequest") | Return scope metadata on ScopesRequest |
  |  TM:647, OP:646  |[1097](https://github.com/microsoft/debugpy/issues/1097 "debugpy.configure(python=) is not properly documented") | debugpy.configure(python=) is not properly documented |
- |  TM:623, OP:622  |[1130](https://github.com/microsoft/debugpy/issues/1130 "Allow server to configure its root") | Allow server to configure its root |
+ |  TM:623, OP:623  |[1130](https://github.com/microsoft/debugpy/issues/1130 "Allow server to configure its root") | Allow server to configure its root |
  |  TM:573, OP:569  |[1167](https://github.com/microsoft/debugpy/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
  |  TM:568, OP:567  |[1169](https://github.com/microsoft/debugpy/issues/1169 "Missing examples of configurations") | Missing examples of configurations |
  |  TM:562, OP:561  |[1172](https://github.com/microsoft/debugpy/issues/1172 "atexit not respected in subprocess.Popen") | atexit not respected in subprocess.Popen |
@@ -153,7 +153,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  TM:324, OP:320  |[1346](https://github.com/microsoft/debugpy/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
  |  TM:192, OP:76  |[1496](https://github.com/microsoft/debugpy/issues/1496 "Python 3.12 runs much slower than Python 3.11") | Python 3.12 runs much slower than Python 3.11 |
  |  TM:184, OP:183  |[1505](https://github.com/microsoft/debugpy/issues/1505 "Python Debugger not showing NumPy array values after update - NOT resolved") | Python Debugger not showing NumPy array values after update - NOT resolved |
- |  TM:170, OP:170  |[1519](https://github.com/microsoft/debugpy/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
+ |  TM:171, OP:170  |[1519](https://github.com/microsoft/debugpy/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
  |  TM:156, OP:156  |[1525](https://github.com/microsoft/debugpy/issues/1525 "Display order of properties of a tensor object in debugging") | Display order of properties of a tensor object in debugging |
  |  TM:149, OP:139  |[1529](https://github.com/microsoft/debugpy/issues/1529 "api to retrieve debugpy endpoint and access token?") | api to retrieve debugpy endpoint and access token? |
  |  TM:142, OP:141  |[1537](https://github.com/microsoft/debugpy/issues/1537 "Using multiprocessing -> TypeError: Cannot read properties of null (reading 'testsuites')") | Using multiprocessing -> TypeError: Cannot read properties of null (reading 'testsuites') |
@@ -170,7 +170,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  P:616,  |[317](https://github.com/microsoft/debugpy/issues/317 "Make variable order for dict keys configurable") | Make variable order for dict keys configurable |
  |  P:423,  |[460](https://github.com/microsoft/debugpy/issues/460 "Repeated debugpy.listen() calls should be an error") | Repeated debugpy.listen() calls should be an error |
  |  P:477,  |[1114](https://github.com/microsoft/debugpy/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
- |  P:121,  |[1220](https://github.com/microsoft/debugpy/issues/1220 "Support attach-to-PID on macOS on ARM") | Support attach-to-PID on macOS on ARM |
+ |  P:122,  |[1220](https://github.com/microsoft/debugpy/issues/1220 "Support attach-to-PID on macOS on ARM") | Support attach-to-PID on macOS on ARM |
  |  P:4,  |[1252](https://github.com/microsoft/debugpy/issues/1252 "[Feature request] Support connect to ipv6 address") | [Feature request] Support connect to ipv6 address |
  |  P:239,  |[1409](https://github.com/microsoft/debugpy/issues/1409 "Debug console shows too much detail and too little data information ") | Debug console shows too much detail and too little data information  |
 
@@ -179,7 +179,7 @@ Generated on 2024-08-01 using: stale=30, all=True
 | Days Ago | Issue | Title |
 | --- | --- | --- |
  |  TM:657  |[510](https://github.com/microsoft/debugpy/issues/510 "Stop at breakpoints during evaluate request (recursive debugging)") | Stop at breakpoints during evaluate request (recursive debugging) |
- |  TM:1252  |[549](https://github.com/microsoft/debugpy/issues/549 "timeout or cancelling of debugpy.connect call") | timeout or cancelling of debugpy.connect call |
+ |  TM:1253  |[549](https://github.com/microsoft/debugpy/issues/549 "timeout or cancelling of debugpy.connect call") | timeout or cancelling of debugpy.connect call |
  |  TM:853  |[772](https://github.com/microsoft/debugpy/issues/772 "CXXABI requirement") | CXXABI requirement |
  |  TM:524  |[807](https://github.com/microsoft/debugpy/issues/807 "Gracefully handle debugpy.listen() in subprocesses") | Gracefully handle debugpy.listen() in subprocesses |
  |  TM:874  |[814](https://github.com/microsoft/debugpy/issues/814 "Provide a way to notify users of where a RecursionError happens") | Provide a way to notify users of where a RecursionError happens |
@@ -266,7 +266,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:325  |[1382](/issues/1382 "Python debugger frozen eternall with poetry env") | Python debugger frozen eternall with poetry env |
  |  OP:324  |[1384](/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
  |  OP:255  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
- |  OP:254  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
+ |  OP:255  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
  |  OP:226  |[1488](/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
  |  OP:192  |[1497](/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
  |  OP:189  |[1499](/issues/1499 "Python debugger changes __file__") | Python debugger changes __file__ |
@@ -415,10 +415,10 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:1512  |[286](/issues/286 "Attach to local process assumes i386 architecture? ") | Attach to local process assumes i386 architecture?  |
  |  OP:281  |[1413](/issues/1413 "Attach function doesn't work with ubuntu 22.04") | Attach function doesn't work with ubuntu 22.04 |
  |  OP:255  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
- |  OP:254  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
+ |  OP:255  |[1465](/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
  |  OP:241  |[1476](/issues/1476 "Python3.12 Unable to attach to PID (Jupyter python process)") | Python3.12 Unable to attach to PID (Jupyter python process) |
  |  OP:234  |[1480](/issues/1480 "Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode ") | Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode  |
- |  OP:103  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
+ |  OP:104  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
  |  OP:79  |[1584](/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
  |  OP:73  |[1589](/issues/1589 "[DTS] Unable to attach to embedded python in mixed mode debugging") | [DTS] Unable to attach to embedded python in mixed mode debugging |
 
@@ -436,7 +436,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:255  |[1463](/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
  |  OP:255  |[1464](/issues/1464 "remote vscode attach process pid failed") | remote vscode attach process pid failed |
  |  OP:142  |[1538](/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
- |  OP:103  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
+ |  OP:104  |[1570](/issues/1570 "Attach to process doesn't work for python 3.12") | Attach to process doesn't work for python 3.12 |
 
 
 
@@ -640,4 +640,4 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:3  |[1642](/issues/1642 "Unable to set new variables or update exiting variables in debug console") | Unable to set new variables or update exiting variables in debug console |
 
 
-![](bugcount.png)
+![](debugpy/bugcount.png)
