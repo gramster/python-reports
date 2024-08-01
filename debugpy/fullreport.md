@@ -22,7 +22,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:408  |[1315](https://github.com/microsoft/debugpy/issues/1315 "Debugging Django in Docker container with VS Code doesn't engage debug inspector") | Debugging Django in Docker container with VS Code doesn't engage debug inspector |
  |  OP:405  |[1323](https://github.com/microsoft/debugpy/issues/1323 "Commit 5601342 breaks test_attach_pid_client tests on Python 3.11") | Commit 5601342 breaks test_attach_pid_client tests on Python 3.11 |
  |  OP:371  |[1336](https://github.com/microsoft/debugpy/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
- |  OP:368  |[1340](https://github.com/microsoft/debugpy/issues/1340 "Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false") | Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false |
+ |  OP:369  |[1340](https://github.com/microsoft/debugpy/issues/1340 "Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false") | Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false |
  |  OP:364  |[1342](https://github.com/microsoft/debugpy/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
  |  OP:352  |[1355](https://github.com/microsoft/debugpy/issues/1355 "Pytest debugger isn't compatible with vscode+playwright") | Pytest debugger isn't compatible with vscode+playwright |
  |  OP:346  |[1365](https://github.com/microsoft/debugpy/issues/1365 "attach_to_pid() does not work with lazy imports (PEP 690)") | attach_to_pid() does not work with lazy imports (PEP 690) |
@@ -39,7 +39,7 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  TM:461, OP:373  |[1283](https://github.com/microsoft/debugpy/issues/1283 "Python Debugger stops in first few seconds without output") | Python Debugger stops in first few seconds without output |
  |  TM:324, OP:275  |[1338](https://github.com/microsoft/debugpy/issues/1338 "Debugpy Server Disconnects Unexpectedly when Inspecting Variable") | Debugpy Server Disconnects Unexpectedly when Inspecting Variable |
  |  TM:322, OP:319  |[1384](https://github.com/microsoft/debugpy/issues/1384 "Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:)") | Cannot run Debugger on macOS (pydev debugger: critical: unable to get real case for file. Details:) |
- |  TM:240, OP:240  |[1410](https://github.com/microsoft/debugpy/issues/1410 "How to make debugpy respect custom eval frame functions?") | How to make debugpy respect custom eval frame functions? |
+ |  TM:241, OP:240  |[1410](https://github.com/microsoft/debugpy/issues/1410 "How to make debugpy respect custom eval frame functions?") | How to make debugpy respect custom eval frame functions? |
  |  TM:254, OP:253  |[1465](https://github.com/microsoft/debugpy/issues/1465 "Cannot attach Python debugger to debugpy within a future inside Docker container") | Cannot attach Python debugger to debugpy within a future inside Docker container |
  |  TM:59, OP:59  |[1593](https://github.com/microsoft/debugpy/issues/1593 "python debugger ignores breakpoints?") | python debugger ignores breakpoints? |
 
@@ -640,4 +640,4 @@ Generated on 2024-08-01 using: stale=30, all=True
  |  OP:3  |[1642](/issues/1642 "Unable to set new variables or update exiting variables in debug console") | Unable to set new variables or update exiting variables in debug console |
 
 
-![](debugpy/bugcount.png)
+![](bugcount.png)
