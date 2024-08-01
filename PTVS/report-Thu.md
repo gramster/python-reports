@@ -30,7 +30,7 @@ Only showing items that are new to report in past 1 day(s)
  |  OP:925  |[6853](/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
  |  OP:762  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
  |  OP:721  |[7118](/issues/7118 "IPython interactive mode always freezing") | IPython interactive mode always freezing |
- |  OP:622  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
+ |  OP:623  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
  |  OP:406  |[7643](/issues/7643 "Interactive Debugging not working anymore like expected") | Interactive Debugging not working anymore like expected |
  |  OP:327  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
  |  OP:113  |[7868](/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
@@ -63,7 +63,7 @@ Only showing items that are new to report in past 1 day(s)
 | --- | --- | --- |
  |  OP:762  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
  |  OP:758  |[7068](/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
- |  OP:622  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
+ |  OP:623  |[7219](/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
  |  OP:460  |[7561](/issues/7561 "Configure the execution window to embed directly in the debug view instead of separate window ") | Configure the execution window to embed directly in the debug view instead of separate window  |
  |  OP:329  |[7715](/issues/7715 "After switching to the &quot;Packages&quot; window a second time, the packages are not displayed.") | After switching to the "Packages" window a second time, the packages are not displayed. |
  |  OP:327  |[7721](/issues/7721 "Python interactive window should start in the project root directory, not in Python interpreter location") | Python interactive window should start in the project root directory, not in Python interpreter location |
@@ -110,37 +110,9 @@ Only showing items that are new to report in past 1 day(s)
  |  OP:1093  |[6639](/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
  |  OP:828  |[6974](/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
  |  OP:762  |[7064](/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
- |  OP:411  |[7637](/issues/7637 "IntelliSense hangs indefinitely on various occasions, only process restart helps") | IntelliSense hangs indefinitely on various occasions, only process restart helps |
+ |  OP:412  |[7637](/issues/7637 "IntelliSense hangs indefinitely on various occasions, only process restart helps") | IntelliSense hangs indefinitely on various occasions, only process restart helps |
  |  OP:348  |[7701](/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
  |  OP:165  |[7828](/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
-
-
-
-
-### Issues with term 'environment'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:638  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
- |  OP:274  |[7743](/issues/7743 "environment load sequence broken") | environment load sequence broken |
- |  OP:182  |[7813](/issues/7813 "Modifying Python Environment") | Modifying Python Environment |
- |  OP:151  |[7843](/issues/7843 "Bogus Environment Names in UI") | Bogus Environment Names in UI |
- |  OP:56  |[7923](/issues/7923 "Anaconda displays incorrectly in environment list.") | Anaconda displays incorrectly in environment list. |
- |  OP:0  |[7964](/issues/7964 "Python environment is 3.12 but visual studio displays Python 3.1") | Python environment is 3.12 but visual studio displays Python 3.1 |
-
-
-
-
-### Issues with term '3.12'
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- |  OP:245  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
- |  OP:240  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
- |  OP:233  |[7786](/issues/7786 "Update to cpython 3.12 in VS installer") | Update to cpython 3.12 in VS installer |
- |  OP:233  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
- |  OP:231  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
- |  OP:0  |[7964](/issues/7964 "Python environment is 3.12 but visual studio displays Python 3.1") | Python environment is 3.12 but visual studio displays Python 3.1 |
 
 
 
@@ -208,3 +180,27 @@ Only showing items that are new to report in past 1 day(s)
  |  OP:98  |[7877](/issues/7877 "The Quick Action icon for 'remove unused imports' only appear if the code is selected.") | The Quick Action icon for 'remove unused imports' only appear if the code is selected. |
 
 
+
+
+### Issues with term 'environment'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:638  |[7206](/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
+ |  OP:274  |[7743](/issues/7743 "environment load sequence broken") | environment load sequence broken |
+ |  OP:182  |[7813](/issues/7813 "Modifying Python Environment") | Modifying Python Environment |
+ |  OP:151  |[7843](/issues/7843 "Bogus Environment Names in UI") | Bogus Environment Names in UI |
+ |  OP:56  |[7923](/issues/7923 "Anaconda displays incorrectly in environment list.") | Anaconda displays incorrectly in environment list. |
+
+
+
+
+### Issues with term '3.12'
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:245  |[7769](/issues/7769 "PTVS Python 3.12 - initial investigation") | PTVS Python 3.12 - initial investigation |
+ |  OP:240  |[7775](/issues/7775 "PTVS Python 3.12 support") | PTVS Python 3.12 support |
+ |  OP:233  |[7786](/issues/7786 "Update to cpython 3.12 in VS installer") | Update to cpython 3.12 in VS installer |
+ |  OP:233  |[7787](/issues/7787 "Python 3.12 support for profiler") | Python 3.12 support for profiler |
+ |  OP:231  |[7791](/issues/7791 "Python 3.12 support for mixed mode debugging") | Python 3.12 support for mixed mode debugging |
