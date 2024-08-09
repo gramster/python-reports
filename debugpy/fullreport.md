@@ -187,7 +187,7 @@ Generated on 2024-08-09 using: stale=30, all=True
  |  TM:111  |[1568](https://github.com/microsoft/debugpy/issues/1568 "Allow clients to debug code from command line, like pdb or epdb ") | Allow clients to debug code from command line, like pdb or epdb  |
  |  TM:150  |[1533](https://github.com/microsoft/debugpy/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
  |  TM:233  |[1489](https://github.com/microsoft/debugpy/issues/1489 "Breakpoints not triggered in Flask app") | Breakpoints not triggered in Flask app |
- |  TM:336  |[1377](https://github.com/microsoft/debugpy/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
+ |  TM:337  |[1377](https://github.com/microsoft/debugpy/issues/1377 "Show Python Process names in debugger") | Show Python Process names in debugger |
  |  TM:331  |[1332](https://github.com/microsoft/debugpy/issues/1332 "Debug variable displays verbose info") | Debug variable displays verbose info |
  |  TM:415  |[1304](https://github.com/microsoft/debugpy/issues/1304 "Show a warning that we can't debug when &quot;--cov&quot; is in pytestArgs") | Show a warning that we can't debug when "--cov" is in pytestArgs |
  |  TM:429  |[1303](https://github.com/microsoft/debugpy/issues/1303 "When using python debugging class properties are showed after private and protected members.") | When using python debugging class properties are showed after private and protected members. |
