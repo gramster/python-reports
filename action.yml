@@ -17,10 +17,6 @@ inputs:
     description: "Whether to generate a weekly report (else daily)."
     required: false
     default: false
-  count:
-    description: "Batch size for calls to Github API. Use if jobs are failing due to timeouts."
-    required: false
-    default: '25'
 
 runs:
   using: "composite"
@@ -46,7 +42,6 @@ runs:
         reportPath: ${{ inputs.repository }}
         all: true
         team: ${{ env.TEAM }}
-        count: ${{ inputs.count }}
     - name: Generate limited report
       if: inputs.weekly != 'true'
       uses: gramster/github-issue-reporter@main
@@ -56,4 +51,3 @@ runs:
         githubToken: ${{ inputs.githubToken }}
         reportPath: ${{ inputs.repository }}
         team: ${{ env.TEAM }}
-        count: ${{ inputs.count }}
