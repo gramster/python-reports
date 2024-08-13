@@ -20,4 +20,4 @@ jobs:
           repository: 'debugpy'
           githubToken: ${{ secrets.PAT }}
           weekly: true
-        
+          hotspots: true   
