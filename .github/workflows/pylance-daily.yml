@@ -18,5 +18,6 @@ jobs:
         uses: gramster/python-reports@main
         with:
           repository: 'pylance-release'
+          prs: 'pyrx'
           githubToken: ${{ secrets.PAT }}
         
