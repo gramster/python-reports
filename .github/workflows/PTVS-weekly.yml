@@ -20,4 +20,4 @@ jobs:
           repository: 'PTVS'
           githubToken: ${{ secrets.PAT }}
           weekly: true
-        
+          hotspots: true
