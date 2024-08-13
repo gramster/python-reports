@@ -17,6 +17,10 @@ inputs:
     description: "Whether to generate a weekly report (else daily)."
     required: false
     default: false
+  hotspots:
+    description: "Whether to generate a report on frequently changed files."
+    required: false
+    default: false
 
 runs:
   using: "composite"
@@ -41,6 +45,7 @@ runs:
         reportNameTemplate: 'fullreport.md'
         reportPath: ${{ inputs.repository }}
         all: true
+        hotspots: ${{ inputs.hotspots }}
         team: ${{ env.TEAM }}
     - name: Generate limited report
       if: inputs.weekly != 'true'
@@ -50,4 +55,5 @@ runs:
         prs: ${{ env.PRS }}        
         githubToken: ${{ inputs.githubToken }}
         reportPath: ${{ inputs.repository }}
+        hotspots: ${{ inputs.hotspots }}        
         team: ${{ env.TEAM }}
