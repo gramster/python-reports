@@ -4,8 +4,12 @@ description: "Generates reports for Python team."
 
 inputs:
   repository:
-    description: "The GitHub repository to generate the report for."
+    description: "The GitHub issue repository to generate the report for."
     required: true
+  prs:
+    description: "The GitHub code repository to generate the report for, if different to issues."
+    required: false
+    default: ''
   githubToken:
     description: "The Github token or PAT token (preferred) for API access."
     required: true
@@ -27,12 +31,16 @@ runs:
         echo -n "REPO='microsoft/" >> $GITHUB_ENV
         echo -n ${{ inputs.repository }} >> $GITHUB_ENV
         echo "'" >> $GITHUB_ENV
+        echo -n "PRS='" >> $GITHUB_ENV
+        echo -n ${{ inputs.prs }} >> $GITHUB_ENV
+        echo "'" >> $GITHUB_ENV        
       shell: bash
     - name: Generate full report
       if: inputs.weekly == 'true'
       uses: gramster/github-issue-reporter@main
       with:
         repository: ${{ env.REPO }}
+        prs: ${{ env.PRS }}
         githubToken: ${{ inputs.githubToken }}
         reportNameTemplate: 'fullreport.md'
         reportPath: ${{ inputs.repository }}
@@ -44,6 +52,7 @@ runs:
       uses: gramster/github-issue-reporter@main
       with:
         repository: ${{ env.REPO }}
+        prs: ${{ env.PRS }}        
         githubToken: ${{ inputs.githubToken }}
         reportPath: ${{ inputs.repository }}
         team: ${{ env.TEAM }}
