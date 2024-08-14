@@ -1,4 +1,4 @@
-name: 'Generate Weekly Full Report for PTVS'
+name: 'Generate Weekly Full Report for Java Semantic Kernel'
 
 on:
   schedule:
