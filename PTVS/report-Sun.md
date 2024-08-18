@@ -2,13 +2,21 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-08-11 using: stale=30, all=False
+Generated on 2024-08-18 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+
+
+
+
+
+
+
 
 
 
