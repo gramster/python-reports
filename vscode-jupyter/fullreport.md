@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-jupyter
 
 
-Generated on 2023-05-01 using: stale=30, all=1
+Generated on 2024-08-19 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -13,375 +13,181 @@ Generated on 2023-05-01 using: stale=30, all=1
 
 ### Issues in vscode-jupyter that need a response from team:
 
-
-  [7584](https://github.com/microsoft/vscode-jupyter/issues/7584 "Breaking RBL by clicking quickly"): needs an initial team response (590 days old)
-
-  [7819](https://github.com/microsoft/vscode-jupyter/issues/7819 "Controls in the plot viewer window are confusing"): needs an initial team response (572 days old)
-
-  [9558](https://github.com/microsoft/vscode-jupyter/issues/9558 "Accepting completion with alt insert mode stops editing notebook cell"): needs an initial team response (458 days old)
-
-  [10321](https://github.com/microsoft/vscode-jupyter/issues/10321 "Variables view should show that it is waiting for the running cell"): needs an initial team response (330 days old)
-
-  [11069](https://github.com/microsoft/vscode-jupyter/issues/11069 "GeoJSON can not be rendered"): needs an initial team response (265 days old)
-
-  [11108](https://github.com/microsoft/vscode-jupyter/issues/11108 "Debugger architecture review"): needs an initial team response (262 days old)
-
-  [11138](https://github.com/microsoft/vscode-jupyter/issues/11138 "Always scroll on new cell feature for multiple interactive windows"): needs an initial team response (319 days old)
-
-  [11228](https://github.com/microsoft/vscode-jupyter/issues/11228 "Export to HTML prompts for Python kernel, then fails"): needs an initial team response (243 days old)
-
-  [11373](https://github.com/microsoft/vscode-jupyter/issues/11373 "Data Viewer displays small floating-point numbers as 0"): needs an initial team response (228 days old)
-
-  [11453](https://github.com/microsoft/vscode-jupyter/issues/11453 "Jupyter Notebook Name of exported python file should be similar to the notebook name"): needs an initial team response (216 days old)
-
-  [11472](https://github.com/microsoft/vscode-jupyter/issues/11472 "Raw file contains image data even if it is not shown in the notebook"): needs an initial team response (214 days old)
-
-  [11636](https://github.com/microsoft/vscode-jupyter/issues/11636 "vs code freeze when rendering papermill notebook output"): needs an initial team response (199 days old)
-
-  [11731](https://github.com/microsoft/vscode-jupyter/issues/11731 "Notebook Renderer: textbox events are intercepted"): needs an initial team response (192 days old)
-
-  [11777](https://github.com/microsoft/vscode-jupyter/issues/11777 "Fix justMyCode=false for Interactive Window debugging with ipykernel debugging"): needs an initial team response (187 days old)
-
-  [12012](https://github.com/microsoft/vscode-jupyter/issues/12012 "Clear output button disabled even if cell execution counts are not empty"): needs an initial team response (167 days old)
-
-  [12016](https://github.com/microsoft/vscode-jupyter/issues/12016 "Confusing layering in extension-side/plotView"): needs an initial team response (167 days old)
-
-  [12062](https://github.com/microsoft/vscode-jupyter/issues/12062 "Cannot export to PDF"): needs an initial team response (164 days old)
-
-  [12112](https://github.com/microsoft/vscode-jupyter/issues/12112 "Undo command does not restore deleted cell"): needs an initial team response (162 days old)
-
-  [12288](https://github.com/microsoft/vscode-jupyter/issues/12288 "Invalid message: Session is already started in 1.73.1"): needs an initial team response (148 days old)
-
-  [12311](https://github.com/microsoft/vscode-jupyter/issues/12311 "IPython ?/?? output doesn't render nicely in the text editor"): needs an initial team response (146 days old)
-
-  [12357](https://github.com/microsoft/vscode-jupyter/issues/12357 "Copied Images don't respect `jupyter.themeMatplotlibPlots`"): needs an initial team response (143 days old)
-
-  [12396](https://github.com/microsoft/vscode-jupyter/issues/12396 "Strictly typed pandas DataFrame is not viewable in Data Viewer"): needs an initial team response (138 days old)
-
-  [12398](https://github.com/microsoft/vscode-jupyter/issues/12398 "first cell takes long to load"): needs an initial team response (137 days old)
-
-  [12465](https://github.com/microsoft/vscode-jupyter/issues/12465 "ipynb Python cells always revert back to 2-space indentation"): needs an initial team response (122 days old)
-
-  [12473](https://github.com/microsoft/vscode-jupyter/issues/12473 "Unexpected behaviour in search and replace"): needs an initial team response (120 days old)
-
-  [12488](https://github.com/microsoft/vscode-jupyter/issues/12488 "Hide &quot;Launch Tensorboard Session&quot;"): needs an initial team response (116 days old)
-
-  [12537](https://github.com/microsoft/vscode-jupyter/issues/12537 "LaTeX not rendering in cell text/html encoded outputs when embedded inside html"): needs an initial team response (108 days old)
-
-  [12538](https://github.com/microsoft/vscode-jupyter/issues/12538 "Data viewer rounding large integers to incorrect values"): needs an initial team response (108 days old)
-
-  [12539](https://github.com/microsoft/vscode-jupyter/issues/12539 "Interactive window stuck with Python 3.11.1"): needs an initial team response (108 days old)
-
-  [12583](https://github.com/microsoft/vscode-jupyter/issues/12583 "Data Viewer doesn't show unique values when dataframe has duplicate column names"): needs an initial team response (101 days old)
-
-  [12586](https://github.com/microsoft/vscode-jupyter/issues/12586 "Private configured DevOps NuGet repo blocks package install in Jupyter Notebooks"): needs an initial team response (101 days old)
-
-  [12643](https://github.com/microsoft/vscode-jupyter/issues/12643 "Use `setPydevdSourceMap`"): needs an initial team response (95 days old)
-
-  [12650](https://github.com/microsoft/vscode-jupyter/issues/12650 "Interactive window stdout stops working after 1-2 days of usage"): needs an initial team response (94 days old)
-
-  [12652](https://github.com/microsoft/vscode-jupyter/issues/12652 "Kernel constantly crashing when debugging a cell"): needs an initial team response (94 days old)
-
-  [12725](https://github.com/microsoft/vscode-jupyter/issues/12725 "HTML export doesn't show plots"): needs an initial team response (86 days old)
-
-  [12778](https://github.com/microsoft/vscode-jupyter/issues/12778 "Centered Layout not correcly centered on sidebar menu is open"): needs an initial team response (81 days old)
-
-  [12797](https://github.com/microsoft/vscode-jupyter/issues/12797 "Unhandled @jupyterlab kernel exception"): needs an initial team response (80 days old)
-
-  [12829](https://github.com/microsoft/vscode-jupyter/issues/12829 "Data Viewer can't filter multi-index"): needs an initial team response (76 days old)
-
-  [12850](https://github.com/microsoft/vscode-jupyter/issues/12850 "Cell output slash highlight/hyperlinking not useful / confusing / broken"): needs an initial team response (74 days old)
-
-  [12858](https://github.com/microsoft/vscode-jupyter/issues/12858 "Inside of a notebook, magic cells should not cause an error in pylance"): needs an initial team response (73 days old)
-
-  [12863](https://github.com/microsoft/vscode-jupyter/issues/12863 "Cell randomly losing focus, view jumping"): needs an initial team response (72 days old)
-
-  [12870](https://github.com/microsoft/vscode-jupyter/issues/12870 "Notebook editor Find/Replace widget occludes notebook toolbar"): needs an initial team response (71 days old)
-
-  [12871](https://github.com/microsoft/vscode-jupyter/issues/12871 "Vscode debugger does not run for all available kernels "): needs an initial team response (71 days old)
-
-  [12872](https://github.com/microsoft/vscode-jupyter/issues/12872 "Overlapping cells when clearing long notebook after scrolling"): needs an initial team response (70 days old)
-
-  [12977](https://github.com/microsoft/vscode-jupyter/issues/12977 "Extraneous output in edge cases with notebook.output.textLineLimit"): needs an initial team response (59 days old)
-
-  [12982](https://github.com/microsoft/vscode-jupyter/issues/12982 "debug vscode interactive window opens files from different project as readonly"): needs an initial team response (59 days old)
-
-  [12995](https://github.com/microsoft/vscode-jupyter/issues/12995 "Selecting &quot;Visible After Execute&quot; for the &quot;Show Cell Status Bar&quot; setting leads to layout glitches"): needs an initial team response (56 days old)
-
-  [13001](https://github.com/microsoft/vscode-jupyter/issues/13001 "Codespaces Jupyter Template not working"): needs an initial team response (55 days old)
-
-  [13006](https://github.com/microsoft/vscode-jupyter/issues/13006 "Can't interrupt running cell after continuing debug session"): needs an initial team response (55 days old)
-
-  [13017](https://github.com/microsoft/vscode-jupyter/issues/13017 "Jupyter notebook enters command mode and stop running cells on save"): needs an initial team response (54 days old)
-
-  [13029](https://github.com/microsoft/vscode-jupyter/issues/13029 "Jupyter Notebook randomly prompts save file"): needs an initial team response (53 days old)
-
-  [13033](https://github.com/microsoft/vscode-jupyter/issues/13033 "Interactive windows not reliably surfaced by file picker"): needs an initial team response (53 days old)
-
-  [13041](https://github.com/microsoft/vscode-jupyter/issues/13041 "Saving Matplotlib figures dialogue, filename does not match preselected filetype."): needs an initial team response (52 days old)
-
-  [13043](https://github.com/microsoft/vscode-jupyter/issues/13043 "No autocompletions for R packages with IRkernel"): needs an initial team response (52 days old)
-
-  [13059](https://github.com/microsoft/vscode-jupyter/issues/13059 "[Mac] Scrolling Issues with Edit Mode"): needs an initial team response (49 days old)
-
-  [13065](https://github.com/microsoft/vscode-jupyter/issues/13065 "Debugging an idented cell fails with &quot;IndentationError: unexpected indent&quot; (run cell works)"): needs an initial team response (48 days old)
-
-  [13074](https://github.com/microsoft/vscode-jupyter/issues/13074 "Immediate window debugger off by a line"): needs an initial team response (47 days old)
-
-  [13088](https://github.com/microsoft/vscode-jupyter/issues/13088 "Find + Replace not indexing properly - VSCode / Jupyter Notebook Extension"): needs an initial team response (46 days old)
-
-  [13156](https://github.com/microsoft/vscode-jupyter/issues/13156 "random extra stuff gets saved into notebook document"): needs an initial team response (38 days old)
-
-  [13157](https://github.com/microsoft/vscode-jupyter/issues/13157 "doesn't work with the latest releases"): needs an initial team response (38 days old)
-
-  [13163](https://github.com/microsoft/vscode-jupyter/issues/13163 "fastprogress progress bar not showing"): needs an initial team response (37 days old)
-
-  [13227](https://github.com/microsoft/vscode-jupyter/issues/13227 "Debugging requires ipykernel after some time when using PyImageJ "): needs an initial team response (31 days old)
-
-  [13230](https://github.com/microsoft/vscode-jupyter/issues/13230 "Kernel reconnection issues, failure to render networkX graphs and HTML, failed to detect conda"): needs an initial team response (31 days old)
-
-  [13236](https://github.com/microsoft/vscode-jupyter/issues/13236 "Test failure: Contributed Local Kernel Spec Finder (only fails on Windows)"): needs an initial team response (31 days old)
-
-  [13245](https://github.com/microsoft/vscode-jupyter/issues/13245 "Cell debugger fails to step-over at end of function"): needs an initial team response (29 days old)
-
-  [13284](https://github.com/microsoft/vscode-jupyter/issues/13284 "Notebook Ctrl+F search input is too narrow and doesn't remember resize"): needs an initial team response (24 days old)
-
-  [13286](https://github.com/microsoft/vscode-jupyter/issues/13286 "Dataviewer display of dataframe"): needs an initial team response (68 days old)
-
-  [13322](https://github.com/microsoft/vscode-jupyter/issues/13322 "The functions for &quot;match the whole word&quot; and &quot;match case sensitive&quot; fail"): needs an initial team response (17 days old)
-
-  [13324](https://github.com/microsoft/vscode-jupyter/issues/13324 "Inline TensorBoard in a Jupyter notebook need to add port manually"): needs an initial team response (16 days old)
-
-  [13344](https://github.com/microsoft/vscode-jupyter/issues/13344 "Jupyter notebook extension corrupted"): needs an initial team response (13 days old)
-
-  [13358](https://github.com/microsoft/vscode-jupyter/issues/13358 "Output scrolling does not work well with word wrap"): needs an initial team response (10 days old)
-
-  [13363](https://github.com/microsoft/vscode-jupyter/issues/13363 "Data viewer cannot handle pathlib.WindowsPath objectes in a pandas DataFrame"): needs an initial team response (10 days old)
-
-  [13377](https://github.com/microsoft/vscode-jupyter/issues/13377 "Data Viewer does not sort categorical columns with NaN values"): needs an initial team response (9 days old)
-
-  [13379](https://github.com/microsoft/vscode-jupyter/issues/13379 "Entering new line is slow in all cells except last"): needs an initial team response (8 days old)
-
-  [13380](https://github.com/microsoft/vscode-jupyter/issues/13380 "vscode python jedi client: couldn't create connection to server"): needs an initial team response (8 days old)
-
-  [13388](https://github.com/microsoft/vscode-jupyter/issues/13388 "Debug code lens for mixed Python code cells (markdown & code)"): needs an initial team response (6 days old)
-
-  [13393](https://github.com/microsoft/vscode-jupyter/issues/13393 "Plotly FigureWidget mouse events are not registered in VSCode"): needs an initial team response (6 days old)
-
-  [13397](https://github.com/microsoft/vscode-jupyter/issues/13397 "Exception thrown when removing only existing cell from new untitled notebook"): needs an initial team response (5 days old)
-
-  [13407](https://github.com/microsoft/vscode-jupyter/issues/13407 "'vh' CSS unit in vertical layout for IPyhton.display are incorrect"): needs an initial team response (4 days old)
-
-  [13410](https://github.com/microsoft/vscode-jupyter/issues/13410 "IPython.display.IFrame(&quot;./file.html&quot;) doesn't work"): needs an initial team response (4 days old)
-
-  [13411](https://github.com/microsoft/vscode-jupyter/issues/13411 "Can't resolve merge conflict in vscode-insiders"): needs an initial team response (3 days old)
-
-  [13420](https://github.com/microsoft/vscode-jupyter/issues/13420 "Error Got a non-existent Jupyer Data Dir"): needs an initial team response (2 days old)
-
-\* [13428](https://github.com/microsoft/vscode-jupyter/issues/13428 "ValueError renders plain HTML code in the Cell Output area"): needs an initial team response (1 days old)
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[15942](https://github.com/microsoft/vscode-jupyter/issues/15942 "Cannot move cell when change the window.zoomLevel")  |Cannot move cell when change the window.zoomLevel |
+ | \* OP:0  |[15941](https://github.com/microsoft/vscode-jupyter/issues/15941 "The kernel crashed during the for loop execution")  |The kernel crashed during the for loop execution |
+ |  OP:2  |[15939](https://github.com/microsoft/vscode-jupyter/issues/15939 "The pop-up docs is not escaped correctly") | The pop-up docs is not escaped correctly |
+ |  OP:6  |[15933](https://github.com/microsoft/vscode-jupyter/issues/15933 "Cannot cancel search procedure") | Cannot cancel search procedure |
+ |  OP:9  |[15932](https://github.com/microsoft/vscode-jupyter/issues/15932 "Jupyter NoteBook Issue Urgent ") | Jupyter NoteBook Issue Urgent  |
+ |  OP:17  |[15909](https://github.com/microsoft/vscode-jupyter/issues/15909 "The error line number is the line number of the cell, not the line number of the python file ") | The error line number is the line number of the cell, not the line number of the python file  |
+ |  OP:39  |[15840](https://github.com/microsoft/vscode-jupyter/issues/15840 "Running cell in Interactive Window gets stuck on &quot;Pending&quot;") | Running cell in Interactive Window gets stuck on "Pending" |
+ |  OP:40  |[15838](https://github.com/microsoft/vscode-jupyter/issues/15838 "Jupyter: Variables explorer extremely slow for certain data types") | Jupyter: Variables explorer extremely slow for certain data types |
+ |  OP:42  |[15830](https://github.com/microsoft/vscode-jupyter/issues/15830 "Repeated notification: Restart Visual Studio Code to apply the latest updates") | Repeated notification: Restart Visual Studio Code to apply the latest updates |
+ |  OP:43  |[15828](https://github.com/microsoft/vscode-jupyter/issues/15828 "Trying to export python code to jupyter notebook file fails with error: Extension 'vscode.ipynb' is not known or not activated. View Jupyter log for further details. ") | Trying to export python code to jupyter notebook file fails with error: Extension 'vscode.ipynb' is not known or not activated. View Jupyter log for further details.  |
+ |  OP:44  |[15827](https://github.com/microsoft/vscode-jupyter/issues/15827 "No notebook document for `file://*.ipynb` (wsl2)") | No notebook document for `file://*.ipynb` (wsl2) |
+ |  OP:46  |[15819](https://github.com/microsoft/vscode-jupyter/issues/15819 "Markdown cell fails to embed image from Drive") | Markdown cell fails to embed image from Drive |
+ |  OP:54  |[15796](https://github.com/microsoft/vscode-jupyter/issues/15796 "&quot;Ctrl Shift Home&quot; key combination selects all outputs instead of the output of the current cell") | "Ctrl Shift Home" key combination selects all outputs instead of the output of the current cell |
+ |  OP:60  |[15784](https://github.com/microsoft/vscode-jupyter/issues/15784 "press ZZ to undo a cell deletion but get `cannot read properties of undefined (reading 'ownerDocument')` error") | press ZZ to undo a cell deletion but get `cannot read properties of undefined (reading 'ownerDocument')` error |
+ |  OP:63  |[15778](https://github.com/microsoft/vscode-jupyter/issues/15778 "jupyter notebook convert from python file does not process &quot;# %%&quot; well") | jupyter notebook convert from python file does not process "# %%" well |
+ |  OP:67  |[15763](https://github.com/microsoft/vscode-jupyter/issues/15763 "Can't debug jupyter notebook after error if also debugging a regular python script") | Can't debug jupyter notebook after error if also debugging a regular python script |
+ |  OP:67  |[15759](https://github.com/microsoft/vscode-jupyter/issues/15759 "notebook output cells no longer properly word wrap with &quot;notebook.output.wordWrap&quot;: true") | notebook output cells no longer properly word wrap with "notebook.output.wordWrap": true |
+ |  OP:68  |[15756](https://github.com/microsoft/vscode-jupyter/issues/15756 "Outline does not track current position when &quot;follow cursor&quot; is on") | Outline does not track current position when "follow cursor" is on |
+ |  OP:75  |[15742](https://github.com/microsoft/vscode-jupyter/issues/15742 "&quot;Go To&quot; button is not appearing when running a cell") | "Go To" button is not appearing when running a cell |
+ |  OP:75  |[15740](https://github.com/microsoft/vscode-jupyter/issues/15740 "Python kernel installation should report error through its notification") | Python kernel installation should report error through its notification |
+ |  OP:79  |[15736](https://github.com/microsoft/vscode-jupyter/issues/15736 "keybindings to &quot;find&quot; next/previous occurences not working ?") | keybindings to "find" next/previous occurences not working ? |
+ |  OP:97  |[15687](https://github.com/microsoft/vscode-jupyter/issues/15687 "Custom Keyboard Shortcuts don't work") | Custom Keyboard Shortcuts don't work |
+ |  OP:98  |[15685](https://github.com/microsoft/vscode-jupyter/issues/15685 "Jupyter stopped working") | Jupyter stopped working |
+ |  OP:102  |[15675](https://github.com/microsoft/vscode-jupyter/issues/15675 "Python Interactive: empty line(s) followed by markdown cell + code doesn't execute code in first cell") | Python Interactive: empty line(s) followed by markdown cell + code doesn't execute code in first cell |
+ |  OP:106  |[15663](https://github.com/microsoft/vscode-jupyter/issues/15663 "Run current cell and below not working") | Run current cell and below not working |
+ |  OP:110  |[15635](https://github.com/microsoft/vscode-jupyter/issues/15635 "First cell delimiter is ignored when using &quot;Run All Cells&quot; or &quot;Run Current File in Interactive Window&quot; from script") | First cell delimiter is ignored when using "Run All Cells" or "Run Current File in Interactive Window" from script |
+ |  OP:118  |[15586](https://github.com/microsoft/vscode-jupyter/issues/15586 "Variable viewer does not activate the contributing extension") | Variable viewer does not activate the contributing extension |
+ |  OP:133  |[15512](https://github.com/microsoft/vscode-jupyter/issues/15512 "In interactive window, exporting Jupyter notebook incorrectly includes `# %%`") | In interactive window, exporting Jupyter notebook incorrectly includes `# %%` |
+ |  OP:135  |[15500](https://github.com/microsoft/vscode-jupyter/issues/15500 "Run with precedent cells does not work with WSL2 & remote execution.") | Run with precedent cells does not work with WSL2 & remote execution. |
+ |  OP:146  |[15423](https://github.com/microsoft/vscode-jupyter/issues/15423 "Confused by Install python button") | Confused by Install python button |
+ |  OP:154  |[15376](https://github.com/microsoft/vscode-jupyter/issues/15376 "[BUG] PyLance analysis of interactive window can't be prevented") | [BUG] PyLance analysis of interactive window can't be prevented |
+ |  OP:157  |[15362](https://github.com/microsoft/vscode-jupyter/issues/15362 "data viewer freezes when viewing dataframe with enum content") | data viewer freezes when viewing dataframe with enum content |
+ |  OP:169  |[15281](https://github.com/microsoft/vscode-jupyter/issues/15281 "Random line breaks added on Ctrl+S to last edited cells destroying formatting") | Random line breaks added on Ctrl+S to last edited cells destroying formatting |
+ |  OP:172  |[15259](https://github.com/microsoft/vscode-jupyter/issues/15259 "Jupyter Notebook Freezes / Does not connect to renderer") | Jupyter Notebook Freezes / Does not connect to renderer |
+ |  OP:174  |[15234](https://github.com/microsoft/vscode-jupyter/issues/15234 "plotly.js outdated version") | plotly.js outdated version |
+ |  OP:177  |[15224](https://github.com/microsoft/vscode-jupyter/issues/15224 "Auto detection mistakenly assumes a markdown cell as a Perl code") | Auto detection mistakenly assumes a markdown cell as a Perl code |
+ |  OP:180  |[15206](https://github.com/microsoft/vscode-jupyter/issues/15206 "`Dialog` from the ipyvuetify project are not displayed in a VSCode Jupyter notebook") | `Dialog` from the ipyvuetify project are not displayed in a VSCode Jupyter notebook |
+ |  OP:186  |[15187](https://github.com/microsoft/vscode-jupyter/issues/15187 "Variable explorer outdated after kernel restart") | Variable explorer outdated after kernel restart |
+ |  OP:194  |[15143](https://github.com/microsoft/vscode-jupyter/issues/15143 "Cannot start new kernel with the message &quot;Waiting for Jupyter Session to be idle&quot;") | Cannot start new kernel with the message "Waiting for Jupyter Session to be idle" |
+ |  OP:199  |[15107](https://github.com/microsoft/vscode-jupyter/issues/15107 "Native editor scroll bar too small to use [II]") | Native editor scroll bar too small to use [II] |
+ |  OP:205  |[15077](https://github.com/microsoft/vscode-jupyter/issues/15077 "DataViewer: Unable to view when the values include certain data types") | DataViewer: Unable to view when the values include certain data types |
+ |  OP:207  |[15067](https://github.com/microsoft/vscode-jupyter/issues/15067 "Cut (Ctrl + X) deletes lines but pastes nothing") | Cut (Ctrl + X) deletes lines but pastes nothing |
+ |  OP:231  |[14966](https://github.com/microsoft/vscode-jupyter/issues/14966 "Size of list of dataframes shows size of first dataframe instead of size of list  in jupyter variables") | Size of list of dataframes shows size of first dataframe instead of size of list  in jupyter variables |
+ |  OP:231  |[14962](https://github.com/microsoft/vscode-jupyter/issues/14962 "Export Python file as Jupyter notebook incorrect extension") | Export Python file as Jupyter notebook incorrect extension |
+ |  OP:241  |[14952](https://github.com/microsoft/vscode-jupyter/issues/14952 "The torch.tensor with special type cannot be viewed properly in the Dataviewer.") | The torch.tensor with special type cannot be viewed properly in the Dataviewer. |
+ |  OP:241  |[14948](https://github.com/microsoft/vscode-jupyter/issues/14948 "Extra space on MathJax formula using sympy.") | Extra space on MathJax formula using sympy. |
+ |  OP:262  |[14823](https://github.com/microsoft/vscode-jupyter/issues/14823 "Typo in the setting &quot;jupyter.interactiveWindow.codeLes.debugCommands&quot;") | Typo in the setting "jupyter.interactiveWindow.codeLes.debugCommands" |
+ |  OP:341  |[14312](https://github.com/microsoft/vscode-jupyter/issues/14312 "Issue displaying matplotlib plots with transparent backgrounds") | Issue displaying matplotlib plots with transparent backgrounds |
+ |  OP:351  |[14246](https://github.com/microsoft/vscode-jupyter/issues/14246 "Suggested extensions aren't installed when connecting over SSH") | Suggested extensions aren't installed when connecting over SSH |
+ |  OP:390  |[13978](https://github.com/microsoft/vscode-jupyter/issues/13978 "&quot;detect kernel&quot; present while building codespace") | "detect kernel" present while building codespace |
+ |  OP:396  |[13955](https://github.com/microsoft/vscode-jupyter/issues/13955 "Vim recenter cursor vertically (zz) doesn't work") | Vim recenter cursor vertically (zz) doesn't work |
+ |  OP:398  |[13917](https://github.com/microsoft/vscode-jupyter/issues/13917 "Variable visualization issue with Juyter notebook") | Variable visualization issue with Juyter notebook |
+ |  OP:411  |[13843](https://github.com/microsoft/vscode-jupyter/issues/13843 "Cell display overlap on output. ") | Cell display overlap on output.  |
+ |  OP:443  |[13640](https://github.com/microsoft/vscode-jupyter/issues/13640 "When using debugger in Codespaces notebook with Live Share, kernel dies for other user") | When using debugger in Codespaces notebook with Live Share, kernel dies for other user |
+ |  OP:445  |[13619](https://github.com/microsoft/vscode-jupyter/issues/13619 "Viewing a Pandas DataFrame with uuids in a column  fails with SyntaxError: Unexpected end of JSON input") | Viewing a Pandas DataFrame with uuids in a column  fails with SyntaxError: Unexpected end of JSON input |
+ |  OP:458  |[13528](https://github.com/microsoft/vscode-jupyter/issues/13528 "Jupyter Extension for VS Code does not show tables created by fastai learners") | Jupyter Extension for VS Code does not show tables created by fastai learners |
+ |  OP:472  |[13453](https://github.com/microsoft/vscode-jupyter/issues/13453 "No right-click menu for interactive window cell outputs") | No right-click menu for interactive window cell outputs |
+ |  OP:480  |[13410](https://github.com/microsoft/vscode-jupyter/issues/13410 "IPython.display.IFrame(&quot;./file.html&quot;) doesn't work") | IPython.display.IFrame("./file.html") doesn't work |
+ |  OP:485  |[13377](https://github.com/microsoft/vscode-jupyter/issues/13377 "Data Viewer does not sort categorical columns with NaN values") | Data Viewer does not sort categorical columns with NaN values |
+ |  OP:486  |[13363](https://github.com/microsoft/vscode-jupyter/issues/13363 "Data viewer cannot handle pathlib.WindowsPath objectes in a pandas DataFrame") | Data viewer cannot handle pathlib.WindowsPath objectes in a pandas DataFrame |
+ |  OP:487  |[13353](https://github.com/microsoft/vscode-jupyter/issues/13353 "Jupyter notebook closes instead of running") | Jupyter notebook closes instead of running |
+ |  OP:523  |[13074](https://github.com/microsoft/vscode-jupyter/issues/13074 "Immediate window debugger off by a line") | Immediate window debugger off by a line |
+ |  OP:529  |[13029](https://github.com/microsoft/vscode-jupyter/issues/13029 "Jupyter Notebook randomly prompts save file") | Jupyter Notebook randomly prompts save file |
+ |  OP:531  |[13001](https://github.com/microsoft/vscode-jupyter/issues/13001 "Codespaces Jupyter Template not working") | Codespaces Jupyter Template not working |
+ |  OP:546  |[12872](https://github.com/microsoft/vscode-jupyter/issues/12872 "Overlapping cells when clearing long notebook after scrolling") | Overlapping cells when clearing long notebook after scrolling |
+ |  OP:562  |[12725](https://github.com/microsoft/vscode-jupyter/issues/12725 "HTML export doesn't show plots") | HTML export doesn't show plots |
+ |  OP:577  |[12583](https://github.com/microsoft/vscode-jupyter/issues/12583 "Data Viewer doesn't show unique values when dataframe has duplicate column names") | Data Viewer doesn't show unique values when dataframe has duplicate column names |
+ |  OP:663  |[11777](https://github.com/microsoft/vscode-jupyter/issues/11777 "Fix justMyCode=false for Interactive Window debugging with ipykernel debugging") | Fix justMyCode=false for Interactive Window debugging with ipykernel debugging |
+ |  OP:704  |[11373](https://github.com/microsoft/vscode-jupyter/issues/11373 "Data Viewer displays small floating-point numbers as 0") | Data Viewer displays small floating-point numbers as 0 |
+ |  OP:741  |[11069](https://github.com/microsoft/vscode-jupyter/issues/11069 "GeoJSON can not be rendered") | GeoJSON can not be rendered |
+ |  OP:795  |[11138](https://github.com/microsoft/vscode-jupyter/issues/11138 "Show the Interactive Window if code was added/executed from a python file") | Show the Interactive Window if code was added/executed from a python file |
+ |  OP:934  |[9558](https://github.com/microsoft/vscode-jupyter/issues/9558 "Accepting completion with alt insert mode stops editing notebook cell") | Accepting completion with alt insert mode stops editing notebook cell |
+ |  OP:1048  |[7819](https://github.com/microsoft/vscode-jupyter/issues/7819 "Controls in the plot viewer window are confusing") | Controls in the plot viewer window are confusing |
+ |  OP:1066  |[7584](https://github.com/microsoft/vscode-jupyter/issues/7584 "Breaking RBL by clicking quickly") | Breaking RBL by clicking quickly |
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
-
-  [1146](https://github.com/microsoft/vscode-jupyter/issues/1146 "Can't expand right-handed column in Data Viewer"): OP responded 1291 days ago but team last responded 1291 days ago
-
-  [1144](https://github.com/microsoft/vscode-jupyter/issues/1144 "Python data viewer does not support grouped columns (custom indices), Multi-index , PeriodIndex"): OP responded 1117 days ago but team last responded 1117 days ago
-
-  [1600](https://github.com/microsoft/vscode-jupyter/issues/1600 "Remember file extension when exporting plots from interactive"): OP responded 607 days ago but team last responded 607 days ago
-
-  [7950](https://github.com/microsoft/vscode-jupyter/issues/7950 "Expanding column length in Data Viewer"): OP responded 559 days ago but team last responded 559 days ago
-
-  [9044](https://github.com/microsoft/vscode-jupyter/issues/9044 "Can't see variables in Variable Explorer (React stack overflow #185)"): OP responded 141 days ago but team last responded 142 days ago
-
-  [9349](https://github.com/microsoft/vscode-jupyter/issues/9349 "Expand Image gets stuck when showing a wide but short image."): OP responded 412 days ago but team last responded 412 days ago
-
-  [9763](https://github.com/microsoft/vscode-jupyter/issues/9763 "Cannot execute Run current cell for ~1s after I stop typing"): OP responded 143 days ago but team last responded 144 days ago
-
-  [10004](https://github.com/microsoft/vscode-jupyter/issues/10004 "The help pop up does not show up for method chains"): OP responded 352 days ago but team last responded 353 days ago
-
-  [10386](https://github.com/microsoft/vscode-jupyter/issues/10386 "Kernel crashes due to upstream problems with zmq package (seen with usage of bokeh and similar packages)"): OP responded 303 days ago but team last responded 311 days ago
-
-  [10443](https://github.com/microsoft/vscode-jupyter/issues/10443 "using 'run cell' on a cell which has indentation produces indentation error"): OP responded 313 days ago but team last responded 313 days ago
-
-  [10533](https://github.com/microsoft/vscode-jupyter/issues/10533 "Data Viewer does not display Series data if index and column names are equal"): OP responded 312 days ago but team last responded 312 days ago
-
-  [11471](https://github.com/microsoft/vscode-jupyter/issues/11471 "slow zoom-on-scroll for plotly 3D plots"): OP responded 138 days ago but team last responded 214 days ago
-
-  [11629](https://github.com/microsoft/vscode-jupyter/issues/11629 "Crashes on load when executed as administrator on Windows"): OP responded 194 days ago but team last responded 198 days ago
-
-  [11837](https://github.com/microsoft/vscode-jupyter/issues/11837 "Jupyter Notebook progress bar is broken with Julia (not Python)"): OP responded 144 days ago but team last responded 145 days ago
-
-  [11937](https://github.com/microsoft/vscode-jupyter/issues/11937 "Broken link formatting in the Czech localisation"): OP responded 166 days ago but team last responded 170 days ago
-
-  [12471](https://github.com/microsoft/vscode-jupyter/issues/12471 "&quot;Jupyter: Run Cells Above Current Cell&quot; runs each cell 3 times"): OP responded 116 days ago but team last responded 117 days ago
-
-  [12610](https://github.com/microsoft/vscode-jupyter/issues/12610 "Better guidance for default python environment on Ubuntu"): OP responded 97 days ago but team last responded 97 days ago
-
-  [12742](https://github.com/microsoft/vscode-jupyter/issues/12742 "Export to pdf failed"): OP responded 83 days ago but team last responded 83 days ago
-
-  [12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace"): OP responded 2 days ago but team last responded 82 days ago
-
-  [12845](https://github.com/microsoft/vscode-jupyter/issues/12845 "Can't view dataframe in data viewer while debugging &quot;Cannot read properties of undefined (reading 'disposed')&quot;"): OP responded 65 days ago but team last responded 67 days ago
-
-  [12893](https://github.com/microsoft/vscode-jupyter/issues/12893 "No direct cell output when CDN disabled"): OP responded 65 days ago but team last responded 67 days ago
-
-  [13026](https://github.com/microsoft/vscode-jupyter/issues/13026 "clicking on code cell output doesn't select cell"): OP responded 2 days ago but team last responded 2 days ago
-
-  [13053](https://github.com/microsoft/vscode-jupyter/issues/13053 "VSCode jupyter's interpreter selection doesn't work for code formatter"): OP responded 49 days ago but team last responded 51 days ago
-
-  [13139](https://github.com/microsoft/vscode-jupyter/issues/13139 "&quot;Debug cell&quot; not working in Jupyter notebooks"): OP responded 4 days ago but team last responded 32 days ago
-
-  [13224](https://github.com/microsoft/vscode-jupyter/issues/13224 "Jump to absolute path rather than relative path while debugging."): OP responded 7 days ago but team last responded 26 days ago
-
-  [13315](https://github.com/microsoft/vscode-jupyter/issues/13315 "Virtual environment requires ipykernel package to be installed, but ipykernel is already installed"): OP responded 6 days ago but team last responded 6 days ago
-
-  [13334](https://github.com/microsoft/vscode-jupyter/issues/13334 "Invalid error messages from language server when using a Remote Jupyter Server Kernel"): OP responded 14 days ago but team last responded 14 days ago
-
-  [13340](https://github.com/microsoft/vscode-jupyter/issues/13340 "VPN prevents any extensions to run"): OP responded 9 days ago but team last responded 13 days ago
-
-  [13345](https://github.com/microsoft/vscode-jupyter/issues/13345 "[BUG] Infinity token-authenticated request when connected to remote jupyter server "): OP responded 11 days ago but team last responded 12 days ago
-
-  [13349](https://github.com/microsoft/vscode-jupyter/issues/13349 "Notebook cell gets stuck in 'Pending' state"): OP responded 8 days ago but team last responded 11 days ago
-
-  [13368](https://github.com/microsoft/vscode-jupyter/issues/13368 "&quot;Copy to Clipboard&quot; button over .png images in Interactive window not working on Arch Linux Wayland"): OP responded 8 days ago but team last responded 9 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  TM:3, OP:2  |[15938](https://github.com/microsoft/vscode-jupyter/issues/15938 "Cannot select current python interpreter as kernel") | Cannot select current python interpreter as kernel |
+ |  TM:6, OP:6  |[15934](https://github.com/microsoft/vscode-jupyter/issues/15934 "Breakpoint in Notebook Cell doesn't stop when VSCode is running on Windows and Kernel running on Linux") | Breakpoint in Notebook Cell doesn't stop when VSCode is running on Windows and Kernel running on Linux |
+ |  TM:9, OP:9  |[15931](https://github.com/microsoft/vscode-jupyter/issues/15931 "Display some error message about the fact that some remote kernels are no longer usable to avoid long spinnings of kernels in kernel picker") | Display some error message about the fact that some remote kernels are no longer usable to avoid long spinnings of kernels in kernel picker |
+ |  TM:9, OP:9  |[15929](https://github.com/microsoft/vscode-jupyter/issues/15929 ".env $PYTHONPATH not set in WSL2") | .env $PYTHONPATH not set in WSL2 |
+ |  TM:13, OP:12  |[15914](https://github.com/microsoft/vscode-jupyter/issues/15914 ".ipynb debug cell -- debugger fails to hit breakpoint") | .ipynb debug cell -- debugger fails to hit breakpoint |
+ |  TM:17, OP:17  |[15906](https://github.com/microsoft/vscode-jupyter/issues/15906 "Jupyter notebook cell menu incorrect for new cells") | Jupyter notebook cell menu incorrect for new cells |
+ |  TM:20, OP:20  |[15886](https://github.com/microsoft/vscode-jupyter/issues/15886 "Discrepancy in handling `set_next_input` payload.") | Discrepancy in handling `set_next_input` payload. |
+ |  TM:55, OP:48  |[15787](https://github.com/microsoft/vscode-jupyter/issues/15787 "Can't Paste into ipywidgets.Text Element on Mac") | Can't Paste into ipywidgets.Text Element on Mac |
+ |  TM:68, OP:27  |[15749](https://github.com/microsoft/vscode-jupyter/issues/15749 "CTRL+A randomly breaks in Jupyter notebooks") | CTRL+A randomly breaks in Jupyter notebooks |
+ |  TM:74, OP:74  |[15747](https://github.com/microsoft/vscode-jupyter/issues/15747 "scrolling is buggy") | scrolling is buggy |
+ |  TM:6, OP:6  |[15692](https://github.com/microsoft/vscode-jupyter/issues/15692 "Trouble displaying output using R leaflet library") | Trouble displaying output using R leaflet library |
+ |  TM:28, OP:27  |[15690](https://github.com/microsoft/vscode-jupyter/issues/15690 "Running `Developer: Reload Window` with multiple notebooks open running remote kernels can result in them connecting to the same running kernel") | Running `Developer: Reload Window` with multiple notebooks open running remote kernels can result in them connecting to the same running kernel |
+ |  TM:102, OP:101  |[15666](https://github.com/microsoft/vscode-jupyter/issues/15666 "Issue adding cells to group 1 in Jupyter Notebook after VSCode update") | Issue adding cells to group 1 in Jupyter Notebook after VSCode update |
+ |  TM:19, OP:16  |[15595](https://github.com/microsoft/vscode-jupyter/issues/15595 "input and print logical error") | input and print logical error |
+ |  TM:156, OP:155  |[15337](https://github.com/microsoft/vscode-jupyter/issues/15337 "Jupyter notebook matplotlib chart fails to save: save dialog hidden, nothing saved") | Jupyter notebook matplotlib chart fails to save: save dialog hidden, nothing saved |
+ |  TM:165, OP:153  |[15305](https://github.com/microsoft/vscode-jupyter/issues/15305 "Cannot preview data in VScode") | Cannot preview data in VScode |
+ |  TM:165, OP:165  |[15297](https://github.com/microsoft/vscode-jupyter/issues/15297 "Execution of cells blocked due to variable viewer") | Execution of cells blocked due to variable viewer |
+ |  TM:188, OP:188  |[15179](https://github.com/microsoft/vscode-jupyter/issues/15179 "unable to &quot;view value in data viewer&quot; while debugging when hdf5 are involved") | unable to "view value in data viewer" while debugging when hdf5 are involved |
+ |  TM:192, OP:166  |[15134](https://github.com/microsoft/vscode-jupyter/issues/15134 "vscode opens temp file for Jupyter cell debugging") | vscode opens temp file for Jupyter cell debugging |
+ |  TM:224, OP:224  |[14959](https://github.com/microsoft/vscode-jupyter/issues/14959 "Subprocess keeps running after cell interruption (subshell)") | Subprocess keeps running after cell interruption (subshell) |
+ |  TM:271, OP:270  |[14753](https://github.com/microsoft/vscode-jupyter/issues/14753 "Shift+Enter doesn't route to Jupyter") | Shift+Enter doesn't route to Jupyter |
+ |  TM:285, OP:285  |[14661](https://github.com/microsoft/vscode-jupyter/issues/14661 "Interactive Python line numbers don't match those of the code") | Interactive Python line numbers don't match those of the code |
+ |  TM:381, OP:381  |[14048](https://github.com/microsoft/vscode-jupyter/issues/14048 "Crashes with Period column or index") | Crashes with Period column or index |
+ |  TM:248, OP:248  |[13473](https://github.com/microsoft/vscode-jupyter/issues/13473 "Debugging Notebook Cells broken") | Debugging Notebook Cells broken |
+ |  TM:478, OP:476  |[13432](https://github.com/microsoft/vscode-jupyter/issues/13432 "output stream conflicts when warning directly from the `logging` packages logger") | output stream conflicts when warning directly from the `logging` packages logger |
+ |  TM:502, OP:483  |[13224](https://github.com/microsoft/vscode-jupyter/issues/13224 "Jump to absolute path rather than relative path while debugging.") | Jump to absolute path rather than relative path while debugging. |
+ |  TM:167, OP:167  |[15290](https://github.com/microsoft/vscode-jupyter/issues/15290 "Python debugger dataviewer is broken if multiprocessing is used at some point earlier in the script") | Python debugger dataviewer is broken if multiprocessing is used at some point earlier in the script |
+ |  TM:254, OP:254  |[12409](https://github.com/microsoft/vscode-jupyter/issues/12409 "Nothing is rendered when %display latex is used") | Nothing is rendered when %display latex is used |
+ |  TM:788, OP:788  |[10533](https://github.com/microsoft/vscode-jupyter/issues/10533 "Data Viewer does not display Series data if index and column names are equal") | Data Viewer does not display Series data if index and column names are equal |
+ |  TM:620, OP:619  |[9763](https://github.com/microsoft/vscode-jupyter/issues/9763 "Cannot execute Run current cell for ~1s after I stop typing") | Cannot execute Run current cell for ~1s after I stop typing |
+ |  TM:888, OP:888  |[9349](https://github.com/microsoft/vscode-jupyter/issues/9349 "Expand Image gets stuck when showing a wide but short image.") | Expand Image gets stuck when showing a wide but short image. |
+ |  TM:1035, OP:1035  |[7950](https://github.com/microsoft/vscode-jupyter/issues/7950 "Expanding column length in Data Viewer") | Expanding column length in Data Viewer |
+ |  TM:1083, OP:1083  |[1600](https://github.com/microsoft/vscode-jupyter/issues/1600 "Remember file extension when exporting plots from interactive") | Remember file extension when exporting plots from interactive |
+ |  TM:1593, OP:1593  |[1144](https://github.com/microsoft/vscode-jupyter/issues/1144 "Python data viewer does not support grouped columns (custom indices), Multi-index , PeriodIndex") | Python data viewer does not support grouped columns (custom indices), Multi-index , PeriodIndex |
+ |  TM:1767, OP:1767  |[1146](https://github.com/microsoft/vscode-jupyter/issues/1146 "Can't expand right-handed column in Data Viewer") | Can't expand right-handed column in Data Viewer |
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
-
-  [1139](https://github.com/microsoft/vscode-jupyter/issues/1139 "Snappy data viewer for large DFs"): 3rd party responded 605 days ago but team last responded 606 days ago
-
-  [6510](https://github.com/microsoft/vscode-jupyter/issues/6510 "Jupyter extension creates countless empty ipynb (also creates &quot;checkpoint&quot; files after saving)"): 3rd party responded 37 days ago but team last responded 64 days ago
-
-  [6898](https://github.com/microsoft/vscode-jupyter/issues/6898 "Run line by line in an untitled file prompts to save file"): 3rd party responded 578 days ago but team last responded 579 days ago
-
-  [7105](https://github.com/microsoft/vscode-jupyter/issues/7105 "Change shortcuts for merge/join "): 3rd party responded 5 days ago but team last responded 626 days ago
-
-  [7611](https://github.com/microsoft/vscode-jupyter/issues/7611 "Run by line test is not stopping at end of cell"): 3rd party responded 216 days ago but team last responded 264 days ago
-
-  [7764](https://github.com/microsoft/vscode-jupyter/issues/7764 "Make error output collapsed by default (Was: Ugly output when clicking `Stop Cell Execution`)"): 3rd party responded 143 days ago but team last responded 577 days ago
-
-  [8555](https://github.com/microsoft/vscode-jupyter/issues/8555 "Refresh Data Viewer should not reset column widths"): 3rd party responded 436 days ago but team last responded 501 days ago
-
-  [8723](https://github.com/microsoft/vscode-jupyter/issues/8723 "Interactive Window - suggested changes to Expand/Collapse support"): 3rd party responded 461 days ago but team last responded 467 days ago
-
-  [8771](https://github.com/microsoft/vscode-jupyter/issues/8771 "Relative Path not work for Remote Kernel"): 3rd party responded 20 days ago but team last responded 31 days ago
-
-  [8800](https://github.com/microsoft/vscode-jupyter/issues/8800 "'Select a kernel' walkthrough step button does nothing"): 3rd party responded 430 days ago but team last responded 458 days ago
-
-  [9222](https://github.com/microsoft/vscode-jupyter/issues/9222 "Run by Line not available when switching from .NET Interactive Nb "): 3rd party responded 257 days ago but team last responded 422 days ago
-
-  [9239](https://github.com/microsoft/vscode-jupyter/issues/9239 "&quot;No active notebook document to debug&quot; when try to debug a notebook that doesn't have focus"): 3rd party responded 143 days ago but team last responded 422 days ago
-
-  [9264](https://github.com/microsoft/vscode-jupyter/issues/9264 "Data viewer is not recognizing objects of `pandas.DataFrame` subclass"): 3rd party responded 79 days ago but team last responded 419 days ago
-
-  [9397](https://github.com/microsoft/vscode-jupyter/issues/9397 "tqdm unable to remove progress bar widgets – blank vertical space left in the output container"): 3rd party responded 177 days ago but team last responded 186 days ago
-
-  [9448](https://github.com/microsoft/vscode-jupyter/issues/9448 "Notebook outline should only list the title, not all the markdown contents"): 3rd party responded 339 days ago but team last responded 404 days ago
-
-  [10345](https://github.com/microsoft/vscode-jupyter/issues/10345 "notebook output: text line limit doesn't auto rerender"): 3rd party responded 70 days ago but team last responded 328 days ago
-
-  [10422](https://github.com/microsoft/vscode-jupyter/issues/10422 "Alert box styling seems not to actually work"): 3rd party responded 4 days ago but team last responded 101 days ago
-
-  [11284](https://github.com/microsoft/vscode-jupyter/issues/11284 "lost a day of work"): 3rd party responded 17 days ago but team last responded 238 days ago
-
-  [11293](https://github.com/microsoft/vscode-jupyter/issues/11293 "Vega, Plotly & Altair renderers generate image outputs and add that to ipynb"): 3rd party responded 198 days ago but team last responded 210 days ago
-
-  [11657](https://github.com/microsoft/vscode-jupyter/issues/11657 "Interactive window and VIM mode"): 3rd party responded 58 days ago but team last responded 80 days ago
-
-  [11677](https://github.com/microsoft/vscode-jupyter/issues/11677 "Dataviewer not showing variables when columns are multi-indexed"): 3rd party responded 96 days ago but team last responded 177 days ago
-
-  [11802](https://github.com/microsoft/vscode-jupyter/issues/11802 "Jupyter Notebook doesn't respect VS Code &quot;editor.folding&quot; setting"): 3rd party responded 179 days ago but team last responded 180 days ago
-
-  [11871](https://github.com/microsoft/vscode-jupyter/issues/11871 "Pasting text into ipywidgets does not work in VS Code desktop"): 3rd party responded 2 days ago but team last responded 3 days ago
-
-  [12029](https://github.com/microsoft/vscode-jupyter/issues/12029 "Duplicate intellisense tooltips and dropdowns"): 3rd party responded 79 days ago but team last responded 143 days ago
-
-  [13015](https://github.com/microsoft/vscode-jupyter/issues/13015 "Connecting to remote jupyter server issues"): 3rd party responded 24 days ago but team last responded 39 days ago
-
-  [13105](https://github.com/microsoft/vscode-jupyter/issues/13105 "IPython.display.update_display interface failed since the second call"): 3rd party responded 14 days ago but team last responded 14 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  P:12,  |[15757](https://github.com/microsoft/vscode-jupyter/issues/15757 "nglview not working with vscode-jupyter") | nglview not working with vscode-jupyter |
+ |  P:16,  |[15701](https://github.com/microsoft/vscode-jupyter/issues/15701 "tqdm loading bar display lost") | tqdm loading bar display lost |
+ |  P:26,  |[15639](https://github.com/microsoft/vscode-jupyter/issues/15639 "Failed to start the Kernel.  Bad file descriptor (C:\Users\runneradmin\AppData\Local\Temp\tmpx5q4_1bm\build\_deps\bundled_libzmq-src\src\epoll.cpp:73).  View Jupyter log for further details.") | Failed to start the Kernel.  Bad file descriptor (C:\Users\runneradmin\AppData\Local\Temp\tmpx5q4_1bm\build\_deps\bundled_libzmq-src\src\epoll.cpp:73).  View Jupyter log for further details. |
+ |  P:131,  |[15384](https://github.com/microsoft/vscode-jupyter/issues/15384 "Print statement in matplotlib event not shown") | Print statement in matplotlib event not shown |
+ |  P:47,  |[15099](https://github.com/microsoft/vscode-jupyter/issues/15099 "nested interact() doesn't work") | nested interact() doesn't work |
+ |  P:240,  |[14925](https://github.com/microsoft/vscode-jupyter/issues/14925 "Unable to connect to the remote server (Azure Ml compute instance)") | Unable to connect to the remote server (Azure Ml compute instance) |
+ |  P:17,  |[14206](https://github.com/microsoft/vscode-jupyter/issues/14206 "Tensorboard is installed, prompted to install repeatedly") | Tensorboard is installed, prompted to install repeatedly |
+ |  P:218,  |[13570](https://github.com/microsoft/vscode-jupyter/issues/13570 "Slow execution in remote ssh") | Slow execution in remote ssh |
+ |  P:409,  |[13454](https://github.com/microsoft/vscode-jupyter/issues/13454 "Cannot restore cell output options after making it scrollable") | Cannot restore cell output options after making it scrollable |
+ |  P:43,  |[13139](https://github.com/microsoft/vscode-jupyter/issues/13139 "&quot;Debug cell&quot; not working in Jupyter notebooks when typings module is installed") | "Debug cell" not working in Jupyter notebooks when typings module is installed |
+ |  P:173,  |[11677](https://github.com/microsoft/vscode-jupyter/issues/11677 "Dataviewer not showing variables when columns are multi-indexed") | Dataviewer not showing variables when columns are multi-indexed |
+ |  P:534,  |[11657](https://github.com/microsoft/vscode-jupyter/issues/11657 "Interactive window and VIM mode") | Interactive window and VIM mode |
+ |  P:475,  |[12520](https://github.com/microsoft/vscode-jupyter/issues/12520 "Jupyter extension breaks code folding in ordinary python files") | Jupyter extension breaks code folding in ordinary python files |
+ |  P:619,  |[9239](https://github.com/microsoft/vscode-jupyter/issues/9239 "&quot;No active notebook document to debug&quot; when try to debug a notebook that doesn't have focus") | "No active notebook document to debug" when try to debug a notebook that doesn't have focus |
+ |  P:36,  |[8707](https://github.com/microsoft/vscode-jupyter/issues/8707 "Cannot pan zoomed image in plots viewer") | Cannot pan zoomed image in plots viewer |
+ |  P:328,  |[8131](https://github.com/microsoft/vscode-jupyter/issues/8131 "LaTeX not rendering in Plotly figures") | LaTeX not rendering in Plotly figures |
+ |  P:1054,  |[6898](https://github.com/microsoft/vscode-jupyter/issues/6898 "Run line by line in an untitled file prompts to save file") | Run line by line in an untitled file prompts to save file |
 
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
-
-  [1287](https://github.com/microsoft/vscode-jupyter/issues/1287 "IndentationError: unexpected indent when trying to &quot;Debug cell&quot; on indented code"): team response was last response and no others in 1126 days
-
-  [4288](https://github.com/microsoft/vscode-jupyter/issues/4288 "Data Viewer of Interactive Viewer will not open numpy complex ndarrays"): team response was last response and no others in 75 days
-
-  [5186](https://github.com/microsoft/vscode-jupyter/issues/5186 "Keep viewpoint (don't scroll) when Shift+Enter is pressed"): team response was last response and no others in 607 days
-
-  [7426](https://github.com/microsoft/vscode-jupyter/issues/7426 "Rounded floats are not shown correctly in the data viewer"): team response was last response and no others in 601 days
-
-  [7833](https://github.com/microsoft/vscode-jupyter/issues/7833 "Plot buttons stand out in dark themes"): team response was last response and no others in 570 days
-
-  [7918](https://github.com/microsoft/vscode-jupyter/issues/7918 "Grouping/sorting of notebook command "): team response was last response and no others in 564 days
-
-  [8131](https://github.com/microsoft/vscode-jupyter/issues/8131 "LaTeX not rendering in Plotly figures"): team response was last response and no others in 145 days
-
-  [8134](https://github.com/microsoft/vscode-jupyter/issues/8134 "Failed to connect jupyterhub."): team response was last response and no others in 129 days
-
-  [8446](https://github.com/microsoft/vscode-jupyter/issues/8446 "R str_view() function has blank output in vscode jupyter notebook"): team response was last response and no others in 252 days
-
-  [8693](https://github.com/microsoft/vscode-jupyter/issues/8693 "VSCode interactive window:  string variables with newline / space characters not shown correctly while inspecting [Jupyter: Variables]  "): team response was last response and no others in 94 days
-
-  [8707](https://github.com/microsoft/vscode-jupyter/issues/8707 "Cannot pan zoomed image in plots viewer"): team response was last response and no others in 467 days
-
-  [8794](https://github.com/microsoft/vscode-jupyter/issues/8794 "The Data Viewer can't sort the data correctly"): team response was last response and no others in 460 days
-
-  [9620](https://github.com/microsoft/vscode-jupyter/issues/9620 "Line breaks for multi-line comments in Markdown cells are broken (interactive Python)"): team response was last response and no others in 258 days
-
-  [9636](https://github.com/microsoft/vscode-jupyter/issues/9636 "Backslash replaces slash in paths to code files when debugging a cell interactively"): team response was last response and no others in 387 days
-
-  [9865](https://github.com/microsoft/vscode-jupyter/issues/9865 "Kernel instance is not selected after it is started"): team response was last response and no others in 368 days
-
-  [10169](https://github.com/microsoft/vscode-jupyter/issues/10169 "Plot viewer: when deleting the rightmost image, no remaining image is focused"): team response was last response and no others in 338 days
-
-  [10933](https://github.com/microsoft/vscode-jupyter/issues/10933 "Variable View stucks on 'Loading variables' when using 'autotime'"): team response was last response and no others in 278 days
-
-  [10997](https://github.com/microsoft/vscode-jupyter/issues/10997 "VScode Jupyter plugin - Display Dataframe as HTML table"): team response was last response and no others in 188 days
-
-  [11140](https://github.com/microsoft/vscode-jupyter/issues/11140 "First cell delimiter is ignored when using &quot;Run all cells&quot; from script"): team response was last response and no others in 256 days
-
-  [11175](https://github.com/microsoft/vscode-jupyter/issues/11175 "Dataframe display is not in monospaced font in interactive window"): team response was last response and no others in 235 days
-
-  [11352](https://github.com/microsoft/vscode-jupyter/issues/11352 "no currency symbols for Indian currency (₹)"): team response was last response and no others in 144 days
-
-  [11369](https://github.com/microsoft/vscode-jupyter/issues/11369 "Interactive window cuts off when showing images"): team response was last response and no others in 226 days
-
-  [11476](https://github.com/microsoft/vscode-jupyter/issues/11476 "Time magic causes the cell to lose its syntax highlight and autocompletion"): team response was last response and no others in 214 days
-
-  [11540](https://github.com/microsoft/vscode-jupyter/issues/11540 "ipywidget.Output emits duplicate output in sidepanel after restarting script notebook (sidepanel)"): team response was last response and no others in 206 days
-
-  [11750](https://github.com/microsoft/vscode-jupyter/issues/11750 "Navigate to file/line when clicking on traceback"): team response was last response and no others in 146 days
-
-  [11790](https://github.com/microsoft/vscode-jupyter/issues/11790 "Create data frame view editor only after packages are installed"): team response was last response and no others in 187 days
-
-  [11833](https://github.com/microsoft/vscode-jupyter/issues/11833 "Data Viewer filter shows no rows when the filter is used on the index of a DataFrame"): team response was last response and no others in 184 days
-
-  [11846](https://github.com/microsoft/vscode-jupyter/issues/11846 "mouse scroll stops when cursor in polars output"): team response was last response and no others in 179 days
-
-  [12172](https://github.com/microsoft/vscode-jupyter/issues/12172 "扩展主机在过去 5 分钟内意外终止了 3 次"): team response was last response and no others in 153 days
-
-  [12351](https://github.com/microsoft/vscode-jupyter/issues/12351 "Autocomplete doesn't work when the notebook is in a hidden directory."): team response was last response and no others in 143 days
-
-  [12375](https://github.com/microsoft/vscode-jupyter/issues/12375 "Presence of &quot;NDArray&quot; from the numpy.typing module prevents variables from loading in variables view"): team response was last response and no others in 142 days
-
-  [12484](https://github.com/microsoft/vscode-jupyter/issues/12484 "window.alert not working in Notebook renderers"): team response was last response and no others in 117 days
-
-  [12520](https://github.com/microsoft/vscode-jupyter/issues/12520 "Jupyter extension breaks code folding in ordinary python files"): team response was last response and no others in 110 days
-
-  [12647](https://github.com/microsoft/vscode-jupyter/issues/12647 "I created 2 docker container jupyter kernels and only one showed up on reload"): team response was last response and no others in 34 days
-
-  [12737](https://github.com/microsoft/vscode-jupyter/issues/12737 "LiveShare Jupyter Notebook output synch problem "): team response was last response and no others in 40 days
-
-  [12976](https://github.com/microsoft/vscode-jupyter/issues/12976 "ModuleNotFoundError while trying to import project modules"): team response was last response and no others in 31 days
-
-  [13062](https://github.com/microsoft/vscode-jupyter/issues/13062 "vscode jupyter notebook loads dataset or model very slowly while it should be fast."): team response was last response and no others in 47 days
-
-  [13138](https://github.com/microsoft/vscode-jupyter/issues/13138 "Jupyter kernel not restarting"): team response was last response and no others in 31 days
-
-  [13194](https://github.com/microsoft/vscode-jupyter/issues/13194 "Shortcut Jupyter: Run Selection/line in interactive window doesn't work at all"): team response was last response and no others in 33 days
-
-  [13229](https://github.com/microsoft/vscode-jupyter/issues/13229 "hang-ups and reconnecting to kernel issues on mac m2"): team response was last response and no others in 31 days
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  TM:87  |[15700](https://github.com/microsoft/vscode-jupyter/issues/15700 "[Freeze/Slow] Unable to save/format notebook") | [Freeze/Slow] Unable to save/format notebook |
+ |  TM:144  |[15406](https://github.com/microsoft/vscode-jupyter/issues/15406 "Perspective widget does not load in VS Code") | Perspective widget does not load in VS Code |
+ |  TM:143  |[15405](https://github.com/microsoft/vscode-jupyter/issues/15405 "Scrolling in notebooks sucks user back to particular output") | Scrolling in notebooks sucks user back to particular output |
+ |  TM:191  |[15014](https://github.com/microsoft/vscode-jupyter/issues/15014 "Export to PDF fails if markdown cells have relative image paths") | Export to PDF fails if markdown cells have relative image paths |
+ |  TM:248  |[14713](https://github.com/microsoft/vscode-jupyter/issues/14713 "cant visualize data of a valid DF") | cant visualize data of a valid DF |
+ |  TM:261  |[14680](https://github.com/microsoft/vscode-jupyter/issues/14680 "Interactive window autocomplete doesn't work until at least one cell is executed") | Interactive window autocomplete doesn't work until at least one cell is executed |
+ |  TM:289  |[14664](https://github.com/microsoft/vscode-jupyter/issues/14664 "Cannot debug with autotime, pykernel setup required for this feature") | Cannot debug with autotime, pykernel setup required for this feature |
+ |  TM:314  |[14253](https://github.com/microsoft/vscode-jupyter/issues/14253 "Path completion in interactive windows does not return current working directory") | Path completion in interactive windows does not return current working directory |
+ |  TM:254  |[14243](https://github.com/microsoft/vscode-jupyter/issues/14243 "`aggdraw.Draw` causes kernel to die, not in web interface, only in VS Code") | `aggdraw.Draw` causes kernel to die, not in web interface, only in VS Code |
+ |  TM:261  |[14000](https://github.com/microsoft/vscode-jupyter/issues/14000 "${fileDirname} fails when workspace is under '/'") | ${fileDirname} fails when workspace is under '/' |
+ |  TM:374  |[13993](https://github.com/microsoft/vscode-jupyter/issues/13993 "multiprocessing.spawn attempts to source `__file__` in interactive scripts, diverging from jupyter behavior") | multiprocessing.spawn attempts to source `__file__` in interactive scripts, diverging from jupyter behavior |
+ |  TM:416  |[13782](https://github.com/microsoft/vscode-jupyter/issues/13782 "Clear All in Python Interactive Stops Intellisense") | Clear All in Python Interactive Stops Intellisense |
+ |  TM:485  |[13039](https://github.com/microsoft/vscode-jupyter/issues/13039 "Calls to `input()` should flush stdout when executing cells") | Calls to `input()` should flush stdout when executing cells |
+ |  TM:248  |[12829](https://github.com/microsoft/vscode-jupyter/issues/12829 "Data Viewer can't filter multi-index") | Data Viewer can't filter multi-index |
+ |  TM:250  |[12764](https://github.com/microsoft/vscode-jupyter/issues/12764 "Cannot open and run a Jupyter Notebook inside a workspace") | Cannot open and run a Jupyter Notebook inside a workspace |
+ |  TM:516  |[12737](https://github.com/microsoft/vscode-jupyter/issues/12737 "LiveShare Jupyter Notebook output synch problem ") | LiveShare Jupyter Notebook output synch problem  |
+ |  TM:510  |[12647](https://github.com/microsoft/vscode-jupyter/issues/12647 "I created 2 docker container jupyter kernels and only one showed up on reload") | I created 2 docker container jupyter kernels and only one showed up on reload |
+ |  TM:248  |[12538](https://github.com/microsoft/vscode-jupyter/issues/12538 "Data viewer rounding large integers to incorrect values") | Data viewer rounding large integers to incorrect values |
+ |  TM:618  |[12375](https://github.com/microsoft/vscode-jupyter/issues/12375 "Presence of &quot;NDArray&quot; from the numpy.typing module prevents variables from loading in variables view") | Presence of "NDArray" from the numpy.typing module prevents variables from loading in variables view |
+ |  TM:655  |[11846](https://github.com/microsoft/vscode-jupyter/issues/11846 "mouse scroll stops when cursor in polars output") | mouse scroll stops when cursor in polars output |
+ |  TM:660  |[11833](https://github.com/microsoft/vscode-jupyter/issues/11833 "Data Viewer filter shows no rows when the filter is used on the index of a DataFrame") | Data Viewer filter shows no rows when the filter is used on the index of a DataFrame |
+ |  TM:326  |[11731](https://github.com/microsoft/vscode-jupyter/issues/11731 "Notebook Renderer: textbox events are intercepted") | Notebook Renderer: textbox events are intercepted |
+ |  TM:256  |[11636](https://github.com/microsoft/vscode-jupyter/issues/11636 "vs code freeze when rendering papermill notebook output") | vs code freeze when rendering papermill notebook output |
+ |  TM:702  |[11369](https://github.com/microsoft/vscode-jupyter/issues/11369 "Interactive window cuts off when showing images") | Interactive window cuts off when showing images |
+ |  TM:754  |[10933](https://github.com/microsoft/vscode-jupyter/issues/10933 "Variable View stucks on 'Loading variables' when using 'autotime'") | Variable View stucks on 'Loading variables' when using 'autotime' |
+ |  TM:844  |[9865](https://github.com/microsoft/vscode-jupyter/issues/9865 "Active/Live Remote Kernel instance is not selected after it is started") | Active/Live Remote Kernel instance is not selected after it is started |
+ |  TM:317  |[9636](https://github.com/microsoft/vscode-jupyter/issues/9636 "Backslash replaces slash in paths to code files when debugging a cell interactively") | Backslash replaces slash in paths to code files when debugging a cell interactively |
+ |  TM:734  |[9620](https://github.com/microsoft/vscode-jupyter/issues/9620 "Line breaks for multi-line comments in Markdown cells are broken (interactive Python)") | Line breaks for multi-line comments in Markdown cells are broken (interactive Python) |
+ |  TM:936  |[8794](https://github.com/microsoft/vscode-jupyter/issues/8794 "The Data Viewer can't sort the data correctly") | The Data Viewer can't sort the data correctly |
+ |  TM:1046  |[7833](https://github.com/microsoft/vscode-jupyter/issues/7833 "Plot buttons stand out in dark themes") | Plot buttons stand out in dark themes |
+ |  TM:1077  |[7426](https://github.com/microsoft/vscode-jupyter/issues/7426 "Rounded floats are not shown correctly in the data viewer") | Rounded floats are not shown correctly in the data viewer |
+ |  TM:551  |[4288](https://github.com/microsoft/vscode-jupyter/issues/4288 "Data Viewer of Interactive Viewer will not open numpy complex ndarrays") | Data Viewer of Interactive Viewer will not open numpy complex ndarrays |
 
 ---
 
@@ -390,300 +196,162 @@ Generated on 2023-05-01 using: stale=30, all=1
 
 ### Issues in vscode-jupyter that need a response from team:
 
-
-  [5560](https://github.com/microsoft/vscode-jupyter/issues/5560 "Can the &quot;data viewer&quot; in VS Code filter data with multiple conditions?"): needs an initial team response (741 days old)
-
-  [8057](https://github.com/microsoft/vscode-jupyter/issues/8057 "nbconvert option results in duplicate IPython imports"): needs an initial team response (551 days old)
-
-  [8804](https://github.com/microsoft/vscode-jupyter/issues/8804 "&quot;Run by line&quot; tutorial is hard to navigate"): needs an initial team response (460 days old)
-
-  [11123](https://github.com/microsoft/vscode-jupyter/issues/11123 "DataFrame Explorer with interactive plots"): needs an initial team response (259 days old)
-
-  [11415](https://github.com/microsoft/vscode-jupyter/issues/11415 "Add coloring to python data debug data viewer"): needs an initial team response (222 days old)
-
-  [11611](https://github.com/microsoft/vscode-jupyter/issues/11611 "outline focus (highlight) should reflect position of current selected cell"): needs an initial team response (201 days old)
-
-  [11670](https://github.com/microsoft/vscode-jupyter/issues/11670 "Do not override the themes used in plotting packages"): needs an initial team response (196 days old)
-
-  [12014](https://github.com/microsoft/vscode-jupyter/issues/12014 "Flaky tests make contribution more difficult and are a project health concern"): needs an initial team response (167 days old)
-
-  [12078](https://github.com/microsoft/vscode-jupyter/issues/12078 "Cell output (tqdm) not using a monospaced font"): needs an initial team response (164 days old)
-
-  [12186](https://github.com/microsoft/vscode-jupyter/issues/12186 "The interactive window should look at the sheband to opens the script with the right python version"): needs an initial team response (153 days old)
-
-  [12227](https://github.com/microsoft/vscode-jupyter/issues/12227 "MRU items should have a 'x' to remove"): needs an initial team response (151 days old)
-
-  [12264](https://github.com/microsoft/vscode-jupyter/issues/12264 "Reduce toolbar options when debugging"): needs an initial team response (150 days old)
-
-  [12384](https://github.com/microsoft/vscode-jupyter/issues/12384 "Include #%% in executed code within Interactive window (or a setting to toggle the behavior)"): needs an initial team response (140 days old)
-
-  [12408](https://github.com/microsoft/vscode-jupyter/issues/12408 "&quot;(undefined)&quot; suffix on Jupyter Server status bar panel tooltip"): needs an initial team response (136 days old)
-
-  [12409](https://github.com/microsoft/vscode-jupyter/issues/12409 "Nothing is rendered when %display latex is used"): needs an initial team response (136 days old)
-
-  [12445](https://github.com/microsoft/vscode-jupyter/issues/12445 "Enchance the scroll-down logic when executing cells"): needs an initial team response (125 days old)
-
-  [12486](https://github.com/microsoft/vscode-jupyter/issues/12486 " response slowly，disconnect frequently"): needs an initial team response (119 days old)
-
-  [12491](https://github.com/microsoft/vscode-jupyter/issues/12491 "If the cell runs for more than 60 seconds, an additional reminder will be given"): needs an initial team response (116 days old)
-
-  [12512](https://github.com/microsoft/vscode-jupyter/issues/12512 "Command based jupyter uri provider"): needs an initial team response (111 days old)
-
-  [12519](https://github.com/microsoft/vscode-jupyter/issues/12519 "Incorrect display of polars Dataframe in Variables view"): needs an initial team response (110 days old)
-
-  [12532](https://github.com/microsoft/vscode-jupyter/issues/12532 "Interactive window shows stack trace with bare <a> tags when running code in unsaved buffer"): needs an initial team response (109 days old)
-
-  [12644](https://github.com/microsoft/vscode-jupyter/issues/12644 "Notebook outline: disable symbol?"): needs an initial team response (95 days old)
-
-  [12649](https://github.com/microsoft/vscode-jupyter/issues/12649 "Add Markdown formatting for help commands in Jupyter extension"): needs an initial team response (95 days old)
-
-  [12699](https://github.com/microsoft/vscode-jupyter/issues/12699 "Better handling of (error) output"): needs an initial team response (89 days old)
-
-  [12710](https://github.com/microsoft/vscode-jupyter/issues/12710 "Making %edit magic work in jupyter extension."): needs an initial team response (88 days old)
-
-  [12727](https://github.com/microsoft/vscode-jupyter/issues/12727 "Switching between interactive windows"): needs an initial team response (86 days old)
-
-  [12793](https://github.com/microsoft/vscode-jupyter/issues/12793 "SVG adjust width, fit to display width"): needs an initial team response (80 days old)
-
-  [12796](https://github.com/microsoft/vscode-jupyter/issues/12796 "Implement R and SQL code with Python in the same Jupyter Notebook"): needs an initial team response (80 days old)
-
-  [12826](https://github.com/microsoft/vscode-jupyter/issues/12826 "Add `pathMappings` to remote Jupyter server debugging"): needs an initial team response (76 days old)
-
-  [12852](https://github.com/microsoft/vscode-jupyter/issues/12852 "Tensorboard still takes a huge amount of memory after closing it"): needs an initial team response (75 days old)
-
-  [12862](https://github.com/microsoft/vscode-jupyter/issues/12862 "provide option to use custom css files for notebook"): needs an initial team response (72 days old)
-
-  [12866](https://github.com/microsoft/vscode-jupyter/issues/12866 "Hovering on variables once a jupyter session starts should reflect the value of the variable"): needs an initial team response (72 days old)
-
-  [12869](https://github.com/microsoft/vscode-jupyter/issues/12869 "Python Intellisense makes a lot of trash suggestions when opening quotes in Notebooks"): needs an initial team response (72 days old)
-
-  [12930](https://github.com/microsoft/vscode-jupyter/issues/12930 "Highlight Selected Words in another cells"): needs an initial team response (64 days old)
-
-  [12960](https://github.com/microsoft/vscode-jupyter/issues/12960 "Replace deprecated `set-output` github"): needs an initial team response (61 days old)
-
-  [12975](https://github.com/microsoft/vscode-jupyter/issues/12975 "disable follow link on command output in interactive window"): needs an initial team response (60 days old)
-
-  [13038](https://github.com/microsoft/vscode-jupyter/issues/13038 "Auto-save Python Jupyter notebook and restore from temporary autosave"): needs an initial team response (52 days old)
-
-  [13040](https://github.com/microsoft/vscode-jupyter/issues/13040 "Linting within Jupyter ipython Notebooks"): needs an initial team response (52 days old)
-
-  [13113](https://github.com/microsoft/vscode-jupyter/issues/13113 "Data Viewer in VS Code requires automatic colored cells, automatic column width, number format option, floating window option, expression evaluation"): needs an initial team response (45 days old)
-
-  [13116](https://github.com/microsoft/vscode-jupyter/issues/13116 " we cannot see what we entered in the &quot; input() &quot; "): needs an initial team response (41 days old)
-
-  [13130](https://github.com/microsoft/vscode-jupyter/issues/13130 "Expose reference to Python file from Interactive Window cell"): needs an initial team response (40 days old)
-
-  [13136](https://github.com/microsoft/vscode-jupyter/issues/13136 "Walkthrough overflowing with long buttons and text"): needs an initial team response (40 days old)
-
-  [13167](https://github.com/microsoft/vscode-jupyter/issues/13167 "Dark mode when exporting to HTML"): needs an initial team response (36 days old)
-
-  [13195](https://github.com/microsoft/vscode-jupyter/issues/13195 "Show description of kernels on main list."): needs an initial team response (33 days old)
-
-  [13207](https://github.com/microsoft/vscode-jupyter/issues/13207 "Copy cell code and output together as plain text"): needs an initial team response (33 days old)
-
-  [13225](https://github.com/microsoft/vscode-jupyter/issues/13225 "Consuming 150% CPU"): needs an initial team response (31 days old)
-
-  [13232](https://github.com/microsoft/vscode-jupyter/issues/13232 "[FR] Disable Opening of Saved Figures"): needs an initial team response (31 days old)
-
-  [13247](https://github.com/microsoft/vscode-jupyter/issues/13247 "Disable filepath highlighting"): needs an initial team response (29 days old)
-
-  [13249](https://github.com/microsoft/vscode-jupyter/issues/13249 "Add option to `notebook.formatOnSave` not to add a new line at the end of each cell when formatting jupyter notebooks"): needs an initial team response (28 days old)
-
-  [13255](https://github.com/microsoft/vscode-jupyter/issues/13255 "Notebook communication between JavaScript and Python"): needs an initial team response (27 days old)
-
-  [13285](https://github.com/microsoft/vscode-jupyter/issues/13285 "Don't paste anything in Jupyter server input field"): needs an initial team response (24 days old)
-
-  [13292](https://github.com/microsoft/vscode-jupyter/issues/13292 "Scroll-bar in zen-mode"): needs an initial team response (20 days old)
-
-  [13321](https://github.com/microsoft/vscode-jupyter/issues/13321 "Enable users to define their own default path when saving plots with &quot;save as&quot; from the interactive shell."): needs an initial team response (17 days old)
-
-  [13353](https://github.com/microsoft/vscode-jupyter/issues/13353 "Jupyter notebook closes instead of running"): needs an initial team response (11 days old)
-
-  [13367](https://github.com/microsoft/vscode-jupyter/issues/13367 "There is typo in the comments"): needs an initial team response (10 days old)
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:18  |[15904](https://github.com/microsoft/vscode-jupyter/issues/15904 "Feature Request: More easily handle changing the working directory") | Feature Request: More easily handle changing the working directory |
+ |  OP:20  |[15891](https://github.com/microsoft/vscode-jupyter/issues/15891 "VSCode Jupyter with remote server: Cannot view the full contents of the truncated cell output in a text editor") | VSCode Jupyter with remote server: Cannot view the full contents of the truncated cell output in a text editor |
+ |  OP:25  |[15869](https://github.com/microsoft/vscode-jupyter/issues/15869 "Allow specification of DebugPy Configuration") | Allow specification of DebugPy Configuration |
+ |  OP:26  |[15866](https://github.com/microsoft/vscode-jupyter/issues/15866 "Share Linter and IntelliSense information across multiple Notebooks") | Share Linter and IntelliSense information across multiple Notebooks |
+ |  OP:32  |[15853](https://github.com/microsoft/vscode-jupyter/issues/15853 "Adding support for compatible data types in data viewer") | Adding support for compatible data types in data viewer |
+ |  OP:37  |[15844](https://github.com/microsoft/vscode-jupyter/issues/15844 "Support loading environment from .envrc with direnv") | Support loading environment from .envrc with direnv |
+ |  OP:38  |[15849](https://github.com/microsoft/vscode-jupyter/issues/15849 "Allow moving REPL window to bottom panel") | Allow moving REPL window to bottom panel |
+ |  OP:55  |[15794](https://github.com/microsoft/vscode-jupyter/issues/15794 "Better docs on Issue 14671") | Better docs on Issue 14671 |
+ |  OP:55  |[15793](https://github.com/microsoft/vscode-jupyter/issues/15793 "interactive window focus on output window upon executing a cell") | interactive window focus on output window upon executing a cell |
+ |  OP:62  |[15774](https://github.com/microsoft/vscode-jupyter/issues/15774 "Filtering of variables in &quot;Jupyter&quot; window is needed") | Filtering of variables in "Jupyter" window is needed |
+ |  OP:67  |[15764](https://github.com/microsoft/vscode-jupyter/issues/15764 "allow jupyter .ipynb files to be renamed without restarting kernel") | allow jupyter .ipynb files to be renamed without restarting kernel |
+ |  OP:70  |[15766](https://github.com/microsoft/vscode-jupyter/issues/15766 "Support for quick change to raw cell") | Support for quick change to raw cell |
+ |  OP:71  |[15751](https://github.com/microsoft/vscode-jupyter/issues/15751 "variables assigned to via the %%bigquery magic wrongly show red underline") | variables assigned to via the %%bigquery magic wrongly show red underline |
+ |  OP:73  |[15765](https://github.com/microsoft/vscode-jupyter/issues/15765 "Displaying Plotly Data Point Hover Data using DASH") | Displaying Plotly Data Point Hover Data using DASH |
+ |  OP:75  |[15744](https://github.com/microsoft/vscode-jupyter/issues/15744 "Tools.AI Jupyter Crash") | Tools.AI Jupyter Crash |
+ |  OP:85  |[15717](https://github.com/microsoft/vscode-jupyter/issues/15717 "View Databricks Notebooks as Jupyter Notebooks/Custom Notebook file format.") | View Databricks Notebooks as Jupyter Notebooks/Custom Notebook file format. |
+ |  OP:86  |[15713](https://github.com/microsoft/vscode-jupyter/issues/15713 "Workspace-level `jupyter.runStartupCommands`") | Workspace-level `jupyter.runStartupCommands` |
+ |  OP:87  |[15709](https://github.com/microsoft/vscode-jupyter/issues/15709 "Shortcut to display function/method docstring") | Shortcut to display function/method docstring |
+ |  OP:87  |[15705](https://github.com/microsoft/vscode-jupyter/issues/15705 "debug dataframe Data Viewer ") | debug dataframe Data Viewer  |
+ |  OP:104  |[15669](https://github.com/microsoft/vscode-jupyter/issues/15669 "[FR]convert markdown to nb ") | [FR]convert markdown to nb  |
+ |  OP:110  |[15631](https://github.com/microsoft/vscode-jupyter/issues/15631 "Detach interactive window from file and rename") | Detach interactive window from file and rename |
+ |  OP:112  |[15621](https://github.com/microsoft/vscode-jupyter/issues/15621 "Access remote jupyter terminal") | Access remote jupyter terminal |
+ |  OP:117  |[15592](https://github.com/microsoft/vscode-jupyter/issues/15592 "Let me opt out of your surveys permanently ") | Let me opt out of your surveys permanently  |
+ |  OP:123  |[15560](https://github.com/microsoft/vscode-jupyter/issues/15560 "Pylance reportUndefinedVariable when using Jupyter startup script") | Pylance reportUndefinedVariable when using Jupyter startup script |
+ |  OP:128  |[15543](https://github.com/microsoft/vscode-jupyter/issues/15543 "Server-side execution") | Server-side execution |
+ |  OP:129  |[15541](https://github.com/microsoft/vscode-jupyter/issues/15541 "jupyter notebook can't use options near &quot;run&quot; button") | jupyter notebook can't use options near "run" button |
+ |  OP:130  |[15534](https://github.com/microsoft/vscode-jupyter/issues/15534 "Make Code Executed with `Run Selection/Line in Interactive Window` Accessible with Up Arrow") | Make Code Executed with `Run Selection/Line in Interactive Window` Accessible with Up Arrow |
+ |  OP:132  |[15514](https://github.com/microsoft/vscode-jupyter/issues/15514 "Enhance Developer Experience with Clickable Paths for %run Magic Command in Jupyter Notebooks") | Enhance Developer Experience with Clickable Paths for %run Magic Command in Jupyter Notebooks |
+ |  OP:136  |[15489](https://github.com/microsoft/vscode-jupyter/issues/15489 "Colour notebook cell background by tag") | Colour notebook cell background by tag |
+ |  OP:142  |[15448](https://github.com/microsoft/vscode-jupyter/issues/15448 "No &quot;Open Value in Data Viewer&quot; in VS Code Variable View") | No "Open Value in Data Viewer" in VS Code Variable View |
+ |  OP:165  |[15309](https://github.com/microsoft/vscode-jupyter/issues/15309 "The extension should notify the user to install Python and the Python extension when attempting to export a notebook if they are not installed") | The extension should notify the user to install Python and the Python extension when attempting to export a notebook if they are not installed |
+ |  OP:171  |[15292](https://github.com/microsoft/vscode-jupyter/issues/15292 "Cannot launch Jupyter file (*.ipynb) since the release of 1.87.0 VSCode version") | Cannot launch Jupyter file (*.ipynb) since the release of 1.87.0 VSCode version |
+ |  OP:172  |[15266](https://github.com/microsoft/vscode-jupyter/issues/15266 "&quot;Clear All Output&quot; is greyed out and doesn't clear execution count unless output is available") | "Clear All Output" is greyed out and doesn't clear execution count unless output is available |
+ |  OP:177  |[15228](https://github.com/microsoft/vscode-jupyter/issues/15228 "API to link a DebugSession object to a notebook") | API to link a DebugSession object to a notebook |
+ |  OP:192  |[15162](https://github.com/microsoft/vscode-jupyter/issues/15162 "Implement disconnect Kernal feature") | Implement disconnect Kernal feature |
+ |  OP:199  |[15106](https://github.com/microsoft/vscode-jupyter/issues/15106 "Report width of the Jupyter window for libraries like `rich` to use") | Report width of the Jupyter window for libraries like `rich` to use |
+ |  OP:201  |[15092](https://github.com/microsoft/vscode-jupyter/issues/15092 "Add a &quot;Delete cell&quot; option in the notebook cells' right-button menu") | Add a "Delete cell" option in the notebook cells' right-button menu |
+ |  OP:202  |[15088](https://github.com/microsoft/vscode-jupyter/issues/15088 "Remote jupyter server reporting missing imports") | Remote jupyter server reporting missing imports |
+ |  OP:209  |[15127](https://github.com/microsoft/vscode-jupyter/issues/15127 "Enable command mode number keys") | Enable command mode number keys |
+ |  OP:209  |[15057](https://github.com/microsoft/vscode-jupyter/issues/15057 "This type of editor cannot be opened in other windows yet") | This type of editor cannot be opened in other windows yet |
+ |  OP:217  |[15013](https://github.com/microsoft/vscode-jupyter/issues/15013 "Denser notebook display") | Denser notebook display |
+ |  OP:226  |[14990](https://github.com/microsoft/vscode-jupyter/issues/14990 "Collapse traceback and show only error message") | Collapse traceback and show only error message |
+ |  OP:287  |[14674](https://github.com/microsoft/vscode-jupyter/issues/14674 "Support module import/usage analysis in **Run Dependent Cells**") | Support module import/usage analysis in **Run Dependent Cells** |
+ |  OP:335  |[14337](https://github.com/microsoft/vscode-jupyter/issues/14337 "Add Notebook template support") | Add Notebook template support |
+ |  OP:341  |[14316](https://github.com/microsoft/vscode-jupyter/issues/14316 "Explore supporting **Run Dependent Cells**") | Explore supporting **Run Dependent Cells** |
+ |  OP:355  |[14212](https://github.com/microsoft/vscode-jupyter/issues/14212 "Built in CPU/Memory/Cuda/GPU memory monitor") | Built in CPU/Memory/Cuda/GPU memory monitor |
+ |  OP:405  |[13890](https://github.com/microsoft/vscode-jupyter/issues/13890 "Launch TensorBoard on a specific port ") | Launch TensorBoard on a specific port  |
+ |  OP:406  |[13886](https://github.com/microsoft/vscode-jupyter/issues/13886 "&quot;Modeless&quot; controls for notebook manipulation") | "Modeless" controls for notebook manipulation |
+ |  OP:496  |[13292](https://github.com/microsoft/vscode-jupyter/issues/13292 "Scroll-bar in zen-mode") | Scroll-bar in zen-mode |
+ |  OP:514  |[13157](https://github.com/microsoft/vscode-jupyter/issues/13157 "doesn't work with the latest releases") | doesn't work with the latest releases |
+ |  OP:514  |[13156](https://github.com/microsoft/vscode-jupyter/issues/13156 "random extra stuff gets saved into notebook document") | random extra stuff gets saved into notebook document |
+ |  OP:516  |[13136](https://github.com/microsoft/vscode-jupyter/issues/13136 "Walkthrough overflowing with long buttons and text") | Walkthrough overflowing with long buttons and text |
+ |  OP:521  |[13113](https://github.com/microsoft/vscode-jupyter/issues/13113 "Data Viewer in VS Code should have automatic colored cells, automatic column width, number format option, floating window option, expression evaluation") | Data Viewer in VS Code should have automatic colored cells, automatic column width, number format option, floating window option, expression evaluation |
+ |  OP:528  |[13038](https://github.com/microsoft/vscode-jupyter/issues/13038 "Auto-save Python Jupyter notebook and restore from temporary autosave") | Auto-save Python Jupyter notebook and restore from temporary autosave |
+ |  OP:552  |[12826](https://github.com/microsoft/vscode-jupyter/issues/12826 "Add `pathMappings` to remote Jupyter server debugging") | Add `pathMappings` to remote Jupyter server debugging |
+ |  OP:556  |[12793](https://github.com/microsoft/vscode-jupyter/issues/12793 "SVG adjust width, fit to display width") | SVG adjust width, fit to display width |
+ |  OP:571  |[12649](https://github.com/microsoft/vscode-jupyter/issues/12649 "Add Markdown formatting for help commands in Jupyter extension") | Add Markdown formatting for help commands in Jupyter extension |
+ |  OP:571  |[12643](https://github.com/microsoft/vscode-jupyter/issues/12643 "Use `setPydevdSourceMap`") | Use `setPydevdSourceMap` |
+ |  OP:643  |[12012](https://github.com/microsoft/vscode-jupyter/issues/12012 "Clear output button disabled even if cell execution counts are not empty") | Clear output button disabled even if cell execution counts are not empty |
+ |  OP:677  |[11611](https://github.com/microsoft/vscode-jupyter/issues/11611 "outline focus (highlight) should reflect position of current selected cell") | outline focus (highlight) should reflect position of current selected cell |
+ |  OP:738  |[11108](https://github.com/microsoft/vscode-jupyter/issues/11108 "Debugger architecture review") | Debugger architecture review |
+ |  OP:936  |[8804](https://github.com/microsoft/vscode-jupyter/issues/8804 "&quot;Run by line&quot; tutorial is hard to navigate") | "Run by line" tutorial is hard to navigate |
+ |  OP:1217  |[5560](https://github.com/microsoft/vscode-jupyter/issues/5560 "Can the &quot;data viewer&quot; in VS Code filter data with multiple conditions?") | Can the "data viewer" in VS Code filter data with multiple conditions? |
 
 ### Issues in vscode-jupyter that have comments from OP after last team response:
 
-
-  [1237](https://github.com/microsoft/vscode-jupyter/issues/1237 "Support for editing Plain text files (like Python,  MyST and R Markdown-based) as notebooks"): OP responded 276 days ago but team last responded 935 days ago
-
-  [1308](https://github.com/microsoft/vscode-jupyter/issues/1308 "Freeze and protect cell / skip execution"): OP responded 106 days ago but team last responded 252 days ago
-
-  [4973](https://github.com/microsoft/vscode-jupyter/issues/4973 "Cannot go to sources of exception stack trace"): OP responded 791 days ago but team last responded 792 days ago
-
-  [5168](https://github.com/microsoft/vscode-jupyter/issues/5168 "Goto cell command"): OP responded 776 days ago but team last responded 776 days ago
-
-  [7427](https://github.com/microsoft/vscode-jupyter/issues/7427 "Programatically launch the data viewer for specified dataframe "): OP responded 270 days ago but team last responded 433 days ago
-
-  [7532](https://github.com/microsoft/vscode-jupyter/issues/7532 "Show source for changed or deleted cells"): OP responded 581 days ago but team last responded 591 days ago
-
-  [8288](https://github.com/microsoft/vscode-jupyter/issues/8288 "Simplify PDF export by using webPDF"): OP responded 529 days ago but team last responded 529 days ago
-
-  [8289](https://github.com/microsoft/vscode-jupyter/issues/8289 "Provide a way to skip diagnostics in the interactive window"): OP responded 269 days ago but team last responded 270 days ago
-
-  [8373](https://github.com/microsoft/vscode-jupyter/issues/8373 "Enhancement: Use python installed plotly.min.js instead of renderer."): OP responded 342 days ago but team last responded 360 days ago
-
-  [8471](https://github.com/microsoft/vscode-jupyter/issues/8471 "Create git commits by cell"): OP responded 509 days ago but team last responded 509 days ago
-
-  [8828](https://github.com/microsoft/vscode-jupyter/issues/8828 "Render and Drag plots as PDFs from IW"): OP responded 458 days ago but team last responded 458 days ago
-
-  [8977](https://github.com/microsoft/vscode-jupyter/issues/8977 "Jupyter output cell: change traceback text color independently from &quot;terminal.foreground&quot;"): OP responded 444 days ago but team last responded 444 days ago
-
-  [9930](https://github.com/microsoft/vscode-jupyter/issues/9930 "[interactive-window] &quot;Create Interactive Window&quot; command does not open in the current work directory"): OP responded 354 days ago but team last responded 356 days ago
-
-  [9971](https://github.com/microsoft/vscode-jupyter/issues/9971 "Add keybindings for next and previous cell are that are supported in notebooks &quot;insert&quot; mode"): OP responded 355 days ago but team last responded 355 days ago
-
-  [10059](https://github.com/microsoft/vscode-jupyter/issues/10059 "Exporting file as notebook drops comments on same line as cell delimiters"): OP responded 347 days ago but team last responded 347 days ago
-
-  [10808](https://github.com/microsoft/vscode-jupyter/issues/10808 "Interactive Window creation and restore"): OP responded 290 days ago but team last responded 290 days ago
-
-  [10832](https://github.com/microsoft/vscode-jupyter/issues/10832 "Kernel architecture review and polish"): OP responded 255 days ago but team last responded 278 days ago
-
-  [10943](https://github.com/microsoft/vscode-jupyter/issues/10943 "No auto refresh with Data Viewer"): OP responded 277 days ago but team last responded 278 days ago
-
-  [11422](https://github.com/microsoft/vscode-jupyter/issues/11422 "Check setting scopes"): OP responded 123 days ago but team last responded 222 days ago
-
-  [11534](https://github.com/microsoft/vscode-jupyter/issues/11534 "Support more vscode variables in .env files"): OP responded 206 days ago but team last responded 207 days ago
-
-  [11896](https://github.com/microsoft/vscode-jupyter/issues/11896 "Unclear kernel selection process in vscode.dev"): OP responded 178 days ago but team last responded 178 days ago
-
-  [11981](https://github.com/microsoft/vscode-jupyter/issues/11981 "Restore Tensorboard Settings after Reconnect"): OP responded 161 days ago but team last responded 161 days ago
-
-  [12043](https://github.com/microsoft/vscode-jupyter/issues/12043 "Typing `help(...)` or `?fun` to open in a text editor"): OP responded 149 days ago but team last responded 149 days ago
-
-  [12556](https://github.com/microsoft/vscode-jupyter/issues/12556 "Debugger doesn't start in a specific Conda Environment"): OP responded 103 days ago but team last responded 103 days ago
-
-  [12646](https://github.com/microsoft/vscode-jupyter/issues/12646 "Detected project namespace not in sync if notebook is not in root folder"): OP responded 93 days ago but team last responded 94 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  TM:13, OP:7  |[15688](https://github.com/microsoft/vscode-jupyter/issues/15688 "Pylance 在过去 3 分钟内崩溃了 5 次。Pylance 不会重新启动。有关详细信息，请参阅输出") | Pylance 在过去 3 分钟内崩溃了 5 次。Pylance 不会重新启动。有关详细信息，请参阅输出 |
+ |  TM:27, OP:21  |[15734](https://github.com/microsoft/vscode-jupyter/issues/15734 "consomme beaucoup de ressources ") | consomme beaucoup de ressources  |
+ |  TM:164, OP:153  |[15323](https://github.com/microsoft/vscode-jupyter/issues/15323 "Enable `shift` + `J`/`K` for selecting a range of cells ") | Enable `shift` + `J`/`K` for selecting a range of cells  |
+ |  TM:164, OP:153  |[15322](https://github.com/microsoft/vscode-jupyter/issues/15322 "Allow copy of charts from the output cell area") | Allow copy of charts from the output cell area |
+ |  TM:165, OP:160  |[15316](https://github.com/microsoft/vscode-jupyter/issues/15316 "Parameter hints for dynamically created classes and methods") | Parameter hints for dynamically created classes and methods |
+ |  TM:165, OP:165  |[15203](https://github.com/microsoft/vscode-jupyter/issues/15203 "Run Selection/Line in Python Terminal doesn't take into account code changes in the import files") | Run Selection/Line in Python Terminal doesn't take into account code changes in the import files |
+ |  TM:210, OP:209  |[15039](https://github.com/microsoft/vscode-jupyter/issues/15039 "Notification for Cell Execution") | Notification for Cell Execution |
+ |  TM:265, OP:262  |[14789](https://github.com/microsoft/vscode-jupyter/issues/14789 "Having the interactive window on a different screen when running VS code interactively with python") | Having the interactive window on a different screen when running VS code interactively with python |
+ |  TM:284, OP:283  |[14686](https://github.com/microsoft/vscode-jupyter/issues/14686 "'# MAGIC' comment for files coming from Databricks isn't included in Settings > Jupyter > Magic Commands As Comments") | '# MAGIC' comment for files coming from Databricks isn't included in Settings > Jupyter > Magic Commands As Comments |
+ |  TM:314, OP:314  |[14874](https://github.com/microsoft/vscode-jupyter/issues/14874 "Terminal support on remote Remote Jupyter Servers (JupyterHub server)") | Terminal support on remote Remote Jupyter Servers (JupyterHub server) |
+ |  TM:313, OP:313  |[14464](https://github.com/microsoft/vscode-jupyter/issues/14464 "Set jupyter.excludeUserSitePackages true by default") | Set jupyter.excludeUserSitePackages true by default |
+ |  TM:301, OP:300  |[14315](https://github.com/microsoft/vscode-jupyter/issues/14315 "Explore variable viewer support for mimetype/datatypes") | Explore variable viewer support for mimetype/datatypes |
+ |  TM:444, OP:444  |[13617](https://github.com/microsoft/vscode-jupyter/issues/13617 "Pressing up-arrow copies last command, but doesn't move caret to end of line") | Pressing up-arrow copies last command, but doesn't move caret to end of line |
+ |  TM:646, OP:642  |[11937](https://github.com/microsoft/vscode-jupyter/issues/11937 "Broken link formatting in the Czech localisation") | Broken link formatting in the Czech localisation |
+ |  TM:654, OP:654  |[11896](https://github.com/microsoft/vscode-jupyter/issues/11896 "Unclear kernel selection process in vscode.dev") | Unclear kernel selection process in vscode.dev |
+ |  TM:831, OP:831  |[9971](https://github.com/microsoft/vscode-jupyter/issues/9971 "Add keybindings for next and previous cell are that are supported in notebooks &quot;insert&quot; mode") | Add keybindings for next and previous cell are that are supported in notebooks "insert" mode |
+ |  TM:832, OP:830  |[9930](https://github.com/microsoft/vscode-jupyter/issues/9930 "[interactive-window] &quot;Create Interactive Window&quot; command does not open in the current work directory") | [interactive-window] "Create Interactive Window" command does not open in the current work directory |
+ |  TM:985, OP:985  |[8471](https://github.com/microsoft/vscode-jupyter/issues/8471 "Create git commits by cell") | Create git commits by cell |
+ |  TM:1067, OP:1057  |[7532](https://github.com/microsoft/vscode-jupyter/issues/7532 "Show source for changed or deleted cells") | Show source for changed or deleted cells |
+ |  TM:909, OP:746  |[7427](https://github.com/microsoft/vscode-jupyter/issues/7427 "Programatically launch the data viewer for specified dataframe ") | Programatically launch the data viewer for specified dataframe  |
+ |  TM:1252, OP:1252  |[5168](https://github.com/microsoft/vscode-jupyter/issues/5168 "Goto cell command") | Goto cell command |
+ |  TM:727, OP:582  |[1308](https://github.com/microsoft/vscode-jupyter/issues/1308 "Freeze and protect cell / skip execution") | Freeze and protect cell / skip execution |
+ |  TM:714, OP:116  |[1240](https://github.com/microsoft/vscode-jupyter/issues/1240 "Support for editing Plain text files (like Python, MyST and R Markdown-based) as notebooks") | Support for editing Plain text files (like Python, MyST and R Markdown-based) as notebooks |
 
 ### Issues in vscode-jupyter that have comments from 3rd party after last team response:
 
-
-  [273](https://github.com/microsoft/vscode-jupyter/issues/273 "Multi Language Support in Interactive Window (Julia, Rust, CSharp, etc)"): 3rd party responded 148 days ago but team last responded 648 days ago
-
-  [1120](https://github.com/microsoft/vscode-jupyter/issues/1120 "Add support for sidecar or tear-off style widgets (Support for separate windows for output rather than inline)"): 3rd party responded 206 days ago but team last responded 206 days ago
-
-  [1138](https://github.com/microsoft/vscode-jupyter/issues/1138 "Data Viewer/Variable Explorer support for non-array like objects (such as nested dicts)"): 3rd party responded 57 days ago but team last responded 1200 days ago
-
-  [1149](https://github.com/microsoft/vscode-jupyter/issues/1149 "Dataviewer needs export and copy"): 3rd party responded 54 days ago but team last responded 817 days ago
-
-  [1148](https://github.com/microsoft/vscode-jupyter/issues/1148 "Spyder-Like variable explorer"): 3rd party responded 88 days ago but team last responded 144 days ago
-
-  [1366](https://github.com/microsoft/vscode-jupyter/issues/1366 "Support remote server URI like a remote file system (Jupyter Lab behavior)"): 3rd party responded 2 days ago but team last responded 111 days ago
-
-  [1376](https://github.com/microsoft/vscode-jupyter/issues/1376 "Export as markdown option for .ipynb files (Jupyter notebooks)"): 3rd party responded 39 days ago but team last responded 466 days ago
-
-  [1378](https://github.com/microsoft/vscode-jupyter/issues/1378 "Allow for Manual Kernel Management (turn off auto-start and auto-end)"): 3rd party responded 103 days ago but team last responded 131 days ago
-
-  [1471](https://github.com/microsoft/vscode-jupyter/issues/1471 "Auto-detect code blocks around the cursor location. Shift-enter executes the entire block"): 3rd party responded 150 days ago but team last responded 1441 days ago
-
-  [1566](https://github.com/microsoft/vscode-jupyter/issues/1566 "Install modules from the missing module error"): 3rd party responded 5 days ago but team last responded 432 days ago
-
-  [1618](https://github.com/microsoft/vscode-jupyter/issues/1618 "Treat Raw String Literals in Markdown Cells as Markdown"): 3rd party responded 257 days ago but team last responded 1118 days ago
-
-\* [3998](https://github.com/microsoft/vscode-jupyter/issues/3998 "Restore connection (Re-connect) to an already running Local & Remote kernel (even Remote SSH) (do not shutdown kernel upon closing/reloading vscode/vscode.dev)"): 3rd party responded 0 days ago but team last responded 100 days ago
-
-  [4404](https://github.com/microsoft/vscode-jupyter/issues/4404 "Save notebook widget state"): 3rd party responded 37 days ago but team last responded 251 days ago
-
-  [4588](https://github.com/microsoft/vscode-jupyter/issues/4588 "Automatically change cell language based on cell magics"): 3rd party responded 143 days ago but team last responded 410 days ago
-
-  [4946](https://github.com/microsoft/vscode-jupyter/issues/4946 "[Suggestion] Add for Jupyter Notebook's Python Markdown"): 3rd party responded 77 days ago but team last responded 395 days ago
-
-  [5229](https://github.com/microsoft/vscode-jupyter/issues/5229 "Shortcut to Data Viewer"): 3rd party responded 249 days ago but team last responded 770 days ago
-
-  [6638](https://github.com/microsoft/vscode-jupyter/issues/6638 "Decorate VS Code Interactive Window with additional meta data (e.g. proces ID)"): 3rd party responded 234 days ago but team last responded 657 days ago
-
-  [7058](https://github.com/microsoft/vscode-jupyter/issues/7058 "Format cell on run like the nb_black extension does."): 3rd party responded 3 days ago but team last responded 376 days ago
-
-  [7161](https://github.com/microsoft/vscode-jupyter/issues/7161 "Add support for theming of IPyWidgets"): 3rd party responded 73 days ago but team last responded 217 days ago
-
-  [7232](https://github.com/microsoft/vscode-jupyter/issues/7232 "Reduce trace log levels to just `off|error|info|verbose`"): 3rd party responded 615 days ago but team last responded 615 days ago
-
-  [7460](https://github.com/microsoft/vscode-jupyter/issues/7460 "Implement Live Share for native interactive window"): 3rd party responded 129 days ago but team last responded 405 days ago
-
-  [8092](https://github.com/microsoft/vscode-jupyter/issues/8092 "How to make the interactive window positioned below the current group instead of to the right?"): 3rd party responded 52 days ago but team last responded 213 days ago
-
-  [8872](https://github.com/microsoft/vscode-jupyter/issues/8872 "Want a full size image for a plot which got expanded in new tab by clicking expand image button"): 3rd party responded 421 days ago but team last responded 454 days ago
-
-  [9585](https://github.com/microsoft/vscode-jupyter/issues/9585 "Port kernel extension API to web"): 3rd party responded 391 days ago but team last responded 391 days ago
-
-  [9629](https://github.com/microsoft/vscode-jupyter/issues/9629 "Migrate off of the vscode.proposed.notebookDeprecated API"): 3rd party responded 292 days ago but team last responded 318 days ago
-
-  [9886](https://github.com/microsoft/vscode-jupyter/issues/9886 "Subprocess debugging not supported"): 3rd party responded 38 days ago but team last responded 114 days ago
-
-  [9914](https://github.com/microsoft/vscode-jupyter/issues/9914 "Python interactive window delete last cell output shortcut/button"): 3rd party responded 143 days ago but team last responded 143 days ago
-
-  [9945](https://github.com/microsoft/vscode-jupyter/issues/9945 "Support querying language support to notebooks"): 3rd party responded 184 days ago but team last responded 259 days ago
-
-  [10779](https://github.com/microsoft/vscode-jupyter/issues/10779 "keyboard interrupt keymap"): 3rd party responded 5 days ago but team last responded 261 days ago
-
-  [10780](https://github.com/microsoft/vscode-jupyter/issues/10780 "Shortcut to set heading in markdown cells"): 3rd party responded 26 days ago but team last responded 292 days ago
-
-  [11010](https://github.com/microsoft/vscode-jupyter/issues/11010 "Jupyter kernel restarts when the `ipynb` file is renamed"): 3rd party responded 142 days ago but team last responded 244 days ago
-
-  [11318](https://github.com/microsoft/vscode-jupyter/issues/11318 "Option to let quickfix add import statements in top cell"): 3rd party responded 221 days ago but team last responded 235 days ago
-
-  [11585](https://github.com/microsoft/vscode-jupyter/issues/11585 "Clear outputs when cell is running or in queue"): 3rd party responded 28 days ago but team last responded 203 days ago
-
-  [11917](https://github.com/microsoft/vscode-jupyter/issues/11917 "Interactive window debugging tests are failing"): 3rd party responded 165 days ago but team last responded 177 days ago
-
-  [11961](https://github.com/microsoft/vscode-jupyter/issues/11961 "JSON rendering always expanded | `extended` metadata from IPython / Jupyter is ignored  "): 3rd party responded 3 days ago but team last responded 3 days ago
-
-  [12008](https://github.com/microsoft/vscode-jupyter/issues/12008 "Long DI planning"): 3rd party responded 167 days ago but team last responded 167 days ago
-
-  [12268](https://github.com/microsoft/vscode-jupyter/issues/12268 "Create sample extension that contributes remote jupyter servers (as a form of documentation)"): 3rd party responded 147 days ago but team last responded 150 days ago
-
-  [12494](https://github.com/microsoft/vscode-jupyter/issues/12494 "No IntelliSense in Jupyter Notebooks unless explicitly set python.languageServer to Jedi"): 3rd party responded 2 days ago but team last responded 115 days ago
-
-  [12521](https://github.com/microsoft/vscode-jupyter/issues/12521 "Feedback on the new Jupyter kernel picker"): 3rd party responded 110 days ago but team last responded 142 days ago
-
-  [12663](https://github.com/microsoft/vscode-jupyter/issues/12663 "Use @vscode/vsce instead of vsce"): 3rd party responded 67 days ago but team last responded 92 days ago
-
-  [13260](https://github.com/microsoft/vscode-jupyter/issues/13260 "npm install hangs when trying to build vsix plugin from scratch"): 3rd party responded 13 days ago but team last responded 13 days ago
-
-  [13300](https://github.com/microsoft/vscode-jupyter/issues/13300 "Deprecate/remove `jupyter.selectjupyteruri` as an extensibility point for 3rd party extensions"): 3rd party responded 19 days ago but team last responded 20 days ago
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[15486](https://github.com/microsoft/vscode-jupyter/issues/15486 "Deprecation notice for the Data Viewer in Jupyter")  |Deprecation notice for the Data Viewer in Jupyter |
+ |  P:142,  |[14791](https://github.com/microsoft/vscode-jupyter/issues/14791 "Allow custom jupyter widget sources") | Allow custom jupyter widget sources |
+ |  P:46,  |[13597](https://github.com/microsoft/vscode-jupyter/issues/13597 "Feature proposal: plot pane") | Feature proposal: plot pane |
+ |  P:118,  |[13421](https://github.com/microsoft/vscode-jupyter/issues/13421 "Jupyter magic %%time prevents format cell (black)") | Jupyter magic %%time prevents format cell (black) |
+ |  P:643,  |[12008](https://github.com/microsoft/vscode-jupyter/issues/12008 "Long DI planning") | Long DI planning |
+ |  P:73,  |[11961](https://github.com/microsoft/vscode-jupyter/issues/11961 "JSON rendering always expanded | `extended` metadata from IPython / Jupyter is ignored  ") | JSON rendering always expanded | `extended` metadata from IPython / Jupyter is ignored   |
+ |  P:18,  |[9886](https://github.com/microsoft/vscode-jupyter/issues/9886 "Subprocess debugging not supported") | Subprocess debugging not supported |
+ |  P:619,  |[9914](https://github.com/microsoft/vscode-jupyter/issues/9914 "Python interactive window delete last cell output shortcut/button") | Python interactive window delete last cell output shortcut/button |
+ |  P:768,  |[9629](https://github.com/microsoft/vscode-jupyter/issues/9629 "Migrate off of the vscode.proposed.notebookDeprecated API") | Migrate off of the vscode.proposed.notebookDeprecated API |
+ |  P:7,  |[8771](https://github.com/microsoft/vscode-jupyter/issues/8771 "Notebook File Root setting does not work with Remote Kernels") | Notebook File Root setting does not work with Remote Kernels |
+ |  P:415,  |[7830](https://github.com/microsoft/vscode-jupyter/issues/7830 "Add command to toggle interactive window cell comments") | Add command to toggle interactive window cell comments |
+ |  P:44,  |[7161](https://github.com/microsoft/vscode-jupyter/issues/7161 "Add support for theming of IPyWidgets") | Add support for theming of IPyWidgets |
+ |  P:710,  |[6638](https://github.com/microsoft/vscode-jupyter/issues/6638 "Decorate VS Code Interactive Window with additional meta data (e.g. proces ID)") | Decorate VS Code Interactive Window with additional meta data (e.g. proces ID) |
+ |  P:16,  |[4946](https://github.com/microsoft/vscode-jupyter/issues/4946 "[Suggestion] Add for Jupyter Notebook's Python Markdown") | [Suggestion] Add for Jupyter Notebook's Python Markdown |
+ |  P:98,  |[4716](https://github.com/microsoft/vscode-jupyter/issues/4716 "Interactive Window Command History Search / Autocomplete") | Interactive Window Command History Search / Autocomplete |
+ |  P:80,  |[4404](https://github.com/microsoft/vscode-jupyter/issues/4404 "Save notebook widget state") | Save notebook widget state |
+ |  P:69,  |[1376](https://github.com/microsoft/vscode-jupyter/issues/1376 "Export as markdown option for .ipynb files (Jupyter notebooks)") | Export as markdown option for .ipynb files (Jupyter notebooks) |
+ |  P:296,  |[1601](https://github.com/microsoft/vscode-jupyter/issues/1601 "Syncing local python project files with remote Jupyter server") | Syncing local python project files with remote Jupyter server |
+ |  P:178,  |[1278](https://github.com/microsoft/vscode-jupyter/issues/1278 "Enable Python Interactive for use as a debugging console") | Enable Python Interactive for use as a debugging console |
 
 ### Issues in vscode-jupyter that have no external responses since team response in 30+ days:
 
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  TM:54  |[15799](https://github.com/microsoft/vscode-jupyter/issues/15799 "Code blocks always sending minimized makes it difficult to check what sent.") | Code blocks always sending minimized makes it difficult to check what sent. |
+ |  TM:102  |[15678](https://github.com/microsoft/vscode-jupyter/issues/15678 "Yellow dot in outline in jupyter notebook") | Yellow dot in outline in jupyter notebook |
+ |  TM:156  |[15374](https://github.com/microsoft/vscode-jupyter/issues/15374 "Improve variable summarization") | Improve variable summarization |
+ |  TM:179  |[15196](https://github.com/microsoft/vscode-jupyter/issues/15196 "Provide way to edit the original Python code (file) associated with an Interactive Window cell") | Provide way to edit the original Python code (file) associated with an Interactive Window cell |
+ |  TM:163  |[15188](https://github.com/microsoft/vscode-jupyter/issues/15188 "Programatically Select a Kernel from a Remote Kernel Provider") | Programatically Select a Kernel from a Remote Kernel Provider |
+ |  TM:199  |[15104](https://github.com/microsoft/vscode-jupyter/issues/15104 "recommended environment highlight confusing for select environment dropdown") | recommended environment highlight confusing for select environment dropdown |
+ |  TM:139  |[14949](https://github.com/microsoft/vscode-jupyter/issues/14949 "store remote jupyter server list per host") | store remote jupyter server list per host |
+ |  TM:251  |[14891](https://github.com/microsoft/vscode-jupyter/issues/14891 "Support for geopandas GeoDataFrames in DataViewer") | Support for geopandas GeoDataFrames in DataViewer |
+ |  TM:255  |[14872](https://github.com/microsoft/vscode-jupyter/issues/14872 "Issue/PR Grooming - review, categorization, assignment") | Issue/PR Grooming - review, categorization, assignment |
+ |  TM:622  |[11288](https://github.com/microsoft/vscode-jupyter/issues/11288 "Support configuring default ipynb format or change to a new minimum version") | Support configuring default ipynb format or change to a new minimum version |
+ |  TM:748  |[10984](https://github.com/microsoft/vscode-jupyter/issues/10984 "cannot customize main notebook toolbar") | cannot customize main notebook toolbar |
+ |  TM:1040  |[7918](https://github.com/microsoft/vscode-jupyter/issues/7918 "Grouping/sorting of notebook command ") | Grouping/sorting of notebook command  |
+ |  TM:1188  |[5912](https://github.com/microsoft/vscode-jupyter/issues/5912 "Better instruction or detection of missing `xelatex`") | Better instruction or detection of missing `xelatex` |
+ |  TM:1222  |[5519](https://github.com/microsoft/vscode-jupyter/issues/5519 "Add command to run file using %run magic") | Add command to run file using %run magic |
+ |  TM:272  |[1378](https://github.com/microsoft/vscode-jupyter/issues/1378 "Allow for Kernel Management (view and shutdown running kernels both local and remote)") | Allow for Kernel Management (view and shutdown running kernels both local and remote) |
+ |  TM:251  |[1120](https://github.com/microsoft/vscode-jupyter/issues/1120 "Add support for sidecar or tear-off style widgets (Support for separate windows for output rather than inline)") | Add support for sidecar or tear-off style widgets (Support for separate windows for output rather than inline) |
 
-  [1240](https://github.com/microsoft/vscode-jupyter/issues/1240 "Keep python and notebook automatically in sync"): team response was last response and no others in 238 days
 
-  [1278](https://github.com/microsoft/vscode-jupyter/issues/1278 "Enable Python Interactive for use as a debugging console"): team response was last response and no others in 143 days
 
-  [1601](https://github.com/microsoft/vscode-jupyter/issues/1601 "Syncing local python project files with remote Jupyter server"): team response was last response and no others in 480 days
 
-  [4716](https://github.com/microsoft/vscode-jupyter/issues/4716 "Interactive Window Command History Search / Autocomplete"): team response was last response and no others in 39 days
 
-  [5519](https://github.com/microsoft/vscode-jupyter/issues/5519 "Add command to run file using %run magic"): team response was last response and no others in 746 days
 
-  [5912](https://github.com/microsoft/vscode-jupyter/issues/5912 "Better instruction or detection of missing `xelatex`"): team response was last response and no others in 712 days
+![](bugcount.png)
 
-  [7815](https://github.com/microsoft/vscode-jupyter/issues/7815 "Confusing block of text printed at top of new interactive window"): team response was last response and no others in 571 days
+![](time_to_merge_prs.png)
 
-  [7830](https://github.com/microsoft/vscode-jupyter/issues/7830 "Add command to toggle interactive window cell comments"): team response was last response and no others in 391 days
+![](time_to_close_issues.png)
 
-  [9370](https://github.com/microsoft/vscode-jupyter/issues/9370 "Please update the readme file in Notebook Renderers extension"): team response was last response and no others in 409 days
+![](time_to_first_response.png)
 
-  [10152](https://github.com/microsoft/vscode-jupyter/issues/10152 "Circular dependencies / Tangles between modules"): team response was last response and no others in 91 days
+![](label_frequencies.png)
 
-  [10399](https://github.com/microsoft/vscode-jupyter/issues/10399 "Improve CI time"): team response was last response and no others in 178 days
+![](files_changed_per_pr.png)
 
-  [10984](https://github.com/microsoft/vscode-jupyter/issues/10984 "cannot customize main notebook toolbar"): team response was last response and no others in 272 days
+![](lines_changed_per_pr.png)
 
-  [11288](https://github.com/microsoft/vscode-jupyter/issues/11288 "nbformat_minor version is by default 2 for new .ipynb files"): team response was last response and no others in 146 days
-
-  [11441](https://github.com/microsoft/vscode-jupyter/issues/11441 "`raises-exception` cell metadata tag not honored by notebook runtime"): team response was last response and no others in 217 days
-
-  [11645](https://github.com/microsoft/vscode-jupyter/issues/11645 "Unify remote kernel finder with ServerUriStorage"): team response was last response and no others in 147 days
-
-  [11732](https://github.com/microsoft/vscode-jupyter/issues/11732 "In-line input box similar to Jupyter"): team response was last response and no others in 191 days
-
-  [11815](https://github.com/microsoft/vscode-jupyter/issues/11815 "Kernel specs don't appear until I reload the window"): team response was last response and no others in 175 days
-
-  [11996](https://github.com/microsoft/vscode-jupyter/issues/11996 "Investigate reducing bundle size"): team response was last response and no others in 165 days
-
-  [12338](https://github.com/microsoft/vscode-jupyter/issues/12338 "Different files can be connected to the specified kernel when using python interactive window"): team response was last response and no others in 144 days
-
-  [12368](https://github.com/microsoft/vscode-jupyter/issues/12368 "No hover effects in new Interactive UI"): team response was last response and no others in 143 days
-
-  [12598](https://github.com/microsoft/vscode-jupyter/issues/12598 "Feature request: allow widgetScriptSources other than jsdelivr.com and unpkg.com"): team response was last response and no others in 98 days
-
-  [13184](https://github.com/microsoft/vscode-jupyter/issues/13184 "Tensorboard cannot be correctly closed after closing the window."): team response was last response and no others in 34 days
+![](termcloud.png)
