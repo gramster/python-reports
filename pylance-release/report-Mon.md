@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-08-12 using: stale=30, all=False
+Generated on 2024-08-19 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,21 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[6252](https://github.com/microsoft/pylance-release/issues/6252 "Fixit imports from private file instead of re-export")  |Fixit imports from private file instead of re-export |
+ | \* OP:0  |[6275](https://github.com/microsoft/pylance-release/issues/6275 "Don't suggest imports from private modules")  |Don't suggest imports from private modules |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[6235](https://github.com/microsoft/pylance-release/issues/6235 "Pylance keeps crashing")  |Pylance keeps crashing |
+ | \* TM:30  |[6050](https://github.com/microsoft/pylance-release/issues/6050 "&quot;Import could not be resolved&quot; after installing the package")  |"Import could not be resolved" after installing the package |
+
+
+
+
+
+
+
+
 
 
 
