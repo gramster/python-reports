@@ -2,11 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/python-type-stubs
 
 
-Generated on 2023-09-11 using: stale=30, all=1
+Generated on 2024-08-19 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in python-type-stubs that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  TM:103  |[309](https://github.com/microsoft/python-type-stubs/issues/309 "Unparameterized `np.ndarray` typings produce &quot;Type of ... is partially unknown&quot; Pyright type errors.") | Unparameterized `np.ndarray` typings produce "Type of ... is partially unknown" Pyright type errors. |
 
 ---
 
@@ -15,24 +24,36 @@ Generated on 2023-09-11 using: stale=30, all=1
 
 ### Issues in python-type-stubs that need a response from team:
 
-
-  [240](https://github.com/microsoft/python-type-stubs/issues/240 "[Matplotlib] Uncorrect type-hint in `font_manager.FontProperties`"): needs an initial team response (295 days old)
-
-  [256](https://github.com/microsoft/python-type-stubs/issues/256 "Why does the dict returned by matplotlib.pyplot.subplot_mosaic have Text as key type?"): needs an initial team response (174 days old)
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:7  |[315](https://github.com/microsoft/python-type-stubs/issues/315 "Inconsistent naming of stubs") | Inconsistent naming of stubs |
+ |  OP:192  |[304](https://github.com/microsoft/python-type-stubs/issues/304 "Cannot import sklearn.preprocessing.TargetEncoder") | Cannot import sklearn.preprocessing.TargetEncoder |
 
 ### Issues in python-type-stubs that have comments from 3rd party after last team response:
 
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  P:461,  |[264](https://github.com/microsoft/python-type-stubs/issues/264 "Add how to install and use section to README") | Add how to install and use section to README |
+ |  P:711,  |[211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package") | Publish each stubs as stub-only package |
+ |  P:378,  |[204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)") | Intellisense does work with GTK+ 3 (GObject Introspection) |
 
-  [193](https://github.com/microsoft/python-type-stubs/issues/193 "VS Code AutoComplete does not include some functions of 3rd Party Modules like (NumPy, Pandas, Matplotlib,...)"): 3rd party responded 132 days ago but team last responded 342 days ago
 
-  [204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)"): 3rd party responded 35 days ago but team last responded 615 days ago
 
-  [207](https://github.com/microsoft/python-type-stubs/issues/207 "RPi.GPIO does not work"): 3rd party responded 35 days ago but team last responded 929 days ago
 
-  [211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package"): 3rd party responded 368 days ago but team last responded 383 days ago
 
-  [212](https://github.com/microsoft/python-type-stubs/issues/212 "Pylance not be resolved the mongoengine"): 3rd party responded 35 days ago but team last responded 304 days ago
 
-  [264](https://github.com/microsoft/python-type-stubs/issues/264 "Add how to install and use section to README"): 3rd party responded 118 days ago but team last responded 155 days ago
+![](bugcount.png)
 
-  [296](https://github.com/microsoft/python-type-stubs/issues/296 "Run `black` and `isort` automatically or as a hygiene check"): 3rd party responded 3 days ago but team last responded 3 days ago
+![](time_to_merge_prs.png)
+
+![](time_to_close_issues.png)
+
+![](time_to_first_response.png)
+
+![](label_frequencies.png)
+
+![](files_changed_per_pr.png)
+
+![](lines_changed_per_pr.png)
+
+![](termcloud.png)
