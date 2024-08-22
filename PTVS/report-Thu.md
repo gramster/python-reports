@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-08-15 using: stale=30, all=False
+Generated on 2024-08-22 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7978](https://github.com/microsoft/PTVS/issues/7978 "The &quot;remove unused imports&quot; and &quot;Extract method&quot; quick action icons appear only when you select a code.")  |The "remove unused imports" and "Extract method" quick action icons appear only when you select a code. |
+ | \* OP:1  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.")  |Cannot run all tests in a large number of tests. |
+
+### Issues in PTVS that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7945](https://github.com/microsoft/PTVS/issues/7945 "I genuinely cannot understand why cookiecutter does not work.")  |I genuinely cannot understand why cookiecutter does not work. |
 
 
 
