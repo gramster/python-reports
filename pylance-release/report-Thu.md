@@ -2,29 +2,37 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-08-15 using: stale=30, all=False
+Generated on 2024-08-22 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[5794](https://github.com/microsoft/pylance-release/issues/5794 "How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace")  |How to explicitly specify that Pylance only scans specific a few directories in a large multi-root workspace |
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[6263](https://github.com/microsoft/pylance-release/issues/6263 "pylance crashing with cannot read properties of undefined (wsl)")  |pylance crashing with cannot read properties of undefined (wsl) |
+ | \* OP:0  |[6284](https://github.com/microsoft/pylance-release/issues/6284 "Tooltip not being rendered with python.analysis.supportRestructuredText turned on.")  |Tooltip not being rendered with python.analysis.supportRestructuredText turned on. |
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[6134](https://github.com/microsoft/pylance-release/issues/6134 "language server analyse files with extremely high delay")  |language server analyse files with extremely high delay |
- | \* TM:30  |[6144](https://github.com/microsoft/pylance-release/issues/6144 "Refactor: Extract Method missing when selection starts with a comment")  |Refactor: Extract Method missing when selection starts with a comment |
+ | \* TM:30  |[6008](https://github.com/microsoft/pylance-release/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks")  |Explore Python IntelliSense in Copilot chat code blocks |
 
 
 
