@@ -2,22 +2,13 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-08-19 using: stale=30, all=False
+Generated on 2024-08-26 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in debugpy that have no external responses since team response in 30+ days:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:30  |[1630](https://github.com/microsoft/debugpy/issues/1630 "Python debugger breakpoints are not working.")  |Python debugger breakpoints are not working. |
 
 
 
