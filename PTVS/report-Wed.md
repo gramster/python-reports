@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-08-21 using: stale=30, all=False
+Generated on 2024-08-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.")  |Cannot run all tests in a large number of tests. |
- | \* OP:1  |[7983](https://github.com/microsoft/PTVS/issues/7983 "Open interactive window，loading all the time after entering enter in the Anaconda environment.")  |Open interactive window，loading all the time after entering enter in the Anaconda environment. |
+ | \* OP:0  |[7987](https://github.com/microsoft/PTVS/issues/7987 "Problem when cloning a repository")  |Problem when cloning a repository |
 
 
 
