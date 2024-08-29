@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-08-22 using: stale=30, all=False
+Generated on 2024-08-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.")  |Cannot run all tests in a large number of tests. |
-
-### Issues in PTVS that have no external responses since team response in 30+ days:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:30  |[7945](https://github.com/microsoft/PTVS/issues/7945 "I genuinely cannot understand why cookiecutter does not work.")  |I genuinely cannot understand why cookiecutter does not work. |
+ | \* OP:1  |[7987](https://github.com/microsoft/PTVS/issues/7987 "Problem when cloning a repository")  |Problem when cloning a repository |
 
 
 
