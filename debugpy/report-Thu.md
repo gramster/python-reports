@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-08-22 using: stale=30, all=False
+Generated on 2024-08-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1656](https://github.com/microsoft/debugpy/issues/1656 "debugpy.listen() doesn't return endpoint if &quot;in_process_debug_adapter=True&quot; is passed")  |debugpy.listen() doesn't return endpoint if "in_process_debug_adapter=True" is passed |
+ | \* OP:1  |[1659](https://github.com/microsoft/debugpy/issues/1659 "`distutils` is deprecated and removed in Python 3.12")  |`distutils` is deprecated and removed in Python 3.12 |
 
-### Issues in debugpy that have no external responses since team response in 30+ days:
+### Issues in debugpy that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[1633](https://github.com/microsoft/debugpy/issues/1633 "interactive plot window not showing under wayland in debug mode for matplotlib=3.9")  |interactive plot window not showing under wayland in debug mode for matplotlib=3.9 |
+ | \* P:0,  |[1525](https://github.com/microsoft/debugpy/issues/1525 "Display order of properties of a tensor object in debugging")  |Display order of properties of a tensor object in debugging |
 
 
 
