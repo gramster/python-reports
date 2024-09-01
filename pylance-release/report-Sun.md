@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-08-25 using: stale=30, all=False
+Generated on 2024-09-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6295](https://github.com/microsoft/pylance-release/issues/6295 "detected unhandled Python exception in '...extensions/ms-python.vscode-pylance-2024.3.2/dist/bundled/files/get_pytest_options.py'")  |detected unhandled Python exception in '...extensions/ms-python.vscode-pylance-2024.3.2/dist/bundled/files/get_pytest_options.py' |
+ | \* OP:1  |[6340](https://github.com/microsoft/pylance-release/issues/6340 "Pylance Should Disable Checks for Non-Python Kernels in Jupyter Notebooks")  |Pylance Should Disable Checks for Non-Python Kernels in Jupyter Notebooks |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:3, OP:1  |[6312](https://github.com/microsoft/pylance-release/issues/6312 "Pylance always crashes")  |Pylance always crashes |
+ | \* TM:4, OP:0  |[6270](https://github.com/microsoft/pylance-release/issues/6270 "Pylance informs me that enumerating my directory is taking a long time multiple times per minute")  |Pylance informs me that enumerating my directory is taking a long time multiple times per minute |
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[6191](https://github.com/microsoft/pylance-release/issues/6191 "Python Syntax Highlighting Issue")  |Python Syntax Highlighting Issue |
+ | \* TM:30  |[6214](https://github.com/microsoft/pylance-release/issues/6214 "Keeps Crashing on SSH Connection")  |Keeps Crashing on SSH Connection |
 
 
 
