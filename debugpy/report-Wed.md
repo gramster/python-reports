@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-08-28 using: stale=30, all=False
+Generated on 2024-09-11 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1659](https://github.com/microsoft/debugpy/issues/1659 "`distutils` is deprecated and removed in Python 3.12")  |`distutils` is deprecated and removed in Python 3.12 |
-
-### Issues in debugpy that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[1525](https://github.com/microsoft/debugpy/issues/1525 "Display order of properties of a tensor object in debugging")  |Display order of properties of a tensor object in debugging |
+ | \* OP:1  |[1668](https://github.com/microsoft/debugpy/issues/1668 "QSignalSpy stops debugger without any error message")  |QSignalSpy stops debugger without any error message |
 
 
 
