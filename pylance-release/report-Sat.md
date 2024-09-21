@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-09-14 using: stale=30, all=False
+Generated on 2024-09-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,6 +10,12 @@ Only showing items that are new to report in past 1 day(s)
 
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:0  |[6386](https://github.com/microsoft/pylance-release/issues/6386 "File analysis runs indefinitely after upgrading to v2024.9.1")  |File analysis runs indefinitely after upgrading to v2024.9.1 |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
@@ -26,13 +32,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[6386](https://github.com/microsoft/pylance-release/issues/6386 "File analysis runs indefinitely after upgrading to v2024.9.1")  |File analysis runs indefinitely after upgrading to v2024.9.1 |
+ | \* OP:0  |[6419](https://github.com/microsoft/pylance-release/issues/6419 "Code prompt docstring displays incorrectly")  |Code prompt docstring displays incorrectly |
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:10, OP:0  |[6313](https://github.com/microsoft/pylance-release/issues/6313 "crash 5 time ")  |crash 5 time  |
+ | \* P:0,  |[6370](https://github.com/microsoft/pylance-release/issues/6370 "Python interactive 5 times crashed!")  |Python interactive 5 times crashed! |
 
 
 
