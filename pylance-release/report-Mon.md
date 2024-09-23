@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-09-16 using: stale=30, all=False
+Generated on 2024-09-23 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,11 +11,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:1  |[6390](https://github.com/microsoft/pylance-release/issues/6390 "Recent pylance is striking out `Union` imports as deprecated")  |Recent pylance is striking out `Union` imports as deprecated |
+ | \* TM:30  |[6292](https://github.com/microsoft/pylance-release/issues/6292 "&quot;Go to Definition&quot; not working for test functions inside classes")  |"Go to Definition" not working for test functions inside classes |
 
 ---
 
@@ -26,15 +26,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6393](https://github.com/microsoft/pylance-release/issues/6393 "Pylance Issue")  |Pylance Issue |
- | \* OP:1  |[6392](https://github.com/microsoft/pylance-release/issues/6392 "Missing docstring for descriptor alias")  |Missing docstring for descriptor alias |
- | \* OP:1  |[6389](https://github.com/microsoft/pylance-release/issues/6389 "&quot;Invalid character &quot;\u3f&quot; in token&quot; when using IPython ? help syntax in Jupyter notebook")  |"Invalid character "\u3f" in token" when using IPython ? help syntax in Jupyter notebook |
+ | \* OP:0  |[6427](https://github.com/microsoft/pylance-release/issues/6427 "Generic type aliases show two inlay hints")  |Generic type aliases show two inlay hints |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:0  |[6417](https://github.com/microsoft/pylance-release/issues/6417 "https://github.com/microsoft/vscode/issues/229111")  |https://github.com/microsoft/vscode/issues/229111 |
+ | \* TM:1, OP:0  |[6409](https://github.com/microsoft/pylance-release/issues/6409 "78 permanent errors in `builtins.pyi`")  |78 permanent errors in `builtins.pyi` |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[6289](https://github.com/microsoft/pylance-release/issues/6289 "Frequent crashes when using jupyter kernels")  |Frequent crashes when using jupyter kernels |
+ | \* P:0,  |[6424](https://github.com/microsoft/pylance-release/issues/6424 "What a big bug! How do I write programs?")  |What a big bug! How do I write programs? |
 
 
 
