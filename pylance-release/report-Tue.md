@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-09-17 using: stale=30, all=False
+Generated on 2024-09-24 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,10 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6401](https://github.com/microsoft/pylance-release/issues/6401 "warn if uncollected data is acessed")  |warn if uncollected data is acessed |
- | \* OP:0  |[6399](https://github.com/microsoft/pylance-release/issues/6399 "Go to Definition of submodule works on import but not where used `No definition found for &quot;...&quot;`")  |Go to Definition of submodule works on import but not where used `No definition found for "..."` |
- | \* OP:0  |[6398](https://github.com/microsoft/pylance-release/issues/6398 "Wildcard imports trip up module discovery? `not a known attribute of module`")  |Wildcard imports trip up module discovery? `not a known attribute of module` |
- | \* OP:0  |[6394](https://github.com/microsoft/pylance-release/issues/6394 "Pylance client: couldn't create connection to server.")  |Pylance client: couldn't create connection to server. |
+ | \* OP:0  |[6440](https://github.com/microsoft/pylance-release/issues/6440 "&quot;Move symbol to...&quot; refactor does not honor Import Format setting.")  |"Move symbol to..." refactor does not honor Import Format setting. |
+ | \* OP:0  |[6439](https://github.com/microsoft/pylance-release/issues/6439 "can not chat ")  |can not chat  |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0, OP:0  |[6409](https://github.com/microsoft/pylance-release/issues/6409 "78 permanent errors in `builtins.pyi`")  |78 permanent errors in `builtins.pyi` |
 
 
 
