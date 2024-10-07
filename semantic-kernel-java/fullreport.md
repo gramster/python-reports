@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/semantic-kernel-java
 
 
-Generated on 2024-09-30 using: stale=30, all=True
+Generated on 2024-10-07 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -15,15 +15,15 @@ Generated on 2024-09-30 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:376  |[146](https://github.com/microsoft/semantic-kernel-java/issues/146 "Java: Does not work in GraalVM native compilation") | Java: Does not work in GraalVM native compilation |
+ |  OP:383  |[146](https://github.com/microsoft/semantic-kernel-java/issues/146 "Java: Does not work in GraalVM native compilation") | Java: Does not work in GraalVM native compilation |
 
 ### Issues in semantic-kernel-java that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:46  |[120](https://github.com/microsoft/semantic-kernel-java/issues/120 "Java: Bug: The constructor DefaultSemanticTextMemory(MemoryStore, EmbeddingGeneration<String>) refers to the missing type MemoryStore") | Java: Bug: The constructor DefaultSemanticTextMemory(MemoryStore, EmbeddingGeneration<String>) refers to the missing type MemoryStore |
- |  TM:65  |[125](https://github.com/microsoft/semantic-kernel-java/issues/125 "Java: Bug: cant build Java examples") | Java: Bug: cant build Java examples |
- |  TM:107  |[145](https://github.com/microsoft/semantic-kernel-java/issues/145 "Java.lang.ClassCastException on PromptExecutionSettings.builder().withResponseFormat(ResponseFormat.JSON_OBJECT).build(); ") | Java.lang.ClassCastException on PromptExecutionSettings.builder().withResponseFormat(ResponseFormat.JSON_OBJECT).build();  |
+ |  TM:53  |[120](https://github.com/microsoft/semantic-kernel-java/issues/120 "Java: Bug: The constructor DefaultSemanticTextMemory(MemoryStore, EmbeddingGeneration<String>) refers to the missing type MemoryStore") | Java: Bug: The constructor DefaultSemanticTextMemory(MemoryStore, EmbeddingGeneration<String>) refers to the missing type MemoryStore |
+ |  TM:72  |[125](https://github.com/microsoft/semantic-kernel-java/issues/125 "Java: Bug: cant build Java examples") | Java: Bug: cant build Java examples |
+ |  TM:114  |[145](https://github.com/microsoft/semantic-kernel-java/issues/145 "Java.lang.ClassCastException on PromptExecutionSettings.builder().withResponseFormat(ResponseFormat.JSON_OBJECT).build(); ") | Java.lang.ClassCastException on PromptExecutionSettings.builder().withResponseFormat(ResponseFormat.JSON_OBJECT).build();  |
 
 ---
 
@@ -34,32 +34,32 @@ Generated on 2024-09-30 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:85  |[124](https://github.com/microsoft/semantic-kernel-java/issues/124 "Java: New Feature: Add getting started docs for Gradle and Kotlin") | Java: New Feature: Add getting started docs for Gradle and Kotlin |
- |  OP:139  |[142](https://github.com/microsoft/semantic-kernel-java/issues/142 "Java: When calling getContent or getItems, get null if the other property was set.") | Java: When calling getContent or getItems, get null if the other property was set. |
- |  OP:139  |[143](https://github.com/microsoft/semantic-kernel-java/issues/143 "Java: Not possible to retrieve function calls and function results") | Java: Not possible to retrieve function calls and function results |
- |  OP:140  |[144](https://github.com/microsoft/semantic-kernel-java/issues/144 "Java: ChatMessageContent should provide setters for all properties") | Java: ChatMessageContent should provide setters for all properties |
- |  OP:373  |[128](https://github.com/microsoft/semantic-kernel-java/issues/128 "Java: API - What about importing skills/plugins from the root directory in the classpath?") | Java: API - What about importing skills/plugins from the root directory in the classpath? |
- |  OP:382  |[131](https://github.com/microsoft/semantic-kernel-java/issues/131 "Java: API - What about manipulating an array of float in Embedding ?") | Java: API - What about manipulating an array of float in Embedding ? |
- |  OP:391  |[133](https://github.com/microsoft/semantic-kernel-java/issues/133 "Java Connector for  Vector DBs") | Java Connector for  Vector DBs |
+ |  OP:92  |[124](https://github.com/microsoft/semantic-kernel-java/issues/124 "Java: New Feature: Add getting started docs for Gradle and Kotlin") | Java: New Feature: Add getting started docs for Gradle and Kotlin |
+ |  OP:146  |[142](https://github.com/microsoft/semantic-kernel-java/issues/142 "Java: When calling getContent or getItems, get null if the other property was set.") | Java: When calling getContent or getItems, get null if the other property was set. |
+ |  OP:146  |[143](https://github.com/microsoft/semantic-kernel-java/issues/143 "Java: Not possible to retrieve function calls and function results") | Java: Not possible to retrieve function calls and function results |
+ |  OP:147  |[144](https://github.com/microsoft/semantic-kernel-java/issues/144 "Java: ChatMessageContent should provide setters for all properties") | Java: ChatMessageContent should provide setters for all properties |
+ |  OP:380  |[128](https://github.com/microsoft/semantic-kernel-java/issues/128 "Java: API - What about importing skills/plugins from the root directory in the classpath?") | Java: API - What about importing skills/plugins from the root directory in the classpath? |
+ |  OP:389  |[131](https://github.com/microsoft/semantic-kernel-java/issues/131 "Java: API - What about manipulating an array of float in Embedding ?") | Java: API - What about manipulating an array of float in Embedding ? |
+ |  OP:398  |[133](https://github.com/microsoft/semantic-kernel-java/issues/133 "Java Connector for  Vector DBs") | Java Connector for  Vector DBs |
 
 ### Issues in semantic-kernel-java that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:374, OP:61  |[129](https://github.com/microsoft/semantic-kernel-java/issues/129 "Java: Support for the PaLM API in Java") | Java: Support for the PaLM API in Java |
+ |  TM:381, OP:68  |[129](https://github.com/microsoft/semantic-kernel-java/issues/129 "Java: Support for the PaLM API in Java") | Java: Support for the PaLM API in Java |
 
 ### Issues in semantic-kernel-java that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:185,  |[134](https://github.com/microsoft/semantic-kernel-java/issues/134 "Java: kernel can evaluate if a custom/locked plan is applicable to ask if not generate a new plan") | Java: kernel can evaluate if a custom/locked plan is applicable to ask if not generate a new plan |
+ |  P:192,  |[134](https://github.com/microsoft/semantic-kernel-java/issues/134 "Java: kernel can evaluate if a custom/locked plan is applicable to ask if not generate a new plan") | Java: kernel can evaluate if a custom/locked plan is applicable to ask if not generate a new plan |
 
 ### Issues in semantic-kernel-java that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:107  |[127](https://github.com/microsoft/semantic-kernel-java/issues/127 "Java: Can LLM help me build an object by calling the Kernel Function with CUSTOM CLASS?") | Java: Can LLM help me build an object by calling the Kernel Function with CUSTOM CLASS? |
- |  TM:363  |[130](https://github.com/microsoft/semantic-kernel-java/issues/130 "Java: API - What about being able to generate one Embedding from one data type (instead of list)?") | Java: API - What about being able to generate one Embedding from one data type (instead of list)? |
+ |  TM:114  |[127](https://github.com/microsoft/semantic-kernel-java/issues/127 "Java: Can LLM help me build an object by calling the Kernel Function with CUSTOM CLASS?") | Java: Can LLM help me build an object by calling the Kernel Function with CUSTOM CLASS? |
+ |  TM:370  |[130](https://github.com/microsoft/semantic-kernel-java/issues/130 "Java: API - What about being able to generate one Embedding from one data type (instead of list)?") | Java: API - What about being able to generate one Embedding from one data type (instead of list)? |
 
 
 
@@ -70,13 +70,22 @@ Generated on 2024-09-30 using: stale=30, all=True
  13: api-test/integration-tests/pom.xml
 
 
+ 11: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/jdbc/JDBCVectorStoreRecordCollectionTest.java
+
+
  11: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/jdbc/JDBCVectorStoreRecordCollection.java
 
 
  11: aiservices/openai/src/main/java/com/microsoft/semantickernel/aiservices/openai/chatcompletion/OpenAIChatCompletion.java
 
 
- 10: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/jdbc/JDBCVectorStoreRecordCollectionTest.java
+ 10: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/jdbc/JDBCVectorStoreTest.java
+
+
+  9: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/jdbc/JDBCVectorStoreQueryProvider.java
+
+
+  9: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/postgres/PostgreSQLVectorStoreQueryProvider.java
 
 
   9: pom.xml
@@ -94,28 +103,28 @@ Generated on 2024-09-30 using: stale=30, all=True
   9: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/redis/RedisJsonVectorStoreRecordCollectionTest.java
 
 
-  9: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/jdbc/JDBCVectorStoreTest.java
-
-
   9: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/azureaisearch/AzureAISearchVectorStoreRecordCollection.java
 
 
   9: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/Hotel.java
 
 
+  8: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/azureaisearch/AzureAISearchVectorStoreCollectionCreateMapping.java
+
+
+  8: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/redis/RedisVectorStoreCollectionCreateMapping.java
+
+
   8: semantickernel-bom/pom.xml
-
-
-  8: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/jdbc/JDBCVectorStoreQueryProvider.java
-
-
-  8: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/postgres/PostgreSQLVectorStoreQueryProvider.java
 
 
   8: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/jdbc/JDBCVectorStore.java
 
 
   8: samples/semantickernel-concepts/semantickernel-syntax-examples/src/main/java/com/microsoft/semantickernel/samples/syntaxexamples/memory/Redis_DataStorage.java
+
+
+  7: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/data/VolatileVectorStoreRecordCollection.java
 
 
   7: aiservices/openai/pom.xml
@@ -128,12 +137,6 @@ Generated on 2024-09-30 using: stale=30, all=True
 
 
   7: api-test/integration-tests/src/test/java/com/microsoft/semantickernel/tests/connectors/memory/redis/RedisVectorStoreTest.java
-
-
-  7: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/redis/RedisVectorStoreCollectionCreateMapping.java
-
-
-  7: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/azureaisearch/AzureAISearchVectorStoreCollectionCreateMapping.java
 
 
   7: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/jdbc/JDBCVectorStoreDefaultQueryProvider.java
@@ -170,9 +173,6 @@ Generated on 2024-09-30 using: stale=30, all=True
 
 
   6: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/redis/RedisJsonVectorStoreRecordCollection.java
-
-
-  6: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/data/VolatileVectorStoreRecordCollection.java
 
 
   6: semantickernel-experimental/src/main/java/com/microsoft/semantickernel/connectors/data/redis/RedisHashSetVectorStoreRecordMapper.java
