@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-10-09 using: stale=30, all=False
+Generated on 2024-10-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[6535](https://github.com/microsoft/pylance-release/issues/6535 "Quick fix &quot;Add import&quot; not working when file or path (directory) is excluded in pyrightconfig.json")  |Quick fix "Add import" not working when file or path (directory) is excluded in pyrightconfig.json |
+ | \* TM:0, OP:0  |[6556](https://github.com/microsoft/pylance-release/issues/6556 "IntelliSense doesn't work in some third-party packages. But when Pylance is disabled, the IntelliSense can work.")  |IntelliSense doesn't work in some third-party packages. But when Pylance is disabled, the IntelliSense can work. |
 
 
 
