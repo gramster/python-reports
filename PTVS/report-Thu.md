@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-10-10 using: stale=30, all=False
+Generated on 2024-10-17 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[8020](https://github.com/microsoft/PTVS/issues/8020 "An error notification pops up after clicking Add Debug Configuration.")  |An error notification pops up after clicking Add Debug Configuration. |
-
-### Issues in PTVS that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0, OP:0  |[8024](https://github.com/microsoft/PTVS/issues/8024 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window.")  |reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window. |
+ | \* OP:1  |[8029](https://github.com/microsoft/PTVS/issues/8029 "Fail to upgrade Python to version 3.13 in Conda.")  |Fail to upgrade Python to version 3.13 in Conda. |
+ | \* OP:1  |[8028](https://github.com/microsoft/PTVS/issues/8028 "Failed to create &quot;drivendataorg/cookiecutter-data-science&quot; template in Cookiecutter.")  |Failed to create "drivendataorg/cookiecutter-data-science" template in Cookiecutter. |
 
 
 
