@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2024-10-15 using: stale=30, all=False
+Generated on 2024-10-22 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[8027](https://github.com/microsoft/PTVS/issues/8027 "vs studio fails on startup")  |vs studio fails on startup |
+ | \* OP:0  |[8034](https://github.com/microsoft/PTVS/issues/8034 "Interpreter usage tagged as 0.0")  |Interpreter usage tagged as 0.0 |
 
 
 
