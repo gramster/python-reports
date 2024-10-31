@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2024-10-24 using: stale=30, all=False
+Generated on 2024-10-31 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -11,34 +11,30 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[6399](https://github.com/microsoft/pylance-release/issues/6399 "Go to Definition of submodule works on import but not where used `No definition found for &quot;...&quot;`")  |Go to Definition of submodule works on import but not where used `No definition found for "..."` |
+ | \* P:1,  |[5812](https://github.com/microsoft/pylance-release/issues/5812 "Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote")  |Setting `python.analysis.nodeExecutable` in the user settings affects how pylance gets launched on VSCode remote |
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:2, OP:1  |[6373](https://github.com/microsoft/pylance-release/issues/6373 "python and pylance are throwing errors after vs code update")  |python and pylance are throwing errors after vs code update |
+ | \* OP:1  |[6612](https://github.com/microsoft/pylance-release/issues/6612 "IntelliSense not working for documents with custom URI schemes")  |IntelliSense not working for documents with custom URI schemes |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[6537](https://github.com/microsoft/pylance-release/issues/6537 "Extension causes high cpu load")  |Extension causes high cpu load |
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:30  |[6389](https://github.com/microsoft/pylance-release/issues/6389 "&quot;Invalid character &quot;\u3f&quot; in token&quot; when using IPython ? help syntax in Jupyter notebook")  |"Invalid character "\u3f" in token" when using IPython ? help syntax in Jupyter notebook |
+ | \* P:1,  |[6330](https://github.com/microsoft/pylance-release/issues/6330 "Pylance hints not working in Jupyter Notebook in Remote Tunnel")  |Pylance hints not working in Jupyter Notebook in Remote Tunnel |
+ | \* P:1,  |[6029](https://github.com/microsoft/pylance-release/issues/6029 "Django stubs are out of date and cause erroneous type errors")  |Django stubs are out of date and cause erroneous type errors |
+ | \* P:1,  |[5564](https://github.com/microsoft/pylance-release/issues/5564 "Proposal: Use Nearest Configuration File")  |Proposal: Use Nearest Configuration File |
 
 
 
