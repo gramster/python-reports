@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2024-11-08 using: stale=30, all=False
+Generated on 2024-11-15 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
