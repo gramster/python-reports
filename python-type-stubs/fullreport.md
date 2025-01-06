@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/python-type-stubs
 
 
-Generated on 2024-12-30 using: stale=30, all=True
+Generated on 2025-01-06 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -15,7 +15,7 @@ Generated on 2024-12-30 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:236  |[309](https://github.com/microsoft/python-type-stubs/issues/309 "Unparameterized `np.ndarray` typings produce &quot;Type of ... is partially unknown&quot; Pyright type errors.") | Unparameterized `np.ndarray` typings produce "Type of ... is partially unknown" Pyright type errors. |
+ |  TM:243  |[309](https://github.com/microsoft/python-type-stubs/issues/309 "Unparameterized `np.ndarray` typings produce &quot;Type of ... is partially unknown&quot; Pyright type errors.") | Unparameterized `np.ndarray` typings produce "Type of ... is partially unknown" Pyright type errors. |
 
 ---
 
@@ -26,21 +26,21 @@ Generated on 2024-12-30 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:47  |[345](https://github.com/microsoft/python-type-stubs/issues/345 "stub for sklearn.datasets.load_iris is missing a return type option") | stub for sklearn.datasets.load_iris is missing a return type option |
- |  OP:325  |[304](https://github.com/microsoft/python-type-stubs/issues/304 "Cannot import sklearn.preprocessing.TargetEncoder") | Cannot import sklearn.preprocessing.TargetEncoder |
+ |  OP:54  |[345](https://github.com/microsoft/python-type-stubs/issues/345 "stub for sklearn.datasets.load_iris is missing a return type option") | stub for sklearn.datasets.load_iris is missing a return type option |
+ |  OP:332  |[304](https://github.com/microsoft/python-type-stubs/issues/304 "Cannot import sklearn.preprocessing.TargetEncoder") | Cannot import sklearn.preprocessing.TargetEncoder |
 
 ### Issues in python-type-stubs that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:34,  |[211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package") | Publish each stubs as stub-only package |
- |  P:34,  |[204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)") | Intellisense does work with GTK+ 3 (GObject Introspection) |
+ |  P:41,  |[211](https://github.com/microsoft/python-type-stubs/issues/211 "Publish each stubs as stub-only package") | Publish each stubs as stub-only package |
+ |  P:41,  |[204](https://github.com/microsoft/python-type-stubs/issues/204 "Intellisense does work with GTK+ 3 (GObject Introspection)") | Intellisense does work with GTK+ 3 (GObject Introspection) |
 
 ### Issues in python-type-stubs that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:124  |[315](https://github.com/microsoft/python-type-stubs/issues/315 "Inconsistent naming of stubs") | Inconsistent naming of stubs |
+ |  TM:131  |[315](https://github.com/microsoft/python-type-stubs/issues/315 "Inconsistent naming of stubs") | Inconsistent naming of stubs |
 
 
 
