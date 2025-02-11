@@ -18,7 +18,8 @@ jobs:
         uses: gramster/python-reports@main
         with:
           repository: 'debugpy'
-          githubToken: ${{ secrets.PAT }}
+          githubTokenRead: ${{ secrets.READ }}
+          githubTokenCommit: ${{ secrets.COMMIT }}
           weekly: true
           hotspots: true   
           # Clean this up
