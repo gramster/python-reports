@@ -47,7 +47,8 @@ runs:
       with:
         repository: ${{ env.REPO }}
         prs: ${{ env.PRS }}
-        githubToken: ${{ inputs.githubToken }}
+        githubTokenRead: ${{ inputs.githubTokenRead }}
+        githubTokenCommit: ${{ inputs.githubTokenCommit }}        
         reportNameTemplate: 'fullreport.md'
         reportPath: ${{ inputs.repository }}
         all: true
@@ -59,7 +60,8 @@ runs:
       with:
         repository: ${{ env.REPO }}
         prs: ${{ env.PRS }}        
-        githubToken: ${{ inputs.githubToken }}
+        githubTokenRead: ${{ inputs.githubTokenRead }}
+        githubTokenCommit: ${{ inputs.githubTokenCommit }}        
         reportPath: ${{ inputs.repository }}
         hotspots: ${{ inputs.hotspots }}        
         team: ${{ env.TEAM }}
