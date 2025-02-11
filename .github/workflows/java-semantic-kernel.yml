@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for Java Semantic Kernel'
 
 on:
-  schedule:
-    - cron: 0 5 * * 1    
+  #schedule:
+  #  - cron: 0 5 * * 1    
   workflow_dispatch:
   
 permissions:
