@@ -14,9 +14,12 @@ inputs:
     description: "Comma-separated list of GitHub user names of the core team for this repo."
     required: false
     default: ''    
-  githubToken:
-    description: "The Github token or PAT token (preferred) for API access."
+  githubTokenRead:
+    description: "The Github token or PAT token (preferred) for API access to read issues."
     required: true
+  githubTokenCommit:
+    description: "The Github token or PAT token (preferred) for API access to commit reports."
+    required: true    
   weekly:
     description: "Whether to generate a weekly report (else daily)."
     required: false
