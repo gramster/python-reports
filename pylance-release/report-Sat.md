@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-02-15 using: stale=30, all=False
+Generated on 2025-02-22 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:3, OP:0  |[6921](https://github.com/microsoft/pylance-release/issues/6921 "Semantic Highlighting: Decorating a method leads to it being highlighted as a function instead of method.")  |Semantic Highlighting: Decorating a method leads to it being highlighted as a function instead of method. |
 
 ---
 
@@ -26,7 +17,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6947](https://github.com/microsoft/pylance-release/issues/6947 "Pylance Performance")  |Pylance Performance |
+ | \* OP:0  |[6972](https://github.com/microsoft/pylance-release/issues/6972 "Pylance (>=2024.10) does not highlight syntax after using 'Go to Definition' from Jupyter Notebook")  |Pylance (>=2024.10) does not highlight syntax after using 'Go to Definition' from Jupyter Notebook |
+ | \* OP:1  |[6965](https://github.com/microsoft/pylance-release/issues/6965 "Completion unavailable for properties")  |Completion unavailable for properties |
+ | \* OP:1  |[6964](https://github.com/microsoft/pylance-release/issues/6964 "Some packages are not detected for autoImport functionality")  |Some packages are not detected for autoImport functionality |
 
 
 
