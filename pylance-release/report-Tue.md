@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-02-18 using: stale=30, all=False
+Generated on 2025-02-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,10 +17,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[6954](https://github.com/microsoft/pylance-release/issues/6954 "代码分析时间过久")  |代码分析时间过久 |
- | \* OP:0  |[6953](https://github.com/microsoft/pylance-release/issues/6953 "missing library")  |missing library |
- | \* OP:1  |[6952](https://github.com/microsoft/pylance-release/issues/6952 "ERROR: Pylance failed to parse docstring at index 1")  |ERROR: Pylance failed to parse docstring at index 1 |
- | \* OP:1  |[6951](https://github.com/microsoft/pylance-release/issues/6951 "Pylance failed to parse docstring")  |Pylance failed to parse docstring |
+ | \* OP:1  |[6979](https://github.com/microsoft/pylance-release/issues/6979 "Wrong analysis (and different from Pyright) on call result of overloaded function")  |Wrong analysis (and different from Pyright) on call result of overloaded function |
+ | \* OP:1  |[6978](https://github.com/microsoft/pylance-release/issues/6978 "pillow is installed but pil isnt supported")  |pillow is installed but pil isnt supported |
+ | \* OP:1  |[6975](https://github.com/microsoft/pylance-release/issues/6975 "Pylance not starting, Pylance: report issue...` doesn't work")  |Pylance not starting, Pylance: report issue...` doesn't work |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0, OP:0  |[6980](https://github.com/microsoft/pylance-release/issues/6980 "Pylance unable to resolve venv import of editable module (invalid `reportMissingImports` error)")  |Pylance unable to resolve venv import of editable module (invalid `reportMissingImports` error) |
 
 
 
