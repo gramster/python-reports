@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-03-05 using: stale=30, all=False
+Generated on 2025-04-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[8189](https://github.com/microsoft/PTVS/issues/8189 "An unexpected error ocurred")  |An unexpected error ocurred |
- | \* OP:1  |[8187](https://github.com/microsoft/PTVS/issues/8187 "An unexpected error occurred")  |An unexpected error occurred |
+ | \* OP:0  |[8209](https://github.com/microsoft/PTVS/issues/8209 "Error List only works in first project.")  |Error List only works in first project. |
 
 
 
