@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-05-04 using: stale=30, all=False
+Generated on 2025-05-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,11 +13,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from 3rd party after last team response:
+### Issues in debugpy that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[1579](https://github.com/microsoft/debugpy/issues/1579 "Debugger times out if shell startup is &quot;slow&quot;")  |Debugger times out if shell startup is "slow" |
+ | \* TM:1, OP:1  |[1897](https://github.com/microsoft/debugpy/issues/1897 "Timed out waiting for debuggee to spawn: VS Code Fails to Send &quot;attach&quot; Request to debugpy Adapter After Successful &quot;initialize&quot; Response (Windows)")  |Timed out waiting for debuggee to spawn: VS Code Fails to Send "attach" Request to debugpy Adapter After Successful "initialize" Response (Windows) |
 
 
 
