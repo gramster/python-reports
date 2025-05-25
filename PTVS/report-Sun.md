@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-05-04 using: stale=30, all=False
+Generated on 2025-05-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[8214](https://github.com/microsoft/PTVS/issues/8214 "devenv")  |devenv |
+ | \* OP:1  |[8245](https://github.com/microsoft/PTVS/issues/8245 "Failed to create cookie template.")  |Failed to create cookie template. |
 
 
 
