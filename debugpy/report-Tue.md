@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-05-06 using: stale=30, all=False
+Generated on 2025-05-27 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1890](https://github.com/microsoft/debugpy/issues/1890 "debugpy.breakpoint really shouldn't need debug mode")  |debugpy.breakpoint really shouldn't need debug mode |
+ | \* OP:1  |[1898](https://github.com/microsoft/debugpy/issues/1898 "Documentation Typo")  |Documentation Typo |
+
+### Issues in debugpy that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[1876](https://github.com/microsoft/debugpy/issues/1876 "Step Over, Step Into, not working when debugging Subprocesses")  |Step Over, Step Into, not working when debugging Subprocesses |
 
 
 
