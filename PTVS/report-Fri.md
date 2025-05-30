@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-05-23 using: stale=30, all=False
+Generated on 2025-05-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,11 +13,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from OP after last team response:
+### Issues in PTVS that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[8235](https://github.com/microsoft/PTVS/issues/8235 "Failed to install package.")  |Failed to install package. |
+ | \* OP:0  |[8249](https://github.com/microsoft/PTVS/issues/8249 "[MSFT Internal] An exception of type MissingMethodException has been encountered. This may be caused by an extension.")  |[MSFT Internal] An exception of type MissingMethodException has been encountered. This may be caused by an extension. |
 
 
 
