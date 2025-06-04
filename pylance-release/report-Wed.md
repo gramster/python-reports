@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-05-28 using: stale=30, all=False
+Generated on 2025-06-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7272](https://github.com/microsoft/pylance-release/issues/7272 "anthonykim1 told me to file on microsoft/pylance-release")  |anthonykim1 told me to file on microsoft/pylance-release |
- | \* OP:0  |[7271](https://github.com/microsoft/pylance-release/issues/7271 "Error parsing pth file")  |Error parsing pth file |
+ | \* OP:0  |[7296](https://github.com/microsoft/pylance-release/issues/7296 "Insertion of `Callable` doesn't import symbol though symbol is missing")  |Insertion of `Callable` doesn't import symbol though symbol is missing |
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[7276](https://github.com/microsoft/pylance-release/issues/7276 "Pylance file analysis performance has degraded recently")  |Pylance file analysis performance has degraded recently |
 
 
 
