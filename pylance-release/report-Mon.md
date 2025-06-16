@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-06-09 using: stale=30, all=False
+Generated on 2025-06-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:10, OP:1  |[7272](https://github.com/microsoft/pylance-release/issues/7272 "Pylance slow to generate diagnostics")  |Pylance slow to generate diagnostics |
 
 ---
 
@@ -26,19 +17,26 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
+ | \* OP:0  |[7323](https://github.com/microsoft/pylance-release/issues/7323 "Request: Preserve Hexadecimal, Octal, and Binary Literals as-is in Tooltip Documentation")  |Request: Preserve Hexadecimal, Octal, and Binary Literals as-is in Tooltip Documentation |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0, OP:0  |[7319](https://github.com/microsoft/pylance-release/issues/7319 "Pylance using broken 1.1.401 release of pyright")  |Pylance using broken 1.1.401 release of pyright |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[7223](https://github.com/microsoft/pylance-release/issues/7223 "Pylance hangs on &quot;X files and 0 cells to analyze&quot; indefinitely and makes my editor laggy")  |Pylance hangs on "X files and 0 cells to analyze" indefinitely and makes my editor laggy |
+ | \* P:0,  |[7322](https://github.com/microsoft/pylance-release/issues/7322 "Cannot find &quot;Linting&quot;")  |Cannot find "Linting" |
+ | \* P:1,  |[7150](https://github.com/microsoft/pylance-release/issues/7150 "VSCode is not showing dropdown completions in Python files (not intellisense))")  |VSCode is not showing dropdown completions in Python files (not intellisense)) |
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7181](https://github.com/microsoft/pylance-release/issues/7181 "Quick Fix doesn't offer expected import")  |Quick Fix doesn't offer expected import |
+ | \* TM:30  |[7232](https://github.com/microsoft/pylance-release/issues/7232 "Object not recognizing")  |Object not recognizing |
 
 
 
