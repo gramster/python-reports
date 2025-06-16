@@ -2,22 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-06-09 using: stale=30, all=False
+Generated on 2025-06-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
+---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in PTVS that have comments from 3rd party after last team response:
+### Issues in PTVS that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.")  |Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
-
----
+ | \* OP:1  |[8255](https://github.com/microsoft/PTVS/issues/8255 "The &quot;Enable Mixed Mode Debugging&quot; feature in Python projects seems not to support the python3.13t (free-threaded) version.")  |The "Enable Mixed Mode Debugging" feature in Python projects seems not to support the python3.13t (free-threaded) version. |
 
 
 
