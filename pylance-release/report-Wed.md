@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-06-11 using: stale=30, all=False
+Generated on 2025-06-18 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1, OP:1  |[7272](https://github.com/microsoft/pylance-release/issues/7272 "Pylance slow to generate diagnostics")  |Pylance slow to generate diagnostics |
 
 ---
 
@@ -26,13 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:0  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
+ | \* TM:1, OP:1  |[7326](https://github.com/microsoft/pylance-release/issues/7326 "Syntax highlighting messed up")  |Syntax highlighting messed up |
 
 ### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[7223](https://github.com/microsoft/pylance-release/issues/7223 "Pylance hangs on &quot;X files and 0 cells to analyze&quot; indefinitely and makes my editor laggy")  |Pylance hangs on "X files and 0 cells to analyze" indefinitely and makes my editor laggy |
+ | \* P:0,  |[7304](https://github.com/microsoft/pylance-release/issues/7304 "Pylance Very slow and crashing on WSL2")  |Pylance Very slow and crashing on WSL2 |
 
 
 
