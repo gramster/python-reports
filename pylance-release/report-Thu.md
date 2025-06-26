@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-06-19 using: stale=30, all=False
+Generated on 2025-06-26 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7334](https://github.com/microsoft/pylance-release/issues/7334 "Ctrl + Click not working")  |Ctrl + Click not working |
+ | \* OP:0  |[7357](https://github.com/microsoft/pylance-release/issues/7357 "IntelliSense Not Working for expect(locator).to_be_... in VS Code with Pylance")  |IntelliSense Not Working for expect(locator).to_be_... in VS Code with Pylance |
+ | \* OP:1  |[7350](https://github.com/microsoft/pylance-release/issues/7350 "Import &quot;tensorflow.keras.callbacks&quot; could not be resolved")  |Import "tensorflow.keras.callbacks" could not be resolved |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[7304](https://github.com/microsoft/pylance-release/issues/7304 "Pylance Very slow and crashing on WSL2")  |Pylance Very slow and crashing on WSL2 |
+ | \* TM:0, OP:0  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
 
 
 
