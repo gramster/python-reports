@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-06-20 using: stale=30, all=False
+Generated on 2025-06-27 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,19 +17,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7335](https://github.com/microsoft/pylance-release/issues/7335 "extension doesn't start")  |extension doesn't start |
+ | \* OP:1  |[7357](https://github.com/microsoft/pylance-release/issues/7357 "IntelliSense Not Working for expect(locator).to_be_... in VS Code with Pylance")  |IntelliSense Not Working for expect(locator).to_be_... in VS Code with Pylance |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[5827](https://github.com/microsoft/pylance-release/issues/5827 "Bundled type hints for lxml are inconsistent with source, lxml-stubs")  |Bundled type hints for lxml are inconsistent with source, lxml-stubs |
+ | \* TM:1, OP:1  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7237](https://github.com/microsoft/pylance-release/issues/7237 "LSP autocomplete inside of match arms gives invalid values.")  |LSP autocomplete inside of match arms gives invalid values. |
+ | \* TM:30  |[7070](https://github.com/microsoft/pylance-release/issues/7070 "Resolve symlinks in go-to-definition within a repo")  |Resolve symlinks in go-to-definition within a repo |
+ | \* TM:30  |[7268](https://github.com/microsoft/pylance-release/issues/7268 "Missing Suggestions for Incorrect Code or Syntax in VS Code")  |Missing Suggestions for Incorrect Code or Syntax in VS Code |
 
 
 
