@@ -2,11 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-06-25 using: stale=30, all=False
+Generated on 2025-07-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:84, OP:1  |[7110](https://github.com/microsoft/pylance-release/issues/7110 "Deleting a cell/scrolling causes error in language server (pylance)")  |Deleting a cell/scrolling causes error in language server (pylance) |
 
 ---
 
@@ -17,9 +26,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7353](https://github.com/microsoft/pylance-release/issues/7353 "pip install rich")  |pip install rich |
- | \* OP:0  |[7350](https://github.com/microsoft/pylance-release/issues/7350 "Import &quot;tensorflow.keras.callbacks&quot; could not be resolved")  |Import "tensorflow.keras.callbacks" could not be resolved |
- | \* OP:0  |[7347](https://github.com/microsoft/pylance-release/issues/7347 "Typing pytest's fixtures is not usable inside fixtures")  |Typing pytest's fixtures is not usable inside fixtures |
+ | \* OP:0  |[7384](https://github.com/microsoft/pylance-release/issues/7384 "Autocomplete inserts incorrect `Tuple[str]` instead of `Tuple[str, str]` in function override")  |Autocomplete inserts incorrect `Tuple[str]` instead of `Tuple[str, str]` in function override |
+ | \* OP:0  |[7383](https://github.com/microsoft/pylance-release/issues/7383 "pylance functions (e.g. syntax highlighting) behave strange on remote-ssh host")  |pylance functions (e.g. syntax highlighting) behave strange on remote-ssh host |
 
 
 
