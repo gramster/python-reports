@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-06-25 using: stale=30, all=False
+Generated on 2025-07-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[1480](https://github.com/microsoft/debugpy/issues/1480 "Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode ")  |Undocumented gdb Version (> 11.1) Requirements for Python Attach Mode  |
+ | \* P:0,  |[1876](https://github.com/microsoft/debugpy/issues/1876 "Step Over, Step Into, not working when debugging Subprocesses")  |Step Over, Step Into, not working when debugging Subprocesses |
 
 
 
