@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-07-05 using: stale=30, all=False
+Generated on 2025-07-12 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,11 +13,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in debugpy that have comments from OP after last team response:
+### Issues in debugpy that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:1  |[1918](https://github.com/microsoft/debugpy/issues/1918 "New child process spawned with debugpy --connect not receiving breakpoints")  |New child process spawned with debugpy --connect not receiving breakpoints |
+ | \* OP:0  |[1923](https://github.com/microsoft/debugpy/issues/1923 "Allow import of aliases like pdb does with the .pdbrc file")  |Allow import of aliases like pdb does with the .pdbrc file |
 
 
 
