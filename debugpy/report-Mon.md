@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-07-07 using: stale=30, all=False
+Generated on 2025-07-14 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[1876](https://github.com/microsoft/debugpy/issues/1876 "Step Over, Step Into, not working when debugging Subprocesses")  |Step Over, Step Into, not working when debugging Subprocesses |
+ | \* P:0,  |[1893](https://github.com/microsoft/debugpy/issues/1893 "Python 3.14 and above broke the debug extension")  |Python 3.14 and above broke the debug extension |
+ | \* P:0,  |[1767](https://github.com/microsoft/debugpy/issues/1767 "Debugger Dies in Multiprocessing Env")  |Debugger Dies in Multiprocessing Env |
 
 
 
