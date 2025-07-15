@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-07-08 using: stale=30, all=False
+Generated on 2025-07-15 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[7383](https://github.com/microsoft/pylance-release/issues/7383 "pylance functions (e.g. syntax highlighting) behave strange on remote-ssh host")  |pylance functions (e.g. syntax highlighting) behave strange on remote-ssh host |
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[7242](https://github.com/microsoft/pylance-release/issues/7242 "UV generated project has no completions")  |UV generated project has no completions |
+ | \* TM:4, OP:0  |[7400](https://github.com/microsoft/pylance-release/issues/7400 "Error occurred on priorityQueueBackgroundRunner background thread: {&quot;code&quot;:&quot;ERR_WORKER_OUT_OF_MEMORY&quot;}")  |Error occurred on priorityQueueBackgroundRunner background thread: {"code":"ERR_WORKER_OUT_OF_MEMORY"} |
 
 
 
