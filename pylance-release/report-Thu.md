@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-07-10 using: stale=30, all=False
+Generated on 2025-07-17 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,16 +17,28 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7405](https://github.com/microsoft/pylance-release/issues/7405 "Two &quot;Go to Symbol&quot; issues")  |Two "Go to Symbol" issues |
- | \* OP:0  |[7401](https://github.com/microsoft/pylance-release/issues/7401 "Custom sorting of import auto-completes to allow `_private` sub-modules and members to be sorted at the end of the list")  |Custom sorting of import auto-completes to allow `_private` sub-modules and members to be sorted at the end of the list |
- | \* OP:0  |[7400](https://github.com/microsoft/pylance-release/issues/7400 "Error occurred on priorityQueueBackgroundRunner background thread: {&quot;code&quot;:&quot;ERR_WORKER_OUT_OF_MEMORY&quot;}")  |Error occurred on priorityQueueBackgroundRunner background thread: {"code":"ERR_WORKER_OUT_OF_MEMORY"} |
+ | \* OP:0  |[7429](https://github.com/microsoft/pylance-release/issues/7429 "Pylance Intellisense Not Working")  |Pylance Intellisense Not Working |
+ | \* OP:0  |[7428](https://github.com/microsoft/pylance-release/issues/7428 "reportCallIssue : False error message.")  |reportCallIssue : False error message. |
+ | \* OP:1  |[7424](https://github.com/microsoft/pylance-release/issues/7424 "Pylance MCP server often fails to start")  |Pylance MCP server often fails to start |
 
 ### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:0  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
- | \* TM:2, OP:0  |[7242](https://github.com/microsoft/pylance-release/issues/7242 "UV generated project has no completions")  |UV generated project has no completions |
+ | \* TM:0, OP:0  |[7400](https://github.com/microsoft/pylance-release/issues/7400 "Error occurred on priorityQueueBackgroundRunner background thread: {&quot;code&quot;:&quot;ERR_WORKER_OUT_OF_MEMORY&quot;}")  |Error occurred on priorityQueueBackgroundRunner background thread: {"code":"ERR_WORKER_OUT_OF_MEMORY"} |
+ | \* TM:184, OP:1  |[6809](https://github.com/microsoft/pylance-release/issues/6809 "Pylance function return type inlay hints do not work on closures")  |Pylance function return type inlay hints do not work on closures |
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[7322](https://github.com/microsoft/pylance-release/issues/7322 "Cannot find &quot;Linting&quot;")  |Cannot find "Linting" |
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7324](https://github.com/microsoft/pylance-release/issues/7324 "Python formatted string new-lining Problem")  |Python formatted string new-lining Problem |
 
 
 
