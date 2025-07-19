@@ -2,11 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-07-12 using: stale=30, all=False
+Generated on 2025-07-19 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[3114](https://github.com/microsoft/pylance-release/issues/3114 "Assign to variable from commented-out magic command")  |Assign to variable from commented-out magic command |
 
 ---
 
@@ -17,10 +26,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7416](https://github.com/microsoft/pylance-release/issues/7416 "Incorrectly inferring generic function parameter type")  |Incorrectly inferring generic function parameter type |
- | \* OP:1  |[7414](https://github.com/microsoft/pylance-release/issues/7414 "*** files and 0 cells to analyze")  |*** files and 0 cells to analyze |
- | \* OP:1  |[7412](https://github.com/microsoft/pylance-release/issues/7412 "Find All References doesn't ignore files in __editable__.modulename.xxx directories")  |Find All References doesn't ignore files in __editable__.modulename.xxx directories |
- | \* OP:1  |[7408](https://github.com/microsoft/pylance-release/issues/7408 "Pylance fails to suggest dunder methods like __getitem__")  |Pylance fails to suggest dunder methods like __getitem__ |
+ | \* OP:0  |[7435](https://github.com/microsoft/pylance-release/issues/7435 "Aslam")  |Aslam |
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7018](https://github.com/microsoft/pylance-release/issues/7018 "Improve sorting of quick fixes")  |Improve sorting of quick fixes |
 
 
 
