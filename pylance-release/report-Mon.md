@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-07-21 using: stale=30, all=False
+Generated on 2025-07-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7437](https://github.com/microsoft/pylance-release/issues/7437 "New features from Django is not recognized")  |New features from Django is not recognized |
+ | \* OP:0  |[7464](https://github.com/microsoft/pylance-release/issues/7464 "all refactoring options are ommited")  |all refactoring options are ommited |
+ | \* OP:1  |[7463](https://github.com/microsoft/pylance-release/issues/7463 "Сбой проверки подписи расширения: Pylance")  |Сбой проверки подписи расширения: Pylance |
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7342](https://github.com/microsoft/pylance-release/issues/7342 "reportmissingModuleSource")  |reportmissingModuleSource |
+ | \* P:0,  |[7424](https://github.com/microsoft/pylance-release/issues/7424 "Pylance MCP server often fails to start")  |Pylance MCP server often fails to start |
 
 
 
