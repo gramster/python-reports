@@ -2,11 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-07-22 using: stale=30, all=False
+Generated on 2025-07-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[7061](https://github.com/microsoft/pylance-release/issues/7061 "Hover oddities")  |Hover oddities |
 
 ---
 
@@ -17,14 +26,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7440](https://github.com/microsoft/pylance-release/issues/7440 "Errors for standard library and external package files persist after the files are closed")  |Errors for standard library and external package files persist after the files are closed |
- | \* OP:1  |[7437](https://github.com/microsoft/pylance-release/issues/7437 "New features from Django is not recognized")  |New features from Django is not recognized |
+ | \* OP:1  |[7464](https://github.com/microsoft/pylance-release/issues/7464 "all refactoring options are ommited")  |all refactoring options are ommited |
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[7441](https://github.com/microsoft/pylance-release/issues/7441 "Error loading pylance tool")  |Error loading pylance tool |
+ | \* P:1,  |[7424](https://github.com/microsoft/pylance-release/issues/7424 "Pylance MCP server often fails to start")  |Pylance MCP server often fails to start |
 
 
 
