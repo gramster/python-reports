@@ -1,0 +1,25 @@
+name: 'Generate Daily Report for sarif-tools'
+
+on:
+  schedule:
+    - cron: 30 5 * * *    
+  workflow_dispatch:
+  
+permissions:
+  issues: read
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - id: report
+        uses: gramster/python-reports@main
+        with:
+          repository: 'sarif-tools'
+          githubTokenRead: ${{ secrets.READ }}
+          githubTokenCommit: ${{ secrets.COMMIT }}          
+          # Clean this up
+          team: 'KacieKK,AdamYoblick,AlexanderSher,Anapo14,CTrando,Cameron,DavidKutu,DonJayamanne,IanMatthewHuff,JakeRadMSFT,JiayuanL,JoshuaPartlow,LittleLittleCloud,MikhailArkhipov,MinKPark,RaymonGulati1,SiddhanthUnnithan,StellaHuang95,akashraju4,amunger,anopo4,ayim,binderjoe,brettcannon,brianbok,bschnurr,claudiaregio,d3r3kk,debonte,ericsnowcurrently,erictraut,fabioz,gilbertw,gramster,greazer,gvanrossum,heejaechang,huguesv,ijoosong,int19h,jakebailey,jflam,jmew,joyceerhl,judej,karrtikr,karthiknadig,kawilkin,kieferrm,kimadeline,luabud,minsa110,paulacamargo25,qubitron,rchiodo,ronglums,savannahostrowski,sevillal,shsuman,smortaz,swinner95,tbombach,vsfeedback,weidezhong-msft,xiaofeng0123,zewditu,zhouwangyang,zooba'
+        
