@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-08-10 using: stale=30, all=False
+Generated on 2025-10-26 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7496](https://github.com/microsoft/pylance-release/issues/7496 "pythonman")  |pythonman |
- | \* OP:0  |[7495](https://github.com/microsoft/pylance-release/issues/7495 "Pylance using the wrong interpreter in parallel folders of a multi-root workspace")  |Pylance using the wrong interpreter in parallel folders of a multi-root workspace |
+ | \* OP:0  |[7677](https://github.com/microsoft/pylance-release/issues/7677 "support macosx_15_0_x86_64")  |support macosx_15_0_x86_64 |
+ | \* OP:0  |[7676](https://github.com/microsoft/pylance-release/issues/7676 "name eorr")  |name eorr |
+ | \* OP:1  |[7675](https://github.com/microsoft/pylance-release/issues/7675 "Pylance using outdated pandas stubs")  |Pylance using outdated pandas stubs |
 
 
 
