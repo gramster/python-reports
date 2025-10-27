@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mpy
 
 
-Generated on 2025-10-23 using: stale=30, all=True
+Generated on 2025-10-27 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
