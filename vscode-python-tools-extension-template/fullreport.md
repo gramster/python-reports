@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-tools-extension-template
 
 
-Generated on 2025-10-23 using: stale=30, all=True
+Generated on 2025-10-27 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Generated on 2025-10-23 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:477  |[209](https://github.com/microsoft/vscode-python-tools-extension-template/issues/209 "Numpy error when using bundled libs from different python version") | Numpy error when using bundled libs from different python version |
+ |  TM:480  |[209](https://github.com/microsoft/vscode-python-tools-extension-template/issues/209 "Numpy error when using bundled libs from different python version") | Numpy error when using bundled libs from different python version |
 
 
 
