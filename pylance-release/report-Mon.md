@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-08-11 using: stale=30, all=False
+Generated on 2025-10-27 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7496](https://github.com/microsoft/pylance-release/issues/7496 "pythonman")  |pythonman |
- | \* OP:1  |[7495](https://github.com/microsoft/pylance-release/issues/7495 "Pylance using the wrong interpreter in parallel folders of a multi-root workspace")  |Pylance using the wrong interpreter in parallel folders of a multi-root workspace |
+ | \* OP:0  |[7679](https://github.com/microsoft/pylance-release/issues/7679 "Is it possible to add a feature that allows Python DocStrings to be displayed in a target language (for example, in Chinese), or to utilize Copliot to automatically generate Chinese-language docstrings?")  |Is it possible to add a feature that allows Python DocStrings to be displayed in a target language (for example, in Chinese), or to utilize Copliot to automatically generate Chinese-language docstrings? |
+ | \* OP:0  |[7678](https://github.com/microsoft/pylance-release/issues/7678 "The language server fails to start")  |The language server fails to start |
+ | \* OP:1  |[7677](https://github.com/microsoft/pylance-release/issues/7677 "support macosx_15_0_x86_64")  |support macosx_15_0_x86_64 |
+ | \* OP:1  |[7676](https://github.com/microsoft/pylance-release/issues/7676 "name eorr")  |name eorr |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:5, OP:0  |[7658](https://github.com/microsoft/pylance-release/issues/7658 "Feature Request - option to make local rename / cancel rename")  |Feature Request - option to make local rename / cancel rename |
 
 
 
