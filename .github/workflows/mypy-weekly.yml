@@ -17,7 +17,7 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'vscode-mpy'
+          repository: 'vscode-mypy'
           githubTokenRead: ${{ secrets.READ }}
           githubTokenCommit: ${{ secrets.COMMIT }}
           weekly: true
