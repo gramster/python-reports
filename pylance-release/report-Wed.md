@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-08-06 using: stale=30, all=False
+Generated on 2025-10-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7479](https://github.com/microsoft/pylance-release/issues/7479 "Unknown import symbol for Rust extension")  |Unknown import symbol for Rust extension |
+ | \* OP:0  |[7685](https://github.com/microsoft/pylance-release/issues/7685 "pip flask not installing")  |pip flask not installing |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+## PULL REQUEST ACTIVITY
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[4428](https://github.com/microsoft/pylance-release/issues/4428 "Autocomplete of Literal value only takes last overload into account")  |Autocomplete of Literal value only takes last overload into account |
+
+## RECENTLY CLOSED ISSUES
+
 
 
 
