@@ -10,6 +10,21 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in debugpy that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[1788](https://github.com/microsoft/debugpy/issues/1788 "WxPython/GTK3 graphical glitches starting with debugpy 1.8.8")  |WxPython/GTK3 graphical glitches starting with debugpy 1.8.8 |
+
+## PULL REQUEST ACTIVITY
+
+
+## RECENTLY CLOSED ISSUES
+
+
 
 
 
