@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-08-12 using: stale=30, all=False
+Generated on 2025-10-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[8270](https://github.com/microsoft/PTVS/issues/8270 "[MSFT Internal] An error message &quot;An of type RemoteInvovationException has been encountered...&quot; pops up during testing.")  |[MSFT Internal] An error message "An of type RemoteInvovationException has been encountered..." pops up during testing. |
+ | \* OP:0  |[8315](https://github.com/microsoft/PTVS/issues/8315 "The option &quot;Python/Native Debugging&quot; is missing.")  |The option "Python/Native Debugging" is missing. |
+
+## PULL REQUEST ACTIVITY
+
+
+## RECENTLY CLOSED ISSUES
+
 
 
 
