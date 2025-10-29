@@ -17,7 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[444](https://github.com/microsoft/lsprotocol/issues/444 "rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod")  |rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod |
+ | \* OP:1  |[444](https://github.com/microsoft/lsprotocol/issues/444 "rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod")  |rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod |
+
+## PULL REQUEST ACTIVITY
+
+
+## RECENTLY CLOSED ISSUES
+
 
 
 
