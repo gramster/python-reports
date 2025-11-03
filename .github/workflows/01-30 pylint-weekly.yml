@@ -1,8 +1,8 @@
-name: 'Generate Daily Report for pylance'
+name: 'Generate Weekly Full Report for vscode-pylint'
 
 on:
   schedule:
-    - cron: 30 7 * * *    
+    - cron: 30 1 * * 1    
   workflow_dispatch:
   
 permissions:
@@ -17,10 +17,11 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'pylance-release'
-          prs: 'pyrx'
+          repository: 'vscode-pylint'
           githubTokenRead: ${{ secrets.READ }}
           githubTokenCommit: ${{ secrets.COMMIT }}
+          weekly: true
+          hotspots: true   
           # Clean this up
           team: 'KacieKK,AdamYoblick,AlexanderSher,Anapo14,CTrando,Cameron,DavidKutu,DonJayamanne,IanMatthewHuff,JakeRadMSFT,JiayuanL,JoshuaPartlow,LittleLittleCloud,MikhailArkhipov,MinKPark,RaymonGulati1,SiddhanthUnnithan,StellaHuang95,akashraju4,amunger,anopo4,ayim,binderjoe,brettcannon,brianbok,bschnurr,claudiaregio,d3r3kk,debonte,ericsnowcurrently,erictraut,fabioz,gilbertw,gramster,greazer,gvanrossum,heejaechang,huguesv,ijoosong,int19h,jakebailey,jflam,jmew,joyceerhl,judej,karrtikr,karthiknadig,kawilkin,kieferrm,kimadeline,luabud,minsa110,paulacamargo25,qubitron,rchiodo,ronglums,savannahostrowski,sevillal,shsuman,smortaz,swinner95,tbombach,vsfeedback,weidezhong-msft,xiaofeng0123,zewditu,zhouwangyang,zooba'
-                
+        

@@ -1,8 +1,8 @@
-name: 'Generate Weekly Full Report for vscode-python-tools-extension-template'
+name: 'Generate Weekly Full Report for debugpy'
 
 on:
   schedule:
-    - cron: 0 5 * * 1    
+    - cron: 20 0 * * 1    
   workflow_dispatch:
   
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'vscode-python-tools-extension-template'
+          repository: 'debugpy'
           githubTokenRead: ${{ secrets.READ }}
           githubTokenCommit: ${{ secrets.COMMIT }}
           weekly: true

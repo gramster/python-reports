@@ -1,8 +1,8 @@
-name: 'Generate Daily Report for vscode-isort'
+name: 'Generate Daily Report for vscode-python-tools-extension-template'
 
 on:
   schedule:
-    - cron: 30 5 * * *    
+    - cron: 40 6 * * *    
   workflow_dispatch:
   
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'vscode-isort'
+          repository: 'vscode-python-tools-extension-template'
           githubTokenRead: ${{ secrets.READ }}
           githubTokenCommit: ${{ secrets.COMMIT }}          
           # Clean this up

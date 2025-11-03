@@ -1,8 +1,8 @@
-name: 'Generate Weekly Full Report for vscode-pylint'
+name: 'Generate Daily Report for debugpy'
 
 on:
   schedule:
-    - cron: 0 5 * * 1    
+    - cron: 20 5 * * *    
   workflow_dispatch:
   
 permissions:
@@ -17,11 +17,9 @@ jobs:
       - id: report
         uses: gramster/python-reports@main
         with:
-          repository: 'vscode-pylint'
+          repository: 'debugpy'
           githubTokenRead: ${{ secrets.READ }}
           githubTokenCommit: ${{ secrets.COMMIT }}
-          weekly: true
-          hotspots: true   
           # Clean this up
           team: 'KacieKK,AdamYoblick,AlexanderSher,Anapo14,CTrando,Cameron,DavidKutu,DonJayamanne,IanMatthewHuff,JakeRadMSFT,JiayuanL,JoshuaPartlow,LittleLittleCloud,MikhailArkhipov,MinKPark,RaymonGulati1,SiddhanthUnnithan,StellaHuang95,akashraju4,amunger,anopo4,ayim,binderjoe,brettcannon,brianbok,bschnurr,claudiaregio,d3r3kk,debonte,ericsnowcurrently,erictraut,fabioz,gilbertw,gramster,greazer,gvanrossum,heejaechang,huguesv,ijoosong,int19h,jakebailey,jflam,jmew,joyceerhl,judej,karrtikr,karthiknadig,kawilkin,kieferrm,kimadeline,luabud,minsa110,paulacamargo25,qubitron,rchiodo,ronglums,savannahostrowski,sevillal,shsuman,smortaz,swinner95,tbombach,vsfeedback,weidezhong-msft,xiaofeng0123,zewditu,zhouwangyang,zooba'
-        
+                

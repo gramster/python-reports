@@ -2,7 +2,7 @@ name: 'Generate Daily Report for vscode-mypy'
 
 on:
   schedule:
-    - cron: 30 5 * * *    
+    - cron: 0 6 * * *    
   workflow_dispatch:
   
 permissions:
