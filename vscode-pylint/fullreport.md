@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2025-10-27 using: stale=30, all=True
+Generated on 2025-11-02 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -15,26 +15,26 @@ Generated on 2025-10-27 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:20  |[620](https://github.com/microsoft/vscode-pylint/issues/620 "False positive Unable to import with standard modules like os , logging using python embedded inside the workspace") | False positive Unable to import with standard modules like os , logging using python embedded inside the workspace |
- |  OP:205  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
- |  OP:244  |[599](https://github.com/microsoft/vscode-pylint/issues/599 "Improve docs for pylint.args") | Improve docs for pylint.args |
+ |  OP:27  |[620](https://github.com/microsoft/vscode-pylint/issues/620 "False positive Unable to import with standard modules like os , logging using python embedded inside the workspace") | False positive Unable to import with standard modules like os , logging using python embedded inside the workspace |
+ |  OP:212  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
+ |  OP:251  |[599](https://github.com/microsoft/vscode-pylint/issues/599 "Improve docs for pylint.args") | Improve docs for pylint.args |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:32,  |[581](https://github.com/microsoft/vscode-pylint/issues/581 "Cannot globally set Import Strategy") | Cannot globally set Import Strategy |
- |  P:320,  |[454](https://github.com/microsoft/vscode-pylint/issues/454 "Linting on change/save (with autosave) can be slow") | Linting on change/save (with autosave) can be slow |
- |  P:716,  |[376](https://github.com/microsoft/vscode-pylint/issues/376 "Support dotenv files discovery") | Support dotenv files discovery |
- |  P:245,  |[433](https://github.com/microsoft/vscode-pylint/issues/433 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`") | Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux` |
+ |  P:39,  |[581](https://github.com/microsoft/vscode-pylint/issues/581 "Cannot globally set Import Strategy") | Cannot globally set Import Strategy |
+ |  P:327,  |[454](https://github.com/microsoft/vscode-pylint/issues/454 "Linting on change/save (with autosave) can be slow") | Linting on change/save (with autosave) can be slow |
+ |  P:723,  |[376](https://github.com/microsoft/vscode-pylint/issues/376 "Support dotenv files discovery") | Support dotenv files discovery |
+ |  P:252,  |[433](https://github.com/microsoft/vscode-pylint/issues/433 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`") | Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux` |
 
 ### Issues in vscode-pylint that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:250  |[594](https://github.com/microsoft/vscode-pylint/issues/594 "Unrecognized option found: max-positional-arguments") | Unrecognized option found: max-positional-arguments |
- |  TM:244  |[476](https://github.com/microsoft/vscode-pylint/issues/476 "[BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace") | [BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace |
- |  TM:1305  |[26](https://github.com/microsoft/vscode-pylint/issues/26 "Problems duplicated when using Jedi") | Problems duplicated when using Jedi |
+ |  TM:257  |[594](https://github.com/microsoft/vscode-pylint/issues/594 "Unrecognized option found: max-positional-arguments") | Unrecognized option found: max-positional-arguments |
+ |  TM:251  |[476](https://github.com/microsoft/vscode-pylint/issues/476 "[BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace") | [BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace |
+ |  TM:1312  |[26](https://github.com/microsoft/vscode-pylint/issues/26 "Problems duplicated when using Jedi") | Problems duplicated when using Jedi |
 
 ---
 
@@ -45,34 +45,35 @@ Generated on 2025-10-27 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:37  |[618](https://github.com/microsoft/vscode-pylint/issues/618 "Feature Request: `&quot;pylint.cwd&quot;: &quot;${nearestConfig}&quot;`") | Feature Request: `"pylint.cwd": "${nearestConfig}"` |
- |  OP:182  |[607](https://github.com/microsoft/vscode-pylint/issues/607 "[feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding") | [feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding |
- |  OP:458  |[567](https://github.com/microsoft/vscode-pylint/issues/567 "Pylint makes &quot;Quick Fix&quot; suggestions take 10s+ to load") | Pylint makes "Quick Fix" suggestions take 10s+ to load |
- |  OP:1259  |[96](https://github.com/microsoft/vscode-pylint/issues/96 "Show indicator that pylint is still running for the file") | Show indicator that pylint is still running for the file |
- |  OP:1271  |[79](https://github.com/microsoft/vscode-pylint/issues/79 "Project wide evaluation") | Project wide evaluation |
- |  OP:1271  |[78](https://github.com/microsoft/vscode-pylint/issues/78 "Reveal pylint evaluation score") | Reveal pylint evaluation score |
+ | \* OP:1  |[625](https://github.com/microsoft/vscode-pylint/issues/625 "Lots of crashing")  |Lots of crashing |
+ |  OP:44  |[618](https://github.com/microsoft/vscode-pylint/issues/618 "Feature Request: `&quot;pylint.cwd&quot;: &quot;${nearestConfig}&quot;`") | Feature Request: `"pylint.cwd": "${nearestConfig}"` |
+ |  OP:189  |[607](https://github.com/microsoft/vscode-pylint/issues/607 "[feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding") | [feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding |
+ |  OP:465  |[567](https://github.com/microsoft/vscode-pylint/issues/567 "Pylint makes &quot;Quick Fix&quot; suggestions take 10s+ to load") | Pylint makes "Quick Fix" suggestions take 10s+ to load |
+ |  OP:1266  |[96](https://github.com/microsoft/vscode-pylint/issues/96 "Show indicator that pylint is still running for the file") | Show indicator that pylint is still running for the file |
+ |  OP:1278  |[79](https://github.com/microsoft/vscode-pylint/issues/79 "Project wide evaluation") | Project wide evaluation |
+ |  OP:1278  |[78](https://github.com/microsoft/vscode-pylint/issues/78 "Reveal pylint evaluation score") | Reveal pylint evaluation score |
 
 ### Issues in vscode-pylint that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:102, OP:102  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
- |  TM:585, OP:582  |[535](https://github.com/microsoft/vscode-pylint/issues/535 "ignore concrete linting warnings via GUI, e.g. via QuickFix") | ignore concrete linting warnings via GUI, e.g. via QuickFix |
- |  TM:961, OP:960  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
+ |  TM:109, OP:109  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
+ |  TM:592, OP:589  |[535](https://github.com/microsoft/vscode-pylint/issues/535 "ignore concrete linting warnings via GUI, e.g. via QuickFix") | ignore concrete linting warnings via GUI, e.g. via QuickFix |
+ |  TM:968, OP:967  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:287,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
+ |  P:294,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
 
 ### Issues in vscode-pylint that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:172  |[606](https://github.com/microsoft/vscode-pylint/issues/606 "pylint doesn't show problems in problem tab from venv pls help") | pylint doesn't show problems in problem tab from venv pls help |
- |  TM:500  |[560](https://github.com/microsoft/vscode-pylint/issues/560 "Automatic restart after library is installed") | Automatic restart after library is installed |
- |  TM:647  |[479](https://github.com/microsoft/vscode-pylint/issues/479 "Resolve Pylance/Pylint overlap (optionally?)") | Resolve Pylance/Pylint overlap (optionally?) |
+ |  TM:179  |[606](https://github.com/microsoft/vscode-pylint/issues/606 "pylint doesn't show problems in problem tab from venv pls help") | pylint doesn't show problems in problem tab from venv pls help |
+ |  TM:507  |[560](https://github.com/microsoft/vscode-pylint/issues/560 "Automatic restart after library is installed") | Automatic restart after library is installed |
+ |  TM:654  |[479](https://github.com/microsoft/vscode-pylint/issues/479 "Resolve Pylance/Pylint overlap (optionally?)") | Resolve Pylance/Pylint overlap (optionally?) |
 
 
 
