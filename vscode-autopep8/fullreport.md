@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-autopep8
 
 
-Generated on 2025-11-09 using: stale=30, all=True
+Generated on 2025-11-16 using: stale=30, all=True
 
 
 * marks items that are new to report in past 1 day(s)
@@ -16,10 +16,10 @@ Generated on 2025-11-09 using: stale=30, all=True
 
 ## MOST FREQUENTLY CHANGED FILES (by # of PRs):
 
-  8: package-lock.json
+  9: package-lock.json
 
 
-  5: package.json
+  6: package.json
 
 
 ![](bugcount.png)
