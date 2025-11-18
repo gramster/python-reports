@@ -89,7 +89,7 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:565  |[5840](https://github.com/microsoft/pylance-release/issues/5840 "Function Docstrings Obscured By Decorators That Return Protocols") | Function Docstrings Obscured By Decorators That Return Protocols |
  |  TM:560  |[5836](https://github.com/microsoft/pylance-release/issues/5836 "Improve docs to clarify that import heuristics don't work for local imports") | Improve docs to clarify that import heuristics don't work for local imports |
  |  TM:568  |[5808](https://github.com/microsoft/pylance-release/issues/5808 "parse error on magic statement on ipython mode.") | parse error on magic statement on ipython mode. |
- |  TM:424  |[5731](https://github.com/microsoft/pylance-release/issues/5731 " Auto import doesn't suggest re-exports in stdlib") |  Auto import doesn't suggest re-exports in stdlib |
+ |  TM:425  |[5731](https://github.com/microsoft/pylance-release/issues/5731 " Auto import doesn't suggest re-exports in stdlib") |  Auto import doesn't suggest re-exports in stdlib |
  |  TM:600  |[5699](https://github.com/microsoft/pylance-release/issues/5699 "Auto format of strings doesn't work until you reload VS code") | Auto format of strings doesn't work until you reload VS code |
  |  TM:383  |[6617](https://github.com/microsoft/pylance-release/issues/6617 "Pylance reports problems in interactive window without a way to ignore them") | Pylance reports problems in interactive window without a way to ignore them |
  |  TM:600  |[5659](https://github.com/microsoft/pylance-release/issues/5659 "String interpolation (f strings) is breaking autocomplete") | String interpolation (f strings) is breaking autocomplete |
@@ -97,7 +97,7 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:624  |[5561](https://github.com/microsoft/pylance-release/issues/5561 "&quot;Extract method&quot; refactor produces incorrect code") | "Extract method" refactor produces incorrect code |
  |  TM:628  |[5458](https://github.com/microsoft/pylance-release/issues/5458 "Autocomplete for class parameters not working on 2023.12.1 and later versions") | Autocomplete for class parameters not working on 2023.12.1 and later versions |
  |  TM:645  |[5456](https://github.com/microsoft/pylance-release/issues/5456 "Incorrect function argument indentation") | Incorrect function argument indentation |
- |  TM:657  |[5421](https://github.com/microsoft/pylance-release/issues/5421 "Overriding `__getattribute__` messes up utility of &quot;Go to Definition&quot;") | Overriding `__getattribute__` messes up utility of "Go to Definition" |
+ |  TM:658  |[5421](https://github.com/microsoft/pylance-release/issues/5421 "Overriding `__getattribute__` messes up utility of &quot;Go to Definition&quot;") | Overriding `__getattribute__` messes up utility of "Go to Definition" |
  |  TM:655  |[5432](https://github.com/microsoft/pylance-release/issues/5432 "Pyright is using Incorrect Interpreter Path") | Pyright is using Incorrect Interpreter Path |
  |  TM:308  |[5310](https://github.com/microsoft/pylance-release/issues/5310 "Moving multiple files or renaming modules doesn't refactor imports") | Moving multiple files or renaming modules doesn't refactor imports |
  |  TM:482  |[5255](https://github.com/microsoft/pylance-release/issues/5255 "Pylance inlay hints do not honor python version") | Pylance inlay hints do not honor python version |
@@ -228,7 +228,7 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:175, OP:173  |[7265](https://github.com/microsoft/pylance-release/issues/7265 "Disable built-in stubs") | Disable built-in stubs |
  |  TM:134, OP:131  |[7242](https://github.com/microsoft/pylance-release/issues/7242 "UV generated project has no completions") | UV generated project has no completions |
  |  TM:187, OP:187  |[7216](https://github.com/microsoft/pylance-release/issues/7216 "Generate Method Stub from Usage in Python (Like C# in VS Code)") | Generate Method Stub from Usage in Python (Like C# in VS Code) |
- |  TM:189, OP:189  |[7204](https://github.com/microsoft/pylance-release/issues/7204 "pylance sometimes looks into excluded folders like &quot;~/.pyenv&quot;") | pylance sometimes looks into excluded folders like "~/.pyenv" |
+ |  TM:190, OP:189  |[7204](https://github.com/microsoft/pylance-release/issues/7204 "pylance sometimes looks into excluded folders like &quot;~/.pyenv&quot;") | pylance sometimes looks into excluded folders like "~/.pyenv" |
  |  TM:197, OP:197  |[7178](https://github.com/microsoft/pylance-release/issues/7178 "Path for `python.analysis.stubPath` in `.vscode/settings.json` is resolved relative to workspace root instead of settings file") | Path for `python.analysis.stubPath` in `.vscode/settings.json` is resolved relative to workspace root instead of settings file |
  |  TM:231, OP:231  |[7088](https://github.com/microsoft/pylance-release/issues/7088 "All variables are grayed as if unused") | All variables are grayed as if unused |
  |  TM:234, OP:234  |[7078](https://github.com/microsoft/pylance-release/issues/7078 "How to change my tmp folder?") | How to change my tmp folder? |
@@ -319,7 +319,7 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:168  |[6747](https://github.com/microsoft/pylance-release/issues/6747 "Takes a minute to red-underline a syntax error") | Takes a minute to red-underline a syntax error |
  |  TM:292  |[6716](https://github.com/microsoft/pylance-release/issues/6716 "Autocomplete suggestions don't work inside Pytest test functions when the suggestion logic returns more than 1 result.") | Autocomplete suggestions don't work inside Pytest test functions when the suggestion logic returns more than 1 result. |
  |  TM:355  |[6715](https://github.com/microsoft/pylance-release/issues/6715 "Implement TypeDict's type hinting to dict subclass") | Implement TypeDict's type hinting to dict subclass |
- |  TM:221  |[6628](https://github.com/microsoft/pylance-release/issues/6628 "Pylance error message appears in Chinese despite English language settings") | Pylance error message appears in Chinese despite English language settings |
+ |  TM:222  |[6628](https://github.com/microsoft/pylance-release/issues/6628 "Pylance error message appears in Chinese despite English language settings") | Pylance error message appears in Chinese despite English language settings |
  |  TM:385  |[6611](https://github.com/microsoft/pylance-release/issues/6611 "Feature Requests: Support for cross-reference syntax in `mkdocstring`") | Feature Requests: Support for cross-reference syntax in `mkdocstring` |
  |  TM:404  |[6545](https://github.com/microsoft/pylance-release/issues/6545 "pyrightconfig.json assumes base directory when no entries are included, disregarding python.analysis.include") | pyrightconfig.json assumes base directory when no entries are included, disregarding python.analysis.include |
  |  TM:246  |[6539](https://github.com/microsoft/pylance-release/issues/6539 "As of the latest version of Pylance, types are no longer included when autocompleting inherited methods.") | As of the latest version of Pylance, types are no longer included when autocompleting inherited methods. |
@@ -376,6 +376,71 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:376  |[3492](https://github.com/microsoft/pylance-release/issues/3492 "Cannot find 'decimal.Context' when typing 'decimal.ctxt'") | Cannot find 'decimal.Context' when typing 'decimal.ctxt' |
  |  TM:342  |[6760](https://github.com/microsoft/pylance-release/issues/6760 "Support for PyScript & Brython.") | Support for PyScript & Brython. |
  |  TM:1258  |[2486](https://github.com/microsoft/pylance-release/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
+
+## PULL REQUEST ACTIVITY
+
+
+### Pull Requests opened in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#7319](https://github.com/microsoft/pyrx/pull/7319) | rchiodo | 2025-11-18 | 0 | - | - | Update notebook cells when startup commands are changed |
+| \* | [#7315](https://github.com/microsoft/pyrx/pull/7315) | dependabot | 2025-11-18 | 0 | - | - | Bump glob |
+| \* | [#7307](https://github.com/microsoft/pyrx/pull/7307) | dependabot | 2025-11-17 | 1 | - | - | Bump js-yaml in /packages/pylance-browser |
+
+### Pull Requests still open that were opened more than 7 days ago:
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1068](https://github.com/microsoft/pyrx/pull/1068) | bschnurr | 2021-01-26 | 1757 | - | - | type semantic tokens for typeAlias variables instead of just variable… |
+| \* | [#1359](https://github.com/microsoft/pyrx/pull/1359) | jakebailey | 2021-04-26 | 1667 | - | - | Switch to yarn 3 and yarn workspaces |
+| \* | [#1612](https://github.com/microsoft/pyrx/pull/1612) | jakebailey | 2021-06-28 | 1603 | - | - | Use project references for monorepo deps |
+| \* | [#1785](https://github.com/microsoft/pyrx/pull/1785) | jakebailey | 2021-08-26 | 1544 | - | - | Add browser bundle to internal package |
+| \* | [#1849](https://github.com/microsoft/pyrx/pull/1849) | jakebailey | 2021-09-17 | 1523 | - | - | Clean up unused junit, coverage, pipeline configs |
+| \* | [#2267](https://github.com/microsoft/pyrx/pull/2267) | bschnurr | 2022-03-10 | 1348 | - | - | duplicate `from foo import bar` on separate lines should error |
+| \* | [#2690](https://github.com/microsoft/pyrx/pull/2690) | bschnurr | 2022-08-23 | 1183 | - | - | [wip] asking user to annotation function returns when we can't infer them |
+| \* | [#2702](https://github.com/microsoft/pyrx/pull/2702) | bschnurr | 2022-08-29 | 1177 | - | - | wip fix docstring newline |
+| \* | [#3070](https://github.com/microsoft/pyrx/pull/3070) | bschnurr | 2023-01-17 | 1036 | - | - | [WIP] convert statSync calls to not throw execptions on missing files |
+| \* | [#3282](https://github.com/microsoft/pyrx/pull/3282) | bschnurr | 2023-03-16 | 978 | - | - | [DRAFT] add traces to getInferredTypeOfDeclaration and getTypeOfExpression |
+| \* | [#4215](https://github.com/microsoft/pyrx/pull/4215) | bschnurr | 2023-10-20 | 760 | - | - | wip all a command to insert all inlay hints |
+| \* | [#4353](https://github.com/microsoft/pyrx/pull/4353) | bschnurr | 2023-11-24 | 724 | - | - | [wip] add a pylance nightly pipeline |
+| \* | [#4381](https://github.com/microsoft/pyrx/pull/4381) | bschnurr | 2023-12-04 | 715 | - | - | New workflow to copy changelog and close issues |
+| \* | [#4739](https://github.com/microsoft/pyrx/pull/4739) | bschnurr | 2024-02-22 | 634 | - | - | Command to rebuild stdlib indicies |
+| \* | [#6411](https://github.com/microsoft/pyrx/pull/6411) | bschnurr | 2025-03-17 | 245 | - | - | [WIP] data driven refactoring thru diagnotic code matching and AST queries. |
+| \* | [#6412](https://github.com/microsoft/pyrx/pull/6412) | bschnurr | 2025-03-17 | 245 | - | - | try replacing file changed action |
+| \* | [#6414](https://github.com/microsoft/pyrx/pull/6414) | bschnurr | 2025-03-19 | 244 | - | - | [WIP] Testing copilot agent 4o fixing pyright diagnostic samples |
+| \* | [#6513](https://github.com/microsoft/pyrx/pull/6513) | bschnurr | 2025-04-08 | 224 | - | - | [wip] wiki from github issues related to reported issues. |
+| \* | [#6530](https://github.com/microsoft/pyrx/pull/6530) | heejaechang | 2025-04-09 | 222 | - | - | [DO NOT CHECK IN] Removed license check |
+| \* | [#6592](https://github.com/microsoft/pyrx/pull/6592) | bschnurr | 2025-04-17 | 214 | - | - | [Draft] wip try caching ls servers during tests |
+| \* | [#6639](https://github.com/microsoft/pyrx/pull/6639) | dependabot | 2025-04-30 | 202 | - | - | Bump @babel/helpers from 7.26.0 to 7.27.1 in /packages/pylance-browser |
+| \* | [#6653](https://github.com/microsoft/pyrx/pull/6653) | copilot-swe-agent | 2025-05-01 | 201 | - | - | Fix parameter completion in function calls |
+| \* | [#6656](https://github.com/microsoft/pyrx/pull/6656) | dependabot | 2025-05-02 | 200 | - | - | Bump @octokit/plugin-paginate-rest from 5.0.1 to 9.2.2 |
+| \* | [#6657](https://github.com/microsoft/pyrx/pull/6657) | dependabot | 2025-05-02 | 200 | - | - | Bump @octokit/request-error and @octokit/webhooks |
+| \* | [#6700](https://github.com/microsoft/pyrx/pull/6700) | heejaechang | 2025-05-08 | 193 | - | - | added more processing such as tagging, cleansing and etc |
+| \* | [#6719](https://github.com/microsoft/pyrx/pull/6719) | dependabot | 2025-05-15 | 187 | - | - | Bump undici from 6.21.0 to 6.21.3 in /packages/vscode-pylance |
+| \* | [#6841](https://github.com/microsoft/pyrx/pull/6841) | dependabot | 2025-06-20 | 151 | - | - | Bump brace-expansion from 1.1.11 to 1.1.12 in /packages/pyright/packages/pyright |
+| \* | [#6844](https://github.com/microsoft/pyrx/pull/6844) | heejaechang | 2025-06-20 | 151 | - | - | [WIP] Adding new pylance-dev package |
+| \* | [#6854](https://github.com/microsoft/pyrx/pull/6854) | bschnurr | 2025-06-23 | 147 | - | - | feat: migrate from npm workspaces to pnpm v10.12.2 |
+| \* | [#6889](https://github.com/microsoft/pyrx/pull/6889) | dependabot | 2025-07-03 | 138 | - | - | Bump esbuild and esbuild-loader in /packages/pylance-browser |
+| \* | [#6892](https://github.com/microsoft/pyrx/pull/6892) | bschnurr | 2025-07-03 | 137 | - | - | pnpm merge to main |
+| \* | [#6912](https://github.com/microsoft/pyrx/pull/6912) | dependabot | 2025-07-08 | 132 | - | - | Bump esbuild and esbuild-loader in /packages/type-server |
+| \* | [#6913](https://github.com/microsoft/pyrx/pull/6913) | dependabot | 2025-07-08 | 132 | - | - | Bump esbuild and esbuild-loader in /packages/vscode-pylance |
+| \* | [#6941](https://github.com/microsoft/pyrx/pull/6941) | heejaechang | 2025-07-10 | 130 | - | - | [WIP] move to the latest vscode-languageserver-node packages |
+| \* | [#6959](https://github.com/microsoft/pyrx/pull/6959) | dependabot | 2025-07-17 | 123 | - | - | Bump on-headers and morgan |
+| \* | [#6977](https://github.com/microsoft/pyrx/pull/6977) | dependabot | 2025-07-21 | 119 | - | - | Bump form-data from 4.0.3 to 4.0.4 in /packages/pyright/packages/vscode-pyright |
+| \* | [#6989](https://github.com/microsoft/pyrx/pull/6989) | dependabot | 2025-07-29 | 112 | - | - | Bump koa and @vscode/test-web in /packages/pylance-browser |
+| \* | [#7001](https://github.com/microsoft/pyrx/pull/7001) | dependabot | 2025-08-06 | 104 | - | - | Bump tmp from 0.2.3 to 0.2.4 in /packages/pyright |
+| \* | [#7004](https://github.com/microsoft/pyrx/pull/7004) | dependabot | 2025-08-06 | 104 | - | - | Bump transformers from 4.50.0 to 4.53.0 in /packages/pylance-internal/src/tests/data/installable_package |
+| \* | [#7007](https://github.com/microsoft/pyrx/pull/7007) | bschnurr | 2025-08-07 | 103 | - | - | WIP:  Modify Pyalnce to create and start/stop itself |
+| \* | [#7012](https://github.com/microsoft/pyrx/pull/7012) | bschnurr | 2025-08-11 | 99 | - | - | [WIP] Allow callables to be inserted in inlayhints |
+| \* | [#7111](https://github.com/microsoft/pyrx/pull/7111) | dependabot | 2025-09-23 | 55 | - | - | Bump axios from 1.11.0 to 1.12.2 in /packages/pyright |
+| \* | [#7113](https://github.com/microsoft/pyrx/pull/7113) | dependabot | 2025-09-24 | 55 | - | - | Bump tar-fs from 3.1.0 to 3.1.1 in /tests/pylance-browser |
+| \* | [#7154](https://github.com/microsoft/pyrx/pull/7154) | bschnurr | 2025-10-09 | 40 | - | - | disable recommendations in codespaces |
+| \* | [#7181](https://github.com/microsoft/pyrx/pull/7181) | bschnurr | 2025-10-15 | 34 | - | - | Update build.yml for Azure Pipelines |
+| \* | [#7224](https://github.com/microsoft/pyrx/pull/7224) | dependabot | 2025-10-27 | 22 | - | - | Bump validator from 13.15.15 to 13.15.20 in /packages/vscode-pylance |
+| \* | [#7239](https://github.com/microsoft/pyrx/pull/7239) | copilot-swe-agent | 2025-10-31 | 18 | - | - | Rust Indexer Phase 0: Fast Python package indexing with validation and testing |
+|   | [#7245](https://github.com/microsoft/pyrx/pull/7245) | bschnurr | 2025-11-03 | 14 | - | - | try to fix error. ##[error]1ES PT Error: Using an image without 1es-p… |
+|   | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 14 | - | - | Migrate Azure DevOps pipelines, GitHub Actions workflows, and all package.json files from npm to pnpm |
 
 ## RECENTLY CLOSED ISSUES
 
