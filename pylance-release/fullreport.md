@@ -5,7 +5,7 @@
 Generated on 2025-11-17 using: stale=30, all=True
 
 
-* marks items that are new to report in past 1 day(s)
+* marks items that are new to report in past 7 day(s)
 
 
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
@@ -47,7 +47,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  P:31,  |[5880](https://github.com/microsoft/pylance-release/issues/5880 "Pylance doesn't honor VSCode display language") | Pylance doesn't honor VSCode display language |
  |  P:578,  |[5652](https://github.com/microsoft/pylance-release/issues/5652 "Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal`") | Wrong auto-completion for `TypedDict` keys when assigning to a variable annotated as `Literal` |
  |  P:322,  |[5299](https://github.com/microsoft/pylance-release/issues/5299 "Descriptor type shown in autocomplete popover is incorrect") | Descriptor type shown in autocomplete popover is incorrect |
- |  P:6,  |[4391](https://github.com/microsoft/pylance-release/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)") | Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
+ | \* P:6,  |[4391](https://github.com/microsoft/pylance-release/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)")  |Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
  |  P:122,  |[3114](https://github.com/microsoft/pylance-release/issues/3114 "Assign to variable from commented-out magic command") | Assign to variable from commented-out magic command |
 
 ### Issues in pylance-release that have no external responses since team response in 30+ days:
@@ -67,7 +67,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:347  |[6732](https://github.com/microsoft/pylance-release/issues/6732 "kwargs typings are broken") | kwargs typings are broken |
  |  TM:368  |[6638](https://github.com/microsoft/pylance-release/issues/6638 "Inconsistent highlighting") | Inconsistent highlighting |
  |  TM:315  |[6612](https://github.com/microsoft/pylance-release/issues/6612 "IntelliSense not working for documents with custom URI schemes") | IntelliSense not working for documents with custom URI schemes |
- |  TM:387  |[6602](https://github.com/microsoft/pylance-release/issues/6602 "typing.Annotated is not suggested for auto-import in Quick Fix menu") | typing.Annotated is not suggested for auto-import in Quick Fix menu |
+ |  TM:388  |[6602](https://github.com/microsoft/pylance-release/issues/6602 "typing.Annotated is not suggested for auto-import in Quick Fix menu") | typing.Annotated is not suggested for auto-import in Quick Fix menu |
  |  TM:398  |[6559](https://github.com/microsoft/pylance-release/issues/6559 "[language-server]: only one suggestion for TypedDict union literal values") | [language-server]: only one suggestion for TypedDict union literal values |
  |  TM:399  |[6544](https://github.com/microsoft/pylance-release/issues/6544 "Pylance is generating invalid type annotations (with misattributed module names) for typing.Any in completions and inlays.") | Pylance is generating invalid type annotations (with misattributed module names) for typing.Any in completions and inlays. |
  |  TM:410  |[6493](https://github.com/microsoft/pylance-release/issues/6493 "Should not rename outer variables while renaming local variables if they're same") | Should not rename outer variables while renaming local variables if they're same |
@@ -267,7 +267,7 @@ Generated on 2025-11-17 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:6,  |[7452](https://github.com/microsoft/pylance-release/issues/7452 "Autocompletion with NoneType instead of None when NoneType is imported, feature of bug?") | Autocompletion with NoneType instead of None when NoneType is imported, feature of bug? |
+ | \* P:6,  |[7452](https://github.com/microsoft/pylance-release/issues/7452 "Autocompletion with NoneType instead of None when NoneType is imported, feature of bug?")  |Autocompletion with NoneType instead of None when NoneType is imported, feature of bug? |
  |  P:118,  |[7414](https://github.com/microsoft/pylance-release/issues/7414 "*** files and 0 cells to analyze") | *** files and 0 cells to analyze |
  |  P:147,  |[7304](https://github.com/microsoft/pylance-release/issues/7304 "Pylance Very slow and crashing on WSL2") | Pylance Very slow and crashing on WSL2 |
  |  P:115,  |[7222](https://github.com/microsoft/pylance-release/issues/7222 "Incorrect &quot;No parameter named&quot; Warning") | Incorrect "No parameter named" Warning |
@@ -351,7 +351,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:42  |[5614](https://github.com/microsoft/pylance-release/issues/5614 "Pylance using a lot of memory") | Pylance using a lot of memory |
  |  TM:622  |[5584](https://github.com/microsoft/pylance-release/issues/5584 "Parentheses and the atom they contain are both colored") | Parentheses and the atom they contain are both colored |
  |  TM:537  |[5475](https://github.com/microsoft/pylance-release/issues/5475 "Extremely slow renaming folders") | Extremely slow renaming folders |
- |  TM:649  |[5429](https://github.com/microsoft/pylance-release/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
+ |  TM:650  |[5429](https://github.com/microsoft/pylance-release/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
  |  TM:661  |[5410](https://github.com/microsoft/pylance-release/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
  |  TM:664  |[5386](https://github.com/microsoft/pylance-release/issues/5386 "Rename key in TypedDict using &quot;rename symbol&quot; refactor should update all instances of that TypedDict") | Rename key in TypedDict using "rename symbol" refactor should update all instances of that TypedDict |
  |  TM:662  |[5385](https://github.com/microsoft/pylance-release/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
@@ -380,21 +380,90 @@ Generated on 2025-11-17 using: stale=30, all=True
 ## PULL REQUEST ACTIVITY
 
 
-### Pull Requests opened in the past 1 day(s):
+### Pull Requests opened in the past 7 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By |
 | --- | --- | --- | --- | --- | --- | --- |
 | \* | [#7312](https://github.com/microsoft/pyrx/pull/7312) | rchiodo | 2025-11-17 | 0 | - | - |
 | \* | [#7307](https://github.com/microsoft/pyrx/pull/7307) | dependabot | 2025-11-17 | 0 | - | - |
+| \* | [#7300](https://github.com/microsoft/pyrx/pull/7300) | bschnurr | 2025-11-14 | 3 | - | - |
+
+### Pull Requests still open that were opened more than 7 days ago:
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By |
+| --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1068](https://github.com/microsoft/pyrx/pull/1068) | bschnurr | 2021-01-26 | 1756 | - | - |
+| \* | [#1359](https://github.com/microsoft/pyrx/pull/1359) | jakebailey | 2021-04-26 | 1666 | - | - |
+| \* | [#1612](https://github.com/microsoft/pyrx/pull/1612) | jakebailey | 2021-06-28 | 1603 | - | - |
+| \* | [#1785](https://github.com/microsoft/pyrx/pull/1785) | jakebailey | 2021-08-26 | 1544 | - | - |
+| \* | [#1849](https://github.com/microsoft/pyrx/pull/1849) | jakebailey | 2021-09-17 | 1522 | - | - |
+| \* | [#2267](https://github.com/microsoft/pyrx/pull/2267) | bschnurr | 2022-03-10 | 1348 | - | - |
+| \* | [#2690](https://github.com/microsoft/pyrx/pull/2690) | bschnurr | 2022-08-23 | 1182 | - | - |
+| \* | [#2702](https://github.com/microsoft/pyrx/pull/2702) | bschnurr | 2022-08-29 | 1176 | - | - |
+| \* | [#3070](https://github.com/microsoft/pyrx/pull/3070) | bschnurr | 2023-01-17 | 1035 | - | - |
+| \* | [#3282](https://github.com/microsoft/pyrx/pull/3282) | bschnurr | 2023-03-16 | 977 | - | - |
+| \* | [#4215](https://github.com/microsoft/pyrx/pull/4215) | bschnurr | 2023-10-20 | 759 | - | - |
+| \* | [#4353](https://github.com/microsoft/pyrx/pull/4353) | bschnurr | 2023-11-24 | 724 | - | - |
+| \* | [#4381](https://github.com/microsoft/pyrx/pull/4381) | bschnurr | 2023-12-04 | 714 | - | - |
+| \* | [#4739](https://github.com/microsoft/pyrx/pull/4739) | bschnurr | 2024-02-22 | 634 | - | - |
+| \* | [#6411](https://github.com/microsoft/pyrx/pull/6411) | bschnurr | 2025-03-17 | 245 | - | - |
+| \* | [#6412](https://github.com/microsoft/pyrx/pull/6412) | bschnurr | 2025-03-17 | 245 | - | - |
+| \* | [#6414](https://github.com/microsoft/pyrx/pull/6414) | bschnurr | 2025-03-19 | 243 | - | - |
+| \* | [#6513](https://github.com/microsoft/pyrx/pull/6513) | bschnurr | 2025-04-08 | 223 | - | - |
+| \* | [#6530](https://github.com/microsoft/pyrx/pull/6530) | heejaechang | 2025-04-09 | 222 | - | - |
+| \* | [#6592](https://github.com/microsoft/pyrx/pull/6592) | bschnurr | 2025-04-17 | 214 | - | - |
+| \* | [#6639](https://github.com/microsoft/pyrx/pull/6639) | dependabot | 2025-04-30 | 201 | - | - |
+| \* | [#6653](https://github.com/microsoft/pyrx/pull/6653) | copilot-swe-agent | 2025-05-01 | 200 | - | - |
+| \* | [#6656](https://github.com/microsoft/pyrx/pull/6656) | dependabot | 2025-05-02 | 199 | - | - |
+| \* | [#6657](https://github.com/microsoft/pyrx/pull/6657) | dependabot | 2025-05-02 | 199 | - | - |
+| \* | [#6700](https://github.com/microsoft/pyrx/pull/6700) | heejaechang | 2025-05-08 | 193 | - | - |
+| \* | [#6719](https://github.com/microsoft/pyrx/pull/6719) | dependabot | 2025-05-15 | 186 | - | - |
+| \* | [#6841](https://github.com/microsoft/pyrx/pull/6841) | dependabot | 2025-06-20 | 150 | - | - |
+| \* | [#6844](https://github.com/microsoft/pyrx/pull/6844) | heejaechang | 2025-06-20 | 150 | - | - |
+| \* | [#6854](https://github.com/microsoft/pyrx/pull/6854) | bschnurr | 2025-06-23 | 146 | - | - |
+| \* | [#6889](https://github.com/microsoft/pyrx/pull/6889) | dependabot | 2025-07-03 | 137 | - | - |
+| \* | [#6892](https://github.com/microsoft/pyrx/pull/6892) | bschnurr | 2025-07-03 | 136 | - | - |
+| \* | [#6912](https://github.com/microsoft/pyrx/pull/6912) | dependabot | 2025-07-08 | 132 | - | - |
+| \* | [#6913](https://github.com/microsoft/pyrx/pull/6913) | dependabot | 2025-07-08 | 132 | - | - |
+| \* | [#6941](https://github.com/microsoft/pyrx/pull/6941) | heejaechang | 2025-07-10 | 130 | - | - |
+| \* | [#6959](https://github.com/microsoft/pyrx/pull/6959) | dependabot | 2025-07-17 | 123 | - | - |
+| \* | [#6977](https://github.com/microsoft/pyrx/pull/6977) | dependabot | 2025-07-21 | 119 | - | - |
+| \* | [#6989](https://github.com/microsoft/pyrx/pull/6989) | dependabot | 2025-07-29 | 111 | - | - |
+| \* | [#7001](https://github.com/microsoft/pyrx/pull/7001) | dependabot | 2025-08-06 | 103 | - | - |
+| \* | [#7004](https://github.com/microsoft/pyrx/pull/7004) | dependabot | 2025-08-06 | 103 | - | - |
+| \* | [#7007](https://github.com/microsoft/pyrx/pull/7007) | bschnurr | 2025-08-07 | 102 | - | - |
+| \* | [#7012](https://github.com/microsoft/pyrx/pull/7012) | bschnurr | 2025-08-11 | 98 | - | - |
+| \* | [#7111](https://github.com/microsoft/pyrx/pull/7111) | dependabot | 2025-09-23 | 55 | - | - |
+| \* | [#7113](https://github.com/microsoft/pyrx/pull/7113) | dependabot | 2025-09-24 | 54 | - | - |
+| \* | [#7154](https://github.com/microsoft/pyrx/pull/7154) | bschnurr | 2025-10-09 | 39 | - | - |
+| \* | [#7181](https://github.com/microsoft/pyrx/pull/7181) | bschnurr | 2025-10-15 | 33 | - | - |
+| \* | [#7224](https://github.com/microsoft/pyrx/pull/7224) | dependabot | 2025-10-27 | 21 | - | - |
+| \* | [#7239](https://github.com/microsoft/pyrx/pull/7239) | copilot-swe-agent | 2025-10-31 | 17 | - | - |
+|   | [#7245](https://github.com/microsoft/pyrx/pull/7245) | bschnurr | 2025-11-03 | 14 | - | - |
+|   | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 14 | - | - |
 
 ## RECENTLY CLOSED ISSUES
 
 
-### Issues closed in the past 1 day(s):
+### Issues closed in the past 7 day(s):
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
  | \* TM:1  |[7714](https://github.com/microsoft/pylance-release/issues/7714 "Can't see my types")  |Can't see my types |
+ | \* TM:0  |[7713](https://github.com/microsoft/pylance-release/issues/7713 "legend_nature.com")  |legend_nature.com |
+ | \* TM:0  |[7712](https://github.com/microsoft/pylance-release/issues/7712 "'No Definition Found' when cursor in unreachable block")  |'No Definition Found' when cursor in unreachable block |
+ | \* TM:0  |[7710](https://github.com/microsoft/pylance-release/issues/7710 "Error reported when appending string to a list of strings")  |Error reported when appending string to a list of strings |
+ | \* TM:55  |[7571](https://github.com/microsoft/pylance-release/issues/7571 "Keyword-only separator (*) incorrectly rendered as positional-only separator (/) in function hover tooltip")  |Keyword-only separator (*) incorrectly rendered as positional-only separator (/) in function hover tooltip |
+ | \* TM:27  |[7651](https://github.com/microsoft/pylance-release/issues/7651 "Pylance crashes in multi-root workspace")  |Pylance crashes in multi-root workspace |
+ | \* TM:21  |[7666](https://github.com/microsoft/pylance-release/issues/7666 "Make Pylance efficient for monorepos (multi-root workspaces)")  |Make Pylance efficient for monorepos (multi-root workspaces) |
+ | \* TM:0  |[7708](https://github.com/microsoft/pylance-release/issues/7708 "Extension causes high cpu load")  |Extension causes high cpu load |
+ | \* TM:0  |[7707](https://github.com/microsoft/pylance-release/issues/7707 "Projet")  |Projet |
+ | \* TM:0  |[7705](https://github.com/microsoft/pylance-release/issues/7705 "扩展签名验证失败: Pylance")  |扩展签名验证失败: Pylance |
+ | \* TM:0  |[7706](https://github.com/microsoft/pylance-release/issues/7706 "Static detection failed: list[str] = list[LiteralString]")  |Static detection failed: list[str] = list[LiteralString] |
+ | \* TM:0  |[7702](https://github.com/microsoft/pylance-release/issues/7702 "asyncio.TaskGroup.create_task missing eager_start argument")  |asyncio.TaskGroup.create_task missing eager_start argument |
+ | \* TM:0  |[7704](https://github.com/microsoft/pylance-release/issues/7704 "ejecutando el codigo en python")  |ejecutando el codigo en python |
+ | \* TM:0  |[7703](https://github.com/microsoft/pylance-release/issues/7703 "&quot;write&quot; is not a known attribute of &quot;None&quot; Pylance(reportOptionalMemberAccess)")  |"write" is not a known attribute of "None" Pylance(reportOptionalMemberAccess) |
+ | \* TM:0  |[7701](https://github.com/microsoft/pylance-release/issues/7701 "new")  |new |
 
 
 
