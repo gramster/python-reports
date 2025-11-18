@@ -40,7 +40,7 @@ runs:
         echo -n "REPO='microsoft/" >> $GITHUB_ENV
         echo -n ${{ inputs.repository }} >> $GITHUB_ENV
         echo "'" >> $GITHUB_ENV
-        echo -n "PRS='microsoft/" >> $GITHUB_ENV
+        echo -n "PRS='" >> $GITHUB_ENV
         echo -n ${{ inputs.prs }} >> $GITHUB_ENV
         echo "'" >> $GITHUB_ENV        
       shell: bash
