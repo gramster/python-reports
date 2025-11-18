@@ -105,7 +105,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:494  |[5091](https://github.com/microsoft/pylance-release/issues/5091 "block comments  not adapt with python.") | block comments  not adapt with python. |
  |  TM:620  |[5079](https://github.com/microsoft/pylance-release/issues/5079 "Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function)") | Signature helper for a overload without docstring is showing the docstring of a different overload (of the same function) |
  |  TM:797  |[4831](https://github.com/microsoft/pylance-release/issues/4831 "Types are not qualified on derived method completions") | Types are not qualified on derived method completions |
- |  TM:801  |[4812](https://github.com/microsoft/pylance-release/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
+ |  TM:802  |[4812](https://github.com/microsoft/pylance-release/issues/4812 "Incorrectly marking ParamSpec variable with a clickable type inlay") | Incorrectly marking ParamSpec variable with a clickable type inlay |
  |  TM:802  |[4808](https://github.com/microsoft/pylance-release/issues/4808 "Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg") | Pressing tab to autocomplete a named kwarg results in two `==` if replacing existing kwarg |
  |  TM:774  |[4914](https://github.com/microsoft/pylance-release/issues/4914 "[Bug] F2 Renames Shadowed Variables Globally") | [Bug] F2 Renames Shadowed Variables Globally |
  |  TM:595  |[4586](https://github.com/microsoft/pylance-release/issues/4586 "Refactoring detection is sensitive to comments") | Refactoring detection is sensitive to comments |
@@ -151,7 +151,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  OP:90  |[7506](https://github.com/microsoft/pylance-release/issues/7506 "Open soure pylance extension") | Open soure pylance extension |
  |  OP:97  |[7497](https://github.com/microsoft/pylance-release/issues/7497 "Spurious unresolved imports in dependencies (not user code) in multi-root workspace") | Spurious unresolved imports in dependencies (not user code) in multi-root workspace |
  |  OP:105  |[7479](https://github.com/microsoft/pylance-release/issues/7479 "Unknown import symbol for Rust extension") | Unknown import symbol for Rust extension |
- |  OP:110  |[7468](https://github.com/microsoft/pylance-release/issues/7468 "Indexing fails when PYTHONPATH contains wheels.") | Indexing fails when PYTHONPATH contains wheels. |
+ |  OP:111  |[7468](https://github.com/microsoft/pylance-release/issues/7468 "Indexing fails when PYTHONPATH contains wheels.") | Indexing fails when PYTHONPATH contains wheels. |
  |  OP:116  |[7455](https://github.com/microsoft/pylance-release/issues/7455 "goto statement") | goto statement |
  |  OP:117  |[7449](https://github.com/microsoft/pylance-release/issues/7449 "Pylance misidentifies a method as an attribute, throws an error") | Pylance misidentifies a method as an attribute, throws an error |
  |  OP:130  |[7412](https://github.com/microsoft/pylance-release/issues/7412 "Find All References doesn't ignore files in __editable__.modulename.xxx directories") | Find All References doesn't ignore files in __editable__.modulename.xxx directories |
@@ -163,7 +163,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  OP:207  |[7155](https://github.com/microsoft/pylance-release/issues/7155 "vscode extension: file index error only on startup") | vscode extension: file index error only on startup |
  |  OP:208  |[7149](https://github.com/microsoft/pylance-release/issues/7149 "Renaming function/class parameters should recognize calls done through functools partial") | Renaming function/class parameters should recognize calls done through functools partial |
  |  OP:211  |[7145](https://github.com/microsoft/pylance-release/issues/7145 "Keys in inline typed dictionaries are shown as variables") | Keys in inline typed dictionaries are shown as variables |
- |  OP:213  |[7140](https://github.com/microsoft/pylance-release/issues/7140 "Pylance &quot;add import&quot; sometimes suggests imports from local files that import the object, instead of just the object's definition") | Pylance "add import" sometimes suggests imports from local files that import the object, instead of just the object's definition |
+ |  OP:214  |[7140](https://github.com/microsoft/pylance-release/issues/7140 "Pylance &quot;add import&quot; sometimes suggests imports from local files that import the object, instead of just the object's definition") | Pylance "add import" sometimes suggests imports from local files that import the object, instead of just the object's definition |
  |  OP:223  |[7109](https://github.com/microsoft/pylance-release/issues/7109 "Pylance does not set current working directory to workspace root when discovering sys.path") | Pylance does not set current working directory to workspace root when discovering sys.path |
  |  OP:236  |[7072](https://github.com/microsoft/pylance-release/issues/7072 "Please support autocompletion on String Enums without accessing value attribute") | Please support autocompletion on String Enums without accessing value attribute |
  |  OP:242  |[7056](https://github.com/microsoft/pylance-release/issues/7056 "Pylance performance issue report") | Pylance performance issue report |
@@ -195,7 +195,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  OP:416  |[6466](https://github.com/microsoft/pylance-release/issues/6466 "Bundle with Github Copilot for non microsoft editors") | Bundle with Github Copilot for non microsoft editors |
  |  OP:554  |[5877](https://github.com/microsoft/pylance-release/issues/5877 "Syntax highlighting works differently in the last curly brackets in f-strings") | Syntax highlighting works differently in the last curly brackets in f-strings |
  |  OP:579  |[5773](https://github.com/microsoft/pylance-release/issues/5773 "Offer `self.` completions for methods and attributes") | Offer `self.` completions for methods and attributes |
- |  OP:588  |[5737](https://github.com/microsoft/pylance-release/issues/5737 "`__init__` params not displayed when hovering over type name") | `__init__` params not displayed when hovering over type name |
+ |  OP:589  |[5737](https://github.com/microsoft/pylance-release/issues/5737 "`__init__` params not displayed when hovering over type name") | `__init__` params not displayed when hovering over type name |
  |  OP:613  |[5642](https://github.com/microsoft/pylance-release/issues/5642 "Browsers reporting &quot;Virus detected&quot; and blocking download of Pylance Extension") | Browsers reporting "Virus detected" and blocking download of Pylance Extension |
  |  OP:615  |[5627](https://github.com/microsoft/pylance-release/issues/5627 "Function parameter not showing definition on hover for class") | Function parameter not showing definition on hover for class |
  |  OP:618  |[5611](https://github.com/microsoft/pylance-release/issues/5611 "Semantic Highlighting for Constants") | Semantic Highlighting for Constants |
@@ -237,7 +237,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:308, OP:125  |[6809](https://github.com/microsoft/pylance-release/issues/6809 "Pylance function return type inlay hints do not work on closures") | Pylance function return type inlay hints do not work on closures |
  |  TM:342, OP:341  |[6755](https://github.com/microsoft/pylance-release/issues/6755 "Jupyter Notebook syntax highlighting breaks for multiroot workspace when root is added") | Jupyter Notebook syntax highlighting breaks for multiroot workspace when root is added |
  |  TM:364, OP:360  |[6669](https://github.com/microsoft/pylance-release/issues/6669 "Installed pip package is not resolved by Pylance") | Installed pip package is not resolved by Pylance |
- |  TM:369, OP:368  |[6652](https://github.com/microsoft/pylance-release/issues/6652 "Using wsl to open the code file (on Windows system), loses parameter hints") | Using wsl to open the code file (on Windows system), loses parameter hints |
+ |  TM:369, OP:369  |[6652](https://github.com/microsoft/pylance-release/issues/6652 "Using wsl to open the code file (on Windows system), loses parameter hints") | Using wsl to open the code file (on Windows system), loses parameter hints |
  |  TM:405, OP:405  |[6535](https://github.com/microsoft/pylance-release/issues/6535 "Quick fix &quot;Add import&quot; not working when file or path (directory) is excluded in pyrightconfig.json") | Quick fix "Add import" not working when file or path (directory) is excluded in pyrightconfig.json |
  |  TM:409, OP:408  |[6464](https://github.com/microsoft/pylance-release/issues/6464 "Pylance inheritance and hints") | Pylance inheritance and hints |
  |  TM:410, OP:410  |[6453](https://github.com/microsoft/pylance-release/issues/6453 "Don't show errors in stdlib files") | Don't show errors in stdlib files |
@@ -258,7 +258,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:621, OP:620  |[5377](https://github.com/microsoft/pylance-release/issues/5377 "Python and/or pylance is broken since last couple of updates ") | Python and/or pylance is broken since last couple of updates  |
  |  TM:624, OP:624  |[5284](https://github.com/microsoft/pylance-release/issues/5284 "Python smart navigation/auto-completion don't work anymore with 1.85.1") | Python smart navigation/auto-completion don't work anymore with 1.85.1 |
  |  TM:719, OP:636  |[5158](https://github.com/microsoft/pylance-release/issues/5158 "Add a feature to disable following symlinks when indexing repository") | Add a feature to disable following symlinks when indexing repository |
- |  TM:699, OP:699  |[5128](https://github.com/microsoft/pylance-release/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
+ |  TM:700, OP:699  |[5128](https://github.com/microsoft/pylance-release/issues/5128 "Slow code checking with a workspace on a slow network connection") | Slow code checking with a workspace on a slow network connection |
  |  TM:733, OP:733  |[5119](https://github.com/microsoft/pylance-release/issues/5119 "Bring along imports when copy and pasting code across files") | Bring along imports when copy and pasting code across files |
  |  TM:738, OP:738  |[4970](https://github.com/microsoft/pylance-release/issues/4970 "Feature: &quot;Add Explicit Type Annotation&quot; code-action") | Feature: "Add Explicit Type Annotation" code-action |
  |  TM:769, OP:769  |[4944](https://github.com/microsoft/pylance-release/issues/4944 "Add Semantic modifiers for keyword arguments in function or class call.") | Add Semantic modifiers for keyword arguments in function or class call. |
@@ -334,7 +334,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:251  |[6029](https://github.com/microsoft/pylance-release/issues/6029 "Django stubs are out of date and cause erroneous type errors") | Django stubs are out of date and cause erroneous type errors |
  |  TM:518  |[6020](https://github.com/microsoft/pylance-release/issues/6020 "Duplicate common keys are shown when using union of `TypedDict`") | Duplicate common keys are shown when using union of `TypedDict` |
  |  TM:483  |[6008](https://github.com/microsoft/pylance-release/issues/6008 "Explore Python IntelliSense in Copilot chat code blocks") | Explore Python IntelliSense in Copilot chat code blocks |
- |  TM:522  |[6006](https://github.com/microsoft/pylance-release/issues/6006 "Symlink would block pylance from working") | Symlink would block pylance from working |
+ |  TM:523  |[6006](https://github.com/microsoft/pylance-release/issues/6006 "Symlink would block pylance from working") | Symlink would block pylance from working |
  |  TM:538  |[5933](https://github.com/microsoft/pylance-release/issues/5933 "&quot;Go to symbol in workspace&quot; does not see the symbol") | "Go to symbol in workspace" does not see the symbol |
  |  TM:542  |[5915](https://github.com/microsoft/pylance-release/issues/5915 "Better string completions") | Better string completions |
  |  TM:542  |[5951](https://github.com/microsoft/pylance-release/issues/5951 "Renaming variable in a function renames it everywhere") | Renaming variable in a function renames it everywhere |
@@ -346,7 +346,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:445  |[5718](https://github.com/microsoft/pylance-release/issues/5718 "pylance loses link to a object if it was returned by fixture") | pylance loses link to a object if it was returned by fixture |
  |  TM:601  |[5689](https://github.com/microsoft/pylance-release/issues/5689 "Intellisense not working when using pylance (no suggestions Ctrl+Space)") | Intellisense not working when using pylance (no suggestions Ctrl+Space) |
  |  TM:594  |[5673](https://github.com/microsoft/pylance-release/issues/5673 "Quick fix does not respect analysis exclude path") | Quick fix does not respect analysis exclude path |
- |  TM:607  |[5658](https://github.com/microsoft/pylance-release/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
+ |  TM:608  |[5658](https://github.com/microsoft/pylance-release/issues/5658 "Limit IntelliSense features on Copilot Chat code blocks ") | Limit IntelliSense features on Copilot Chat code blocks  |
  |  TM:612  |[5648](https://github.com/microsoft/pylance-release/issues/5648 "Creation of `py.typed` is not detected") | Creation of `py.typed` is not detected |
  |  TM:42  |[5614](https://github.com/microsoft/pylance-release/issues/5614 "Pylance using a lot of memory") | Pylance using a lot of memory |
  |  TM:622  |[5584](https://github.com/microsoft/pylance-release/issues/5584 "Parentheses and the atom they contain are both colored") | Parentheses and the atom they contain are both colored |
@@ -355,7 +355,7 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:661  |[5410](https://github.com/microsoft/pylance-release/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
  |  TM:664  |[5386](https://github.com/microsoft/pylance-release/issues/5386 "Rename key in TypedDict using &quot;rename symbol&quot; refactor should update all instances of that TypedDict") | Rename key in TypedDict using "rename symbol" refactor should update all instances of that TypedDict |
  |  TM:662  |[5385](https://github.com/microsoft/pylance-release/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
- |  TM:679  |[5333](https://github.com/microsoft/pylance-release/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
+ |  TM:680  |[5333](https://github.com/microsoft/pylance-release/issues/5333 "Autocomplete for Literal with formatted string type hint") | Autocomplete for Literal with formatted string type hint |
  |  TM:620  |[5302](https://github.com/microsoft/pylance-release/issues/5302 "Repo indexing is confused") | Repo indexing is confused |
  |  TM:714  |[5140](https://github.com/microsoft/pylance-release/issues/5140 "Previously-checked literals are offered in `match`/`case`") | Previously-checked literals are offered in `match`/`case` |
  |  TM:662  |[5072](https://github.com/microsoft/pylance-release/issues/5072 "Filters for autoimport suggestions") | Filters for autoimport suggestions |
@@ -398,7 +398,6 @@ Generated on 2025-11-17 using: stale=30, all=True
  | \* TM:0  |[7702](https://github.com/microsoft/pylance-release/issues/7702 "asyncio.TaskGroup.create_task missing eager_start argument")  |asyncio.TaskGroup.create_task missing eager_start argument |
  | \* TM:0  |[7704](https://github.com/microsoft/pylance-release/issues/7704 "ejecutando el codigo en python")  |ejecutando el codigo en python |
  | \* TM:0  |[7703](https://github.com/microsoft/pylance-release/issues/7703 "&quot;write&quot; is not a known attribute of &quot;None&quot; Pylance(reportOptionalMemberAccess)")  |"write" is not a known attribute of "None" Pylance(reportOptionalMemberAccess) |
- | \* TM:0  |[7701](https://github.com/microsoft/pylance-release/issues/7701 "new")  |new |
 
 
 
