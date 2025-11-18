@@ -63,14 +63,14 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:231  |[7084](https://github.com/microsoft/pylance-release/issues/7084 "Enable supportRestructuredText leads to visible non-breaking space in docstrings") | Enable supportRestructuredText leads to visible non-breaking space in docstrings |
  |  TM:245  |[7047](https://github.com/microsoft/pylance-release/issues/7047 "Wrong signature hint with unpacked parameterized typed dict as variadic keyword parameter") | Wrong signature hint with unpacked parameterized typed dict as variadic keyword parameter |
  |  TM:56  |[7051](https://github.com/microsoft/pylance-release/issues/7051 "Moving Folders And Multiple Files - Python Imports Not Refactoring") | Moving Folders And Multiple Files - Python Imports Not Refactoring |
- |  TM:334  |[6751](https://github.com/microsoft/pylance-release/issues/6751 "Multi-root workspace with hidden directories uses wrong python interpreter") | Multi-root workspace with hidden directories uses wrong python interpreter |
+ |  TM:335  |[6751](https://github.com/microsoft/pylance-release/issues/6751 "Multi-root workspace with hidden directories uses wrong python interpreter") | Multi-root workspace with hidden directories uses wrong python interpreter |
  |  TM:347  |[6732](https://github.com/microsoft/pylance-release/issues/6732 "kwargs typings are broken") | kwargs typings are broken |
- |  TM:368  |[6638](https://github.com/microsoft/pylance-release/issues/6638 "Inconsistent highlighting") | Inconsistent highlighting |
+ |  TM:369  |[6638](https://github.com/microsoft/pylance-release/issues/6638 "Inconsistent highlighting") | Inconsistent highlighting |
  |  TM:315  |[6612](https://github.com/microsoft/pylance-release/issues/6612 "IntelliSense not working for documents with custom URI schemes") | IntelliSense not working for documents with custom URI schemes |
  |  TM:388  |[6602](https://github.com/microsoft/pylance-release/issues/6602 "typing.Annotated is not suggested for auto-import in Quick Fix menu") | typing.Annotated is not suggested for auto-import in Quick Fix menu |
  |  TM:398  |[6559](https://github.com/microsoft/pylance-release/issues/6559 "[language-server]: only one suggestion for TypedDict union literal values") | [language-server]: only one suggestion for TypedDict union literal values |
  |  TM:399  |[6544](https://github.com/microsoft/pylance-release/issues/6544 "Pylance is generating invalid type annotations (with misattributed module names) for typing.Any in completions and inlays.") | Pylance is generating invalid type annotations (with misattributed module names) for typing.Any in completions and inlays. |
- |  TM:410  |[6493](https://github.com/microsoft/pylance-release/issues/6493 "Should not rename outer variables while renaming local variables if they're same") | Should not rename outer variables while renaming local variables if they're same |
+ |  TM:411  |[6493](https://github.com/microsoft/pylance-release/issues/6493 "Should not rename outer variables while renaming local variables if they're same") | Should not rename outer variables while renaming local variables if they're same |
  |  TM:410  |[6458](https://github.com/microsoft/pylance-release/issues/6458 "pytest fixtures dimmed as unused import despite being used") | pytest fixtures dimmed as unused import despite being used |
  |  TM:416  |[6450](https://github.com/microsoft/pylance-release/issues/6450 "Pylance autocompletes decorator of the function instead of function itself in inheritance") | Pylance autocompletes decorator of the function instead of function itself in inheritance |
  |  TM:419  |[6440](https://github.com/microsoft/pylance-release/issues/6440 "&quot;Move symbol to...&quot; refactor does not honor Import Format setting.") | "Move symbol to..." refactor does not honor Import Format setting. |
@@ -237,12 +237,12 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:308, OP:125  |[6809](https://github.com/microsoft/pylance-release/issues/6809 "Pylance function return type inlay hints do not work on closures") | Pylance function return type inlay hints do not work on closures |
  |  TM:342, OP:341  |[6755](https://github.com/microsoft/pylance-release/issues/6755 "Jupyter Notebook syntax highlighting breaks for multiroot workspace when root is added") | Jupyter Notebook syntax highlighting breaks for multiroot workspace when root is added |
  |  TM:364, OP:360  |[6669](https://github.com/microsoft/pylance-release/issues/6669 "Installed pip package is not resolved by Pylance") | Installed pip package is not resolved by Pylance |
- |  TM:368, OP:368  |[6652](https://github.com/microsoft/pylance-release/issues/6652 "Using wsl to open the code file (on Windows system), loses parameter hints") | Using wsl to open the code file (on Windows system), loses parameter hints |
+ |  TM:369, OP:368  |[6652](https://github.com/microsoft/pylance-release/issues/6652 "Using wsl to open the code file (on Windows system), loses parameter hints") | Using wsl to open the code file (on Windows system), loses parameter hints |
  |  TM:405, OP:405  |[6535](https://github.com/microsoft/pylance-release/issues/6535 "Quick fix &quot;Add import&quot; not working when file or path (directory) is excluded in pyrightconfig.json") | Quick fix "Add import" not working when file or path (directory) is excluded in pyrightconfig.json |
  |  TM:409, OP:408  |[6464](https://github.com/microsoft/pylance-release/issues/6464 "Pylance inheritance and hints") | Pylance inheritance and hints |
  |  TM:410, OP:410  |[6453](https://github.com/microsoft/pylance-release/issues/6453 "Don't show errors in stdlib files") | Don't show errors in stdlib files |
  |  TM:393, OP:392  |[6409](https://github.com/microsoft/pylance-release/issues/6409 "78 permanent errors in `builtins.pyi`") | 78 permanent errors in `builtins.pyi` |
- |  TM:423, OP:418  |[6394](https://github.com/microsoft/pylance-release/issues/6394 "Pylance client: couldn't create connection to server.") | Pylance client: couldn't create connection to server. |
+ |  TM:424, OP:418  |[6394](https://github.com/microsoft/pylance-release/issues/6394 "Pylance client: couldn't create connection to server.") | Pylance client: couldn't create connection to server. |
  |  TM:458, OP:457  |[6267](https://github.com/microsoft/pylance-release/issues/6267 "Syntax highlighting does not support negative literals") | Syntax highlighting does not support negative literals |
  |  TM:475, OP:474  |[6209](https://github.com/microsoft/pylance-release/issues/6209 "Pylance fails to import just few classes") | Pylance fails to import just few classes |
  |  TM:501, OP:499  |[6091](https://github.com/microsoft/pylance-release/issues/6091 "enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments.") | enhancement to the auto-exclusion filter to pick up full Python runtime installations in addition to picking up virtual environments. |
@@ -376,71 +376,6 @@ Generated on 2025-11-17 using: stale=30, all=True
  |  TM:375  |[3492](https://github.com/microsoft/pylance-release/issues/3492 "Cannot find 'decimal.Context' when typing 'decimal.ctxt'") | Cannot find 'decimal.Context' when typing 'decimal.ctxt' |
  |  TM:341  |[6760](https://github.com/microsoft/pylance-release/issues/6760 "Support for PyScript & Brython.") | Support for PyScript & Brython. |
  |  TM:1257  |[2486](https://github.com/microsoft/pylance-release/issues/2486 "Functions in os module only show type stubs information (both on hover and when doing &quot;go to definition&quot;)") | Functions in os module only show type stubs information (both on hover and when doing "go to definition") |
-
-## PULL REQUEST ACTIVITY
-
-
-### Pull Requests opened in the past 7 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By |
-| --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7312](https://github.com/microsoft/pyrx/pull/7312) | rchiodo | 2025-11-17 | 0 | - | - |
-| \* | [#7307](https://github.com/microsoft/pyrx/pull/7307) | dependabot | 2025-11-17 | 0 | - | - |
-| \* | [#7300](https://github.com/microsoft/pyrx/pull/7300) | bschnurr | 2025-11-14 | 3 | - | - |
-
-### Pull Requests still open that were opened more than 7 days ago:
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By |
-| --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1068](https://github.com/microsoft/pyrx/pull/1068) | bschnurr | 2021-01-26 | 1756 | - | - |
-| \* | [#1359](https://github.com/microsoft/pyrx/pull/1359) | jakebailey | 2021-04-26 | 1666 | - | - |
-| \* | [#1612](https://github.com/microsoft/pyrx/pull/1612) | jakebailey | 2021-06-28 | 1603 | - | - |
-| \* | [#1785](https://github.com/microsoft/pyrx/pull/1785) | jakebailey | 2021-08-26 | 1544 | - | - |
-| \* | [#1849](https://github.com/microsoft/pyrx/pull/1849) | jakebailey | 2021-09-17 | 1522 | - | - |
-| \* | [#2267](https://github.com/microsoft/pyrx/pull/2267) | bschnurr | 2022-03-10 | 1348 | - | - |
-| \* | [#2690](https://github.com/microsoft/pyrx/pull/2690) | bschnurr | 2022-08-23 | 1182 | - | - |
-| \* | [#2702](https://github.com/microsoft/pyrx/pull/2702) | bschnurr | 2022-08-29 | 1176 | - | - |
-| \* | [#3070](https://github.com/microsoft/pyrx/pull/3070) | bschnurr | 2023-01-17 | 1035 | - | - |
-| \* | [#3282](https://github.com/microsoft/pyrx/pull/3282) | bschnurr | 2023-03-16 | 977 | - | - |
-| \* | [#4215](https://github.com/microsoft/pyrx/pull/4215) | bschnurr | 2023-10-20 | 759 | - | - |
-| \* | [#4353](https://github.com/microsoft/pyrx/pull/4353) | bschnurr | 2023-11-24 | 724 | - | - |
-| \* | [#4381](https://github.com/microsoft/pyrx/pull/4381) | bschnurr | 2023-12-04 | 714 | - | - |
-| \* | [#4739](https://github.com/microsoft/pyrx/pull/4739) | bschnurr | 2024-02-22 | 634 | - | - |
-| \* | [#6411](https://github.com/microsoft/pyrx/pull/6411) | bschnurr | 2025-03-17 | 245 | - | - |
-| \* | [#6412](https://github.com/microsoft/pyrx/pull/6412) | bschnurr | 2025-03-17 | 245 | - | - |
-| \* | [#6414](https://github.com/microsoft/pyrx/pull/6414) | bschnurr | 2025-03-19 | 243 | - | - |
-| \* | [#6513](https://github.com/microsoft/pyrx/pull/6513) | bschnurr | 2025-04-08 | 223 | - | - |
-| \* | [#6530](https://github.com/microsoft/pyrx/pull/6530) | heejaechang | 2025-04-09 | 222 | - | - |
-| \* | [#6592](https://github.com/microsoft/pyrx/pull/6592) | bschnurr | 2025-04-17 | 214 | - | - |
-| \* | [#6639](https://github.com/microsoft/pyrx/pull/6639) | dependabot | 2025-04-30 | 201 | - | - |
-| \* | [#6653](https://github.com/microsoft/pyrx/pull/6653) | copilot-swe-agent | 2025-05-01 | 200 | - | - |
-| \* | [#6656](https://github.com/microsoft/pyrx/pull/6656) | dependabot | 2025-05-02 | 199 | - | - |
-| \* | [#6657](https://github.com/microsoft/pyrx/pull/6657) | dependabot | 2025-05-02 | 199 | - | - |
-| \* | [#6700](https://github.com/microsoft/pyrx/pull/6700) | heejaechang | 2025-05-08 | 193 | - | - |
-| \* | [#6719](https://github.com/microsoft/pyrx/pull/6719) | dependabot | 2025-05-15 | 186 | - | - |
-| \* | [#6841](https://github.com/microsoft/pyrx/pull/6841) | dependabot | 2025-06-20 | 150 | - | - |
-| \* | [#6844](https://github.com/microsoft/pyrx/pull/6844) | heejaechang | 2025-06-20 | 150 | - | - |
-| \* | [#6854](https://github.com/microsoft/pyrx/pull/6854) | bschnurr | 2025-06-23 | 146 | - | - |
-| \* | [#6889](https://github.com/microsoft/pyrx/pull/6889) | dependabot | 2025-07-03 | 137 | - | - |
-| \* | [#6892](https://github.com/microsoft/pyrx/pull/6892) | bschnurr | 2025-07-03 | 136 | - | - |
-| \* | [#6912](https://github.com/microsoft/pyrx/pull/6912) | dependabot | 2025-07-08 | 132 | - | - |
-| \* | [#6913](https://github.com/microsoft/pyrx/pull/6913) | dependabot | 2025-07-08 | 132 | - | - |
-| \* | [#6941](https://github.com/microsoft/pyrx/pull/6941) | heejaechang | 2025-07-10 | 130 | - | - |
-| \* | [#6959](https://github.com/microsoft/pyrx/pull/6959) | dependabot | 2025-07-17 | 123 | - | - |
-| \* | [#6977](https://github.com/microsoft/pyrx/pull/6977) | dependabot | 2025-07-21 | 119 | - | - |
-| \* | [#6989](https://github.com/microsoft/pyrx/pull/6989) | dependabot | 2025-07-29 | 111 | - | - |
-| \* | [#7001](https://github.com/microsoft/pyrx/pull/7001) | dependabot | 2025-08-06 | 103 | - | - |
-| \* | [#7004](https://github.com/microsoft/pyrx/pull/7004) | dependabot | 2025-08-06 | 103 | - | - |
-| \* | [#7007](https://github.com/microsoft/pyrx/pull/7007) | bschnurr | 2025-08-07 | 102 | - | - |
-| \* | [#7012](https://github.com/microsoft/pyrx/pull/7012) | bschnurr | 2025-08-11 | 98 | - | - |
-| \* | [#7111](https://github.com/microsoft/pyrx/pull/7111) | dependabot | 2025-09-23 | 55 | - | - |
-| \* | [#7113](https://github.com/microsoft/pyrx/pull/7113) | dependabot | 2025-09-24 | 54 | - | - |
-| \* | [#7154](https://github.com/microsoft/pyrx/pull/7154) | bschnurr | 2025-10-09 | 39 | - | - |
-| \* | [#7181](https://github.com/microsoft/pyrx/pull/7181) | bschnurr | 2025-10-15 | 33 | - | - |
-| \* | [#7224](https://github.com/microsoft/pyrx/pull/7224) | dependabot | 2025-10-27 | 21 | - | - |
-| \* | [#7239](https://github.com/microsoft/pyrx/pull/7239) | copilot-swe-agent | 2025-10-31 | 17 | - | - |
-|   | [#7245](https://github.com/microsoft/pyrx/pull/7245) | bschnurr | 2025-11-03 | 14 | - | - |
-|   | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 14 | - | - |
 
 ## RECENTLY CLOSED ISSUES
 
