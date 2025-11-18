@@ -57,6 +57,7 @@ runs:
         all: true
         hotspots: ${{ inputs.hotspots }}
         team: ${{ env.TEAM }}
+        days: 7
     - name: Generate limited report
       if: inputs.weekly != 'true'
       uses: gramster/github-issue-reporter@main
