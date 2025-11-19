@@ -1,0 +1,24 @@
+name: 'Generate Weekly Full Report for vscode-python-environments'
+
+on:
+  schedule:
+    - cron: 0 2 * * 1    
+  workflow_dispatch:
+  
+permissions:
+  issues: read
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - id: report
+        uses: gramster/python-reports@main
+        with:
+          repository: 'vscode-python-environments'
+          githubTokenRead: ${{ secrets.READ }}
+          githubTokenCommit: ${{ secrets.COMMIT }}
+          weekly: true
+          hotspots: true   
