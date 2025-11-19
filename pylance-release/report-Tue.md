@@ -2,31 +2,24 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-11-11 using: stale=30, all=False
+Generated on 2025-11-18 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[4391](https://github.com/microsoft/pylance-release/issues/4391 "Correct type hints for meta-function that takes a function as an argument (ParamSpec)")  |Correct type hints for meta-function that takes a function as an argument (ParamSpec) |
-
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[7452](https://github.com/microsoft/pylance-release/issues/7452 "Autocompletion with NoneType instead of None when NoneType is imported, feature of bug?")  |Autocompletion with NoneType instead of None when NoneType is imported, feature of bug? |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#7321](https://github.com/microsoft/pyrx/pull/7321) | dependabot | 2025-11-18 | 0 | - | - | Bump js-yaml in /packages/vscode-pylance |
+| \* | [#7319](https://github.com/microsoft/pyrx/pull/7319) | rchiodo | 2025-11-18 | 0 | - | - | Update notebook cells when startup commands are changed |
+| \* | [#7315](https://github.com/microsoft/pyrx/pull/7315) | dependabot | 2025-11-18 | 0 | - | - | Bump glob |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -35,9 +28,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7702](https://github.com/microsoft/pylance-release/issues/7702 "asyncio.TaskGroup.create_task missing eager_start argument")  |asyncio.TaskGroup.create_task missing eager_start argument |
- | \* TM:0  |[7704](https://github.com/microsoft/pylance-release/issues/7704 "ejecutando el codigo en python")  |ejecutando el codigo en python |
- | \* TM:0  |[7703](https://github.com/microsoft/pylance-release/issues/7703 "&quot;write&quot; is not a known attribute of &quot;None&quot; Pylance(reportOptionalMemberAccess)")  |"write" is not a known attribute of "None" Pylance(reportOptionalMemberAccess) |
+ | \* TM:26  |[7663](https://github.com/microsoft/pylance-release/issues/7663 "Can't load any descriptions or detect any errors")  |Can't load any descriptions or detect any errors |
+ | \* TM:15  |[7687](https://github.com/microsoft/pylance-release/issues/7687 "Issue")  |Issue |
 
 
 
