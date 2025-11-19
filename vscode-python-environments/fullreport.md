@@ -49,14 +49,11 @@ Generated on 2025-11-18 using: stale=30, all=True
  | \* OP:4  |[986](https://github.com/microsoft/vscode-python-environments/issues/986 "`shellStartup` doesn't work properly in a devcontainer")  |`shellStartup` doesn't work properly in a devcontainer |
  | \* OP:6  |[981](https://github.com/microsoft/vscode-python-environments/issues/981 "Configure environment via VSCode settings?")  |Configure environment via VSCode settings? |
  |  OP:18  |[958](https://github.com/microsoft/vscode-python-environments/issues/958 "Cannot read properties of undefined (reading 'show')") | Cannot read properties of undefined (reading 'show') |
- |  OP:24  |[954](https://github.com/microsoft/vscode-python-environments/issues/954 "SimpleDebounce should be a disposable") | SimpleDebounce should be a disposable |
  |  OP:27  |[950](https://github.com/microsoft/vscode-python-environments/issues/950 "Debugger, &quot;Run Python File&quot;, etc. fails when launched into a new terminal") | Debugger, "Run Python File", etc. fails when launched into a new terminal |
  |  OP:63  |[846](https://github.com/microsoft/vscode-python-environments/issues/846 "Support --system-site-packages") | Support --system-site-packages |
  |  OP:70  |[813](https://github.com/microsoft/vscode-python-environments/issues/813 "Adding a scan for missing dependencies in a project - suggestion for a new feature") | Adding a scan for missing dependencies in a project - suggestion for a new feature |
- |  OP:91  |[847](https://github.com/microsoft/vscode-python-environments/issues/847 "Copilot chat cannot detect Python packages installed in the selected Conda Environment") | Copilot chat cannot detect Python packages installed in the selected Conda Environment |
  |  OP:127  |[604](https://github.com/microsoft/vscode-python-environments/issues/604 "Bash activation command without proceeding space bloating bash-history") | Bash activation command without proceeding space bloating bash-history |
  |  OP:224  |[270](https://github.com/microsoft/vscode-python-environments/issues/270 "on windows python.condaPath has 2 incompatible usages") | on windows python.condaPath has 2 incompatible usages |
- |  OP:238  |[241](https://github.com/microsoft/vscode-python-environments/issues/241 "Consider activating the environment without environment variables") | Consider activating the environment without environment variables |
 
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
@@ -72,8 +69,9 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:42, OP:36  |[868](https://github.com/microsoft/vscode-python-environments/issues/868 "Detected Python version is wrong and may affect Python Debugger extension.") | Detected Python version is wrong and may affect Python Debugger extension. |
  |  TM:57, OP:56  |[833](https://github.com/microsoft/vscode-python-environments/issues/833 "The chosen python interpreter is not written to workspace's .vscode settings.json file") | The chosen python interpreter is not written to workspace's .vscode settings.json file |
  |  TM:67, OP:62  |[800](https://github.com/microsoft/vscode-python-environments/issues/800 "看不到运行过程") | 看不到运行过程 |
- |  TM:41, OP:41  |[765](https://github.com/microsoft/vscode-python-environments/issues/765 "Wrong activate button state when using `shellStartup`") | Wrong activate button state when using `shellStartup` |
+ |  TM:42, OP:41  |[765](https://github.com/microsoft/vscode-python-environments/issues/765 "Wrong activate button state when using `shellStartup`") | Wrong activate button state when using `shellStartup` |
  | \* TM:20, OP:6  |[743](https://github.com/microsoft/vscode-python-environments/issues/743 "Poetry ignores `pyenv` local Python when &quot;Python Environments&quot; VS Code extension is active")  |Poetry ignores `pyenv` local Python when "Python Environments" VS Code extension is active |
+ |  TM:91, OP:91  |[847](https://github.com/microsoft/vscode-python-environments/issues/847 "Copilot chat cannot detect Python packages installed in the selected Conda Environment") | Copilot chat cannot detect Python packages installed in the selected Conda Environment |
  |  TM:71, OP:29  |[735](https://github.com/microsoft/vscode-python-environments/issues/735 "Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI") | Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI |
  |  TM:73, OP:73  |[715](https://github.com/microsoft/vscode-python-environments/issues/715 "Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs") | Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs |
  |  TM:99, OP:98  |[694](https://github.com/microsoft/vscode-python-environments/issues/694 "Feature request: ipykernel as a project dependency option") | Feature request: ipykernel as a project dependency option |
@@ -87,7 +85,6 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:71, OP:70  |[584](https://github.com/microsoft/vscode-python-environments/issues/584 "Python button is not visible, extension commands are not available in command palette") | Python button is not visible, extension commands are not available in command palette |
  |  TM:203, OP:203  |[366](https://github.com/microsoft/vscode-python-environments/issues/366 "IntelliCode not conecting to Python extension") | IntelliCode not conecting to Python extension |
  |  TM:204, OP:204  |[351](https://github.com/microsoft/vscode-python-environments/issues/351 "commands getting run when value for setting is `shellStartup`") | commands getting run when value for setting is `shellStartup` |
- |  TM:238, OP:238  |[240](https://github.com/microsoft/vscode-python-environments/issues/240 "Reduce environment pollution") | Reduce environment pollution |
 
 ### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
@@ -119,7 +116,6 @@ Generated on 2025-11-18 using: stale=30, all=True
  |  TM:66  |[835](https://github.com/microsoft/vscode-python-environments/issues/835 "set python.terminal.executeInFileDir not working, python file run earlier than cd command") | set python.terminal.executeInFileDir not working, python file run earlier than cd command |
  |  TM:67  |[359](https://github.com/microsoft/vscode-python-environments/issues/359 "Bash shell does not activate venv on subsequent launches") | Bash shell does not activate venv on subsequent launches |
  |  TM:66  |[349](https://github.com/microsoft/vscode-python-environments/issues/349 "Should there be an indication that python has been activated for the terminal?") | Should there be an indication that python has been activated for the terminal? |
- |  TM:41  |[247](https://github.com/microsoft/vscode-python-environments/issues/247 "Avoid creating new folders outside our existing ones") | Avoid creating new folders outside our existing ones |
  |  TM:225  |[165](https://github.com/microsoft/vscode-python-environments/issues/165 "Suggest pinned package dependency updates on pyproject.toml") | Suggest pinned package dependency updates on pyproject.toml |
 
 ## PULL REQUEST ACTIVITY
