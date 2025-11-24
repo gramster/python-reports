@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-11-09 using: stale=30, all=False
+Generated on 2025-11-23 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have no external responses since team response in 30+ days:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:30  |[7626](https://github.com/microsoft/pylance-release/issues/7626 "Pylance throws an error to console when starting")  |Pylance throws an error to console when starting |
 
 ---
 
@@ -26,14 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7698](https://github.com/microsoft/pylance-release/issues/7698 "Pylance client: couldn't create connection to server.")  |Pylance client: couldn't create connection to server. |
- | \* OP:0  |[7697](https://github.com/microsoft/pylance-release/issues/7697 "How to ignore this warning &quot;analysis of function is skipped because it is unannotated&quot;?")  |How to ignore this warning "analysis of function is skipped because it is unannotated"? |
+ | \* OP:1  |[7726](https://github.com/microsoft/pylance-release/issues/7726 "Behavior of python.analysis.packageIndexDepths for &quot;name&quot;: &quot;&quot;")  |Behavior of python.analysis.packageIndexDepths for "name": "" |
+ | \* OP:1  |[7725](https://github.com/microsoft/pylance-release/issues/7725 "Do not report errors about unresolved PEP660 editable packages")  |Do not report errors about unresolved PEP660 editable packages |
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7627](https://github.com/microsoft/pylance-release/issues/7627 "Problems View Duplicate Old Entires")  |Problems View Duplicate Old Entires |
+ | \* P:0,  |[4972](https://github.com/microsoft/pylance-release/issues/4972 "show class hierarchy or method override like pycharm")  |show class hierarchy or method override like pycharm |
 
 
 
