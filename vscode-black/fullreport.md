@@ -2,10 +2,10 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-black
 
 
-Generated on 2025-11-16 using: stale=30, all=True
+Generated on 2025-11-23 using: stale=30, all=True
 
 
-* marks items that are new to report in past 1 day(s)
+* marks items that are new to report in past 7 day(s)
 
 
 ---
