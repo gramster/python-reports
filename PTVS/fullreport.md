@@ -2,10 +2,10 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-11-16 using: stale=30, all=True
+Generated on 2025-11-23 using: stale=30, all=True
 
 
-* marks items that are new to report in past 1 day(s)
+* marks items that are new to report in past 7 day(s)
 
 
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
@@ -15,39 +15,39 @@ Generated on 2025-11-16 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:250  |[8194](https://github.com/microsoft/PTVS/issues/8194 "Code folding hides entire function/class names in Visual Studio #3580") | Code folding hides entire function/class names in Visual Studio #3580 |
- |  OP:256  |[8190](https://github.com/microsoft/PTVS/issues/8190 "Bracket auto-completion only works in first project.") | Bracket auto-completion only works in first project. |
- |  OP:921  |[7598](https://github.com/microsoft/PTVS/issues/7598 "Auto commenting lines using LF or CRLF ") | Auto commenting lines using LF or CRLF  |
- |  OP:1019  |[7367](https://github.com/microsoft/PTVS/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
- |  OP:1235  |[7064](https://github.com/microsoft/PTVS/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
+ |  OP:257  |[8194](https://github.com/microsoft/PTVS/issues/8194 "Code folding hides entire function/class names in Visual Studio #3580") | Code folding hides entire function/class names in Visual Studio #3580 |
+ |  OP:263  |[8190](https://github.com/microsoft/PTVS/issues/8190 "Bracket auto-completion only works in first project.") | Bracket auto-completion only works in first project. |
+ |  OP:928  |[7598](https://github.com/microsoft/PTVS/issues/7598 "Auto commenting lines using LF or CRLF ") | Auto commenting lines using LF or CRLF  |
+ |  OP:1026  |[7367](https://github.com/microsoft/PTVS/issues/7367 "No output result after clicking 'Execute Project in Python Interactive'") | No output result after clicking 'Execute Project in Python Interactive' |
+ |  OP:1242  |[7064](https://github.com/microsoft/PTVS/issues/7064 "Some intellisense don't work well in interactive window after writing some REPL commands") | Some intellisense don't work well in interactive window after writing some REPL commands |
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:276, OP:276  |[8121](https://github.com/microsoft/PTVS/issues/8121 "Features not working consistently: task list, navigation dropdown menus") | Features not working consistently: task list, navigation dropdown menus |
- |  TM:432, OP:431  |[7974](https://github.com/microsoft/PTVS/issues/7974 "No change with the type information when change the sys.exc_info with the latest typeshed. ") | No change with the type information when change the sys.exc_info with the latest typeshed.  |
- |  TM:635, OP:486  |[7828](https://github.com/microsoft/PTVS/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
- |  TM:816, OP:814  |[7631](https://github.com/microsoft/PTVS/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
- |  TM:1095, OP:1095  |[7219](https://github.com/microsoft/PTVS/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
- |  TM:996, OP:996  |[7206](https://github.com/microsoft/PTVS/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
+ |  TM:283, OP:283  |[8121](https://github.com/microsoft/PTVS/issues/8121 "Features not working consistently: task list, navigation dropdown menus") | Features not working consistently: task list, navigation dropdown menus |
+ |  TM:439, OP:438  |[7974](https://github.com/microsoft/PTVS/issues/7974 "No change with the type information when change the sys.exc_info with the latest typeshed. ") | No change with the type information when change the sys.exc_info with the latest typeshed.  |
+ |  TM:642, OP:493  |[7828](https://github.com/microsoft/PTVS/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
+ |  TM:823, OP:821  |[7631](https://github.com/microsoft/PTVS/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
+ |  TM:1102, OP:1102  |[7219](https://github.com/microsoft/PTVS/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
+ |  TM:1003, OP:1003  |[7206](https://github.com/microsoft/PTVS/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
 
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:180,  |[7868](https://github.com/microsoft/PTVS/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
- |  P:384,  |[7068](https://github.com/microsoft/PTVS/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
- |  P:162,  |[6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.") | Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
+ |  P:187,  |[7868](https://github.com/microsoft/PTVS/issues/7868 "Interactive Window not working or displaying output ") | Interactive Window not working or displaying output  |
+ |  P:391,  |[7068](https://github.com/microsoft/PTVS/issues/7068 "reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window") | reportMissingImports : Even if the module is successfully installed, a warning will still be displayed in the Error List window |
+ |  P:169,  |[6900](https://github.com/microsoft/PTVS/issues/6900 "Python 3.10 fails to hit breakpoints when &quot;Native Code Debugging&quot; is enabled.") | Python 3.10 fails to hit breakpoints when "Native Code Debugging" is enabled. |
 
 ### Issues in PTVS that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:228  |[8171](https://github.com/microsoft/PTVS/issues/8171 "&quot;Compare Performance Reports&quot; feature is not working.") | "Compare Performance Reports" feature is not working. |
- |  TM:663  |[7807](https://github.com/microsoft/PTVS/issues/7807 "It showed empty class name when type @.") | It showed empty class name when type @. |
- |  TM:745  |[7745](https://github.com/microsoft/PTVS/issues/7745 "There is no info bar appear to suggest install pytest when Test Explorer is open ") | There is no info bar appear to suggest install pytest when Test Explorer is open  |
- |  TM:997  |[6551](https://github.com/microsoft/PTVS/issues/6551 "Navigation bar is not working") | Navigation bar is not working |
+ |  TM:235  |[8171](https://github.com/microsoft/PTVS/issues/8171 "&quot;Compare Performance Reports&quot; feature is not working.") | "Compare Performance Reports" feature is not working. |
+ |  TM:670  |[7807](https://github.com/microsoft/PTVS/issues/7807 "It showed empty class name when type @.") | It showed empty class name when type @. |
+ |  TM:752  |[7745](https://github.com/microsoft/PTVS/issues/7745 "There is no info bar appear to suggest install pytest when Test Explorer is open ") | There is no info bar appear to suggest install pytest when Test Explorer is open  |
+ |  TM:1004  |[6551](https://github.com/microsoft/PTVS/issues/6551 "Navigation bar is not working") | Navigation bar is not working |
 
 ---
 
@@ -58,73 +58,111 @@ Generated on 2025-11-16 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:19  |[8315](https://github.com/microsoft/PTVS/issues/8315 "The option &quot;Python/Native Debugging&quot; is missing.") | The option "Python/Native Debugging" is missing. |
- |  OP:26  |[8309](https://github.com/microsoft/PTVS/issues/8309 "can't start python interpreter on visual studio 2022 community") | can't start python interpreter on visual studio 2022 community |
- |  OP:38  |[8303](https://github.com/microsoft/PTVS/issues/8303 "The interactive window not change to the selection virtual environment when open from solution explorer.") | The interactive window not change to the selection virtual environment when open from solution explorer. |
- |  OP:54  |[8294](https://github.com/microsoft/PTVS/issues/8294 "devenv.exe 发生意外错误") | devenv.exe 发生意外错误 |
- |  OP:95  |[8274](https://github.com/microsoft/PTVS/issues/8274 "It showed empty in Watch/Locals debugger windows when native debug with Python 3.11.") | It showed empty in Watch/Locals debugger windows when native debug with Python 3.11. |
- |  OP:116  |[8266](https://github.com/microsoft/PTVS/issues/8266 "NullReferenceException") | NullReferenceException |
- |  OP:116  |[8265](https://github.com/microsoft/PTVS/issues/8265 "Python>=3.11 is not in the list of language versions.") | Python>=3.11 is not in the list of language versions. |
- |  OP:129  |[8261](https://github.com/microsoft/PTVS/issues/8261 "&quot;An unexpected error occurred&quot; while opening solution file.") | "An unexpected error occurred" while opening solution file. |
- |  OP:139  |[8259](https://github.com/microsoft/PTVS/issues/8259 "import dill   is unresolved in VS 2022 Community") | import dill   is unresolved in VS 2022 Community |
- |  OP:151  |[8256](https://github.com/microsoft/PTVS/issues/8256 "vs关闭时有bug") | vs关闭时有bug |
- |  OP:155  |[8255](https://github.com/microsoft/PTVS/issues/8255 "The &quot;Enable Mixed Mode Debugging&quot; feature in Python projects seems not to support the python3.13t (free-threaded) version.") | The "Enable Mixed Mode Debugging" feature in Python projects seems not to support the python3.13t (free-threaded) version. |
- |  OP:192  |[8230](https://github.com/microsoft/PTVS/issues/8230 "VS can only recognize one environment when Python and Anaconda have the same version.") | VS can only recognize one environment when Python and Anaconda have the same version. |
- |  OP:201  |[8209](https://github.com/microsoft/PTVS/issues/8209 "Error List only works in first project.") | Error List only works in first project. |
- |  OP:219  |[8204](https://github.com/microsoft/PTVS/issues/8204 "Cannot build a project with RunPythonCommand task from MSBuild/command line") | Cannot build a project with RunPythonCommand task from MSBuild/command line |
- |  OP:263  |[8184](https://github.com/microsoft/PTVS/issues/8184 "Empty error dialog when trying to run Python file with no Python installed") | Empty error dialog when trying to run Python file with no Python installed |
- |  OP:284  |[8160](https://github.com/microsoft/PTVS/issues/8160 "Failed to create &quot;GitHub->cookiecutter-flask/cookiecutter-flask&quot; template in Cookiecutter.") | Failed to create "GitHub->cookiecutter-flask/cookiecutter-flask" template in Cookiecutter. |
- |  OP:299  |[8143](https://github.com/microsoft/PTVS/issues/8143 "Adding a Flask web project to a docker-orchestration results in WebRole.dll error.") | Adding a Flask web project to a docker-orchestration results in WebRole.dll error. |
- |  OP:404  |[8020](https://github.com/microsoft/PTVS/issues/8020 "An error notification pops up after clicking Add Debug Configuration.") | An error notification pops up after clicking Add Debug Configuration. |
- |  OP:454  |[7983](https://github.com/microsoft/PTVS/issues/7983 "Open interactive window，loading all the time after entering enter in the Anaconda environment.") | Open interactive window，loading all the time after entering enter in the Anaconda environment. |
- |  OP:459  |[7978](https://github.com/microsoft/PTVS/issues/7978 "The &quot;remove unused imports&quot; and &quot;Extract method&quot; quick action icons appear only when you select a code.") | The "remove unused imports" and "Extract method" quick action icons appear only when you select a code. |
- |  OP:645  |[7823](https://github.com/microsoft/PTVS/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
- |  OP:670  |[7805](https://github.com/microsoft/PTVS/issues/7805 "Refactor rename incorrect when the referenced method is defined in another project.") | Refactor rename incorrect when the referenced method is defined in another project. |
- |  OP:789  |[7725](https://github.com/microsoft/PTVS/issues/7725 "The VS crashed after choose the progress when remote debug.") | The VS crashed after choose the progress when remote debug. |
- |  OP:821  |[7701](https://github.com/microsoft/PTVS/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
- |  OP:911  |[7616](https://github.com/microsoft/PTVS/issues/7616 "Lots of debug symbols are being loaded at every application start") | Lots of debug symbols are being loaded at every application start |
- |  OP:921  |[7600](https://github.com/microsoft/PTVS/issues/7600 "Modal pop-up persists when a breakpoint cannot resolve conditional expression ") | Modal pop-up persists when a breakpoint cannot resolve conditional expression  |
- |  OP:1034  |[7330](https://github.com/microsoft/PTVS/issues/7330 "Unable to create DLL for C++ ") | Unable to create DLL for C++  |
- |  OP:1066  |[7274](https://github.com/microsoft/PTVS/issues/7274 "Changing error messages - differences in reported errors between VS and pyright cli") | Changing error messages - differences in reported errors between VS and pyright cli |
+ |  OP:26  |[8315](https://github.com/microsoft/PTVS/issues/8315 "The option &quot;Python/Native Debugging&quot; is missing.") | The option "Python/Native Debugging" is missing. |
+ |  OP:33  |[8309](https://github.com/microsoft/PTVS/issues/8309 "can't start python interpreter on visual studio 2022 community") | can't start python interpreter on visual studio 2022 community |
+ |  OP:45  |[8303](https://github.com/microsoft/PTVS/issues/8303 "The interactive window not change to the selection virtual environment when open from solution explorer.") | The interactive window not change to the selection virtual environment when open from solution explorer. |
+ |  OP:61  |[8294](https://github.com/microsoft/PTVS/issues/8294 "devenv.exe 发生意外错误") | devenv.exe 发生意外错误 |
+ |  OP:102  |[8274](https://github.com/microsoft/PTVS/issues/8274 "It showed empty in Watch/Locals debugger windows when native debug with Python 3.11.") | It showed empty in Watch/Locals debugger windows when native debug with Python 3.11. |
+ |  OP:123  |[8266](https://github.com/microsoft/PTVS/issues/8266 "NullReferenceException") | NullReferenceException |
+ |  OP:123  |[8265](https://github.com/microsoft/PTVS/issues/8265 "Python>=3.11 is not in the list of language versions.") | Python>=3.11 is not in the list of language versions. |
+ |  OP:136  |[8261](https://github.com/microsoft/PTVS/issues/8261 "&quot;An unexpected error occurred&quot; while opening solution file.") | "An unexpected error occurred" while opening solution file. |
+ |  OP:146  |[8259](https://github.com/microsoft/PTVS/issues/8259 "import dill   is unresolved in VS 2022 Community") | import dill   is unresolved in VS 2022 Community |
+ |  OP:158  |[8256](https://github.com/microsoft/PTVS/issues/8256 "vs关闭时有bug") | vs关闭时有bug |
+ |  OP:162  |[8255](https://github.com/microsoft/PTVS/issues/8255 "The &quot;Enable Mixed Mode Debugging&quot; feature in Python projects seems not to support the python3.13t (free-threaded) version.") | The "Enable Mixed Mode Debugging" feature in Python projects seems not to support the python3.13t (free-threaded) version. |
+ |  OP:199  |[8230](https://github.com/microsoft/PTVS/issues/8230 "VS can only recognize one environment when Python and Anaconda have the same version.") | VS can only recognize one environment when Python and Anaconda have the same version. |
+ |  OP:208  |[8209](https://github.com/microsoft/PTVS/issues/8209 "Error List only works in first project.") | Error List only works in first project. |
+ |  OP:226  |[8204](https://github.com/microsoft/PTVS/issues/8204 "Cannot build a project with RunPythonCommand task from MSBuild/command line") | Cannot build a project with RunPythonCommand task from MSBuild/command line |
+ |  OP:270  |[8184](https://github.com/microsoft/PTVS/issues/8184 "Empty error dialog when trying to run Python file with no Python installed") | Empty error dialog when trying to run Python file with no Python installed |
+ |  OP:291  |[8160](https://github.com/microsoft/PTVS/issues/8160 "Failed to create &quot;GitHub->cookiecutter-flask/cookiecutter-flask&quot; template in Cookiecutter.") | Failed to create "GitHub->cookiecutter-flask/cookiecutter-flask" template in Cookiecutter. |
+ |  OP:306  |[8143](https://github.com/microsoft/PTVS/issues/8143 "Adding a Flask web project to a docker-orchestration results in WebRole.dll error.") | Adding a Flask web project to a docker-orchestration results in WebRole.dll error. |
+ |  OP:411  |[8020](https://github.com/microsoft/PTVS/issues/8020 "An error notification pops up after clicking Add Debug Configuration.") | An error notification pops up after clicking Add Debug Configuration. |
+ |  OP:461  |[7983](https://github.com/microsoft/PTVS/issues/7983 "Open interactive window，loading all the time after entering enter in the Anaconda environment.") | Open interactive window，loading all the time after entering enter in the Anaconda environment. |
+ |  OP:466  |[7978](https://github.com/microsoft/PTVS/issues/7978 "The &quot;remove unused imports&quot; and &quot;Extract method&quot; quick action icons appear only when you select a code.") | The "remove unused imports" and "Extract method" quick action icons appear only when you select a code. |
+ |  OP:652  |[7823](https://github.com/microsoft/PTVS/issues/7823 "Unexpected error occured. About Conda env.") | Unexpected error occured. About Conda env. |
+ |  OP:677  |[7805](https://github.com/microsoft/PTVS/issues/7805 "Refactor rename incorrect when the referenced method is defined in another project.") | Refactor rename incorrect when the referenced method is defined in another project. |
+ |  OP:796  |[7725](https://github.com/microsoft/PTVS/issues/7725 "The VS crashed after choose the progress when remote debug.") | The VS crashed after choose the progress when remote debug. |
+ |  OP:828  |[7701](https://github.com/microsoft/PTVS/issues/7701 "No IntelliSense when import a new created django app.") | No IntelliSense when import a new created django app. |
+ |  OP:918  |[7616](https://github.com/microsoft/PTVS/issues/7616 "Lots of debug symbols are being loaded at every application start") | Lots of debug symbols are being loaded at every application start |
+ |  OP:928  |[7600](https://github.com/microsoft/PTVS/issues/7600 "Modal pop-up persists when a breakpoint cannot resolve conditional expression ") | Modal pop-up persists when a breakpoint cannot resolve conditional expression  |
+ |  OP:1041  |[7330](https://github.com/microsoft/PTVS/issues/7330 "Unable to create DLL for C++ ") | Unable to create DLL for C++  |
+ |  OP:1073  |[7274](https://github.com/microsoft/PTVS/issues/7274 "Changing error messages - differences in reported errors between VS and pyright cli") | Changing error messages - differences in reported errors between VS and pyright cli |
 
 ### Issues in PTVS that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:123, OP:114  |[8263](https://github.com/microsoft/PTVS/issues/8263 "Env folder not showing in Git Changes after creating virtual environment only with Python3.13.") | Env folder not showing in Git Changes after creating virtual environment only with Python3.13. |
- |  TM:306, OP:306  |[8136](https://github.com/microsoft/PTVS/issues/8136 "After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package.") | After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package. |
- |  TM:317, OP:314  |[8125](https://github.com/microsoft/PTVS/issues/8125 "Format Document not responding.") | Format Document not responding. |
- |  TM:335, OP:334  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.") | Cannot run all tests in a large number of tests. |
- |  TM:684, OP:683  |[7794](https://github.com/microsoft/PTVS/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
- |  TM:718, OP:717  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
- |  TM:746, OP:746  |[7743](https://github.com/microsoft/PTVS/issues/7743 "environment load sequence broken") | environment load sequence broken |
- |  TM:682, OP:681  |[7724](https://github.com/microsoft/PTVS/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
- |  TM:935, OP:927  |[7429](https://github.com/microsoft/PTVS/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
- |  TM:1223, OP:481  |[6974](https://github.com/microsoft/PTVS/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
- |  TM:914, OP:573  |[6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
- |  TM:367, OP:363  |[6853](https://github.com/microsoft/PTVS/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
- |  TM:1481, OP:1021  |[6750](https://github.com/microsoft/PTVS/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
- |  TM:1045, OP:790  |[6876](https://github.com/microsoft/PTVS/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
- |  TM:1549, OP:1248  |[6639](https://github.com/microsoft/PTVS/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
+ |  TM:130, OP:121  |[8263](https://github.com/microsoft/PTVS/issues/8263 "Env folder not showing in Git Changes after creating virtual environment only with Python3.13.") | Env folder not showing in Git Changes after creating virtual environment only with Python3.13. |
+ |  TM:313, OP:313  |[8136](https://github.com/microsoft/PTVS/issues/8136 "After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package.") | After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package. |
+ |  TM:324, OP:321  |[8125](https://github.com/microsoft/PTVS/issues/8125 "Format Document not responding.") | Format Document not responding. |
+ |  TM:342, OP:341  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.") | Cannot run all tests in a large number of tests. |
+ |  TM:691, OP:690  |[7794](https://github.com/microsoft/PTVS/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
+ |  TM:725, OP:724  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
+ |  TM:753, OP:753  |[7743](https://github.com/microsoft/PTVS/issues/7743 "environment load sequence broken") | environment load sequence broken |
+ |  TM:689, OP:688  |[7724](https://github.com/microsoft/PTVS/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
+ |  TM:942, OP:934  |[7429](https://github.com/microsoft/PTVS/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
+ |  TM:1230, OP:488  |[6974](https://github.com/microsoft/PTVS/issues/6974 "No IntelliSense when import folder under the workspace.") | No IntelliSense when import folder under the workspace. |
+ |  TM:921, OP:580  |[6936](https://github.com/microsoft/PTVS/issues/6936 "Skip tests after clicking “Analyze Code Coverage”.") | Skip tests after clicking “Analyze Code Coverage”. |
+ |  TM:374, OP:370  |[6853](https://github.com/microsoft/PTVS/issues/6853 "Unable to install suggested module when using IPython interactive mode.") | Unable to install suggested module when using IPython interactive mode. |
+ |  TM:1488, OP:1028  |[6750](https://github.com/microsoft/PTVS/issues/6750 "An error pops up when run &quot;Django Check, Django Migrate, Django Create Superuser...&quot;. ") | An error pops up when run "Django Check, Django Migrate, Django Create Superuser...".  |
+ |  TM:1052, OP:797  |[6876](https://github.com/microsoft/PTVS/issues/6876 "Extract method only works on one line and rename doesn't work at all") | Extract method only works on one line and rename doesn't work at all |
+ |  TM:1556, OP:1255  |[6639](https://github.com/microsoft/PTVS/issues/6639 " IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder.") |  IntelliSense does not work when changed SearchPath in PythonSettings.json file in open folder. |
 
 ### Issues in PTVS that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:313,  |[8124](https://github.com/microsoft/PTVS/issues/8124 "This prompt box information is not fully displayed when remove virtual environment from project.") | This prompt box information is not fully displayed when remove virtual environment from project. |
- |  P:49,  |[7829](https://github.com/microsoft/PTVS/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
+ |  P:320,  |[8124](https://github.com/microsoft/PTVS/issues/8124 "This prompt box information is not fully displayed when remove virtual environment from project.") | This prompt box information is not fully displayed when remove virtual environment from project. |
+ |  P:56,  |[7829](https://github.com/microsoft/PTVS/issues/7829 "&quot;Python was not found; run without arguments to install from the Microsoft Store...&quot; appeared in Python project. ") | "Python was not found; run without arguments to install from the Microsoft Store..." appeared in Python project.  |
 
 ### Issues in PTVS that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:31  |[8305](https://github.com/microsoft/PTVS/issues/8305 "Visual Studio Insiders Python debugpy attach to remote process fails to get target process.") | Visual Studio Insiders Python debugpy attach to remote process fails to get target process. |
- |  TM:46  |[8296](https://github.com/microsoft/PTVS/issues/8296 "Error opening python 3.13 interactive window") | Error opening python 3.13 interactive window |
- |  TM:54  |[8276](https://github.com/microsoft/PTVS/issues/8276 "Cannot locate performance tools when launching python profiling") | Cannot locate performance tools when launching python profiling |
- |  TM:263  |[8179](https://github.com/microsoft/PTVS/issues/8179 "【逆天BUG】在VS中，使用Python交互式窗口代码小测试会转圈无限等待") | 【逆天BUG】在VS中，使用Python交互式窗口代码小测试会转圈无限等待 |
- |  TM:802  |[7715](https://github.com/microsoft/PTVS/issues/7715 "After switching to the &quot;Packages&quot; window a second time, the packages are not displayed.") | After switching to the "Packages" window a second time, the packages are not displayed. |
- |  TM:286  |[7604](https://github.com/microsoft/PTVS/issues/7604 "Django IntelliSense in html files doesn't work.") | Django IntelliSense in html files doesn't work. |
- |  TM:934  |[7541](https://github.com/microsoft/PTVS/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
+ |  TM:38  |[8305](https://github.com/microsoft/PTVS/issues/8305 "Visual Studio Insiders Python debugpy attach to remote process fails to get target process.") | Visual Studio Insiders Python debugpy attach to remote process fails to get target process. |
+ |  TM:53  |[8296](https://github.com/microsoft/PTVS/issues/8296 "Error opening python 3.13 interactive window") | Error opening python 3.13 interactive window |
+ |  TM:61  |[8276](https://github.com/microsoft/PTVS/issues/8276 "Cannot locate performance tools when launching python profiling") | Cannot locate performance tools when launching python profiling |
+ |  TM:270  |[8179](https://github.com/microsoft/PTVS/issues/8179 "【逆天BUG】在VS中，使用Python交互式窗口代码小测试会转圈无限等待") | 【逆天BUG】在VS中，使用Python交互式窗口代码小测试会转圈无限等待 |
+ |  TM:809  |[7715](https://github.com/microsoft/PTVS/issues/7715 "After switching to the &quot;Packages&quot; window a second time, the packages are not displayed.") | After switching to the "Packages" window a second time, the packages are not displayed. |
+ |  TM:293  |[7604](https://github.com/microsoft/PTVS/issues/7604 "Django IntelliSense in html files doesn't work.") | Django IntelliSense in html files doesn't work. |
+ |  TM:941  |[7541](https://github.com/microsoft/PTVS/issues/7541 "The 'environment.yml' file can not be detected to create a conda env when reload project") | The 'environment.yml' file can not be detected to create a conda env when reload project |
+
+## PULL REQUEST ACTIVITY
+
+
+### Pull Requests opened in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#8336](https://github.com/microsoft/PTVS/pull/8336) | StellaHuang95 | 2025-11-20 | 0 | 2025-11-20 | StellaHuang95 | Fix a watson bug |
+
+### Pull Requests merged in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#8336](https://github.com/microsoft/PTVS/pull/8336) | StellaHuang95 | 2025-11-20 | 0 | 2025-11-20 | StellaHuang95 | Fix a watson bug |
+| \* | [#8334](https://github.com/microsoft/PTVS/pull/8334) | bschnurr | 2025-11-12 | 6 | 2025-11-19 | bschnurr | Update TestAdapter tests were never updated from the source of the te… |
+
+### Pull Requests still open that were opened more than 7 days ago:
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#7702](https://github.com/microsoft/PTVS/pull/7702) | hassan20990 | 2023-08-23 | 823 | - | - | Refactor tests |
+| \* | [#7779](https://github.com/microsoft/PTVS/pull/7779) | StellaHuang95 | 2023-12-07 | 717 | - | - | [Draft] Add python 3.12 support |
+| \* | [#8252](https://github.com/microsoft/PTVS/pull/8252) | csigs | 2025-06-04 | 172 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20250604191653612 to main |
+| \* | [#8298](https://github.com/microsoft/PTVS/pull/8298) | csigs | 2025-10-02 | 52 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251002091747850 to main |
+| \* | [#8304](https://github.com/microsoft/PTVS/pull/8304) | csigs | 2025-10-15 | 39 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251015191305309 to main |
+| \* | [#8320](https://github.com/microsoft/PTVS/pull/8320) | csigs | 2025-11-04 | 19 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251104201350838 to main |
+| \* | [#8321](https://github.com/microsoft/PTVS/pull/8321) | csigs | 2025-11-06 | 17 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251106201251219 to main |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 7 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:15  |[8319](https://github.com/microsoft/PTVS/issues/8319 "No IntelliSense in html files in Django project.")  |No IntelliSense in html files in Django project. |
+ | \* TM:7  |[8327](https://github.com/microsoft/PTVS/issues/8327 "Failed to discover unittest and pytest.")  |Failed to discover unittest and pytest. |
 
 
 
@@ -135,7 +173,7 @@ Generated on 2025-11-16 using: stale=30, all=True
  16: azure-pipelines.yml
 
 
- 14: package.json
+ 13: package.json
 
 
  11: Build/debugpy-version.txt
