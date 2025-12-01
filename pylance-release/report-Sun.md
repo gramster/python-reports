@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-11-23 using: stale=30, all=False
+Generated on 2025-11-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,14 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7726](https://github.com/microsoft/pylance-release/issues/7726 "Behavior of python.analysis.packageIndexDepths for &quot;name&quot;: &quot;&quot;")  |Behavior of python.analysis.packageIndexDepths for "name": "" |
- | \* OP:1  |[7725](https://github.com/microsoft/pylance-release/issues/7725 "Do not report errors about unresolved PEP660 editable packages")  |Do not report errors about unresolved PEP660 editable packages |
+ | \* OP:1  |[7745](https://github.com/microsoft/pylance-release/issues/7745 "bug")  |bug |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[4972](https://github.com/microsoft/pylance-release/issues/4972 "show class hierarchy or method override like pycharm")  |show class hierarchy or method override like pycharm |
+ | \* TM:5, OP:0  |[7586](https://github.com/microsoft/pylance-release/issues/7586 "Go to Symbol in Workspace: Shows multiple copies of same symbol. Most symbol copies link to read-only editor.")  |Go to Symbol in Workspace: Shows multiple copies of same symbol. Most symbol copies link to read-only editor. |
 
 
 
