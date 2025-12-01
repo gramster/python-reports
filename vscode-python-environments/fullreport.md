@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2025-11-23 using: stale=30, all=True
+Generated on 2025-11-30 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -11,29 +11,40 @@ Generated on 2025-11-23 using: stale=30, all=True
 ## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
+### Issues in vscode-python-environments that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ |  OP:10  |[996](https://github.com/microsoft/vscode-python-environments/issues/996 "[Python Environments] Unable to unset variable from `.env` file") | [Python Environments] Unable to unset variable from `.env` file |
+ |  OP:16  |[989](https://github.com/microsoft/vscode-python-environments/issues/989 "UnicodeError under Windows if project has Unicode chars in path name") | UnicodeError under Windows if project has Unicode chars in path name |
+ |  OP:16  |[987](https://github.com/microsoft/vscode-python-environments/issues/987 "VSCode Python test discovery not activating the environment") | VSCode Python test discovery not activating the environment |
+ |  OP:16  |[986](https://github.com/microsoft/vscode-python-environments/issues/986 "`shellStartup` doesn't work properly in a devcontainer") | `shellStartup` doesn't work properly in a devcontainer |
+ |  OP:236  |[270](https://github.com/microsoft/vscode-python-environments/issues/270 "on windows python.condaPath has 2 incompatible usages") | on windows python.condaPath has 2 incompatible usages |
+
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:10, OP:6  |[974](https://github.com/microsoft/vscode-python-environments/issues/974 "ShellStartup auto-activation adds newline")  |ShellStartup auto-activation adds newline |
- |  TM:9, OP:8  |[664](https://github.com/microsoft/vscode-python-environments/issues/664 "The automatic activation mechanism has been damaged") | The automatic activation mechanism has been damaged |
- |  TM:272, OP:272  |[198](https://github.com/microsoft/vscode-python-environments/issues/198 "terminal.launchArgs not being used") | terminal.launchArgs not being used |
- |  TM:345, OP:345  |[82](https://github.com/microsoft/vscode-python-environments/issues/82 "relative paths not handled when installing packages from workplace dependencies (requirements.txt)") | relative paths not handled when installing packages from workplace dependencies (requirements.txt) |
+ |  TM:17, OP:13  |[974](https://github.com/microsoft/vscode-python-environments/issues/974 "ShellStartup auto-activation adds newline") | ShellStartup auto-activation adds newline |
+ |  TM:16, OP:15  |[664](https://github.com/microsoft/vscode-python-environments/issues/664 "The automatic activation mechanism has been damaged") | The automatic activation mechanism has been damaged |
+ |  TM:279, OP:279  |[198](https://github.com/microsoft/vscode-python-environments/issues/198 "terminal.launchArgs not being used") | terminal.launchArgs not being used |
+ |  TM:352, OP:352  |[82](https://github.com/microsoft/vscode-python-environments/issues/82 "relative paths not handled when installing packages from workplace dependencies (requirements.txt)") | relative paths not handled when installing packages from workplace dependencies (requirements.txt) |
 
 ### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:9,  |[992](https://github.com/microsoft/vscode-python-environments/issues/992 "Python native REPL ignoring workspace interpreter") | Python native REPL ignoring workspace interpreter |
- |  P:11,  |[653](https://github.com/microsoft/vscode-python-environments/issues/653 "Error refreshing packages: Extension uses system Python instead of selected Conda environment in WSL2") | Error refreshing packages: Extension uses system Python instead of selected Conda environment in WSL2 |
- | \* P:4,  |[590](https://github.com/microsoft/vscode-python-environments/issues/590 "Incomplete environment list in select interpreter (pyenv)")  |Incomplete environment list in select interpreter (pyenv) |
+ | \* P:4,  |[722](https://github.com/microsoft/vscode-python-environments/issues/722 "Conda terminal activation incorrectly uses name for path-based environments created by VS Code")  |Conda terminal activation incorrectly uses name for path-based environments created by VS Code |
+ |  P:16,  |[992](https://github.com/microsoft/vscode-python-environments/issues/992 "Python native REPL ignoring workspace interpreter") | Python native REPL ignoring workspace interpreter |
+ | \* P:5,  |[653](https://github.com/microsoft/vscode-python-environments/issues/653 "Error refreshing packages: Extension uses system Python instead of selected Conda environment in WSL2")  |Error refreshing packages: Extension uses system Python instead of selected Conda environment in WSL2 |
+ |  P:11,  |[590](https://github.com/microsoft/vscode-python-environments/issues/590 "Incomplete environment list in select interpreter (pyenv)") | Incomplete environment list in select interpreter (pyenv) |
 
 ### Issues in vscode-python-environments that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:165  |[473](https://github.com/microsoft/vscode-python-environments/issues/473 "Getting the error `Error running command python.envManager.refresh`") | Getting the error `Error running command python.envManager.refresh` |
- |  TM:167  |[370](https://github.com/microsoft/vscode-python-environments/issues/370 "New terminal unable to activate environment on Windows") | New terminal unable to activate environment on Windows |
+ |  TM:172  |[473](https://github.com/microsoft/vscode-python-environments/issues/473 "Getting the error `Error running command python.envManager.refresh`") | Getting the error `Error running command python.envManager.refresh` |
+ |  TM:174  |[370](https://github.com/microsoft/vscode-python-environments/issues/370 "New terminal unable to activate environment on Windows") | New terminal unable to activate environment on Windows |
 
 ---
 
@@ -44,112 +55,125 @@ Generated on 2025-11-23 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:3  |[997](https://github.com/microsoft/vscode-python-environments/issues/997 "[Python Environments] Virtual environment activation is slow")  |[Python Environments] Virtual environment activation is slow |
- | \* OP:3  |[996](https://github.com/microsoft/vscode-python-environments/issues/996 "[Python Environments] Unable to unset variable from `.env` file")  |[Python Environments] Unable to unset variable from `.env` file |
- |  OP:9  |[989](https://github.com/microsoft/vscode-python-environments/issues/989 "UnicodeError under Windows if project has Unicode chars in path name") | UnicodeError under Windows if project has Unicode chars in path name |
- |  OP:9  |[988](https://github.com/microsoft/vscode-python-environments/issues/988 "API Proposal Error - 1.12.0") | API Proposal Error - 1.12.0 |
- |  OP:9  |[987](https://github.com/microsoft/vscode-python-environments/issues/987 "VSCode Python test discovery not activating the environment") | VSCode Python test discovery not activating the environment |
- |  OP:9  |[986](https://github.com/microsoft/vscode-python-environments/issues/986 "`shellStartup` doesn't work properly in a devcontainer") | `shellStartup` doesn't work properly in a devcontainer |
- |  OP:11  |[981](https://github.com/microsoft/vscode-python-environments/issues/981 "Configure environment via VSCode settings?") | Configure environment via VSCode settings? |
- |  OP:23  |[958](https://github.com/microsoft/vscode-python-environments/issues/958 "Cannot read properties of undefined (reading 'show')") | Cannot read properties of undefined (reading 'show') |
- |  OP:32  |[950](https://github.com/microsoft/vscode-python-environments/issues/950 "Debugger, &quot;Run Python File&quot;, etc. fails when launched into a new terminal") | Debugger, "Run Python File", etc. fails when launched into a new terminal |
- |  OP:68  |[846](https://github.com/microsoft/vscode-python-environments/issues/846 "Support --system-site-packages") | Support --system-site-packages |
- |  OP:75  |[813](https://github.com/microsoft/vscode-python-environments/issues/813 "Adding a scan for missing dependencies in a project - suggestion for a new feature") | Adding a scan for missing dependencies in a project - suggestion for a new feature |
- |  OP:132  |[604](https://github.com/microsoft/vscode-python-environments/issues/604 "Bash activation command without proceeding space bloating bash-history") | Bash activation command without proceeding space bloating bash-history |
- |  OP:229  |[270](https://github.com/microsoft/vscode-python-environments/issues/270 "on windows python.condaPath has 2 incompatible usages") | on windows python.condaPath has 2 incompatible usages |
+ | \* OP:1  |[1011](https://github.com/microsoft/vscode-python-environments/issues/1011 "Some strange behavior possibly related to this extension and Python extension when a script starts to run")  |Some strange behavior possibly related to this extension and Python extension when a script starts to run |
+ |  OP:18  |[981](https://github.com/microsoft/vscode-python-environments/issues/981 "Configure environment via VSCode settings?") | Configure environment via VSCode settings? |
+ |  OP:30  |[958](https://github.com/microsoft/vscode-python-environments/issues/958 "Cannot read properties of undefined (reading 'show')") | Cannot read properties of undefined (reading 'show') |
+ |  OP:39  |[950](https://github.com/microsoft/vscode-python-environments/issues/950 "Debugger, &quot;Run Python File&quot;, etc. fails when launched into a new terminal") | Debugger, "Run Python File", etc. fails when launched into a new terminal |
+ |  OP:75  |[846](https://github.com/microsoft/vscode-python-environments/issues/846 "Support --system-site-packages") | Support --system-site-packages |
+ |  OP:82  |[813](https://github.com/microsoft/vscode-python-environments/issues/813 "Adding a scan for missing dependencies in a project - suggestion for a new feature") | Adding a scan for missing dependencies in a project - suggestion for a new feature |
+ |  OP:139  |[604](https://github.com/microsoft/vscode-python-environments/issues/604 "Bash activation command without proceeding space bloating bash-history") | Bash activation command without proceeding space bloating bash-history |
 
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:31, OP:30  |[948](https://github.com/microsoft/vscode-python-environments/issues/948 "type checker project boundaries") | type checker project boundaries |
- |  TM:40, OP:40  |[936](https://github.com/microsoft/vscode-python-environments/issues/936 ".env File no longer updates commented variables") | .env File no longer updates commented variables |
- |  TM:38, OP:37  |[927](https://github.com/microsoft/vscode-python-environments/issues/927 "[Feature Request] Add a setting to disable specific environment managers") | [Feature Request] Add a setting to disable specific environment managers |
- |  TM:47, OP:33  |[906](https://github.com/microsoft/vscode-python-environments/issues/906 "Behavior of python-env.workspaceSearchPaths") | Behavior of python-env.workspaceSearchPaths |
- |  TM:47, OP:37  |[904](https://github.com/microsoft/vscode-python-environments/issues/904 "On Windows + git-bash activate command uses the wrong script") | On Windows + git-bash activate command uses the wrong script |
- |  TM:48, OP:46  |[895](https://github.com/microsoft/vscode-python-environments/issues/895 "[Non-reproducible] Entire disk partition accidentally wiped clean while removing a python environment") | [Non-reproducible] Entire disk partition accidentally wiped clean while removing a python environment |
- |  TM:51, OP:48  |[888](https://github.com/microsoft/vscode-python-environments/issues/888 "Breaks python locator on mapped drives in Windows") | Breaks python locator on mapped drives in Windows |
- |  TM:47, OP:41  |[868](https://github.com/microsoft/vscode-python-environments/issues/868 "Detected Python version is wrong and may affect Python Debugger extension.") | Detected Python version is wrong and may affect Python Debugger extension. |
- |  TM:62, OP:61  |[833](https://github.com/microsoft/vscode-python-environments/issues/833 "The chosen python interpreter is not written to workspace's .vscode settings.json file") | The chosen python interpreter is not written to workspace's .vscode settings.json file |
- |  TM:72, OP:67  |[800](https://github.com/microsoft/vscode-python-environments/issues/800 "看不到运行过程") | 看不到运行过程 |
- |  TM:47, OP:46  |[765](https://github.com/microsoft/vscode-python-environments/issues/765 "Wrong activate button state when using `shellStartup`") | Wrong activate button state when using `shellStartup` |
- |  TM:25, OP:11  |[743](https://github.com/microsoft/vscode-python-environments/issues/743 "Poetry ignores `pyenv` local Python when &quot;Python Environments&quot; VS Code extension is active") | Poetry ignores `pyenv` local Python when "Python Environments" VS Code extension is active |
- |  TM:96, OP:96  |[847](https://github.com/microsoft/vscode-python-environments/issues/847 "Copilot chat cannot detect Python packages installed in the selected Conda Environment") | Copilot chat cannot detect Python packages installed in the selected Conda Environment |
- |  TM:76, OP:34  |[735](https://github.com/microsoft/vscode-python-environments/issues/735 "Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI") | Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI |
- |  TM:78, OP:78  |[715](https://github.com/microsoft/vscode-python-environments/issues/715 "Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs") | Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs |
- |  TM:104, OP:103  |[694](https://github.com/microsoft/vscode-python-environments/issues/694 "Feature request: ipykernel as a project dependency option") | Feature request: ipykernel as a project dependency option |
- |  TM:101, OP:78  |[692](https://github.com/microsoft/vscode-python-environments/issues/692 "[Python Environments] ") | [Python Environments]  |
- |  TM:94, OP:64  |[667](https://github.com/microsoft/vscode-python-environments/issues/667 "Incorrectly loads uv interpreters") | Incorrectly loads uv interpreters |
- |  TM:116, OP:116  |[658](https://github.com/microsoft/vscode-python-environments/issues/658 "Fails to load pyenv virtualenv's") | Fails to load pyenv virtualenv's |
- |  TM:116, OP:109  |[639](https://github.com/microsoft/vscode-python-environments/issues/639 "Conda environment activation does not work for R terminals") | Conda environment activation does not work for R terminals |
- |  TM:72, OP:71  |[634](https://github.com/microsoft/vscode-python-environments/issues/634 "[Feature request] Disable automatically making the root folder a Python project") | [Feature request] Disable automatically making the root folder a Python project |
- |  TM:128, OP:128  |[610](https://github.com/microsoft/vscode-python-environments/issues/610 "Pyenv Python Versions aren't listed when creating a new environment") | Pyenv Python Versions aren't listed when creating a new environment |
- |  TM:121, OP:118  |[603](https://github.com/microsoft/vscode-python-environments/issues/603 "VSCode forgets Python intepreter with the environments extension") | VSCode forgets Python intepreter with the environments extension |
- |  TM:76, OP:75  |[584](https://github.com/microsoft/vscode-python-environments/issues/584 "Python button is not visible, extension commands are not available in command palette") | Python button is not visible, extension commands are not available in command palette |
- |  TM:208, OP:208  |[366](https://github.com/microsoft/vscode-python-environments/issues/366 "IntelliCode not conecting to Python extension") | IntelliCode not conecting to Python extension |
- |  TM:209, OP:209  |[351](https://github.com/microsoft/vscode-python-environments/issues/351 "commands getting run when value for setting is `shellStartup`") | commands getting run when value for setting is `shellStartup` |
+ |  TM:38, OP:37  |[948](https://github.com/microsoft/vscode-python-environments/issues/948 "type checker project boundaries") | type checker project boundaries |
+ | \* TM:45, OP:4  |[942](https://github.com/microsoft/vscode-python-environments/issues/942 "Environments from custom providers not listed in Python: Select Interpreter command palette")  |Environments from custom providers not listed in Python: Select Interpreter command palette |
+ |  TM:47, OP:47  |[936](https://github.com/microsoft/vscode-python-environments/issues/936 ".env File no longer updates commented variables") | .env File no longer updates commented variables |
+ |  TM:45, OP:44  |[927](https://github.com/microsoft/vscode-python-environments/issues/927 "[Feature Request] Add a setting to disable specific environment managers") | [Feature Request] Add a setting to disable specific environment managers |
+ |  TM:54, OP:40  |[906](https://github.com/microsoft/vscode-python-environments/issues/906 "Behavior of python-env.workspaceSearchPaths") | Behavior of python-env.workspaceSearchPaths |
+ |  TM:54, OP:44  |[904](https://github.com/microsoft/vscode-python-environments/issues/904 "On Windows + git-bash activate command uses the wrong script") | On Windows + git-bash activate command uses the wrong script |
+ |  TM:58, OP:55  |[888](https://github.com/microsoft/vscode-python-environments/issues/888 "Breaks python locator on mapped drives in Windows") | Breaks python locator on mapped drives in Windows |
+ |  TM:54, OP:48  |[868](https://github.com/microsoft/vscode-python-environments/issues/868 "Detected Python version is wrong and may affect Python Debugger extension.") | Detected Python version is wrong and may affect Python Debugger extension. |
+ |  TM:69, OP:68  |[833](https://github.com/microsoft/vscode-python-environments/issues/833 "The chosen python interpreter is not written to workspace's .vscode settings.json file") | The chosen python interpreter is not written to workspace's .vscode settings.json file |
+ |  TM:79, OP:74  |[800](https://github.com/microsoft/vscode-python-environments/issues/800 "看不到运行过程") | 看不到运行过程 |
+ |  TM:54, OP:53  |[765](https://github.com/microsoft/vscode-python-environments/issues/765 "Wrong activate button state when using `shellStartup`") | Wrong activate button state when using `shellStartup` |
+ |  TM:32, OP:18  |[743](https://github.com/microsoft/vscode-python-environments/issues/743 "Poetry ignores `pyenv` local Python when &quot;Python Environments&quot; VS Code extension is active") | Poetry ignores `pyenv` local Python when "Python Environments" VS Code extension is active |
+ |  TM:103, OP:103  |[847](https://github.com/microsoft/vscode-python-environments/issues/847 "Copilot chat cannot detect Python packages installed in the selected Conda Environment") | Copilot chat cannot detect Python packages installed in the selected Conda Environment |
+ |  TM:83, OP:41  |[735](https://github.com/microsoft/vscode-python-environments/issues/735 "Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI") | Feature Request: Easily Add Folder to PYTHONPATH from VS Code UI |
+ |  TM:85, OP:85  |[715](https://github.com/microsoft/vscode-python-environments/issues/715 "Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs") | Regression: python extension no longer allows selecting interpreters from ~/.virtualenvs |
+ |  TM:111, OP:110  |[694](https://github.com/microsoft/vscode-python-environments/issues/694 "Feature request: ipykernel as a project dependency option") | Feature request: ipykernel as a project dependency option |
+ |  TM:108, OP:85  |[692](https://github.com/microsoft/vscode-python-environments/issues/692 "[Python Environments] ") | [Python Environments]  |
+ |  TM:101, OP:71  |[667](https://github.com/microsoft/vscode-python-environments/issues/667 "Incorrectly loads uv interpreters") | Incorrectly loads uv interpreters |
+ |  TM:123, OP:123  |[658](https://github.com/microsoft/vscode-python-environments/issues/658 "Fails to load pyenv virtualenv's") | Fails to load pyenv virtualenv's |
+ |  TM:123, OP:116  |[639](https://github.com/microsoft/vscode-python-environments/issues/639 "Conda environment activation does not work for R terminals") | Conda environment activation does not work for R terminals |
+ |  TM:79, OP:78  |[634](https://github.com/microsoft/vscode-python-environments/issues/634 "[Feature request] Disable automatically making the root folder a Python project") | [Feature request] Disable automatically making the root folder a Python project |
+ |  TM:135, OP:135  |[610](https://github.com/microsoft/vscode-python-environments/issues/610 "Pyenv Python Versions aren't listed when creating a new environment") | Pyenv Python Versions aren't listed when creating a new environment |
+ |  TM:128, OP:125  |[603](https://github.com/microsoft/vscode-python-environments/issues/603 "VSCode forgets Python intepreter with the environments extension") | VSCode forgets Python intepreter with the environments extension |
+ |  TM:83, OP:82  |[584](https://github.com/microsoft/vscode-python-environments/issues/584 "Python button is not visible, extension commands are not available in command palette") | Python button is not visible, extension commands are not available in command palette |
+ |  TM:215, OP:215  |[366](https://github.com/microsoft/vscode-python-environments/issues/366 "IntelliCode not conecting to Python extension") | IntelliCode not conecting to Python extension |
+ |  TM:216, OP:216  |[351](https://github.com/microsoft/vscode-python-environments/issues/351 "commands getting run when value for setting is `shellStartup`") | commands getting run when value for setting is `shellStartup` |
 
 ### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:18,  |[875](https://github.com/microsoft/vscode-python-environments/issues/875 "Python environment not activating and working dir not correct when using scratchpad") | Python environment not activating and working dir not correct when using scratchpad |
- |  P:46,  |[874](https://github.com/microsoft/vscode-python-environments/issues/874 "Python architecture information missing for conda envs") | Python architecture information missing for conda envs |
- | \* P:3,  |[836](https://github.com/microsoft/vscode-python-environments/issues/836 "Bug: environment being used differs from the one being displayed")  |Bug: environment being used differs from the one being displayed |
- |  P:136,  |[215](https://github.com/microsoft/vscode-python-environments/issues/215 "The extension always automatically modifies my global environment") | The extension always automatically modifies my global environment |
+ | \* P:0,  |[956](https://github.com/microsoft/vscode-python-environments/issues/956 "Perpetually &quot;Refreshing virtual environments&quot;")  |Perpetually "Refreshing virtual environments" |
+ |  P:25,  |[875](https://github.com/microsoft/vscode-python-environments/issues/875 "Python environment not activating and working dir not correct when using scratchpad") | Python environment not activating and working dir not correct when using scratchpad |
+ |  P:53,  |[874](https://github.com/microsoft/vscode-python-environments/issues/874 "Python architecture information missing for conda envs") | Python architecture information missing for conda envs |
+ |  P:10,  |[836](https://github.com/microsoft/vscode-python-environments/issues/836 "Bug: environment being used differs from the one being displayed") | Bug: environment being used differs from the one being displayed |
+ |  P:143,  |[215](https://github.com/microsoft/vscode-python-environments/issues/215 "The extension always automatically modifies my global environment") | The extension always automatically modifies my global environment |
 
 ### Issues in vscode-python-environments that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:38  |[942](https://github.com/microsoft/vscode-python-environments/issues/942 "Environments from custom providers not listed in Python: Select Interpreter command palette") | Environments from custom providers not listed in Python: Select Interpreter command palette |
- |  TM:38  |[934](https://github.com/microsoft/vscode-python-environments/issues/934 "Bug: Debugger on Linux launches Python run/activatedRun command before the activation/shellActivation command from PythonEnvironmentExecutionInfo") | Bug: Debugger on Linux launches Python run/activatedRun command before the activation/shellActivation command from PythonEnvironmentExecutionInfo |
- |  TM:72  |[782](https://github.com/microsoft/vscode-python-environments/issues/782 "Expanding `Pipenv` should refresh the children") | Expanding `Pipenv` should refresh the children |
- |  TM:72  |[834](https://github.com/microsoft/vscode-python-environments/issues/834 "vscode指定环境时默认运行的不存在的文件") | vscode指定环境时默认运行的不存在的文件 |
- |  TM:60  |[786](https://github.com/microsoft/vscode-python-environments/issues/786 "Python env activates automatically ignoring settings") | Python env activates automatically ignoring settings |
- |  TM:101  |[705](https://github.com/microsoft/vscode-python-environments/issues/705 "show environment type in python interpreter name in status bar") | show environment type in python interpreter name in status bar |
- |  TM:118  |[661](https://github.com/microsoft/vscode-python-environments/issues/661 "Extension breaks python envy and associated use-case") | Extension breaks python envy and associated use-case |
- |  TM:119  |[656](https://github.com/microsoft/vscode-python-environments/issues/656 "Pixi integration") | Pixi integration |
- |  TM:41  |[613](https://github.com/microsoft/vscode-python-environments/issues/613 "&quot;Run python file in terminal&quot; does not respect cwd configuration") | "Run python file in terminal" does not respect cwd configuration |
- |  TM:128  |[609](https://github.com/microsoft/vscode-python-environments/issues/609 "Feature request: Quick Create uses the active global Python interpreter version") | Feature request: Quick Create uses the active global Python interpreter version |
- |  TM:165  |[476](https://github.com/microsoft/vscode-python-environments/issues/476 "Environment Manager viewlet - no visual  indicatior on the currently selected environment.") | Environment Manager viewlet - no visual  indicatior on the currently selected environment. |
- |  TM:171  |[471](https://github.com/microsoft/vscode-python-environments/issues/471 "Same venv show twice") | Same venv show twice |
- |  TM:172  |[470](https://github.com/microsoft/vscode-python-environments/issues/470 "Offer to create folder/workspace in 'Add as Python Project' flow") | Offer to create folder/workspace in 'Add as Python Project' flow |
- |  TM:172  |[461](https://github.com/microsoft/vscode-python-environments/issues/461 "Should copy button temporarily become a checkmark") | Should copy button temporarily become a checkmark |
- |  TM:201  |[378](https://github.com/microsoft/vscode-python-environments/issues/378 "Extension API: How to map it to hatch?") | Extension API: How to map it to hatch? |
- |  TM:71  |[835](https://github.com/microsoft/vscode-python-environments/issues/835 "set python.terminal.executeInFileDir not working, python file run earlier than cd command") | set python.terminal.executeInFileDir not working, python file run earlier than cd command |
- |  TM:72  |[359](https://github.com/microsoft/vscode-python-environments/issues/359 "Bash shell does not activate venv on subsequent launches") | Bash shell does not activate venv on subsequent launches |
- |  TM:71  |[349](https://github.com/microsoft/vscode-python-environments/issues/349 "Should there be an indication that python has been activated for the terminal?") | Should there be an indication that python has been activated for the terminal? |
- |  TM:230  |[165](https://github.com/microsoft/vscode-python-environments/issues/165 "Suggest pinned package dependency updates on pyproject.toml") | Suggest pinned package dependency updates on pyproject.toml |
+ |  TM:45  |[934](https://github.com/microsoft/vscode-python-environments/issues/934 "Bug: Debugger on Linux launches Python run/activatedRun command before the activation/shellActivation command from PythonEnvironmentExecutionInfo") | Bug: Debugger on Linux launches Python run/activatedRun command before the activation/shellActivation command from PythonEnvironmentExecutionInfo |
+ |  TM:79  |[782](https://github.com/microsoft/vscode-python-environments/issues/782 "Expanding `Pipenv` should refresh the children") | Expanding `Pipenv` should refresh the children |
+ |  TM:79  |[834](https://github.com/microsoft/vscode-python-environments/issues/834 "vscode指定环境时默认运行的不存在的文件") | vscode指定环境时默认运行的不存在的文件 |
+ |  TM:67  |[786](https://github.com/microsoft/vscode-python-environments/issues/786 "Python env activates automatically ignoring settings") | Python env activates automatically ignoring settings |
+ |  TM:108  |[705](https://github.com/microsoft/vscode-python-environments/issues/705 "show environment type in python interpreter name in status bar") | show environment type in python interpreter name in status bar |
+ |  TM:125  |[661](https://github.com/microsoft/vscode-python-environments/issues/661 "Extension breaks python envy and associated use-case") | Extension breaks python envy and associated use-case |
+ |  TM:126  |[656](https://github.com/microsoft/vscode-python-environments/issues/656 "Pixi integration") | Pixi integration |
+ |  TM:48  |[613](https://github.com/microsoft/vscode-python-environments/issues/613 "&quot;Run python file in terminal&quot; does not respect cwd configuration") | "Run python file in terminal" does not respect cwd configuration |
+ |  TM:135  |[609](https://github.com/microsoft/vscode-python-environments/issues/609 "Feature request: Quick Create uses the active global Python interpreter version") | Feature request: Quick Create uses the active global Python interpreter version |
+ |  TM:172  |[476](https://github.com/microsoft/vscode-python-environments/issues/476 "Environment Manager viewlet - no visual  indicatior on the currently selected environment.") | Environment Manager viewlet - no visual  indicatior on the currently selected environment. |
+ |  TM:178  |[471](https://github.com/microsoft/vscode-python-environments/issues/471 "Same venv show twice") | Same venv show twice |
+ |  TM:179  |[470](https://github.com/microsoft/vscode-python-environments/issues/470 "Offer to create folder/workspace in 'Add as Python Project' flow") | Offer to create folder/workspace in 'Add as Python Project' flow |
+ |  TM:179  |[461](https://github.com/microsoft/vscode-python-environments/issues/461 "Should copy button temporarily become a checkmark") | Should copy button temporarily become a checkmark |
+ |  TM:208  |[378](https://github.com/microsoft/vscode-python-environments/issues/378 "Extension API: How to map it to hatch?") | Extension API: How to map it to hatch? |
+ |  TM:79  |[835](https://github.com/microsoft/vscode-python-environments/issues/835 "set python.terminal.executeInFileDir not working, python file run earlier than cd command") | set python.terminal.executeInFileDir not working, python file run earlier than cd command |
+ |  TM:79  |[359](https://github.com/microsoft/vscode-python-environments/issues/359 "Bash shell does not activate venv on subsequent launches") | Bash shell does not activate venv on subsequent launches |
+ |  TM:79  |[349](https://github.com/microsoft/vscode-python-environments/issues/349 "Should there be an indication that python has been activated for the terminal?") | Should there be an indication that python has been activated for the terminal? |
+ |  TM:237  |[165](https://github.com/microsoft/vscode-python-environments/issues/165 "Suggest pinned package dependency updates on pyproject.toml") | Suggest pinned package dependency updates on pyproject.toml |
 
 ## PULL REQUEST ACTIVITY
 
+
+### Pull Requests opened in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1012](https://github.com/microsoft/vscode-python-environments/pull/1012) | eleanorjboyd | 2025-11-30 | 0 | 2025-11-30 | eleanorjboyd | Add contributing guidelines to the Python Environments extension |
+| \* | [#1010](https://github.com/microsoft/vscode-python-environments/pull/1010) | karthiknadig | 2025-11-28 | 2 | - | - | chore: update Node.js version to 22.21.1 across configuration files |
+| \* | [#1009](https://github.com/microsoft/vscode-python-environments/pull/1009) | karthiknadig | 2025-11-28 | 2 | - | - | Implement temporary state management for environment actions |
+| \* | [#1008](https://github.com/microsoft/vscode-python-environments/pull/1008) | karthiknadig | 2025-11-28 | 2 | - | - | Fix: Use JSON package listing in conda environment |
+| \* | [#1006](https://github.com/microsoft/vscode-python-environments/pull/1006) | karthiknadig | 2025-11-27 | 0 | 2025-11-27 | karthiknadig | Fix: Quote conda executable path to handle spaces |
+| \* | [#1005](https://github.com/microsoft/vscode-python-environments/pull/1005) | karthiknadig | 2025-11-27 | 0 | 2025-11-27 | karthiknadig | Fix: Enhance virtual environment removal validation |
+| \* | [#1004](https://github.com/microsoft/vscode-python-environments/pull/1004) | karthiknadig | 2025-11-26 | 4 | - | - | Fix: Validate existence of pipenv, poetry, and pyenv paths before usage |
+| \* | [#1003](https://github.com/microsoft/vscode-python-environments/pull/1003) | karthiknadig | 2025-11-26 | 0 | 2025-11-27 | karthiknadig | Fix: TypeError in conda discovery |
+| \* | [#999](https://github.com/microsoft/vscode-python-environments/pull/999) | dependabot | 2025-11-24 | 2 | 2025-11-27 | karthiknadig | chore(deps): bump glob from 10.4.5 to 10.5.0 in /examples/sample1 |
+| \* | [#998](https://github.com/microsoft/vscode-python-environments/pull/998) | karthiknadig | 2025-11-24 | 0 | 2025-11-24 | karthiknadig | chore: update npm packages |
 
 ### Pull Requests merged in the past 7 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#995](https://github.com/microsoft/vscode-python-environments/pull/995) | dependabot | 2025-11-15 | 1 | 2025-11-17 | karthiknadig | chore(deps-dev): bump js-yaml from 4.1.0 to 4.1.1 in /examples/sample1 |
-| \* | [#995](https://github.com/microsoft/vscode-python-environments/pull/995) | dependabot | 2025-11-15 | 1 | 2025-11-17 | karthiknadig | chore(deps-dev): bump js-yaml from 4.1.0 to 4.1.1 in /examples/sample1 |
+| \* | [#1012](https://github.com/microsoft/vscode-python-environments/pull/1012) | eleanorjboyd | 2025-11-30 | 0 | 2025-11-30 | eleanorjboyd | Add contributing guidelines to the Python Environments extension |
+| \* | [#1006](https://github.com/microsoft/vscode-python-environments/pull/1006) | karthiknadig | 2025-11-27 | 0 | 2025-11-27 | karthiknadig | Fix: Quote conda executable path to handle spaces |
+| \* | [#1005](https://github.com/microsoft/vscode-python-environments/pull/1005) | karthiknadig | 2025-11-27 | 0 | 2025-11-27 | karthiknadig | Fix: Enhance virtual environment removal validation |
+| \* | [#999](https://github.com/microsoft/vscode-python-environments/pull/999) | dependabot | 2025-11-24 | 2 | 2025-11-27 | karthiknadig | chore(deps): bump glob from 10.4.5 to 10.5.0 in /examples/sample1 |
+| \* | [#1003](https://github.com/microsoft/vscode-python-environments/pull/1003) | karthiknadig | 2025-11-26 | 0 | 2025-11-27 | karthiknadig | Fix: TypeError in conda discovery |
+| \* | [#998](https://github.com/microsoft/vscode-python-environments/pull/998) | karthiknadig | 2025-11-24 | 0 | 2025-11-24 | karthiknadig | chore: update npm packages |
 
 ### Pull Requests still open that were opened more than 7 days ago:
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#386](https://github.com/microsoft/vscode-python-environments/pull/386) | eleanorjboyd | 2025-05-07 | 200 | - | - | design doc addition |
-| \* | [#449](https://github.com/microsoft/vscode-python-environments/pull/449) | copilot-swe-agent | 2025-05-27 | 180 | - | - | Add error message when Python is not installed |
-| \* | [#569](https://github.com/microsoft/vscode-python-environments/pull/569) | copilot-swe-agent | 2025-06-25 | 151 | - | - | Fix Quick Create package installation failure handling with retry flow |
-| \* | [#571](https://github.com/microsoft/vscode-python-environments/pull/571) | copilot-swe-agent | 2025-06-25 | 151 | - | - | Fix project view not updating when folders are moved or deleted |
-| \* | [#586](https://github.com/microsoft/vscode-python-environments/pull/586) | copilot-swe-agent | 2025-07-01 | 145 | - | - | Implement automatic package list refresh when site-packages change |
-| \* | [#629](https://github.com/microsoft/vscode-python-environments/pull/629) | eleanorjboyd | 2025-07-23 | 123 | - | - | Diagnose-w-ai |
-| \* | [#689](https://github.com/microsoft/vscode-python-environments/pull/689) | copilot-swe-agent | 2025-08-05 | 110 | - | - | Add EnvironmentVariableScope parameter to getEnvironmentVariables for targeted variable retrieval |
-| \* | [#740](https://github.com/microsoft/vscode-python-environments/pull/740) | almarouk | 2025-08-20 | 95 | - | - | Improve shell command formatting |
-| \* | [#742](https://github.com/microsoft/vscode-python-environments/pull/742) | kipavy | 2025-08-21 | 94 | - | - | Add commands to manage Python PATH |
-| \* | [#837](https://github.com/microsoft/vscode-python-environments/pull/837) | renan-r-santos | 2025-09-13 | 71 | - | - | Fix activation icon state when using `shellStartup` |
-| \* | [#854](https://github.com/microsoft/vscode-python-environments/pull/854) | copilot-swe-agent | 2025-09-21 | 63 | - | - | Fix wrong activate command with powershell with conda |
-| \* | [#931](https://github.com/microsoft/vscode-python-environments/pull/931) | copilot-swe-agent | 2025-10-10 | 44 | - | - | Merge duplicate progress notifications during environment creation |
-| \* | [#932](https://github.com/microsoft/vscode-python-environments/pull/932) | copilot-swe-agent | 2025-10-10 | 44 | - | - | Add cancellation support for dependency search during environment creation |
-|   | [#980](https://github.com/microsoft/vscode-python-environments/pull/980) | copilot-swe-agent | 2025-11-11 | 12 | - | - | Add cancellable async timeout utilities from VS Code core |
+| \* | [#386](https://github.com/microsoft/vscode-python-environments/pull/386) | eleanorjboyd | 2025-05-07 | 207 | - | - | design doc addition |
+| \* | [#449](https://github.com/microsoft/vscode-python-environments/pull/449) | copilot-swe-agent | 2025-05-27 | 187 | - | - | Add error message when Python is not installed |
+| \* | [#569](https://github.com/microsoft/vscode-python-environments/pull/569) | copilot-swe-agent | 2025-06-25 | 158 | - | - | Fix Quick Create package installation failure handling with retry flow |
+| \* | [#571](https://github.com/microsoft/vscode-python-environments/pull/571) | copilot-swe-agent | 2025-06-25 | 158 | - | - | Fix project view not updating when folders are moved or deleted |
+| \* | [#586](https://github.com/microsoft/vscode-python-environments/pull/586) | copilot-swe-agent | 2025-07-01 | 152 | - | - | Implement automatic package list refresh when site-packages change |
+| \* | [#629](https://github.com/microsoft/vscode-python-environments/pull/629) | eleanorjboyd | 2025-07-23 | 130 | - | - | Diagnose-w-ai |
+| \* | [#689](https://github.com/microsoft/vscode-python-environments/pull/689) | copilot-swe-agent | 2025-08-05 | 117 | - | - | Add EnvironmentVariableScope parameter to getEnvironmentVariables for targeted variable retrieval |
+| \* | [#740](https://github.com/microsoft/vscode-python-environments/pull/740) | almarouk | 2025-08-20 | 102 | - | - | Improve shell command formatting |
+| \* | [#742](https://github.com/microsoft/vscode-python-environments/pull/742) | kipavy | 2025-08-21 | 101 | - | - | Add commands to manage Python PATH |
+| \* | [#837](https://github.com/microsoft/vscode-python-environments/pull/837) | renan-r-santos | 2025-09-13 | 78 | - | - | Fix activation icon state when using `shellStartup` |
+| \* | [#854](https://github.com/microsoft/vscode-python-environments/pull/854) | copilot-swe-agent | 2025-09-21 | 70 | - | - | Fix wrong activate command with powershell with conda |
+| \* | [#931](https://github.com/microsoft/vscode-python-environments/pull/931) | copilot-swe-agent | 2025-10-10 | 51 | - | - | Merge duplicate progress notifications during environment creation |
+| \* | [#932](https://github.com/microsoft/vscode-python-environments/pull/932) | copilot-swe-agent | 2025-10-10 | 51 | - | - | Add cancellation support for dependency search during environment creation |
+| \* | [#980](https://github.com/microsoft/vscode-python-environments/pull/980) | copilot-swe-agent | 2025-11-11 | 19 | - | - | Add cancellable async timeout utilities from VS Code core |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -158,10 +182,14 @@ Generated on 2025-11-23 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:32  |[947](https://github.com/microsoft/vscode-python-environments/issues/947 "Remote Reconnect Forces Ctrl+C on Running Terminal Process for Environment Activation")  |Remote Reconnect Forces Ctrl+C on Running Terminal Process for Environment Activation |
- | \* TM:57  |[869](https://github.com/microsoft/vscode-python-environments/issues/869 "Integrated terminal activates base conda environment instead of configured environment")  |Integrated terminal activates base conda environment instead of configured environment |
- | \* TM:117  |[994](https://github.com/microsoft/vscode-python-environments/issues/994 "Pylance crash at making .env directory")  |Pylance crash at making .env directory |
- | \* TM:84  |[762](https://github.com/microsoft/vscode-python-environments/issues/762 "Can't install 'ms-python.vscode-python-envs' extension because it is not compatible with the current version of Visual Studio Code (version 1.95.3).")  |Can't install 'ms-python.vscode-python-envs' extension because it is not compatible with the current version of Visual Studio Code (version 1.95.3). |
+ | \* TM:15  |[988](https://github.com/microsoft/vscode-python-environments/issues/988 "API Proposal Error - 1.12.0")  |API Proposal Error - 1.12.0 |
+ | \* TM:23  |[991](https://github.com/microsoft/vscode-python-environments/issues/991 "Easier management of terminal and python packages for current python environment")  |Easier management of terminal and python packages for current python environment |
+ | \* TM:268  |[206](https://github.com/microsoft/vscode-python-environments/issues/206 "Finding conda from cache when conda not installed on machine")  |Finding conda from cache when conda not installed on machine |
+ | \* TM:17  |[978](https://github.com/microsoft/vscode-python-environments/issues/978 "ArcGIS Pro's conda environment is inaccessible in VS Code due to installation under `C:\Program Files` (path contains spaces)")  |ArcGIS Pro's conda environment is inaccessible in VS Code due to installation under `C:\Program Files` (path contains spaces) |
+ | \* TM:7  |[997](https://github.com/microsoft/vscode-python-environments/issues/997 "[Python Environments] Virtual environment activation is slow")  |[Python Environments] Virtual environment activation is slow |
+ | \* TM:53  |[895](https://github.com/microsoft/vscode-python-environments/issues/895 "[Non-reproducible] Entire disk partition accidentally wiped clean while removing a python environment")  |[Non-reproducible] Entire disk partition accidentally wiped clean while removing a python environment |
+ | \* TM:1  |[1001](https://github.com/microsoft/vscode-python-environments/issues/1001 "TypeError in ms-python.vscode-python-envs during conda discovery — &quot;Cannot read properties of undefined (reading 'map')&quot;")  |TypeError in ms-python.vscode-python-envs during conda discovery — "Cannot read properties of undefined (reading 'map')" |
+ | \* TM:1  |[1002](https://github.com/microsoft/vscode-python-environments/issues/1002 "Version 1.12 Failed to identify anaconda environment")  |Version 1.12 Failed to identify anaconda environment |
 
 
 
@@ -169,25 +197,25 @@ Generated on 2025-11-23 using: stale=30, all=True
 
 ## MOST FREQUENTLY CHANGED FILES (by # of PRs):
 
- 79: package.json
+ 76: package.json
 
 
- 64: src/extension.ts
+ 63: src/extension.ts
 
 
- 38: src/features/envCommands.ts
+ 36: src/managers/conda/condaUtils.ts
 
 
- 37: package-lock.json
+ 36: src/features/envCommands.ts
 
 
- 35: src/managers/conda/condaUtils.ts
+ 35: package-lock.json
 
 
- 29: src/managers/builtin/venvUtils.ts
+ 30: src/managers/builtin/venvUtils.ts
 
 
- 26: src/api.ts
+ 25: src/api.ts
 
 
  25: package.nls.json
@@ -199,10 +227,10 @@ Generated on 2025-11-23 using: stale=30, all=True
  20: src/managers/builtin/venvManager.ts
 
 
- 19: src/features/terminal/terminalManager.ts
+ 19: src/common/localize.ts
 
 
- 18: src/common/localize.ts
+ 18: src/features/terminal/terminalManager.ts
 
 
  13: src/features/terminal/shells/bash/bashStartup.ts
@@ -226,22 +254,16 @@ Generated on 2025-11-23 using: stale=30, all=True
  10: src/features/terminal/shells/common/shellUtils.ts
 
 
- 10: src/managers/conda/condaEnvManager.ts
-
-
  10: src/common/pickers/managers.ts
 
 
  10: src/features/views/treeViewItems.ts
 
 
-  9: src/managers/common/utils.ts
-
-
   9: src/managers/builtin/pipManager.ts
 
 
-  9: src/features/pythonApi.ts
+  9: src/managers/conda/condaEnvManager.ts
 
 
   9: src/features/creators/newPackageProject.ts
@@ -250,13 +272,16 @@ Generated on 2025-11-23 using: stale=30, all=True
   9: src/features/envManagers.ts
 
 
-  8: src/common/window.apis.ts
+  8: src/managers/common/utils.ts
 
 
   8: examples/sample1/src/api.ts
 
 
   8: src/managers/builtin/utils.ts
+
+
+  8: src/features/pythonApi.ts
 
 
   8: src/common/telemetry/constants.ts
@@ -268,10 +293,10 @@ Generated on 2025-11-23 using: stale=30, all=True
   8: src/managers/sysPython/utils.ts
 
 
-  8: src/managers/sysPython/venvUtils.ts
-
-
   7: .github/instructions/testing-workflow.instructions.md
+
+
+  7: src/common/window.apis.ts
 
 
   7: src/managers/common/nativePythonFinder.ts
@@ -304,6 +329,9 @@ Generated on 2025-11-23 using: stale=30, all=True
   7: src/features/common/shellDetector.ts
 
 
+  7: src/managers/sysPython/venvUtils.ts
+
+
   6: src/managers/pipenv/pipenvUtils.ts
 
 
@@ -328,9 +356,6 @@ Generated on 2025-11-23 using: stale=30, all=True
   5: src/features/settings/settingHelpers.ts
 
 
-  5: src/managers/conda/main.ts
-
-
   5: src/managers/poetry/main.ts
 
 
@@ -350,9 +375,6 @@ Generated on 2025-11-23 using: stale=30, all=True
 
 
   5: src/features/views/projectView.ts
-
-
-  5: src/common/pickers/packages.ts
 
 
   5: src/managers/sysPython/sysPythonManager.ts
