@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-11-26 using: stale=30, all=False
+Generated on 2025-12-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,12 +13,18 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7679](https://github.com/microsoft/pylance-release/issues/7679 "Is it possible to add a feature that allows Python DocStrings to be displayed in a target language (for example, in Chinese), or to utilize Copliot to automatically generate Chinese-language docstrings?")  |Is it possible to add a feature that allows Python DocStrings to be displayed in a target language (for example, in Chinese), or to utilize Copliot to automatically generate Chinese-language docstrings? |
- | \* TM:30  |[7658](https://github.com/microsoft/pylance-release/issues/7658 "Feature Request - option to make local rename / cancel rename")  |Feature Request - option to make local rename / cancel rename |
+ | \* OP:0  |[7759](https://github.com/microsoft/pylance-release/issues/7759 "__new__ Override in Parent Class Prevents &quot;Go to Definition&quot; on Direct Call, but Works on Assigned Variable")  |__new__ Override in Parent Class Prevents "Go to Definition" on Direct Call, but Works on Assigned Variable |
+ | \* OP:1  |[7749](https://github.com/microsoft/pylance-release/issues/7749 "Refactoring commands not found")  |Refactoring commands not found |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0, OP:0  |[7755](https://github.com/microsoft/pylance-release/issues/7755 "Render local figures in DocStrings")  |Render local figures in DocStrings |
 
 ## PULL REQUEST ACTIVITY
 
@@ -27,9 +33,10 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7369](https://github.com/microsoft/pyrx/pull/7369) | rchiodo | 2025-11-26 | 0 | - | - | Add new github workflow to run pyls-benchmarks |
-| \* | [#7367](https://github.com/microsoft/pyrx/pull/7367) | rchiodo | 2025-11-26 | 0 | - | - | Make sure issue comment is usable in a PR |
-| \* | [#7363](https://github.com/microsoft/pyrx/pull/7363) | bschnurr | 2025-11-26 | 0 | - | - | async await changes |
+| \* | [#7421](https://github.com/microsoft/pyrx/pull/7421) | dependabot | 2025-12-03 | 0 | - | - | Bump validator from 13.15.15 to 13.15.23 in /tests/pylance-browser |
+| \* | [#7420](https://github.com/microsoft/pyrx/pull/7420) | bschnurr | 2025-12-03 | 0 | - | - | Merge release/2025.10 into main |
+| \* | [#7402](https://github.com/microsoft/pyrx/pull/7402) | copilot-swe-agent | 2025-12-03 | 0 | - | - | Add code action to suggest default excludes in config files |
+| \* | [#7397](https://github.com/microsoft/pyrx/pull/7397) | bschnurr | 2025-12-03 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -38,13 +45,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1  |[7734](https://github.com/microsoft/pylance-release/issues/7734 "Error: command 'pylance.registerNotebookStartupCommands' already exists")  |Error: command 'pylance.registerNotebookStartupCommands' already exists |
- | \* TM:1  |[7735](https://github.com/microsoft/pylance-release/issues/7735 "[vscode-extension] 2025.10.1 failed upon starting")  |[vscode-extension] 2025.10.1 failed upon starting |
- | \* TM:1  |[7736](https://github.com/microsoft/pylance-release/issues/7736 "Crash when importing inherited TypedDict")  |Crash when importing inherited TypedDict |
- | \* TM:1  |[7737](https://github.com/microsoft/pylance-release/issues/7737 "Pylance 2025.10.1 no longer detects workspace or PEP 420 namespace packages after update")  |Pylance 2025.10.1 no longer detects workspace or PEP 420 namespace packages after update |
- | \* TM:0  |[7741](https://github.com/microsoft/pylance-release/issues/7741 "Pylance polluting the audit logs")  |Pylance polluting the audit logs |
- | \* TM:0  |[7740](https://github.com/microsoft/pylance-release/issues/7740 "Crash in semanticTokens with pydantic-settings.SettingsConfigDict")  |Crash in semanticTokens with pydantic-settings.SettingsConfigDict |
- | \* TM:0  |[7739](https://github.com/microsoft/pylance-release/issues/7739 "The `GeneratedField` in `django-stubs` is missing the `output_field` attribute")  |The `GeneratedField` in `django-stubs` is missing the `output_field` attribute |
+ | \* TM:0  |[7757](https://github.com/microsoft/pylance-release/issues/7757 "Fold all docstrings error")  |Fold all docstrings error |
+ | \* TM:0  |[7756](https://github.com/microsoft/pylance-release/issues/7756 "`Import &quot;duckdb&quot; could not be resolved` in app code; no warnings in test code: in 2025.10.3 and 2025.10.2 (2025.10.1 OK)")  |`Import "duckdb" could not be resolved` in app code; no warnings in test code: in 2025.10.3 and 2025.10.2 (2025.10.1 OK) |
 
 
 
