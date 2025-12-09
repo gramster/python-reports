@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-12-01 using: stale=30, all=False
+Generated on 2025-12-08 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests merged in the past 1 day(s):
+### Issues in PTVS that need a response from team:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8339](https://github.com/microsoft/PTVS/pull/8339) | bschnurr | 2025-11-28 | 2 | 2025-12-01 | bschnurr | Fixing PythonNative example for python3.14 Avoid deprecated _Py_fopen… |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[8346](https://github.com/microsoft/PTVS/issues/8346 "Unexpected error with request to report")  |Unexpected error with request to report |
 
 
 
