@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-12-03 using: stale=30, all=False
+Generated on 2025-12-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,15 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in debugpy that have no external responses since team response in 30+ days:
+### Pull Requests merged in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:30  |[1970](https://github.com/microsoft/debugpy/issues/1970 "Issue with debugpy and post portem debug hook in Python 3.12+")  |Issue with debugpy and post portem debug hook in Python 3.12+ |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1981](https://github.com/microsoft/debugpy/pull/1981) | rchiodo | 2025-12-09 | 1 | 2025-12-10 | rchiodo | Fix arq quoting to work in runInTerminal |
+| \* | [#1981](https://github.com/microsoft/debugpy/pull/1981) | rchiodo | 2025-12-09 | 1 | 2025-12-10 | rchiodo | Fix arq quoting to work in runInTerminal |
 
 
 
