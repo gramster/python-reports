@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2025-12-03 using: stale=30, all=False
+Generated on 2025-12-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,18 +13,17 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7759](https://github.com/microsoft/pylance-release/issues/7759 "__new__ Override in Parent Class Prevents &quot;Go to Definition&quot; on Direct Call, but Works on Assigned Variable")  |__new__ Override in Parent Class Prevents "Go to Definition" on Direct Call, but Works on Assigned Variable |
- | \* OP:1  |[7749](https://github.com/microsoft/pylance-release/issues/7749 "Refactoring commands not found")  |Refactoring commands not found |
+ | \* P:1,  |[7767](https://github.com/microsoft/pylance-release/issues/7767 "Docstring generation can't be turned off")  |Docstring generation can't be turned off |
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[7755](https://github.com/microsoft/pylance-release/issues/7755 "Render local figures in DocStrings")  |Render local figures in DocStrings |
+ | \* TM:30  |[7698](https://github.com/microsoft/pylance-release/issues/7698 "Pylance client: couldn't create connection to server.")  |Pylance client: couldn't create connection to server. |
 
 ## PULL REQUEST ACTIVITY
 
@@ -33,10 +32,10 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7421](https://github.com/microsoft/pyrx/pull/7421) | dependabot | 2025-12-03 | 0 | - | - | Bump validator from 13.15.15 to 13.15.23 in /tests/pylance-browser |
-| \* | [#7420](https://github.com/microsoft/pyrx/pull/7420) | bschnurr | 2025-12-03 | 0 | - | - | Merge release/2025.10 into main |
-| \* | [#7402](https://github.com/microsoft/pyrx/pull/7402) | copilot-swe-agent | 2025-12-03 | 0 | - | - | Add code action to suggest default excludes in config files |
-| \* | [#7397](https://github.com/microsoft/pyrx/pull/7397) | bschnurr | 2025-12-03 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
+| \* | [#7463](https://github.com/microsoft/pyrx/pull/7463) | rchiodo | 2025-12-10 | 0 | - | - | Remove more fields from the type graph |
+| \* | [#7460](https://github.com/microsoft/pyrx/pull/7460) | copilot-swe-agent | 2025-12-10 | 0 | - | - | Add createPyrxPr MCP tool for automated PR creation with template filling |
+| \* | [#7455](https://github.com/microsoft/pyrx/pull/7455) | bschnurr | 2025-12-10 | 0 | - | - | Pylance Localization Update |
+| \* | [#7452](https://github.com/microsoft/pyrx/pull/7452) | dependabot | 2025-12-10 | 0 | - | - | Bump jws from 3.2.2 to 3.2.3 in /packages/pylance-dev |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -45,8 +44,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7757](https://github.com/microsoft/pylance-release/issues/7757 "Fold all docstrings error")  |Fold all docstrings error |
- | \* TM:0  |[7756](https://github.com/microsoft/pylance-release/issues/7756 "`Import &quot;duckdb&quot; could not be resolved` in app code; no warnings in test code: in 2025.10.3 and 2025.10.2 (2025.10.1 OK)")  |`Import "duckdb" could not be resolved` in app code; no warnings in test code: in 2025.10.3 and 2025.10.2 (2025.10.1 OK) |
+ | \* TM:0  |[7773](https://github.com/microsoft/pylance-release/issues/7773 "path problems")  |path problems |
 
 
 
