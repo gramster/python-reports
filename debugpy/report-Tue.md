@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2025-12-09 using: stale=30, all=False
+Generated on 2025-12-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,30 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests opened in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1981](https://github.com/microsoft/debugpy/pull/1981) | rchiodo | 2025-12-09 | 0 | - | - | Fix arq quoting to work in runInTerminal |
-
-### Pull Requests merged in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1934](https://github.com/microsoft/debugpy/pull/1934) | lancelote | 2025-07-31 | 131 | 2025-12-09 | rchiodo | fix the link to Python extension in `CONTRIBUTING.md` |
-| \* | [#1934](https://github.com/microsoft/debugpy/pull/1934) | lancelote | 2025-07-31 | 131 | 2025-12-09 | rchiodo | fix the link to Python extension in `CONTRIBUTING.md` |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
+### Issues in debugpy that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:244  |[1980](https://github.com/microsoft/debugpy/issues/1980 "Cannot debug with cmdline args if python.exe in 'c:\Program Files'")  |Cannot debug with cmdline args if python.exe in 'c:\Program Files' |
+ | \* TM:42, OP:0  |[1971](https://github.com/microsoft/debugpy/issues/1971 "Python 3.14: __annotate__ NotImplementedError on annotated pytest fixtures, tests and pydantic models")  |Python 3.14: __annotate__ NotImplementedError on annotated pytest fixtures, tests and pydantic models |
 
 
 
