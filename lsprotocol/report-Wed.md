@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/lsprotocol
 
 
-Generated on 2025-12-17 using: stale=30, all=False
+Generated on 2025-12-24 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
