@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2025-12-20 using: stale=30, all=False
+Generated on 2025-12-27 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[8348](https://github.com/microsoft/PTVS/issues/8348 "Mypy's result does not refresh after the first execution")  |Mypy's result does not refresh after the first execution |
+ | \* OP:0  |[8349](https://github.com/microsoft/PTVS/issues/8349 "Could not start Python. Ensure Python is installed and accessible from the web server account.")  |Could not start Python. Ensure Python is installed and accessible from the web server account. |
 
 
 
