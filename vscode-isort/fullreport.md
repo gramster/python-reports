@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2025-12-21 using: stale=30, all=True
+Generated on 2025-12-28 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -15,30 +15,30 @@ Generated on 2025-12-21 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:70  |[479](https://github.com/microsoft/vscode-isort/issues/479 "Python 3.14 sort is broken due to import") | Python 3.14 sort is broken due to import |
- |  OP:75  |[476](https://github.com/microsoft/vscode-isort/issues/476 "isort server segfaults on WSL") | isort server segfaults on WSL |
- |  OP:90  |[463](https://github.com/microsoft/vscode-isort/issues/463 "Multiple isort handlers getting registered") | Multiple isort handlers getting registered |
- |  OP:895  |[303](https://github.com/microsoft/vscode-isort/issues/303 "No `Organize Imports` or `Python Refactor: Sort Imports` options available in Jupyter Notebooks") | No `Organize Imports` or `Python Refactor: Sort Imports` options available in Jupyter Notebooks |
+ |  OP:77  |[479](https://github.com/microsoft/vscode-isort/issues/479 "Python 3.14 sort is broken due to import") | Python 3.14 sort is broken due to import |
+ |  OP:82  |[476](https://github.com/microsoft/vscode-isort/issues/476 "isort server segfaults on WSL") | isort server segfaults on WSL |
+ |  OP:97  |[463](https://github.com/microsoft/vscode-isort/issues/463 "Multiple isort handlers getting registered") | Multiple isort handlers getting registered |
+ |  OP:902  |[303](https://github.com/microsoft/vscode-isort/issues/303 "No `Organize Imports` or `Python Refactor: Sort Imports` options available in Jupyter Notebooks") | No `Organize Imports` or `Python Refactor: Sort Imports` options available in Jupyter Notebooks |
 
 ### Issues in vscode-isort that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:684, OP:683  |[384](https://github.com/microsoft/vscode-isort/issues/384 "Isort cannot handle line magic in jupyter notebook") | Isort cannot handle line magic in jupyter notebook |
- |  TM:1111, OP:1105  |[185](https://github.com/microsoft/vscode-isort/issues/185 "Keyboard focus is moved to end of file upon save in diff view") | Keyboard focus is moved to end of file upon save in diff view |
+ |  TM:691, OP:690  |[384](https://github.com/microsoft/vscode-isort/issues/384 "Isort cannot handle line magic in jupyter notebook") | Isort cannot handle line magic in jupyter notebook |
+ |  TM:1118, OP:1112  |[185](https://github.com/microsoft/vscode-isort/issues/185 "Keyboard focus is moved to end of file upon save in diff view") | Keyboard focus is moved to end of file upon save in diff view |
 
 ### Issues in vscode-isort that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:877,  |[243](https://github.com/microsoft/vscode-isort/issues/243 "&quot;no organize imports action available&quot; error on uncompleted code") | "no organize imports action available" error on uncompleted code |
+ |  P:884,  |[243](https://github.com/microsoft/vscode-isort/issues/243 "&quot;no organize imports action available&quot; error on uncompleted code") | "no organize imports action available" error on uncompleted code |
 
 ### Issues in vscode-isort that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:719  |[362](https://github.com/microsoft/vscode-isort/issues/362 "Saving empty .py file in multi root workspace crashes isort.") | Saving empty .py file in multi root workspace crashes isort. |
- |  TM:740  |[160](https://github.com/microsoft/vscode-isort/issues/160 "Enabling the extension makes save very slow") | Enabling the extension makes save very slow |
+ |  TM:726  |[362](https://github.com/microsoft/vscode-isort/issues/362 "Saving empty .py file in multi root workspace crashes isort.") | Saving empty .py file in multi root workspace crashes isort. |
+ |  TM:747  |[160](https://github.com/microsoft/vscode-isort/issues/160 "Enabling the extension makes save very slow") | Enabling the extension makes save very slow |
 
 ---
 
@@ -49,65 +49,58 @@ Generated on 2025-12-21 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:249  |[433](https://github.com/microsoft/vscode-isort/issues/433 "Feature Request: Split 1st Party Imports") | Feature Request: Split 1st Party Imports |
- |  OP:325  |[422](https://github.com/microsoft/vscode-isort/issues/422 "isort Server Unable to Start: ModuleNotFoundError: No module named 'typeguard._exceptions'") | isort Server Unable to Start: ModuleNotFoundError: No module named 'typeguard._exceptions' |
+ |  OP:256  |[433](https://github.com/microsoft/vscode-isort/issues/433 "Feature Request: Split 1st Party Imports") | Feature Request: Split 1st Party Imports |
+ |  OP:332  |[422](https://github.com/microsoft/vscode-isort/issues/422 "isort Server Unable to Start: ModuleNotFoundError: No module named 'typeguard._exceptions'") | isort Server Unable to Start: ModuleNotFoundError: No module named 'typeguard._exceptions' |
 
 ### Issues in vscode-isort that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:625, OP:530  |[409](https://github.com/microsoft/vscode-isort/issues/409 "Isort server crashed") | Isort server crashed |
+ |  TM:632, OP:537  |[409](https://github.com/microsoft/vscode-isort/issues/409 "Isort server crashed") | Isort server crashed |
 
 ### Issues in vscode-isort that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:505,  |[141](https://github.com/microsoft/vscode-isort/issues/141 "`python.linting.cwd`-equivalent setting for new extensions") | `python.linting.cwd`-equivalent setting for new extensions |
- |  P:1131,  |[71](https://github.com/microsoft/vscode-isort/issues/71 "Detect isort config files and restart server on change.") | Detect isort config files and restart server on change. |
+ |  P:512,  |[141](https://github.com/microsoft/vscode-isort/issues/141 "`python.linting.cwd`-equivalent setting for new extensions") | `python.linting.cwd`-equivalent setting for new extensions |
+ |  P:1138,  |[71](https://github.com/microsoft/vscode-isort/issues/71 "Detect isort config files and restart server on change.") | Detect isort config files and restart server on change. |
 
 ### Issues in vscode-isort that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:608  |[410](https://github.com/microsoft/vscode-isort/issues/410 "[WinError 64] The specified network name is no longer available") | [WinError 64] The specified network name is no longer available |
- |  TM:771  |[347](https://github.com/microsoft/vscode-isort/issues/347 "Preview Tag on the offical store") | Preview Tag on the offical store |
- |  TM:661  |[343](https://github.com/microsoft/vscode-isort/issues/343 "Add the &quot;Sort Imports&quot; back to the context menu options as &quot;Organize Imports&quot;") | Add the "Sort Imports" back to the context menu options as "Organize Imports" |
+ |  TM:615  |[410](https://github.com/microsoft/vscode-isort/issues/410 "[WinError 64] The specified network name is no longer available") | [WinError 64] The specified network name is no longer available |
+ |  TM:778  |[347](https://github.com/microsoft/vscode-isort/issues/347 "Preview Tag on the offical store") | Preview Tag on the offical store |
+ |  TM:668  |[343](https://github.com/microsoft/vscode-isort/issues/343 "Add the &quot;Sort Imports&quot; back to the context menu options as &quot;Organize Imports&quot;") | Add the "Sort Imports" back to the context menu options as "Organize Imports" |
 
 ## PULL REQUEST ACTIVITY
 
-
-### Pull Requests merged in the past 7 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#491](https://github.com/microsoft/vscode-isort/pull/491) | dependabot | 2025-12-04 | 13 | 2025-12-17 | eleanorjboyd | Bump jws |
-| \* | [#491](https://github.com/microsoft/vscode-isort/pull/491) | dependabot | 2025-12-04 | 13 | 2025-12-17 | eleanorjboyd | Bump jws |
 
 ### Pull Requests still open that were opened more than 7 days ago:
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#440](https://github.com/microsoft/vscode-isort/pull/440) | dependabot | 2025-05-01 | 234 | - | - | Bump GabrielBB/xvfb-action from 1.6 to 1.7 |
-| \* | [#448](https://github.com/microsoft/vscode-isort/pull/448) | dependabot | 2025-06-18 | 186 | - | - | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
-| \* | [#450](https://github.com/microsoft/vscode-isort/pull/450) | dependabot | 2025-07-01 | 173 | - | - | Bump chai and @types/chai |
-| \* | [#452](https://github.com/microsoft/vscode-isort/pull/452) | dependabot | 2025-07-01 | 173 | - | - | Bump sinon from 17.0.1 to 21.0.0 |
-| \* | [#453](https://github.com/microsoft/vscode-isort/pull/453) | dependabot | 2025-07-22 | 152 | - | - | Bump form-data from 4.0.2 to 4.0.4 |
-| \* | [#456](https://github.com/microsoft/vscode-isort/pull/456) | dependabot | 2025-08-06 | 137 | - | - | Bump tmp from 0.2.3 to 0.2.4 |
-| \* | [#459](https://github.com/microsoft/vscode-isort/pull/459) | dependabot | 2025-09-02 | 110 | - | - | Bump actions/checkout from 3 to 5 |
-| \* | [#465](https://github.com/microsoft/vscode-isort/pull/465) | dependabot | 2025-10-01 | 81 | - | - | Bump actions/github-script from 7 to 8 |
-| \* | [#466](https://github.com/microsoft/vscode-isort/pull/466) | dependabot | 2025-10-01 | 81 | - | - | Bump actions/setup-python from 5 to 6 |
-| \* | [#467](https://github.com/microsoft/vscode-isort/pull/467) | dependabot | 2025-10-01 | 81 | - | - | Bump actions/setup-python from 5 to 6 in /.github/actions/lint |
-| \* | [#468](https://github.com/microsoft/vscode-isort/pull/468) | dependabot | 2025-10-01 | 81 | - | - | Bump actions/setup-node from 4 to 5 |
-| \* | [#469](https://github.com/microsoft/vscode-isort/pull/469) | dependabot | 2025-10-01 | 81 | - | - | Bump @typescript-eslint/parser from 7.18.0 to 8.45.0 |
-| \* | [#472](https://github.com/microsoft/vscode-isort/pull/472) | dependabot | 2025-10-01 | 81 | - | - | Bump actions/setup-python from 5 to 6 in /.github/actions/build-vsix |
-| \* | [#473](https://github.com/microsoft/vscode-isort/pull/473) | dependabot | 2025-10-01 | 81 | - | - | Bump mocha from 10.8.2 to 11.7.3 |
-| \* | [#474](https://github.com/microsoft/vscode-isort/pull/474) | dependabot | 2025-10-01 | 81 | - | - | Bump webpack from 5.99.0 to 5.102.0 |
-| \* | [#475](https://github.com/microsoft/vscode-isort/pull/475) | dependabot | 2025-10-01 | 81 | - | - | pip(deps): bump isort from 6.0.1 to 6.1.0 |
-| \* | [#480](https://github.com/microsoft/vscode-isort/pull/480) | dependabot | 2025-10-20 | 62 | - | - | pip(deps): bump pygls from 1.3.1 to 2.0.0 |
-| \* | [#481](https://github.com/microsoft/vscode-isort/pull/481) | dependabot | 2025-11-01 | 50 | - | - | Bump actions/setup-node from 4 to 6 in /.github/actions/lint |
-| \* | [#482](https://github.com/microsoft/vscode-isort/pull/482) | dependabot | 2025-11-01 | 50 | - | - | Bump actions/setup-node from 3 to 6 in /.github/actions/build-vsix |
-| \* | [#483](https://github.com/microsoft/vscode-isort/pull/483) | dependabot | 2025-11-01 | 50 | - | - | Bump actions/upload-artifact from 4 to 5 in /.github/actions/build-vsix |
-| \* | [#484](https://github.com/microsoft/vscode-isort/pull/484) | dependabot | 2025-11-15 | 36 | - | - | Bump js-yaml from 4.1.0 to 4.1.1 |
+| \* | [#440](https://github.com/microsoft/vscode-isort/pull/440) | dependabot | 2025-05-01 | 241 | - | - | Bump GabrielBB/xvfb-action from 1.6 to 1.7 |
+| \* | [#448](https://github.com/microsoft/vscode-isort/pull/448) | dependabot | 2025-06-18 | 193 | - | - | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+| \* | [#450](https://github.com/microsoft/vscode-isort/pull/450) | dependabot | 2025-07-01 | 180 | - | - | Bump chai and @types/chai |
+| \* | [#452](https://github.com/microsoft/vscode-isort/pull/452) | dependabot | 2025-07-01 | 180 | - | - | Bump sinon from 17.0.1 to 21.0.0 |
+| \* | [#453](https://github.com/microsoft/vscode-isort/pull/453) | dependabot | 2025-07-22 | 159 | - | - | Bump form-data from 4.0.2 to 4.0.4 |
+| \* | [#456](https://github.com/microsoft/vscode-isort/pull/456) | dependabot | 2025-08-06 | 144 | - | - | Bump tmp from 0.2.3 to 0.2.4 |
+| \* | [#459](https://github.com/microsoft/vscode-isort/pull/459) | dependabot | 2025-09-02 | 117 | - | - | Bump actions/checkout from 3 to 5 |
+| \* | [#465](https://github.com/microsoft/vscode-isort/pull/465) | dependabot | 2025-10-01 | 88 | - | - | Bump actions/github-script from 7 to 8 |
+| \* | [#466](https://github.com/microsoft/vscode-isort/pull/466) | dependabot | 2025-10-01 | 88 | - | - | Bump actions/setup-python from 5 to 6 |
+| \* | [#467](https://github.com/microsoft/vscode-isort/pull/467) | dependabot | 2025-10-01 | 88 | - | - | Bump actions/setup-python from 5 to 6 in /.github/actions/lint |
+| \* | [#468](https://github.com/microsoft/vscode-isort/pull/468) | dependabot | 2025-10-01 | 88 | - | - | Bump actions/setup-node from 4 to 5 |
+| \* | [#469](https://github.com/microsoft/vscode-isort/pull/469) | dependabot | 2025-10-01 | 88 | - | - | Bump @typescript-eslint/parser from 7.18.0 to 8.45.0 |
+| \* | [#472](https://github.com/microsoft/vscode-isort/pull/472) | dependabot | 2025-10-01 | 88 | - | - | Bump actions/setup-python from 5 to 6 in /.github/actions/build-vsix |
+| \* | [#473](https://github.com/microsoft/vscode-isort/pull/473) | dependabot | 2025-10-01 | 88 | - | - | Bump mocha from 10.8.2 to 11.7.3 |
+| \* | [#474](https://github.com/microsoft/vscode-isort/pull/474) | dependabot | 2025-10-01 | 88 | - | - | Bump webpack from 5.99.0 to 5.102.0 |
+| \* | [#475](https://github.com/microsoft/vscode-isort/pull/475) | dependabot | 2025-10-01 | 88 | - | - | pip(deps): bump isort from 6.0.1 to 6.1.0 |
+| \* | [#480](https://github.com/microsoft/vscode-isort/pull/480) | dependabot | 2025-10-20 | 69 | - | - | pip(deps): bump pygls from 1.3.1 to 2.0.0 |
+| \* | [#481](https://github.com/microsoft/vscode-isort/pull/481) | dependabot | 2025-11-01 | 57 | - | - | Bump actions/setup-node from 4 to 6 in /.github/actions/lint |
+| \* | [#482](https://github.com/microsoft/vscode-isort/pull/482) | dependabot | 2025-11-01 | 57 | - | - | Bump actions/setup-node from 3 to 6 in /.github/actions/build-vsix |
+| \* | [#483](https://github.com/microsoft/vscode-isort/pull/483) | dependabot | 2025-11-01 | 57 | - | - | Bump actions/upload-artifact from 4 to 5 in /.github/actions/build-vsix |
+| \* | [#484](https://github.com/microsoft/vscode-isort/pull/484) | dependabot | 2025-11-15 | 43 | - | - | Bump js-yaml from 4.1.0 to 4.1.1 |
 
 
 
