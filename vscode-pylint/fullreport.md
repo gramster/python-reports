@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2026-01-04 using: stale=30, all=True
+Generated on 2026-01-11 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -15,27 +15,27 @@ Generated on 2026-01-04 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:50  |[626](https://github.com/microsoft/vscode-pylint/issues/626 "crash when `pygls>=2.0.0` is installed and `importStrategy` is `&quot;fromEnvironment&quot;`") | crash when `pygls>=2.0.0` is installed and `importStrategy` is `"fromEnvironment"` |
- |  OP:90  |[620](https://github.com/microsoft/vscode-pylint/issues/620 "False positive Unable to import with standard modules like os , logging using python embedded inside the workspace") | False positive Unable to import with standard modules like os , logging using python embedded inside the workspace |
- |  OP:275  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
- |  OP:313  |[599](https://github.com/microsoft/vscode-pylint/issues/599 "Improve docs for pylint.args") | Improve docs for pylint.args |
+ |  OP:57  |[626](https://github.com/microsoft/vscode-pylint/issues/626 "crash when `pygls>=2.0.0` is installed and `importStrategy` is `&quot;fromEnvironment&quot;`") | crash when `pygls>=2.0.0` is installed and `importStrategy` is `"fromEnvironment"` |
+ |  OP:97  |[620](https://github.com/microsoft/vscode-pylint/issues/620 "False positive Unable to import with standard modules like os , logging using python embedded inside the workspace") | False positive Unable to import with standard modules like os , logging using python embedded inside the workspace |
+ |  OP:282  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
+ |  OP:320  |[599](https://github.com/microsoft/vscode-pylint/issues/599 "Improve docs for pylint.args") | Improve docs for pylint.args |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:102,  |[581](https://github.com/microsoft/vscode-pylint/issues/581 "Cannot globally set Import Strategy") | Cannot globally set Import Strategy |
- |  P:390,  |[454](https://github.com/microsoft/vscode-pylint/issues/454 "Linting on change/save (with autosave) can be slow") | Linting on change/save (with autosave) can be slow |
- |  P:786,  |[376](https://github.com/microsoft/vscode-pylint/issues/376 "Support dotenv files discovery") | Support dotenv files discovery |
- |  P:315,  |[433](https://github.com/microsoft/vscode-pylint/issues/433 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`") | Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux` |
+ |  P:109,  |[581](https://github.com/microsoft/vscode-pylint/issues/581 "Cannot globally set Import Strategy") | Cannot globally set Import Strategy |
+ |  P:397,  |[454](https://github.com/microsoft/vscode-pylint/issues/454 "Linting on change/save (with autosave) can be slow") | Linting on change/save (with autosave) can be slow |
+ |  P:793,  |[376](https://github.com/microsoft/vscode-pylint/issues/376 "Support dotenv files discovery") | Support dotenv files discovery |
+ |  P:322,  |[433](https://github.com/microsoft/vscode-pylint/issues/433 "Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux`") | Pylint doesn't find the path set in `.env` and `terminal.integrated.env.linux` |
 
 ### Issues in vscode-pylint that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:320  |[594](https://github.com/microsoft/vscode-pylint/issues/594 "Unrecognized option found: max-positional-arguments") | Unrecognized option found: max-positional-arguments |
- |  TM:314  |[476](https://github.com/microsoft/vscode-pylint/issues/476 "[BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace") | [BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace |
- |  TM:1375  |[26](https://github.com/microsoft/vscode-pylint/issues/26 "Problems duplicated when using Jedi") | Problems duplicated when using Jedi |
+ |  TM:327  |[594](https://github.com/microsoft/vscode-pylint/issues/594 "Unrecognized option found: max-positional-arguments") | Unrecognized option found: max-positional-arguments |
+ |  TM:321  |[476](https://github.com/microsoft/vscode-pylint/issues/476 "[BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace") | [BUG] multiple lsp_server.py processes are spawned for each folder in a multi-root workspace |
+ |  TM:1382  |[26](https://github.com/microsoft/vscode-pylint/issues/26 "Problems duplicated when using Jedi") | Problems duplicated when using Jedi |
 
 ---
 
@@ -46,60 +46,55 @@ Generated on 2026-01-04 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:33  |[628](https://github.com/microsoft/vscode-pylint/issues/628 "Keep this wrapper up-to-date v4.0.4 is the current release") | Keep this wrapper up-to-date v4.0.4 is the current release |
- |  OP:64  |[625](https://github.com/microsoft/vscode-pylint/issues/625 "Lots of crashing") | Lots of crashing |
- |  OP:107  |[618](https://github.com/microsoft/vscode-pylint/issues/618 "Feature Request: `&quot;pylint.cwd&quot;: &quot;${nearestConfig}&quot;`") | Feature Request: `"pylint.cwd": "${nearestConfig}"` |
- |  OP:252  |[607](https://github.com/microsoft/vscode-pylint/issues/607 "[feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding") | [feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding |
- |  OP:528  |[567](https://github.com/microsoft/vscode-pylint/issues/567 "Pylint makes &quot;Quick Fix&quot; suggestions take 10s+ to load") | Pylint makes "Quick Fix" suggestions take 10s+ to load |
- |  OP:1329  |[96](https://github.com/microsoft/vscode-pylint/issues/96 "Show indicator that pylint is still running for the file") | Show indicator that pylint is still running for the file |
- |  OP:1341  |[79](https://github.com/microsoft/vscode-pylint/issues/79 "Project wide evaluation") | Project wide evaluation |
- |  OP:1341  |[78](https://github.com/microsoft/vscode-pylint/issues/78 "Reveal pylint evaluation score") | Reveal pylint evaluation score |
+ |  OP:40  |[628](https://github.com/microsoft/vscode-pylint/issues/628 "Keep this wrapper up-to-date v4.0.4 is the current release") | Keep this wrapper up-to-date v4.0.4 is the current release |
+ |  OP:71  |[625](https://github.com/microsoft/vscode-pylint/issues/625 "Lots of crashing") | Lots of crashing |
+ |  OP:114  |[618](https://github.com/microsoft/vscode-pylint/issues/618 "Feature Request: `&quot;pylint.cwd&quot;: &quot;${nearestConfig}&quot;`") | Feature Request: `"pylint.cwd": "${nearestConfig}"` |
+ |  OP:259  |[607](https://github.com/microsoft/vscode-pylint/issues/607 "[feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding") | [feature request] Quick-fix for `Using open without explicitly specifying an encoding` W1514:unspecified-encoding |
+ |  OP:535  |[567](https://github.com/microsoft/vscode-pylint/issues/567 "Pylint makes &quot;Quick Fix&quot; suggestions take 10s+ to load") | Pylint makes "Quick Fix" suggestions take 10s+ to load |
+ |  OP:1336  |[96](https://github.com/microsoft/vscode-pylint/issues/96 "Show indicator that pylint is still running for the file") | Show indicator that pylint is still running for the file |
+ |  OP:1348  |[79](https://github.com/microsoft/vscode-pylint/issues/79 "Project wide evaluation") | Project wide evaluation |
+ |  OP:1348  |[78](https://github.com/microsoft/vscode-pylint/issues/78 "Reveal pylint evaluation score") | Reveal pylint evaluation score |
 
 ### Issues in vscode-pylint that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:172, OP:172  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
- |  TM:655, OP:652  |[535](https://github.com/microsoft/vscode-pylint/issues/535 "ignore concrete linting warnings via GUI, e.g. via QuickFix") | ignore concrete linting warnings via GUI, e.g. via QuickFix |
- |  TM:1031, OP:1030  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
+ |  TM:179, OP:179  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
+ |  TM:662, OP:659  |[535](https://github.com/microsoft/vscode-pylint/issues/535 "ignore concrete linting warnings via GUI, e.g. via QuickFix") | ignore concrete linting warnings via GUI, e.g. via QuickFix |
+ |  TM:1038, OP:1037  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:357,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
+ |  P:364,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
 
 ### Issues in vscode-pylint that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:242  |[606](https://github.com/microsoft/vscode-pylint/issues/606 "pylint doesn't show problems in problem tab from venv pls help") | pylint doesn't show problems in problem tab from venv pls help |
- |  TM:570  |[560](https://github.com/microsoft/vscode-pylint/issues/560 "Automatic restart after library is installed") | Automatic restart after library is installed |
- |  TM:717  |[479](https://github.com/microsoft/vscode-pylint/issues/479 "Resolve Pylance/Pylint overlap (optionally?)") | Resolve Pylance/Pylint overlap (optionally?) |
+ |  TM:249  |[606](https://github.com/microsoft/vscode-pylint/issues/606 "pylint doesn't show problems in problem tab from venv pls help") | pylint doesn't show problems in problem tab from venv pls help |
+ |  TM:577  |[560](https://github.com/microsoft/vscode-pylint/issues/560 "Automatic restart after library is installed") | Automatic restart after library is installed |
+ |  TM:724  |[479](https://github.com/microsoft/vscode-pylint/issues/479 "Resolve Pylance/Pylint overlap (optionally?)") | Resolve Pylance/Pylint overlap (optionally?) |
 
 ## PULL REQUEST ACTIVITY
 
-
-### Pull Requests opened in the past 7 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#637](https://github.com/microsoft/vscode-pylint/pull/637) | dependabot | 2025-12-31 | 4 | - | - | Bump qs from 6.12.1 to 6.14.1 |
 
 ### Pull Requests still open that were opened more than 7 days ago:
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#592](https://github.com/microsoft/vscode-pylint/pull/592) | karthiknadig | 2025-02-13 | 325 | - | - | Remove linting on change |
-| \* | [#608](https://github.com/microsoft/vscode-pylint/pull/608) | hamirmahal | 2025-04-27 | 252 | - | - | feat: fix for `Pylint(W1514:unspecified-encoding)` |
-| \* | [#619](https://github.com/microsoft/vscode-pylint/pull/619) | DipakHalkude | 2025-09-24 | 102 | - | - | Respect user-level pylint.importStrategy in workspace via inspect fal… |
-| \* | [#630](https://github.com/microsoft/vscode-pylint/pull/630) | dependabot | 2025-12-17 | 18 | - | - | Bump glob from 10.4.1 to 10.5.0 |
-| \* | [#631](https://github.com/microsoft/vscode-pylint/pull/631) | dependabot | 2025-12-17 | 18 | - | - | Bump tar-fs from 2.1.3 to 2.1.4 |
-| \* | [#632](https://github.com/microsoft/vscode-pylint/pull/632) | dependabot | 2025-12-17 | 18 | - | - | Bump tmp from 0.2.1 to 0.2.5 |
-| \* | [#633](https://github.com/microsoft/vscode-pylint/pull/633) | dependabot | 2025-12-17 | 18 | - | - | Bump form-data from 4.0.0 to 4.0.5 |
-| \* | [#634](https://github.com/microsoft/vscode-pylint/pull/634) | dependabot | 2025-12-17 | 18 | - | - | Bump js-yaml from 4.1.0 to 4.1.1 |
-| \* | [#635](https://github.com/microsoft/vscode-pylint/pull/635) | dependabot | 2025-12-17 | 18 | - | - | Bump pip from 25.0.1 to 25.3 |
-| \* | [#636](https://github.com/microsoft/vscode-pylint/pull/636) | dependabot | 2025-12-17 | 18 | - | - | Bump setuptools from 75.8.0 to 78.1.1 |
+| \* | [#592](https://github.com/microsoft/vscode-pylint/pull/592) | karthiknadig | 2025-02-13 | 332 | - | - | Remove linting on change |
+| \* | [#608](https://github.com/microsoft/vscode-pylint/pull/608) | hamirmahal | 2025-04-27 | 259 | - | - | feat: fix for `Pylint(W1514:unspecified-encoding)` |
+| \* | [#619](https://github.com/microsoft/vscode-pylint/pull/619) | DipakHalkude | 2025-09-24 | 109 | - | - | Respect user-level pylint.importStrategy in workspace via inspect fal… |
+| \* | [#630](https://github.com/microsoft/vscode-pylint/pull/630) | dependabot | 2025-12-17 | 25 | - | - | Bump glob from 10.4.1 to 10.5.0 |
+| \* | [#631](https://github.com/microsoft/vscode-pylint/pull/631) | dependabot | 2025-12-17 | 25 | - | - | Bump tar-fs from 2.1.3 to 2.1.4 |
+| \* | [#632](https://github.com/microsoft/vscode-pylint/pull/632) | dependabot | 2025-12-17 | 25 | - | - | Bump tmp from 0.2.1 to 0.2.5 |
+| \* | [#633](https://github.com/microsoft/vscode-pylint/pull/633) | dependabot | 2025-12-17 | 25 | - | - | Bump form-data from 4.0.0 to 4.0.5 |
+| \* | [#634](https://github.com/microsoft/vscode-pylint/pull/634) | dependabot | 2025-12-17 | 25 | - | - | Bump js-yaml from 4.1.0 to 4.1.1 |
+| \* | [#635](https://github.com/microsoft/vscode-pylint/pull/635) | dependabot | 2025-12-17 | 25 | - | - | Bump pip from 25.0.1 to 25.3 |
+| \* | [#636](https://github.com/microsoft/vscode-pylint/pull/636) | dependabot | 2025-12-17 | 25 | - | - | Bump setuptools from 75.8.0 to 78.1.1 |
+|   | [#637](https://github.com/microsoft/vscode-pylint/pull/637) | dependabot | 2025-12-31 | 11 | - | - | Bump qs from 6.12.1 to 6.14.1 |
 
 
 
