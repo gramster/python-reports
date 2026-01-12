@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-autopep8
 
 
-Generated on 2026-01-04 using: stale=30, all=True
+Generated on 2026-01-11 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -13,18 +13,13 @@ Generated on 2026-01-04 using: stale=30, all=True
 ## PULL REQUEST ACTIVITY
 
 
-### Pull Requests opened in the past 7 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#336](https://github.com/microsoft/vscode-autopep8/pull/336) | dependabot | 2026-01-01 | 3 | - | - | Bump qs from 6.14.0 to 6.14.1 |
-
 ### Pull Requests still open that were opened more than 7 days ago:
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#314](https://github.com/microsoft/vscode-autopep8/pull/314) | dependabot | 2025-08-06 | 151 | - | - | Bump tmp from 0.2.1 to 0.2.4 |
-| \* | [#327](https://github.com/microsoft/vscode-autopep8/pull/327) | dependabot | 2025-11-17 | 48 | - | - | Bump js-yaml from 3.14.1 to 3.14.2 |
+| \* | [#314](https://github.com/microsoft/vscode-autopep8/pull/314) | dependabot | 2025-08-06 | 158 | - | - | Bump tmp from 0.2.1 to 0.2.4 |
+| \* | [#327](https://github.com/microsoft/vscode-autopep8/pull/327) | dependabot | 2025-11-17 | 55 | - | - | Bump js-yaml from 3.14.1 to 3.14.2 |
+|   | [#336](https://github.com/microsoft/vscode-autopep8/pull/336) | dependabot | 2026-01-01 | 10 | - | - | Bump qs from 6.14.0 to 6.14.1 |
 
 
 
