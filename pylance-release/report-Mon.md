@@ -2,22 +2,13 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-05 using: stale=30, all=False
+Generated on 2026-01-12 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in pylance-release that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[7815](https://github.com/microsoft/pylance-release/issues/7815 "vscode settings key python.analysis.showOnlyDirectDependenciesInAutoImport unintuitively defaults to true in &quot;full&quot; mode")  |vscode settings key python.analysis.showOnlyDirectDependenciesInAutoImport unintuitively defaults to true in "full" mode |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,10 +17,10 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7546](https://github.com/microsoft/pyrx/pull/7546) | heejaechang | 2026-01-05 | 0 | - | - | Fix auto-import for deep modules missing from indices due to packageDepth |
-| \* | [#7545](https://github.com/microsoft/pyrx/pull/7545) | copilot-swe-agent | 2026-01-05 | 0 | - | - | Add auto-translation of Python docstrings in hover tooltips |
-| \* | [#7536](https://github.com/microsoft/pyrx/pull/7536) | bschnurr | 2026-01-05 | 0 | - | - | Pylance Localization Update |
-| \* | [#7533](https://github.com/microsoft/pyrx/pull/7533) | dependabot | 2026-01-05 | 0 | - | - | Bump qs from 6.14.0 to 6.14.1 in /packages/vscode-pylance |
+| \* | [#7599](https://github.com/microsoft/pyrx/pull/7599) | heejaechang | 2026-01-12 | 0 | - | - | Fix pytest query options to be workspace-specific and handle HostKind.FullAccess |
+| \* | [#7598](https://github.com/microsoft/pyrx/pull/7598) | copilot-swe-agent | 2026-01-12 | 0 | - | - | Find All References: detect __init__ calls via cls in classmethods |
+| \* | [#7597](https://github.com/microsoft/pyrx/pull/7597) | copilot-swe-agent | 2026-01-12 | 0 | - | - | Prevent indexer crash when import roots contain file paths |
+| \* | [#7589](https://github.com/microsoft/pyrx/pull/7589) | bschnurr | 2026-01-12 | 0 | - | - | Stubs update |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -38,13 +29,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:4  |[7812](https://github.com/microsoft/pylance-release/issues/7812 "String annotations don't create a tooltip on hover")  |String annotations don't create a tooltip on hover |
- | \* TM:5  |[7811](https://github.com/microsoft/pylance-release/issues/7811 "Project environment from Python Environments extension is not used")  |Project environment from Python Environments extension is not used |
- | \* TM:5  |[7810](https://github.com/microsoft/pylance-release/issues/7810 "ghkekar")  |ghkekar |
- | \* TM:6  |[7808](https://github.com/microsoft/pylance-release/issues/7808 "Tudo Go Delivery ")  |Tudo Go Delivery  |
- | \* TM:7  |[7807](https://github.com/microsoft/pylance-release/issues/7807 "missing imports")  |missing imports |
- | \* TM:10  |[7802](https://github.com/microsoft/pylance-release/issues/7802 "from rest_framework import viewsets")  |from rest_framework import viewsets |
- | \* TM:11  |[7800](https://github.com/microsoft/pylance-release/issues/7800 "<!-- add-pr-comment:add-pr-comment -->release ")  |<!-- add-pr-comment:add-pr-comment -->release  |
+ | \* TM:83  |[7658](https://github.com/microsoft/pylance-release/issues/7658 "Feature Request - option to make local rename / cancel rename")  |Feature Request - option to make local rename / cancel rename |
+ | \* TM:0  |[7821](https://github.com/microsoft/pylance-release/issues/7821 "This config can't distinguish some members and some parameters")  |This config can't distinguish some members and some parameters |
+ | \* TM:0  |[7822](https://github.com/microsoft/pylance-release/issues/7822 "Extension causes high cpu load")  |Extension causes high cpu load |
 
 
 
