@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2026-01-12 using: stale=30, all=False
+Generated on 2026-01-19 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,15 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests merged in the past 1 day(s):
+### Issues in debugpy that have comments from 3rd party after last team response:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1989](https://github.com/microsoft/debugpy/pull/1989) | rameshvarun | 2026-01-10 | 1 | 2026-01-12 | rchiodo | Add Devcontainer Spec |
-| \* | [#1989](https://github.com/microsoft/debugpy/pull/1989) | rameshvarun | 2026-01-10 | 1 | 2026-01-12 | rchiodo | Add Devcontainer Spec |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[1971](https://github.com/microsoft/debugpy/issues/1971 "Python 3.14: __annotate__ NotImplementedError on annotated pytest fixtures, tests and pydantic models")  |Python 3.14: __annotate__ NotImplementedError on annotated pytest fixtures, tests and pydantic models |
 
 
 
