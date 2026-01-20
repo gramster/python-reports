@@ -2,13 +2,24 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-12 using: stale=30, all=False
+Generated on 2026-01-19 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[7835](https://github.com/microsoft/pylance-release/issues/7835 "not gettting how to solve ")  |not gettting how to solve  |
+ | \* OP:0  |[7834](https://github.com/microsoft/pylance-release/issues/7834 "not gettting how to solve ")  |not gettting how to solve  |
+ | \* OP:1  |[7833](https://github.com/microsoft/pylance-release/issues/7833 "my error")  |my error |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,21 +28,12 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7599](https://github.com/microsoft/pyrx/pull/7599) | heejaechang | 2026-01-12 | 0 | - | - | Fix pytest query options to be workspace-specific and handle HostKind.FullAccess |
-| \* | [#7598](https://github.com/microsoft/pyrx/pull/7598) | copilot-swe-agent | 2026-01-12 | 0 | - | - | Find All References: detect __init__ calls via cls in classmethods |
-| \* | [#7597](https://github.com/microsoft/pyrx/pull/7597) | copilot-swe-agent | 2026-01-12 | 0 | - | - | Prevent indexer crash when import roots contain file paths |
-| \* | [#7589](https://github.com/microsoft/pyrx/pull/7589) | bschnurr | 2026-01-12 | 0 | - | - | Stubs update |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:83  |[7658](https://github.com/microsoft/pylance-release/issues/7658 "Feature Request - option to make local rename / cancel rename")  |Feature Request - option to make local rename / cancel rename |
- | \* TM:0  |[7821](https://github.com/microsoft/pylance-release/issues/7821 "This config can't distinguish some members and some parameters")  |This config can't distinguish some members and some parameters |
- | \* TM:0  |[7822](https://github.com/microsoft/pylance-release/issues/7822 "Extension causes high cpu load")  |Extension causes high cpu load |
+| \* | [#7638](https://github.com/microsoft/pyrx/pull/7638) | bschnurr | 2026-01-19 | 0 | - | - | Fix validation |
+| \* | [#7636](https://github.com/microsoft/pyrx/pull/7636) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Disable CodeQL on pull requests and codeql-test branch |
+| \* | [#7635](https://github.com/microsoft/pyrx/pull/7635) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Fix npm ci to propagate through postinstall hooks |
+| \* | [#7634](https://github.com/microsoft/pyrx/pull/7634) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Update Lerna to 9.0.1 |
+| \* | [#7633](https://github.com/microsoft/pyrx/pull/7633) | bschnurr | 2026-01-19 | 0 | - | - | Team digest |
+| \* | [#7632](https://github.com/microsoft/pyrx/pull/7632) | bschnurr | 2026-01-19 | 0 | - | - | Pandas stubs update |
 
 
 
