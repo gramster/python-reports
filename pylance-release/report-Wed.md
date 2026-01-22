@@ -2,31 +2,13 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-14 using: stale=30, all=False
+Generated on 2026-01-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1, OP:1  |[7827](https://github.com/microsoft/pylance-release/issues/7827 "Problem of &quot;member not exported from module&quot; when it is")  |Problem of "member not exported from module" when it is |
-
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:1,  |[7443](https://github.com/microsoft/pylance-release/issues/7443 "Pylance using the wrong interpreter")  |Pylance using the wrong interpreter |
 
 ## PULL REQUEST ACTIVITY
 
@@ -35,11 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7615](https://github.com/microsoft/pyrx/pull/7615) | copilot-swe-agent | 2026-01-14 | 0 | - | - | Investigation: Aggregate dependabot PRs task requires GitHub API access |
-| \* | [#7613](https://github.com/microsoft/pyrx/pull/7613) | dependabot | 2026-01-14 | 0 | - | - | Bump diff from 7.0.0 to 8.0.3 |
-| \* | [#7610](https://github.com/microsoft/pyrx/pull/7610) | dependabot | 2026-01-14 | 0 | - | - | Bump undici from 7.16.0 to 7.18.2 in /packages/pylance-dev |
-| \* | [#7609](https://github.com/microsoft/pyrx/pull/7609) | dependabot | 2026-01-14 | 0 | - | - | Bump undici from 7.11.0 to 7.18.2 in /packages/vscode-pylance |
-| \* | [#7607](https://github.com/microsoft/pyrx/pull/7607) | copilot-swe-agent | 2026-01-14 | 0 | - | - | Add test coverage for custom typeshed stdlib module resolution |
+| \* | [#7659](https://github.com/microsoft/pyrx/pull/7659) | bschnurr | 2026-01-21 | 0 | - | - | Set lerna to specific version 9.0.1 |
+| \* | [#7658](https://github.com/microsoft/pyrx/pull/7658) | copilot-swe-agent | 2026-01-21 | 0 | - | - | Update python environments API to match environments extension version |
+| \* | [#7657](https://github.com/microsoft/pyrx/pull/7657) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /tests/pylance-browser |
+| \* | [#7656](https://github.com/microsoft/pyrx/pull/7656) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pylance-browser |
+| \* | [#7655](https://github.com/microsoft/pyrx/pull/7655) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 |
+| \* | [#7654](https://github.com/microsoft/pyrx/pull/7654) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pylance-internal |
+| \* | [#7653](https://github.com/microsoft/pyrx/pull/7653) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pyright |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -48,8 +32,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:221  |[7308](https://github.com/microsoft/pylance-release/issues/7308 "Quick Fix doesn't suggest import from collections.abc ")  |Quick Fix doesn't suggest import from collections.abc  |
- | \* TM:0  |[7830](https://github.com/microsoft/pylance-release/issues/7830 "Allow everything from custom pyright")  |Allow everything from custom pyright |
+ | \* TM:362  |[6888](https://github.com/microsoft/pylance-release/issues/6888 "Symlinks are not taken into account with &quot;find references&quot;")  |Symlinks are not taken into account with "find references" |
+ | \* TM:311  |[7043](https://github.com/microsoft/pylance-release/issues/7043 "Pylance analyzing whole workspace despite having &quot;python.analysis.diagnosticMode&quot;: &quot;openFilesOnly&quot;")  |Pylance analyzing whole workspace despite having "python.analysis.diagnosticMode": "openFilesOnly" |
 
 
 
