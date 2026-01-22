@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2026-01-14 using: stale=30, all=False
+Generated on 2026-01-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[8358](https://github.com/microsoft/PTVS/issues/8358 "IntelliSense sometimes doesn't work well in HTML files.")  |IntelliSense sometimes doesn't work well in HTML files. |
+ | \* OP:0  |[8366](https://github.com/microsoft/PTVS/issues/8366 "Interactive mode crash with IPYTHON")  |Interactive mode crash with IPYTHON |
+
+## PULL REQUEST ACTIVITY
+
+
+### Pull Requests opened in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#8367](https://github.com/microsoft/PTVS/pull/8367) | csigs | 2026-01-21 | 0 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20260121101713273 to main |
 
 
 
