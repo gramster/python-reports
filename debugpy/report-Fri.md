@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2026-01-16 using: stale=30, all=False
+Generated on 2026-01-23 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[1669](https://github.com/microsoft/debugpy/issues/1669 "Debug fails in python jupyter notebook where cells have `execution_count: null`")  |Debug fails in python jupyter notebook where cells have `execution_count: null` |
+ | \* P:0,  |[1807](https://github.com/microsoft/debugpy/issues/1807 "The debugging session fails silently immediately after clicking 'Start Debugging' (On Windows only)")  |The debugging session fails silently immediately after clicking 'Start Debugging' (On Windows only) |
 
 
 
