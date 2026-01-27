@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-19 using: stale=30, all=False
+Generated on 2026-01-26 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,27 +13,23 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7835](https://github.com/microsoft/pylance-release/issues/7835 "not gettting how to solve ")  |not gettting how to solve  |
- | \* OP:0  |[7834](https://github.com/microsoft/pylance-release/issues/7834 "not gettting how to solve ")  |not gettting how to solve  |
- | \* OP:1  |[7833](https://github.com/microsoft/pylance-release/issues/7833 "my error")  |my error |
+ | \* TM:0, OP:0  |[7843](https://github.com/microsoft/pylance-release/issues/7843 "performance issue")  |performance issue |
 
-## PULL REQUEST ACTIVITY
+## RECENTLY CLOSED ISSUES
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues closed in the past 1 day(s):
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7638](https://github.com/microsoft/pyrx/pull/7638) | bschnurr | 2026-01-19 | 0 | - | - | Fix validation |
-| \* | [#7636](https://github.com/microsoft/pyrx/pull/7636) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Disable CodeQL on pull requests and codeql-test branch |
-| \* | [#7635](https://github.com/microsoft/pyrx/pull/7635) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Fix npm ci to propagate through postinstall hooks |
-| \* | [#7634](https://github.com/microsoft/pyrx/pull/7634) | copilot-swe-agent | 2026-01-19 | 0 | - | - | Update Lerna to 9.0.1 |
-| \* | [#7633](https://github.com/microsoft/pyrx/pull/7633) | bschnurr | 2026-01-19 | 0 | - | - | Team digest |
-| \* | [#7632](https://github.com/microsoft/pyrx/pull/7632) | bschnurr | 2026-01-19 | 0 | - | - | Pandas stubs update |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[7846](https://github.com/microsoft/pylance-release/issues/7846 "Unused (&quot;is not accessed&quot;) variables flicker while typing (Bug)")  |Unused ("is not accessed") variables flicker while typing (Bug) |
+ | \* TM:0  |[7844](https://github.com/microsoft/pylance-release/issues/7844 "c")  |c |
+ | \* TM:2  |[7842](https://github.com/microsoft/pylance-release/issues/7842 "open ai code in python")  |open ai code in python |
+ | \* TM:0  |[7845](https://github.com/microsoft/pylance-release/issues/7845 "Is this expected? ")  |Is this expected?  |
 
 
 
