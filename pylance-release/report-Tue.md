@@ -2,22 +2,13 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-20 using: stale=30, all=False
+Generated on 2026-01-27 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in pylance-release that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:1  |[7834](https://github.com/microsoft/pylance-release/issues/7834 "not gettting how to solve ")  |not gettting how to solve  |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,8 +17,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7642](https://github.com/microsoft/pyrx/pull/7642) | dependabot | 2026-01-20 | 0 | - | - | Bump diff from 4.0.2 to 4.0.4 in /packages/magicpython |
-| \* | [#7641](https://github.com/microsoft/pyrx/pull/7641) | dependabot | 2026-01-20 | 0 | - | - | Bump diff in /tests/pylance-browser |
+| \* | [#7686](https://github.com/microsoft/pyrx/pull/7686) | rchiodo | 2026-01-27 | 0 | - | - | Fix TSP JSON generator: correct brace parsing, type handling, and output sync |
+| \* | [#7684](https://github.com/microsoft/pyrx/pull/7684) | dependabot | 2026-01-27 | 0 | - | - | Bump hono from 4.11.4 to 4.11.7 in /packages/pylance-dev |
+| \* | [#7683](https://github.com/microsoft/pyrx/pull/7683) | dependabot | 2026-01-27 | 0 | - | - | Bump hono from 4.11.4 to 4.11.7 in /packages/pylance-copilot |
+| \* | [#7682](https://github.com/microsoft/pyrx/pull/7682) | copilot-swe-agent | 2026-01-27 | 0 | - | - | Fix transformers package hover performance with lazy TYPE_CHECKING import resolution (10-15x speedup) |
+| \* | [#7681](https://github.com/microsoft/pyrx/pull/7681) | rchiodo | 2026-01-27 | 0 | - | - | Implement high-performance Rust-based out-of-proc indexer for Pylance |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -36,9 +30,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7837](https://github.com/microsoft/pylance-release/issues/7837 "urlpatterns = [     path('admin/', admin.site.urls), # Fixed .urls     path('', HomeView),     path('about/', AboutView),       # Removed leading /     path('menu/', MenuView),        # Removed leading /     path('book-table/', BookTableView), ]")  |urlpatterns = [     path('admin/', admin.site.urls), # Fixed .urls     path('', HomeView),     path('about/', AboutView),       # Removed leading /     path('menu/', MenuView),        # Removed leading /     path('book-table/', BookTableView), ] |
- | \* TM:1  |[7835](https://github.com/microsoft/pylance-release/issues/7835 "not gettting how to solve ")  |not gettting how to solve  |
- | \* TM:1  |[7833](https://github.com/microsoft/pylance-release/issues/7833 "my error")  |my error |
+ | \* TM:1  |[7843](https://github.com/microsoft/pylance-release/issues/7843 "performance issue")  |performance issue |
 
 
 
