@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-21 using: stale=30, all=False
+Generated on 2026-01-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,23 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7659](https://github.com/microsoft/pyrx/pull/7659) | bschnurr | 2026-01-21 | 0 | - | - | Set lerna to specific version 9.0.1 |
-| \* | [#7658](https://github.com/microsoft/pyrx/pull/7658) | copilot-swe-agent | 2026-01-21 | 0 | - | - | Update python environments API to match environments extension version |
-| \* | [#7657](https://github.com/microsoft/pyrx/pull/7657) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /tests/pylance-browser |
-| \* | [#7656](https://github.com/microsoft/pyrx/pull/7656) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pylance-browser |
-| \* | [#7655](https://github.com/microsoft/pyrx/pull/7655) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 |
-| \* | [#7654](https://github.com/microsoft/pyrx/pull/7654) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pylance-internal |
-| \* | [#7653](https://github.com/microsoft/pyrx/pull/7653) | dependabot | 2026-01-21 | 0 | - | - | Bump lodash from 4.17.21 to 4.17.23 in /packages/pyright |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:362  |[6888](https://github.com/microsoft/pylance-release/issues/6888 "Symlinks are not taken into account with &quot;find references&quot;")  |Symlinks are not taken into account with "find references" |
- | \* TM:311  |[7043](https://github.com/microsoft/pylance-release/issues/7043 "Pylance analyzing whole workspace despite having &quot;python.analysis.diagnosticMode&quot;: &quot;openFilesOnly&quot;")  |Pylance analyzing whole workspace despite having "python.analysis.diagnosticMode": "openFilesOnly" |
+| \* | [#7706](https://github.com/microsoft/pyrx/pull/7706) | copilot-swe-agent | 2026-01-28 | 0 | - | - | feat: Expose sync filesystem API in vscode-pylance extension |
+| \* | [#7705](https://github.com/microsoft/pyrx/pull/7705) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Move functools.wraps signature help to Pylance |
+| \* | [#7704](https://github.com/microsoft/pyrx/pull/7704) | heejaechang | 2026-01-28 | 0 | - | - | Fix auto-import grouping to add blank line when inserting before different group |
+| \* | [#7700](https://github.com/microsoft/pyrx/pull/7700) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Prioritize TypedDict key completions inside subscript assignments |
+| \* | [#7698](https://github.com/microsoft/pyrx/pull/7698) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Fix Go to Definition missing `__getattribute__` from base classes |
+| \* | [#7696](https://github.com/microsoft/pyrx/pull/7696) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Handle rename in Annotated string forward refs |
+| \* | [#7692](https://github.com/microsoft/pyrx/pull/7692) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Fix method override completions using decorator wrapper name instead of method name |
+| \* | [#7690](https://github.com/microsoft/pyrx/pull/7690) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Consolidate dependabot updates: lodash 4.17.23, hono 4.11.7, diff 4.0.4/5.2.2 |
 
 
 
