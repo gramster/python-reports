@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2026-01-24 using: stale=30, all=False
+Generated on 2026-01-31 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[1807](https://github.com/microsoft/debugpy/issues/1807 "The debugging session fails silently immediately after clicking 'Start Debugging' (On Windows only)")  |The debugging session fails silently immediately after clicking 'Start Debugging' (On Windows only) |
+ | \* P:0,  |[1970](https://github.com/microsoft/debugpy/issues/1970 "Issue with debugpy and post portem debug hook in Python 3.12+")  |Issue with debugpy and post portem debug hook in Python 3.12+ |
+
+## PULL REQUEST ACTIVITY
+
+
+### Pull Requests opened in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1996](https://github.com/microsoft/debugpy/pull/1996) | nshepperd | 2026-01-31 | 0 | - | - | Easy post_mortem |
 
 
 
