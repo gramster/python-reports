@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/sarif-tools
 
 
-Generated on 2026-01-24 using: stale=30, all=False
+Generated on 2026-01-31 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[111](https://github.com/microsoft/sarif-tools/issues/111 "Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos")  |Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos |
+ | \* OP:1  |[112](https://github.com/microsoft/sarif-tools/issues/112 "`KeyError: 'ruleId'` when converting SARIF file to CodeClimate")  |`KeyError: 'ruleId'` when converting SARIF file to CodeClimate |
 
 
 
