@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2026-01-25 using: stale=30, all=False
+Generated on 2026-02-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8371](https://github.com/microsoft/PTVS/pull/8371) | csigs | 2026-01-25 | 0 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20260125101646401 to main |
+| \* | [#8387](https://github.com/microsoft/PTVS/pull/8387) | csigs | 2026-02-01 | 0 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20260201101652858 to main |
 
 
 
