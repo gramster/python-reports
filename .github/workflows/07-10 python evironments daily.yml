@@ -2,7 +2,7 @@ name: 'Generate Daily Report for sarif-tools'
 
 on:
   schedule:
-    - cron: 50 6 * * *    
+    - cron: 10 7 * * *    
   workflow_dispatch:
   
 permissions:
