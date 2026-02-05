@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-28 using: stale=30, all=False
+Generated on 2026-02-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7814](https://github.com/microsoft/pylance-release/issues/7814 "Request textDocument/completion failed")  |Request textDocument/completion failed |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,14 +26,23 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7706](https://github.com/microsoft/pyrx/pull/7706) | copilot-swe-agent | 2026-01-28 | 0 | - | - | feat: Expose sync filesystem API in vscode-pylance extension |
-| \* | [#7705](https://github.com/microsoft/pyrx/pull/7705) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Move functools.wraps signature help to Pylance |
-| \* | [#7704](https://github.com/microsoft/pyrx/pull/7704) | heejaechang | 2026-01-28 | 0 | - | - | Fix auto-import grouping to add blank line when inserting before different group |
-| \* | [#7700](https://github.com/microsoft/pyrx/pull/7700) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Prioritize TypedDict key completions inside subscript assignments |
-| \* | [#7698](https://github.com/microsoft/pyrx/pull/7698) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Fix Go to Definition missing `__getattribute__` from base classes |
-| \* | [#7696](https://github.com/microsoft/pyrx/pull/7696) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Handle rename in Annotated string forward refs |
-| \* | [#7692](https://github.com/microsoft/pyrx/pull/7692) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Fix method override completions using decorator wrapper name instead of method name |
-| \* | [#7690](https://github.com/microsoft/pyrx/pull/7690) | copilot-swe-agent | 2026-01-28 | 0 | - | - | Consolidate dependabot updates: lodash 4.17.23, hono 4.11.7, diff 4.0.4/5.2.2 |
+| \* | [#7771](https://github.com/microsoft/pyrx/pull/7771) | copilot-swe-agent | 2026-02-04 | 0 | - | - | Add URI translator API for virtual workspace support |
+| \* | [#7770](https://github.com/microsoft/pyrx/pull/7770) | rchiodo | 2026-02-04 | 0 | - | - | More changes to the MCP release server |
+| \* | [#7769](https://github.com/microsoft/pyrx/pull/7769) | dependabot | 2026-02-04 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /packages/pyright |
+| \* | [#7768](https://github.com/microsoft/pyrx/pull/7768) | StellaHuang95 | 2026-02-04 | 0 | - | - | Add Pylance telemetry query agent for Kusto dashboard analysis |
+| \* | [#7767](https://github.com/microsoft/pyrx/pull/7767) | bschnurr | 2026-02-04 | 0 | - | - | Partial Stub doc/skill |
+| \* | [#7764](https://github.com/microsoft/pyrx/pull/7764) | dependabot | 2026-02-04 | 0 | - | - | Bump @modelcontextprotocol/sdk from 1.25.2 to 1.26.0 in /packages/pylance-copilot |
+| \* | [#7763](https://github.com/microsoft/pyrx/pull/7763) | dependabot | 2026-02-04 | 0 | - | - | Bump @modelcontextprotocol/sdk from 1.25.2 to 1.26.0 in /packages/pylance-dev |
+| \* | [#7761](https://github.com/microsoft/pyrx/pull/7761) | bschnurr | 2026-02-04 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[7855](https://github.com/microsoft/pylance-release/issues/7855 "not working")  |not working |
 
 
 
