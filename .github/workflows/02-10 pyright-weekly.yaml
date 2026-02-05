@@ -1,4 +1,4 @@
-name: 'Generate Weekly Full Report for vscode-python-environments'
+name: 'Generate Weekly Full Report for pyright'
 
 on:
   schedule:
