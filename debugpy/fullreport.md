@@ -44,7 +44,7 @@ Generated on 2026-02-04 using: stale=30, all=True
  |  OP:833  |[1413](https://github.com/microsoft/debugpy/issues/1413 "Attach function doesn't work with ubuntu 22.04") | Attach function doesn't work with ubuntu 22.04 |
  |  OP:898  |[1365](https://github.com/microsoft/debugpy/issues/1365 "attach_to_pid() does not work with lazy imports (PEP 690)") | attach_to_pid() does not work with lazy imports (PEP 690) |
  |  OP:904  |[1355](https://github.com/microsoft/debugpy/issues/1355 "Pytest debugger isn't compatible with vscode+playwright") | Pytest debugger isn't compatible with vscode+playwright |
- |  OP:916  |[1342](https://github.com/microsoft/debugpy/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
+ |  OP:917  |[1342](https://github.com/microsoft/debugpy/issues/1342 "Can not debug multiprocess code with streamlit") | Can not debug multiprocess code with streamlit |
  |  OP:921  |[1340](https://github.com/microsoft/debugpy/issues/1340 "Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false") | Generic class using ParamSpec raises TypeError in Python < 3.10, with User Uncaught Exceptions + justMyCode: false |
  |  OP:923  |[1336](https://github.com/microsoft/debugpy/issues/1336 "VSCode sometimes stuck on breakpoint when debugging an embedded interpreter") | VSCode sometimes stuck on breakpoint when debugging an embedded interpreter |
  |  OP:958  |[1323](https://github.com/microsoft/debugpy/issues/1323 "Commit 5601342 breaks test_attach_pid_client tests on Python 3.11") | Commit 5601342 breaks test_attach_pid_client tests on Python 3.11 |
@@ -139,7 +139,7 @@ Generated on 2026-02-04 using: stale=30, all=True
  |  OP:635  |[1581](https://github.com/microsoft/debugpy/issues/1581 "Configure variables view presentation of `len()`") | Configure variables view presentation of `len()` |
  |  OP:677  |[1553](https://github.com/microsoft/debugpy/issues/1553 "possible to effectively get something like &quot;jupyter.debugJustMyCode&quot;: 'sometimes true'?") | possible to effectively get something like "jupyter.debugJustMyCode": 'sometimes true'? |
  |  OP:687  |[1541](https://github.com/microsoft/debugpy/issues/1541 "Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3)") | Cannot set remote breakpoints in Visual Studio Community 2022 (Version 17.9.3) |
- |  OP:703  |[1530](https://github.com/microsoft/debugpy/issues/1530 "Easy Post Mortem Function") | Easy Post Mortem Function |
+ |  OP:704  |[1530](https://github.com/microsoft/debugpy/issues/1530 "Easy Post Mortem Function") | Easy Post Mortem Function |
  |  OP:707  |[1527](https://github.com/microsoft/debugpy/issues/1527 "Debug should skip arguments assignment for step into action by default") | Debug should skip arguments assignment for step into action by default |
  |  OP:740  |[1501](https://github.com/microsoft/debugpy/issues/1501 "Allow multiple debug connections in VS code using the same port") | Allow multiple debug connections in VS code using the same port |
  |  OP:778  |[1488](https://github.com/microsoft/debugpy/issues/1488 "Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue") | Add PyQt6 and PySide6 support for python debugger to avoid import errors and fix breakpoint issue |
