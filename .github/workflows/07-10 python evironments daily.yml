@@ -1,4 +1,4 @@
-name: 'Generate Daily Report for sarif-tools'
+name: 'Generate Daily Report for vscode-python-environments'
 
 on:
   schedule:
