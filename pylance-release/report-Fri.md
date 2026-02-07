@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-30 using: stale=30, all=False
+Generated on 2026-02-06 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[6658](https://github.com/microsoft/pylance-release/issues/6658 "pylance slow performance")  |pylance slow performance |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,14 +26,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7728](https://github.com/microsoft/pyrx/pull/7728) | heejaechang | 2026-01-30 | 0 | - | - | Sort private import-module completions after public modules |
-| \* | [#7727](https://github.com/microsoft/pyrx/pull/7727) | heejaechang | 2026-01-30 | 0 | - | - | Fix parameter hover docs for stubbed libs |
-| \* | [#7726](https://github.com/microsoft/pyrx/pull/7726) | heejaechang | 2026-01-30 | 0 | - | - | Add keywordArgument semantic token modifier for call-site keyword args |
-| \* | [#7725](https://github.com/microsoft/pyrx/pull/7725) | dependabot | 2026-01-30 | 0 | - | - | Bump eslint, @typescript-eslint/eslint-plugin and @typescript-eslint/parser in /packages/pyright |
-| \* | [#7722](https://github.com/microsoft/pyrx/pull/7722) | copilot-swe-agent | 2026-01-30 | 0 | - | - | [WIP] Add back rename shadow stdlib code action |
-| \* | [#7720](https://github.com/microsoft/pyrx/pull/7720) | copilot-swe-agent | 2026-01-30 | 0 | - | - | Add TypedDict key rename support for string literal index access |
-| \* | [#7719](https://github.com/microsoft/pyrx/pull/7719) | copilot-swe-agent | 2026-01-30 | 0 | - | - | Show disabled Move Symbol code actions with reason when symbol cannot be moved |
-| \* | [#7717](https://github.com/microsoft/pyrx/pull/7717) | copilot-swe-agent | 2026-01-30 | 0 | - | - | Add registerUriTranslator API for virtual workspace URI mapping |
+| \* | [#7784](https://github.com/microsoft/pyrx/pull/7784) | heejaechang | 2026-02-06 | 0 | - | - | WIP: Add Playwright-based MCP tool for VS Code automation testing |
+| \* | [#7783](https://github.com/microsoft/pyrx/pull/7783) | bschnurr | 2026-02-06 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -33,8 +36,10 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:59  |[7753](https://github.com/microsoft/pylance-release/issues/7753 "Pydantic Dataclass Typehint/Docstring Abnormal")  |Pydantic Dataclass Typehint/Docstring Abnormal |
- | \* TM:152  |[7534](https://github.com/microsoft/pylance-release/issues/7534 "pylance/pyright is not ignoring the .venv in a morepo")  |pylance/pyright is not ignoring the .venv in a morepo |
+ | \* TM:212  |[7401](https://github.com/microsoft/pylance-release/issues/7401 "Custom sorting of import auto-completes to allow `_private` sub-modules and members to be sorted at the end of the list")  |Custom sorting of import auto-completes to allow `_private` sub-modules and members to be sorted at the end of the list |
+ | \* TM:9  |[7847](https://github.com/microsoft/pylance-release/issues/7847 "add extra path doesn't work with execution environment")  |add extra path doesn't work with execution environment |
+ | \* TM:7  |[7850](https://github.com/microsoft/pylance-release/issues/7850 "add back rename shadown stdlib code action")  |add back rename shadown stdlib code action |
+ | \* TM:0  |[7856](https://github.com/microsoft/pylance-release/issues/7856 "Using pyrightVersion with Custom Pyright Build")  |Using pyrightVersion with Custom Pyright Build |
 
 
 
