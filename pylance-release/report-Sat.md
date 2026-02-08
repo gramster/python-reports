@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-01-31 using: stale=30, all=False
+Generated on 2026-02-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,15 +10,20 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues in pylance-release that need a response from team:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7730](https://github.com/microsoft/pyrx/pull/7730) | heejaechang | 2026-01-31 | 0 | - | - | Add implicit self member completions for unqualified names in methods |
-| \* | [#7729](https://github.com/microsoft/pyrx/pull/7729) | heejaechang | 2026-01-30 | 0 | - | - | toolTweaks: Agent docs formatting and confidentiality guidelines |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[7858](https://github.com/microsoft/pylance-release/issues/7858 "reportMissingImports")  |reportMissingImports |
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[6658](https://github.com/microsoft/pylance-release/issues/6658 "pylance slow performance")  |pylance slow performance |
 
 
 
