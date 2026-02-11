@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-03 using: stale=30, all=False
+Generated on 2026-02-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -13,11 +13,11 @@ Only showing items that are new to report in past 1 day(s)
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in pylance-release that need a response from team:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7854](https://github.com/microsoft/pylance-release/issues/7854 "Bug when assign function with annotation to class attribute")  |Bug when assign function with annotation to class attribute |
+ | \* TM:0, OP:0  |[7863](https://github.com/microsoft/pylance-release/issues/7863 "Syntax highlighting doesn't work with escape characters")  |Syntax highlighting doesn't work with escape characters |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,14 +26,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7760](https://github.com/microsoft/pyrx/pull/7760) | heejaechang | 2026-02-03 | 0 | - | - | Add targeted lint/format workflow for changed files only |
-| \* | [#7758](https://github.com/microsoft/pyrx/pull/7758) | heejaechang | 2026-02-03 | 0 | - | - | Go-to-definition: support TypedDict keys in subscript and get() |
-| \* | [#7748](https://github.com/microsoft/pyrx/pull/7748) | dependabot | 2026-02-03 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 |
-| \* | [#7747](https://github.com/microsoft/pyrx/pull/7747) | dependabot | 2026-02-03 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /packages/pylance-copilot |
-| \* | [#7746](https://github.com/microsoft/pyrx/pull/7746) | dependabot | 2026-02-03 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /packages/pylance-internal |
-| \* | [#7745](https://github.com/microsoft/pyrx/pull/7745) | dependabot | 2026-02-03 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /tests/pylance-browser |
-| \* | [#7743](https://github.com/microsoft/pyrx/pull/7743) | dependabot | 2026-02-03 | 0 | - | - | Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /packages/vscode-pylance |
-| \* | [#7741](https://github.com/microsoft/pyrx/pull/7741) | dependabot | 2026-02-03 | 0 | - | - | Bump bytes from 1.11.0 to 1.11.1 in /packages/pylance-indexer-rust |
+| \* | [#7811](https://github.com/microsoft/pyrx/pull/7811) | rchiodo | 2026-02-10 | 0 | - | - | Support suffix-form role markers in reStructuredText docstrings |
+| \* | [#7808](https://github.com/microsoft/pyrx/pull/7808) | dependabot | 2026-02-10 | 0 | - | - | Bump axios from 1.12.2 to 1.13.5 |
+| \* | [#7805](https://github.com/microsoft/pyrx/pull/7805) | rchiodo | 2026-02-10 | 0 | - | - | Refactor tests to be by 'mode' - sync, async, and typeServer |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -42,7 +37,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7852](https://github.com/microsoft/pylance-release/issues/7852 "Extension causes high cpu load")  |Extension causes high cpu load |
+ | \* TM:1  |[7860](https://github.com/microsoft/pylance-release/issues/7860 "Go to declaration is not working for ==")  |Go to declaration is not working for == |
+ | \* TM:1  |[7861](https://github.com/microsoft/pylance-release/issues/7861 "Hover isn't working for pytest fixtures")  |Hover isn't working for pytest fixtures |
+ | \* TM:340  |[7025](https://github.com/microsoft/pylance-release/issues/7025 "Slowdown when enabling reportShadowedImports checks")  |Slowdown when enabling reportShadowedImports checks |
 
 
 
