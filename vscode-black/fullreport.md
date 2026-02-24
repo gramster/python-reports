@@ -15,7 +15,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
