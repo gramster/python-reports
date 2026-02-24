@@ -35,7 +35,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:357,  |[306](https://github.com/microsoft/vscode-mypy/issues/306 "Missing Language Server Features (autocomplete & inlay hints)") | Missing Language Server Features (autocomplete & inlay hints) |
+ |  P:358,  |[306](https://github.com/microsoft/vscode-mypy/issues/306 "Missing Language Server Features (autocomplete & inlay hints)") | Missing Language Server Features (autocomplete & inlay hints) |
  |  P:319,  |[206](https://github.com/microsoft/vscode-mypy/issues/206 "The problem found by mypy do not shown in PROBLEMS") | The problem found by mypy do not shown in PROBLEMS |
 
 ### Issues in vscode-mypy that have no external responses since team response in 30+ days:
@@ -91,11 +91,16 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#435](https://github.com/microsoft/vscode-mypy/pull/435) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
+| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#433](https://github.com/microsoft/vscode-mypy/pull/433) | bschnurr | 2026-02-23 | 0 | - | - | Disable CI trigger in stable pipeline |
 | \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
 | \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
 | \* | [#430](https://github.com/microsoft/vscode-mypy/pull/430) | dependabot | 2026-02-21 | 1 | 2026-02-23 | github-actions | Bump minimatch from 10.1.1 to 10.2.1 |
 | \* | [#430](https://github.com/microsoft/vscode-mypy/pull/430) | dependabot | 2026-02-21 | 1 | 2026-02-23 | github-actions | Bump minimatch from 10.1.1 to 10.2.1 |
-| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 3 | - | - | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
 | \* | [#427](https://github.com/microsoft/vscode-mypy/pull/427) | dependabot | 2026-02-18 | 4 | - | - | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
 | \* | [#426](https://github.com/microsoft/vscode-mypy/pull/426) | dependabot | 2026-02-18 | 4 | - | - | Bump github/gh-aw from 0.43.22 to 0.46.1 in the github-actions-minor-patch group |
 | \* | [#425](https://github.com/microsoft/vscode-mypy/pull/425) | bschnurr | 2026-02-18 | 0 | 2026-02-19 | bschnurr | updating to build template |
@@ -107,6 +112,10 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
 | \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
 | \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
 | \* | [#430](https://github.com/microsoft/vscode-mypy/pull/430) | dependabot | 2026-02-21 | 1 | 2026-02-23 | github-actions | Bump minimatch from 10.1.1 to 10.2.1 |
@@ -126,7 +135,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | \* | [#390](https://github.com/microsoft/vscode-mypy/pull/390) | dependabot | 2026-01-13 | 41 | - | - | Bump virtualenv from 20.29.2 to 20.36.1 |
 | \* | [#392](https://github.com/microsoft/vscode-mypy/pull/392) | dependabot | 2026-01-22 | 32 | - | - | Bump lodash from 4.17.21 to 4.17.23 |
 | \* | [#393](https://github.com/microsoft/vscode-mypy/pull/393) | dependabot | 2026-01-22 | 32 | - | - | Bump wheel from 0.45.1 to 0.46.2 |
-| \* | [#394](https://github.com/microsoft/vscode-mypy/pull/394) | dependabot | 2026-02-02 | 20 | - | - | Bump pip from 25.0.1 to 26.0 |
+| \* | [#394](https://github.com/microsoft/vscode-mypy/pull/394) | dependabot | 2026-02-02 | 21 | - | - | Bump pip from 25.0.1 to 26.0 |
 | \* | [#398](https://github.com/microsoft/vscode-mypy/pull/398) | dependabot | 2026-02-07 | 16 | - | - | Bump webpack from 5.101.3 to 5.105.0 |
 |   | [#403](https://github.com/microsoft/vscode-mypy/pull/403) | dependabot | 2026-02-13 | 10 | - | - | Bump qs from 6.14.1 to 6.14.2 |
 |   | [#405](https://github.com/microsoft/vscode-mypy/pull/405) | dependabot | 2026-02-13 | 10 | - | - | Bump pytest from 8.3.4 to 9.0.2 in /src/test/python_tests |
@@ -137,8 +146,8 @@ Generated on 2026-02-23 using: stale=30, all=True
 |   | [#410](https://github.com/microsoft/vscode-mypy/pull/410) | dependabot | 2026-02-13 | 10 | - | - | Bump the npm-minor-patch group with 8 updates |
 |   | [#411](https://github.com/microsoft/vscode-mypy/pull/411) | dependabot | 2026-02-13 | 10 | - | - | Bump github/codeql-action from 3 to 4 |
 |   | [#412](https://github.com/microsoft/vscode-mypy/pull/412) | dependabot | 2026-02-13 | 10 | - | - | Bump actions/github-script from 7 to 8 |
-|   | [#414](https://github.com/microsoft/vscode-mypy/pull/414) | dependabot | 2026-02-13 | 10 | - | - | Bump actions/setup-python from 5 to 6 |
 |   | [#413](https://github.com/microsoft/vscode-mypy/pull/413) | dependabot | 2026-02-13 | 10 | - | - | Bump eslint from 8.57.1 to 10.0.0 |
+|   | [#414](https://github.com/microsoft/vscode-mypy/pull/414) | dependabot | 2026-02-13 | 10 | - | - | Bump actions/setup-python from 5 to 6 |
 |   | [#415](https://github.com/microsoft/vscode-mypy/pull/415) | dependabot | 2026-02-13 | 10 | - | - | Bump nox from 2025.2.9 to 2026.2.9 |
 |   | [#416](https://github.com/microsoft/vscode-mypy/pull/416) | dependabot | 2026-02-13 | 10 | - | - | Bump chai from 4.5.0 to 6.2.2 |
 |   | [#417](https://github.com/microsoft/vscode-mypy/pull/417) | dependabot | 2026-02-13 | 10 | - | - | Bump @typescript-eslint/eslint-plugin from 7.18.0 to 8.55.0 |
@@ -165,7 +174,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   5: src/test/python_tests/test_linting.py
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
