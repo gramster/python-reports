@@ -22,7 +22,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  OP:328  |[1884](https://github.com/microsoft/debugpy/issues/1884 "Memory leak when debugging `asyncio.create_subprocess_shell` calls") | Memory leak when debugging `asyncio.create_subprocess_shell` calls |
  |  OP:436  |[1782](https://github.com/microsoft/debugpy/issues/1782 "Checks wether matplotlib's backend is interactive even though matplotlib is not required and not installed") | Checks wether matplotlib's backend is interactive even though matplotlib is not required and not installed |
  |  OP:499  |[1699](https://github.com/microsoft/debugpy/issues/1699 "PreLaunchTask correctly waits for background task to wait for client connection, then fails with vague popuop") | PreLaunchTask correctly waits for background task to wait for client connection, then fails with vague popuop |
- |  OP:550  |[1656](https://github.com/microsoft/debugpy/issues/1656 "debugpy.listen() doesn't return endpoint if &quot;in_process_debug_adapter=True&quot; is passed") | debugpy.listen() doesn't return endpoint if "in_process_debug_adapter=True" is passed |
+ |  OP:551  |[1656](https://github.com/microsoft/debugpy/issues/1656 "debugpy.listen() doesn't return endpoint if &quot;in_process_debug_adapter=True&quot; is passed") | debugpy.listen() doesn't return endpoint if "in_process_debug_adapter=True" is passed |
  |  OP:558  |[1652](https://github.com/microsoft/debugpy/issues/1652 "Matplotlib backend issue (TkAgg)") | Matplotlib backend issue (TkAgg) |
  |  OP:586  |[1627](https://github.com/microsoft/debugpy/issues/1627 "Can't enter core python libraries in debug mode") | Can't enter core python libraries in debug mode |
  |  OP:598  |[1620](https://github.com/microsoft/debugpy/issues/1620 "Updated pytest-timeout changes internal functions") | Updated pytest-timeout changes internal functions |
@@ -34,7 +34,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  OP:713  |[1538](https://github.com/microsoft/debugpy/issues/1538 "Breakpoint set in source code are not hit when attaching to a devcontainer process") | Breakpoint set in source code are not hit when attaching to a devcontainer process |
  |  OP:713  |[1536](https://github.com/microsoft/debugpy/issues/1536 "Subprocess debugging not working when --pid and --configure-subProcess are used") | Subprocess debugging not working when --pid and --configure-subProcess are used |
  |  OP:740  |[1522](https://github.com/microsoft/debugpy/issues/1522 "warning on code property") | warning on code property |
- |  OP:753  |[1511](https://github.com/microsoft/debugpy/issues/1511 "Can't load source files when .pyc files have wrong filepaths inside.") | Can't load source files when .pyc files have wrong filepaths inside. |
+ |  OP:754  |[1511](https://github.com/microsoft/debugpy/issues/1511 "Can't load source files when .pyc files have wrong filepaths inside.") | Can't load source files when .pyc files have wrong filepaths inside. |
  |  OP:757  |[1503](https://github.com/microsoft/debugpy/issues/1503 "Support debugging of indirect child processes.") | Support debugging of indirect child processes. |
  |  OP:763  |[1497](https://github.com/microsoft/debugpy/issues/1497 "Debugger hits breakpoints, but doesn't retrieve variables or continue execution") | Debugger hits breakpoints, but doesn't retrieve variables or continue execution |
  |  OP:768  |[1495](https://github.com/microsoft/debugpy/issues/1495 "Hitting a breakpoint in symlinked file opens a new instance of the file") | Hitting a breakpoint in symlinked file opens a new instance of the file |
@@ -62,7 +62,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:195, OP:194  |[1929](https://github.com/microsoft/debugpy/issues/1929 "Script subprocesses cannot be debugged") | Script subprocesses cannot be debugged |
  |  TM:202, OP:201  |[1887](https://github.com/microsoft/debugpy/issues/1887 "Breakpoints in non-stdlib modules named `io.py` are always skipped") | Breakpoints in non-stdlib modules named `io.py` are always skipped |
  |  TM:462, OP:457  |[1739](https://github.com/microsoft/debugpy/issues/1739 "Timed out error while using debugpy in IntegratedTerminal") | Timed out error while using debugpy in IntegratedTerminal |
- |  TM:349, OP:349  |[1671](https://github.com/microsoft/debugpy/issues/1671 "Specific characters in path of parent directories of file causes debugger to crash.") | Specific characters in path of parent directories of file causes debugger to crash. |
+ |  TM:350, OP:350  |[1671](https://github.com/microsoft/debugpy/issues/1671 "Specific characters in path of parent directories of file causes debugger to crash.") | Specific characters in path of parent directories of file causes debugger to crash. |
  |  TM:604, OP:594  |[1604](https://github.com/microsoft/debugpy/issues/1604 "Fatal Python Error on debugpy.adapter shutdown") | Fatal Python Error on debugpy.adapter shutdown |
  |  TM:630, OP:630  |[1593](https://github.com/microsoft/debugpy/issues/1593 "python debugger ignores breakpoints?") | python debugger ignores breakpoints? |
  |  TM:376, OP:342  |[1579](https://github.com/microsoft/debugpy/issues/1579 "Debugger times out if shell startup is &quot;slow&quot;") | Debugger times out if shell startup is "slow" |
@@ -101,14 +101,14 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:434  |[1783](https://github.com/microsoft/debugpy/issues/1783 "Remote attach debug server not dying upon killing the attached process") | Remote attach debug server not dying upon killing the attached process |
  |  TM:375  |[1749](https://github.com/microsoft/debugpy/issues/1749 "debugpy listen silently crashing") | debugpy listen silently crashing |
  |  TM:490  |[1710](https://github.com/microsoft/debugpy/issues/1710 "Regression : Timeout with azure identity") | Regression : Timeout with azure identity |
- |  TM:356  |[1853](https://github.com/microsoft/debugpy/issues/1853 "nushell doesn't work with debugpy (python debugger)") | nushell doesn't work with debugpy (python debugger) |
+ |  TM:357  |[1853](https://github.com/microsoft/debugpy/issues/1853 "nushell doesn't work with debugpy (python debugger)") | nushell doesn't work with debugpy (python debugger) |
  |  TM:523  |[1675](https://github.com/microsoft/debugpy/issues/1675 "Incomplete call stack when raise from") | Incomplete call stack when raise from |
  |  TM:602  |[1616](https://github.com/microsoft/debugpy/issues/1616 "Importing pypinyin takes too much time (around 10min)") | Importing pypinyin takes too much time (around 10min) |
  |  TM:633  |[1592](https://github.com/microsoft/debugpy/issues/1592 "Microsoft Python Debugger not working in a virtual environment created with venv module on windows") | Microsoft Python Debugger not working in a virtual environment created with venv module on windows |
  |  TM:602  |[1584](https://github.com/microsoft/debugpy/issues/1584 "Attach to PID of application embedding Python not working in VS Code on Windows") | Attach to PID of application embedding Python not working in VS Code on Windows |
  |  TM:523  |[1678](https://github.com/microsoft/debugpy/issues/1678 "Parent process venv is not passed through to python subprocesses when using internalConsole") | Parent process venv is not passed through to python subprocesses when using internalConsole |
  |  TM:714  |[1533](https://github.com/microsoft/debugpy/issues/1533 "Duplicate path error suddenly appears on debugging only") | Duplicate path error suddenly appears on debugging only |
- |  TM:349  |[1499](https://github.com/microsoft/debugpy/issues/1499 "Python debugger changes __file__") | Python debugger changes __file__ |
+ |  TM:350  |[1499](https://github.com/microsoft/debugpy/issues/1499 "Python debugger changes __file__") | Python debugger changes __file__ |
  |  TM:816  |[1463](https://github.com/microsoft/debugpy/issues/1463 "Timeout waiting for debugger connection to running pythonnet process") | Timeout waiting for debugger connection to running pythonnet process |
  |  TM:854  |[1406](https://github.com/microsoft/debugpy/issues/1406 "IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr") | IORedirector doesn't behave like IOBase causing problems interacting with stdout and stderr |
  |  TM:861  |[1397](https://github.com/microsoft/debugpy/issues/1397 "Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes')") | Can't use debugpy in macos/vscode. Immediately Finishes (CANNOT USE these API proposals 'portsAttributes') |
@@ -151,7 +151,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  OP:916  |[1366](https://github.com/microsoft/debugpy/issues/1366 "Support DAP's `hitBreakpointIds`") | Support DAP's `hitBreakpointIds` |
  |  OP:950  |[1333](https://github.com/microsoft/debugpy/issues/1333 "Release debugpy source as tar.gz instead of zip") | Release debugpy source as tar.gz instead of zip |
  |  OP:958  |[1328](https://github.com/microsoft/debugpy/issues/1328 "View thread state in debugger without breakpoints") | View thread state in debugger without breakpoints |
- |  OP:966  |[1326](https://github.com/microsoft/debugpy/issues/1326 "`log message` support the `=` of f string to display both the expression text and its value?") | `log message` support the `=` of f string to display both the expression text and its value? |
+ |  OP:967  |[1326](https://github.com/microsoft/debugpy/issues/1326 "`log message` support the `=` of f string to display both the expression text and its value?") | `log message` support the `=` of f string to display both the expression text and its value? |
  |  OP:987  |[1310](https://github.com/microsoft/debugpy/issues/1310 "Variables pane stuck loading") | Variables pane stuck loading |
  |  OP:987  |[1311](https://github.com/microsoft/debugpy/issues/1311 "Support debugging console scripts from launch.json") | Support debugging console scripts from launch.json |
  |  OP:995  |[1308](https://github.com/microsoft/debugpy/issues/1308 "remote debug port stucks upon `nc -z` but `nc` works") | remote debug port stucks upon `nc -z` but `nc` works |
@@ -170,13 +170,13 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:257, OP:255  |[1908](https://github.com/microsoft/debugpy/issues/1908 "VS Code Debugger Freezes When Using wrap_wsgi_app with debugpy") | VS Code Debugger Freezes When Using wrap_wsgi_app with debugpy |
  |  TM:269, OP:265  |[1905](https://github.com/microsoft/debugpy/issues/1905 "TypeError with joblib while checking &quot;__future__&quot; in code") | TypeError with joblib while checking "__future__" in code |
  |  TM:621, OP:620  |[1599](https://github.com/microsoft/debugpy/issues/1599 "Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist)") | Remotely debug Python code on Linux from Microsoft Visual Studio 2022:  cannot set breakpoint (Breakpoint in file that does not exist) |
- |  TM:683, OP:475  |[1563](https://github.com/microsoft/debugpy/issues/1563 "FEAT: Support ipython's `_repr_*_()` protocol") | FEAT: Support ipython's `_repr_*_()` protocol |
+ |  TM:683, OP:476  |[1563](https://github.com/microsoft/debugpy/issues/1563 "FEAT: Support ipython's `_repr_*_()` protocol") | FEAT: Support ipython's `_repr_*_()` protocol |
  |  TM:721, OP:710  |[1529](https://github.com/microsoft/debugpy/issues/1529 "api to retrieve debugpy endpoint and access token?") | api to retrieve debugpy endpoint and access token? |
  |  TM:742, OP:741  |[1519](https://github.com/microsoft/debugpy/issues/1519 "`set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint") | `set_trace`-releated deadlock when running inside Ansible with explicit listen-and-debug breakpoint |
  |  TM:895, OP:891  |[1346](https://github.com/microsoft/debugpy/issues/1346 "Using rich.print() instead of print() in (evaluate in) debug console") | Using rich.print() instead of print() in (evaluate in) debug console |
  |  TM:895, OP:895  |[1344](https://github.com/microsoft/debugpy/issues/1344 "Auto-spawn IDE on breakpoint()") | Auto-spawn IDE on breakpoint() |
  |  TM:895, OP:894  |[1331](https://github.com/microsoft/debugpy/issues/1331 "`justMyCode` is too broad, allow some chosen libraries and hide the rest") | `justMyCode` is too broad, allow some chosen libraries and hide the rest |
- |  TM:1035, OP:376  |[1277](https://github.com/microsoft/debugpy/issues/1277 "Breakpoint not working in Odoo with multiple workers (gevent)") | Breakpoint not working in Odoo with multiple workers (gevent) |
+ |  TM:1036, OP:376  |[1277](https://github.com/microsoft/debugpy/issues/1277 "Breakpoint not working in Odoo with multiple workers (gevent)") | Breakpoint not working in Odoo with multiple workers (gevent) |
  |  TM:1133, OP:1132  |[1172](https://github.com/microsoft/debugpy/issues/1172 "atexit not respected in subprocess.Popen") | atexit not respected in subprocess.Popen |
  |  TM:1140, OP:1138  |[1169](https://github.com/microsoft/debugpy/issues/1169 "Missing examples of configurations") | Missing examples of configurations |
  |  TM:1145, OP:1140  |[1167](https://github.com/microsoft/debugpy/issues/1167 "Debugging support lazy variables") | Debugging support lazy variables |
@@ -201,7 +201,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  P:334,  |[1252](https://github.com/microsoft/debugpy/issues/1252 "[Feature request] Support connect to ipv6 address") | [Feature request] Support connect to ipv6 address |
  |  P:18,  |[1220](https://github.com/microsoft/debugpy/issues/1220 "Support attach-to-PID on macOS on ARM") | Support attach-to-PID on macOS on ARM |
  |  P:1048,  |[1114](https://github.com/microsoft/debugpy/issues/1114 "Display Python asyncio Tasks in VS Code Debugger") | Display Python asyncio Tasks in VS Code Debugger |
- |  P:994,  |[460](https://github.com/microsoft/debugpy/issues/460 "Repeated debugpy.listen() calls should be an error") | Repeated debugpy.listen() calls should be an error |
+ |  P:995,  |[460](https://github.com/microsoft/debugpy/issues/460 "Repeated debugpy.listen() calls should be an error") | Repeated debugpy.listen() calls should be an error |
  |  P:1187,  |[317](https://github.com/microsoft/debugpy/issues/317 "Make variable order for dict keys configurable") | Make variable order for dict keys configurable |
 
 ### Issues in debugpy that have no external responses since team response in 30+ days:
@@ -284,7 +284,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   5: src/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/compile_linux.sh
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
