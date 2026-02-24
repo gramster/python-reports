@@ -173,7 +173,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | --- | --- | --- |
  | \* TM:5, OP:5  |[7884](https://github.com/microsoft/pylance-release/issues/7884 "[macOS] False &quot;Match statements require Python 3.10 or newer&quot;")  |[macOS] False "Match statements require Python 3.10 or newer" |
  | \* TM:6, OP:4  |[7866](https://github.com/microsoft/pylance-release/issues/7866 "Pylance is crashing every ~10 minutes - handleover error")  |Pylance is crashing every ~10 minutes - handleover error |
- |  TM:13, OP:12  |[7863](https://github.com/microsoft/pylance-release/issues/7863 "Syntax highlighting doesn't work with escape characters") | Syntax highlighting doesn't work with escape characters |
+ |  TM:13, OP:13  |[7863](https://github.com/microsoft/pylance-release/issues/7863 "Syntax highlighting doesn't work with escape characters") | Syntax highlighting doesn't work with escape characters |
  |  TM:161, OP:161  |[7558](https://github.com/microsoft/pylance-release/issues/7558 "Pylance: Semantic highlighting missing for Live Share guests (completions/hover work via host LS ?)") | Pylance: Semantic highlighting missing for Live Share guests (completions/hover work via host LS ?) |
  |  TM:189, OP:188  |[7502](https://github.com/microsoft/pylance-release/issues/7502 "Is decorator Syntax highlighting meant to be applied inconsistently depending on variable type?") | Is decorator Syntax highlighting meant to be applied inconsistently depending on variable type? |
  |  TM:48, OP:47  |[7479](https://github.com/microsoft/pylance-release/issues/7479 "Unknown import symbol for Rust extension") | Unknown import symbol for Rust extension |
@@ -241,7 +241,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | --- | --- | --- |
  |  TM:49  |[7814](https://github.com/microsoft/pylance-release/issues/7814 "Request textDocument/completion failed") | Request textDocument/completion failed |
  |  TM:147  |[7595](https://github.com/microsoft/pylance-release/issues/7595 "Feature Request - live output for `pylanceRunCodeSnippet`") | Feature Request - live output for `pylanceRunCodeSnippet` |
- |  TM:89  |[7554](https://github.com/microsoft/pylance-release/issues/7554 "if kwargs are annotated then subsequent function calls identify the parameters as variables not parameters ") | if kwargs are annotated then subsequent function calls identify the parameters as variables not parameters  |
+ |  TM:90  |[7554](https://github.com/microsoft/pylance-release/issues/7554 "if kwargs are annotated then subsequent function calls identify the parameters as variables not parameters ") | if kwargs are annotated then subsequent function calls identify the parameters as variables not parameters  |
  |  TM:178  |[7521](https://github.com/microsoft/pylance-release/issues/7521 "Pylance resolve imports fails when selecting intepreter via file browser") | Pylance resolve imports fails when selecting intepreter via file browser |
  |  TM:39  |[7443](https://github.com/microsoft/pylance-release/issues/7443 "Pylance using the wrong interpreter") | Pylance using the wrong interpreter |
  |  TM:215  |[7440](https://github.com/microsoft/pylance-release/issues/7440 "Errors for standard library and external package files persist after the files are closed") | Errors for standard library and external package files persist after the files are closed |
@@ -299,7 +299,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:140  |[5614](https://github.com/microsoft/pylance-release/issues/5614 "Pylance using a lot of memory") | Pylance using a lot of memory |
  |  TM:720  |[5584](https://github.com/microsoft/pylance-release/issues/5584 "Parentheses and the atom they contain are both colored") | Parentheses and the atom they contain are both colored |
  |  TM:635  |[5475](https://github.com/microsoft/pylance-release/issues/5475 "Extremely slow renaming folders") | Extremely slow renaming folders |
- |  TM:747  |[5429](https://github.com/microsoft/pylance-release/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
+ |  TM:748  |[5429](https://github.com/microsoft/pylance-release/issues/5429 "No docstrings when using pylance in vscode.dev") | No docstrings when using pylance in vscode.dev |
  |  TM:759  |[5410](https://github.com/microsoft/pylance-release/issues/5410 "Docstrings on pytest fixtures") | Docstrings on pytest fixtures |
  |  TM:762  |[5386](https://github.com/microsoft/pylance-release/issues/5386 "Rename key in TypedDict using &quot;rename symbol&quot; refactor should update all instances of that TypedDict") | Rename key in TypedDict using "rename symbol" refactor should update all instances of that TypedDict |
  |  TM:760  |[5385](https://github.com/microsoft/pylance-release/issues/5385 "option to disable double-click to insert for inlay hints") | option to disable double-click to insert for inlay hints |
@@ -309,7 +309,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:760  |[5072](https://github.com/microsoft/pylance-release/issues/5072 "Filters for autoimport suggestions") | Filters for autoimport suggestions |
  |  TM:738  |[5021](https://github.com/microsoft/pylance-release/issues/5021 "Syntax highlighting and code completion stops working in v2023.9.10 onwards") | Syntax highlighting and code completion stops working in v2023.9.10 onwards |
  |  TM:580  |[5113](https://github.com/microsoft/pylance-release/issues/5113 "Code completion doesn't recognise a new venv") | Code completion doesn't recognise a new venv |
- |  TM:864  |[4926](https://github.com/microsoft/pylance-release/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
+ |  TM:865  |[4926](https://github.com/microsoft/pylance-release/issues/4926 "[Web] No intellisense or colorization from modules in extra paths ") | [Web] No intellisense or colorization from modules in extra paths  |
  |  TM:867  |[4937](https://github.com/microsoft/pylance-release/issues/4937 "Syntax highlighting and formatting of tooltips in Python") | Syntax highlighting and formatting of tooltips in Python |
  |  TM:874  |[4912](https://github.com/microsoft/pylance-release/issues/4912 "Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class") | Editor mark syntax error when trying to decorate a Python function with a decorator defined as an instance method inside the class |
  |  TM:880  |[4881](https://github.com/microsoft/pylance-release/issues/4881 "Pylance doesn't show docstring for pandas") | Pylance doesn't show docstring for pandas |
@@ -349,7 +349,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | \* | [#6700](https://github.com/microsoft/pyrx/pull/6700) | heejaechang | 2025-05-08 | 291 | - | - | added more processing such as tagging, cleansing and etc |
 | \* | [#7092](https://github.com/microsoft/pyrx/pull/7092) | bschnurr | 2025-09-11 | 165 | - | - | [WIP] Lazy import / star‑import deferral system to reduce initial binding and symbol fan‑out cost in large Python projects |
 | \* | [#7154](https://github.com/microsoft/pyrx/pull/7154) | bschnurr | 2025-10-09 | 137 | - | - | disable recommendations in codespaces |
-| \* | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 111 | - | - | Migrate Azure DevOps pipelines, GitHub Actions workflows, and all package.json files from npm to pnpm |
+| \* | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 112 | - | - | Migrate Azure DevOps pipelines, GitHub Actions workflows, and all package.json files from npm to pnpm |
 | \* | [#7353](https://github.com/microsoft/pyrx/pull/7353) | copilot-swe-agent | 2025-11-25 | 90 | - | - | Add async-related linting rules to root .eslintrc.json |
 | \* | [#7550](https://github.com/microsoft/pyrx/pull/7550) | copilot-swe-agent | 2026-01-06 | 48 | - | - | Add notification for Cursor-disabled language server |
 | \* | [#7635](https://github.com/microsoft/pyrx/pull/7635) | copilot-swe-agent | 2026-01-19 | 35 | - | - | [WIP] Fix npm ci to propagate through postinstall hooks |
@@ -398,9 +398,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 
 
-![](bugcount.png)
-
-![](issuecount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
