@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-09 using: stale=30, all=False
+Generated on 2026-02-23 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,9 +17,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7801](https://github.com/microsoft/pyrx/pull/7801) | copilot-swe-agent | 2026-02-09 | 0 | - | - | Fix go-to-definition for operators by comparing token positions |
-| \* | [#7800](https://github.com/microsoft/pyrx/pull/7800) | heejaechang | 2026-02-09 | 0 | - | - | WIP: Show source defaults for stub ellipsis in hover and signature help |
-| \* | [#7793](https://github.com/microsoft/pyrx/pull/7793) | dependabot | 2026-02-09 | 0 | - | - | Bump axios from 1.12.2 to 1.13.5 in /packages/pyright |
+| \* | [#7879](https://github.com/microsoft/pyrx/pull/7879) | rchiodo | 2026-02-23 | 0 | - | - | Add standalone MCP server for main Pylance MCP server |
+| \* | [#7873](https://github.com/microsoft/pyrx/pull/7873) | rchiodo | 2026-02-23 | 0 | - | - | Make 'extension' part of Ty less intrusive |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -28,8 +27,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7859](https://github.com/microsoft/pylance-release/issues/7859 "extension else")  |extension else |
- | \* TM:1  |[7858](https://github.com/microsoft/pylance-release/issues/7858 "reportMissingImports")  |reportMissingImports |
+ | \* TM:1  |[7898](https://github.com/microsoft/pylance-release/issues/7898 "self.attribute semantic token type changed from property to variable between 2025.10.4 and 2026.1.1")  |self.attribute semantic token type changed from property to variable between 2025.10.4 and 2026.1.1 |
+ | \* TM:2  |[7893](https://github.com/microsoft/pylance-release/issues/7893 "As a quick fix for &quot;unnecessary `# pyright: ignore`&quot;, offer removing the ignore instead of adding another")  |As a quick fix for "unnecessary `# pyright: ignore`", offer removing the ignore instead of adding another |
+ | \* TM:2  |[7892](https://github.com/microsoft/pylance-release/issues/7892 "https://github.com/microsoft/pylance-release/issues/new/choose")  |https://github.com/microsoft/pylance-release/issues/new/choose |
 
 
 
