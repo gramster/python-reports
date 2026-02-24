@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/lsprotocol
 
 
-Generated on 2026-02-08 using: stale=30, all=True
+Generated on 2026-02-23 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -15,13 +15,13 @@ Generated on 2026-02-08 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:74,  |[430](https://github.com/microsoft/lsprotocol/issues/430 "Python type converter bug") | Python type converter bug |
+ |  P:89,  |[430](https://github.com/microsoft/lsprotocol/issues/430 "Python type converter bug") | Python type converter bug |
 
 ### Issues in lsprotocol that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:233  |[411](https://github.com/microsoft/lsprotocol/issues/411 "MessageActionItem should permit additional fields") | MessageActionItem should permit additional fields |
+ |  TM:248  |[411](https://github.com/microsoft/lsprotocol/issues/411 "MessageActionItem should permit additional fields") | MessageActionItem should permit additional fields |
 
 ---
 
@@ -32,19 +32,19 @@ Generated on 2026-02-08 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:58  |[446](https://github.com/microsoft/lsprotocol/issues/446 "Update LSP schema and model") | Update LSP schema and model |
- |  OP:97  |[445](https://github.com/microsoft/lsprotocol/issues/445 "Question around crates.io stable release") | Question around crates.io stable release |
- |  OP:104  |[444](https://github.com/microsoft/lsprotocol/issues/444 "rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod") | rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod |
- |  OP:163  |[442](https://github.com/microsoft/lsprotocol/issues/442 "rust: URI type implementation is non-compliant with LSP specification") | rust: URI type implementation is non-compliant with LSP specification |
- |  OP:166  |[441](https://github.com/microsoft/lsprotocol/issues/441 "Can the module load time of lsprotocol.types be reduced?") | Can the module load time of lsprotocol.types be reduced? |
- |  OP:220  |[429](https://github.com/microsoft/lsprotocol/issues/429 "Make `attrs` model hashable") | Make `attrs` model hashable |
- |  OP:229  |[428](https://github.com/microsoft/lsprotocol/issues/428 "LSPObject & LSPArray are private in lib.rs") | LSPObject & LSPArray are private in lib.rs |
+ |  OP:73  |[446](https://github.com/microsoft/lsprotocol/issues/446 "Update LSP schema and model") | Update LSP schema and model |
+ |  OP:112  |[445](https://github.com/microsoft/lsprotocol/issues/445 "Question around crates.io stable release") | Question around crates.io stable release |
+ |  OP:119  |[444](https://github.com/microsoft/lsprotocol/issues/444 "rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod") | rust: create name, or to_string() methods for LSPNotificationMethod, LSPRequestMethod |
+ |  OP:178  |[442](https://github.com/microsoft/lsprotocol/issues/442 "rust: URI type implementation is non-compliant with LSP specification") | rust: URI type implementation is non-compliant with LSP specification |
+ |  OP:181  |[441](https://github.com/microsoft/lsprotocol/issues/441 "Can the module load time of lsprotocol.types be reduced?") | Can the module load time of lsprotocol.types be reduced? |
+ |  OP:235  |[429](https://github.com/microsoft/lsprotocol/issues/429 "Make `attrs` model hashable") | Make `attrs` model hashable |
+ |  OP:244  |[428](https://github.com/microsoft/lsprotocol/issues/428 "LSPObject & LSPArray are private in lib.rs") | LSPObject & LSPArray are private in lib.rs |
 
 ### Issues in lsprotocol that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:941  |[241](https://github.com/microsoft/lsprotocol/issues/241 "Can this be made to run in a container?") | Can this be made to run in a container? |
+ |  TM:956  |[241](https://github.com/microsoft/lsprotocol/issues/241 "Can this be made to run in a container?") | Can this be made to run in a container? |
 
 ## PULL REQUEST ACTIVITY
 
@@ -53,8 +53,8 @@ Generated on 2026-02-08 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#360](https://github.com/microsoft/lsprotocol/pull/360) | T-256 | 2024-06-11 | 607 | - | - | move tests to their packages directory |
-| \* | [#443](https://github.com/microsoft/lsprotocol/pull/443) | dovydenkovas | 2025-09-26 | 135 | - | - | Add support cattrs>=25.0.0. |
+| \* | [#360](https://github.com/microsoft/lsprotocol/pull/360) | T-256 | 2024-06-11 | 621 | - | - | move tests to their packages directory |
+| \* | [#443](https://github.com/microsoft/lsprotocol/pull/443) | dovydenkovas | 2025-09-26 | 150 | - | - | Add support cattrs>=25.0.0. |
 
 
 
