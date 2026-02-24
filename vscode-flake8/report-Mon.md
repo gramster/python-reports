@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-02-09 using: stale=30, all=False
+Generated on 2026-02-23 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,27 +17,28 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#366](https://github.com/microsoft/vscode-flake8/pull/366) | edvilme | 2026-02-09 | 0 | - | - | Add dependabot config |
-| \* | [#365](https://github.com/microsoft/vscode-flake8/pull/365) | copilot-swe-agent | 2026-02-09 | 0 | 2026-02-09 | edvilme | Capitalize "python" in user-facing text |
-| \* | [#365](https://github.com/microsoft/vscode-flake8/pull/365) | copilot-swe-agent | 2026-02-09 | 0 | 2026-02-09 | edvilme | Capitalize "python" in user-facing text |
+| \* | [#392](https://github.com/microsoft/vscode-flake8/pull/392) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
+| \* | [#391](https://github.com/microsoft/vscode-flake8/pull/391) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#391](https://github.com/microsoft/vscode-flake8/pull/391) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#390](https://github.com/microsoft/vscode-flake8/pull/390) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#390](https://github.com/microsoft/vscode-flake8/pull/390) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#389](https://github.com/microsoft/vscode-flake8/pull/389) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
+| \* | [#389](https://github.com/microsoft/vscode-flake8/pull/389) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#365](https://github.com/microsoft/vscode-flake8/pull/365) | copilot-swe-agent | 2026-02-09 | 0 | 2026-02-09 | edvilme | Capitalize "python" in user-facing text |
-| \* | [#365](https://github.com/microsoft/vscode-flake8/pull/365) | copilot-swe-agent | 2026-02-09 | 0 | 2026-02-09 | edvilme | Capitalize "python" in user-facing text |
-| \* | [#362](https://github.com/microsoft/vscode-flake8/pull/362) | edvilme | 2026-02-06 | 2 | 2026-02-09 | edvilme | Symlinks should not be resolved when getting workspace settings |
-| \* | [#362](https://github.com/microsoft/vscode-flake8/pull/362) | edvilme | 2026-02-06 | 2 | 2026-02-09 | edvilme | Symlinks should not be resolved when getting workspace settings |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:340  |[340](https://github.com/microsoft/vscode-flake8/issues/340 "Flake8 does not applied arguments set in settings.json")  |Flake8 does not applied arguments set in settings.json |
+| \* | [#386](https://github.com/microsoft/vscode-flake8/pull/386) | dependabot | 2026-02-18 | 5 | 2026-02-23 | edvilme | Bump glob from 13.0.3 to 13.0.5 in the npm-minor-patch group |
+| \* | [#386](https://github.com/microsoft/vscode-flake8/pull/386) | dependabot | 2026-02-18 | 5 | 2026-02-23 | edvilme | Bump glob from 13.0.3 to 13.0.5 in the npm-minor-patch group |
+| \* | [#390](https://github.com/microsoft/vscode-flake8/pull/390) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#390](https://github.com/microsoft/vscode-flake8/pull/390) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#388](https://github.com/microsoft/vscode-flake8/pull/388) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#388](https://github.com/microsoft/vscode-flake8/pull/388) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#391](https://github.com/microsoft/vscode-flake8/pull/391) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#391](https://github.com/microsoft/vscode-flake8/pull/391) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#389](https://github.com/microsoft/vscode-flake8/pull/389) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
+| \* | [#389](https://github.com/microsoft/vscode-flake8/pull/389) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 
 
 
