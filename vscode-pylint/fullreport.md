@@ -16,7 +16,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | Days Ago | Issue | Title |
 | --- | --- | --- |
  |  OP:140  |[620](https://github.com/microsoft/vscode-pylint/issues/620 "False positive Unable to import with standard modules like os , logging using python embedded inside the workspace") | False positive Unable to import with standard modules like os , logging using python embedded inside the workspace |
- |  OP:324  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
+ |  OP:325  |[605](https://github.com/microsoft/vscode-pylint/issues/605 "init-hook not working") | init-hook not working |
  |  OP:363  |[599](https://github.com/microsoft/vscode-pylint/issues/599 "Improve docs for pylint.args") | Improve docs for pylint.args |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
@@ -55,15 +55,15 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:221, OP:221  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
+ |  TM:222, OP:222  |[613](https://github.com/microsoft/vscode-pylint/issues/613 "Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT") | Error: spawn \<workspace>\.venv\Scripts\python.exe ENOENT |
  |  TM:705, OP:702  |[535](https://github.com/microsoft/vscode-pylint/issues/535 "ignore concrete linting warnings via GUI, e.g. via QuickFix") | ignore concrete linting warnings via GUI, e.g. via QuickFix |
- |  TM:1081, OP:1079  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
+ |  TM:1081, OP:1080  |[297](https://github.com/microsoft/vscode-pylint/issues/297 "pylint goes silent if improperly configured ") | pylint goes silent if improperly configured  |
 
 ### Issues in vscode-pylint that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  P:406,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
+ |  P:407,  |[20](https://github.com/microsoft/vscode-pylint/issues/20 "Support for ipynb files") | Support for ipynb files |
 
 ### Issues in vscode-pylint that have no external responses since team response in 30+ days:
 
@@ -80,11 +80,17 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#696](https://github.com/microsoft/vscode-pylint/pull/696) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
+| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
 | \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 | \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 | \* | [#693](https://github.com/microsoft/vscode-pylint/pull/693) | bschnurr | 2026-02-20 | 0 | 2026-02-20 | bschnurr | update build template |
 | \* | [#693](https://github.com/microsoft/vscode-pylint/pull/693) | bschnurr | 2026-02-20 | 0 | 2026-02-20 | bschnurr | update build template |
-| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 3 | - | - | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
 | \* | [#691](https://github.com/microsoft/vscode-pylint/pull/691) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump nox from 2025.11.12 to 2026.2.9 |
 | \* | [#691](https://github.com/microsoft/vscode-pylint/pull/691) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump nox from 2025.11.12 to 2026.2.9 |
 | \* | [#690](https://github.com/microsoft/vscode-pylint/pull/690) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
@@ -104,6 +110,12 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
+| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
+| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
 | \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 | \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
 | \* | [#691](https://github.com/microsoft/vscode-pylint/pull/691) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump nox from 2025.11.12 to 2026.2.9 |
@@ -143,7 +155,10 @@ Generated on 2026-02-23 using: stale=30, all=True
  11: package.json
 
 
-![](bugcount.png)
+  5: .github/workflows/check-python-versions.lock.yml
+
+
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
