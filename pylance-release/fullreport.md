@@ -347,7 +347,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | \* | [#6530](https://github.com/microsoft/pyrx/pull/6530) | heejaechang | 2025-04-09 | 320 | - | - | [DO NOT CHECK IN] Removed license check |
 | \* | [#6653](https://github.com/microsoft/pyrx/pull/6653) | copilot-swe-agent | 2025-05-01 | 298 | - | - | Add regression tests for parameter completion in function calls |
 | \* | [#6700](https://github.com/microsoft/pyrx/pull/6700) | heejaechang | 2025-05-08 | 291 | - | - | added more processing such as tagging, cleansing and etc |
-| \* | [#7092](https://github.com/microsoft/pyrx/pull/7092) | bschnurr | 2025-09-11 | 164 | - | - | [WIP] Lazy import / star‑import deferral system to reduce initial binding and symbol fan‑out cost in large Python projects |
+| \* | [#7092](https://github.com/microsoft/pyrx/pull/7092) | bschnurr | 2025-09-11 | 165 | - | - | [WIP] Lazy import / star‑import deferral system to reduce initial binding and symbol fan‑out cost in large Python projects |
 | \* | [#7154](https://github.com/microsoft/pyrx/pull/7154) | bschnurr | 2025-10-09 | 137 | - | - | disable recommendations in codespaces |
 | \* | [#7247](https://github.com/microsoft/pyrx/pull/7247) | copilot-swe-agent | 2025-11-03 | 111 | - | - | Migrate Azure DevOps pipelines, GitHub Actions workflows, and all package.json files from npm to pnpm |
 | \* | [#7353](https://github.com/microsoft/pyrx/pull/7353) | copilot-swe-agent | 2025-11-25 | 90 | - | - | Add async-related linting rules to root .eslintrc.json |
@@ -399,6 +399,8 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 
 ![](bugcount.png)
+
+![](issuecount.png)
 
 ![](time_to_merge_prs.png)
 
