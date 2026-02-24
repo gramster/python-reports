@@ -17,6 +17,8 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#343](https://github.com/microsoft/vscode-autopep8/pull/343) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
+| \* | [#342](https://github.com/microsoft/vscode-autopep8/pull/342) | bschnurr | 2026-02-23 | 0 | - | - | Disable CI trigger in stable pipeline |
 | \* | [#341](https://github.com/microsoft/vscode-autopep8/pull/341) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for build pipeline |
 | \* | [#341](https://github.com/microsoft/vscode-autopep8/pull/341) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for build pipeline |
 | \* | [#340](https://github.com/microsoft/vscode-autopep8/pull/340) | bschnurr | 2026-02-18 | 0 | 2026-02-19 | bschnurr | updatte build template autopep8 |
@@ -59,7 +61,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   6: build/azure-devdiv-pipeline.stable.yml
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
