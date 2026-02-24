@@ -68,11 +68,15 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#535](https://github.com/microsoft/vscode-isort/pull/535) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
+| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
 | \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
 | \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
 | \* | [#532](https://github.com/microsoft/vscode-isort/pull/532) | bschnurr | 2026-02-20 | 0 | 2026-02-20 | bschnurr | try to use dev branch from pylance-eng |
 | \* | [#532](https://github.com/microsoft/vscode-isort/pull/532) | bschnurr | 2026-02-20 | 0 | 2026-02-20 | bschnurr | try to use dev branch from pylance-eng |
-| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | - | - | Agentic Workflows: Check issues on Python Tools Extension Template |
+| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
+| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
 | \* | [#530](https://github.com/microsoft/vscode-isort/pull/530) | dependabot | 2026-02-20 | 3 | - | - | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
 | \* | [#529](https://github.com/microsoft/vscode-isort/pull/529) | dependabot | 2026-02-20 | 3 | - | - | Bump github/gh-aw from 0.43.22 to 0.47.3 in the github-actions-minor-patch group |
 | \* | [#528](https://github.com/microsoft/vscode-isort/pull/528) | dependabot | 2026-02-20 | 3 | - | - | Bump isort from 7.0.0 to 8.0.0 |
@@ -97,6 +101,10 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
+| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
+| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
 | \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
 | \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
 | \* | [#532](https://github.com/microsoft/vscode-isort/pull/532) | bschnurr | 2026-02-20 | 0 | 2026-02-20 | bschnurr | try to use dev branch from pylance-eng |
@@ -122,7 +130,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | [#517](https://github.com/microsoft/vscode-isort/pull/517) | dependabot | 2026-02-12 | 10 | - | - | Bump the npm-minor-patch group across 1 directory with 17 updates |
+|   | [#517](https://github.com/microsoft/vscode-isort/pull/517) | dependabot | 2026-02-12 | 11 | - | - | Bump the npm-minor-patch group across 1 directory with 17 updates |
 |   | [#518](https://github.com/microsoft/vscode-isort/pull/518) | dependabot | 2026-02-13 | 10 | - | - | Bump pytest from 8.3.5 to 9.0.2 in /src/test/python_tests |
 
 ## RECENTLY CLOSED ISSUES
@@ -152,10 +160,10 @@ Generated on 2026-02-23 using: stale=30, all=True
   7: .github/workflows/pr-check.yml
 
 
+  6: build/azure-devdiv-pipeline.stable.yml
+
+
   6: build/azure-devdiv-pipeline.pre-release.yml
-
-
-  5: build/azure-devdiv-pipeline.stable.yml
 
 
   5: bundled/tool/lsp_server.py
@@ -170,7 +178,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   5: .github/workflows/push-check.yml
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
