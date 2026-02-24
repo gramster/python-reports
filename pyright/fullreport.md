@@ -128,7 +128,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | --- | --- | --- |
  |  TM:27, OP:26  |[11176](https://github.com/microsoft/pyright/issues/11176 "Useless lines affect type checking") | Useless lines affect type checking |
  |  TM:73, OP:73  |[11169](https://github.com/microsoft/pyright/issues/11169 "Enum type not assignable to complete union of its literal members") | Enum type not assignable to complete union of its literal members |
- |  TM:113, OP:42  |[11076](https://github.com/microsoft/pyright/issues/11076 "Process never finishes in `1.1.405`, `1.1.406`, `1.1.407`, `1.1.408`") | Process never finishes in `1.1.405`, `1.1.406`, `1.1.407`, `1.1.408` |
+ |  TM:114, OP:42  |[11076](https://github.com/microsoft/pyright/issues/11076 "Process never finishes in `1.1.405`, `1.1.406`, `1.1.407`, `1.1.408`") | Process never finishes in `1.1.405`, `1.1.406`, `1.1.407`, `1.1.408` |
  |  TM:121, OP:121  |[11063](https://github.com/microsoft/pyright/issues/11063 "False positive: `TypeVar`s in functional-style`TypedDicts` are allowed but unsupported") | False positive: `TypeVar`s in functional-style`TypedDicts` are allowed but unsupported |
  |  TM:131, OP:131  |[11031](https://github.com/microsoft/pyright/issues/11031 "Completion giving incorrect options when editing multiline function invocation") | Completion giving incorrect options when editing multiline function invocation |
  |  TM:141, OP:141  |[10993](https://github.com/microsoft/pyright/issues/10993 "Type arithmetic inconsistency") | Type arithmetic inconsistency |
@@ -183,7 +183,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:255  |[10605](https://github.com/microsoft/pyright/issues/10605 "`isinstance` detects module as a type") | `isinstance` detects module as a type |
  |  TM:266  |[10528](https://github.com/microsoft/pyright/issues/10528 "reassigning instance attribute causes it to become unbound") | reassigning instance attribute causes it to become unbound |
  |  TM:250  |[10516](https://github.com/microsoft/pyright/issues/10516 "TypeForm + TypeVar type inference") | TypeForm + TypeVar type inference |
- |  TM:314  |[10311](https://github.com/microsoft/pyright/issues/10311 "False positive of `reportUnnecessaryComparison` for loop variables") | False positive of `reportUnnecessaryComparison` for loop variables |
+ |  TM:315  |[10311](https://github.com/microsoft/pyright/issues/10311 "False positive of `reportUnnecessaryComparison` for loop variables") | False positive of `reportUnnecessaryComparison` for loop variables |
  |  TM:321  |[10270](https://github.com/microsoft/pyright/issues/10270 "Incorrect type inference after type narrowing using isinstance with protocols") | Incorrect type inference after type narrowing using isinstance with protocols |
  |  TM:328  |[10235](https://github.com/microsoft/pyright/issues/10235 "False positive unreachable when pattern matching `int` with `http.HTTPStatus`") | False positive unreachable when pattern matching `int` with `http.HTTPStatus` |
 
@@ -246,6 +246,28 @@ Generated on 2026-02-23 using: stale=30, all=True
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | \* | [#11293](https://github.com/microsoft/pyright/pull/11293) | ActaVerba | 2026-02-22 | 0 | - | - | Fix percent-encoded drive letter colon (%3A) in Windows file URIs |
+| \* | [#11290](https://github.com/microsoft/pyright/pull/11290) | GregMFriedman | 2026-02-20 | 0 | 2026-02-20 | - | Add noImplicitReexport Config Option |
+| \* | [#11285](https://github.com/microsoft/pyright/pull/11285) | ptarjan | 2026-02-17 | 3 | 2026-02-20 | rchiodo | Preserve diagnostic rule overrides when positional args override include |
+| \* | [#11285](https://github.com/microsoft/pyright/pull/11285) | ptarjan | 2026-02-17 | 3 | 2026-02-20 | rchiodo | Preserve diagnostic rule overrides when positional args override include |
+| \* | [#11284](https://github.com/microsoft/pyright/pull/11284) | rchiodo | 2026-02-17 | 0 | 2026-02-17 | rchiodo | Fix prettier mistake from latest commit |
+| \* | [#11284](https://github.com/microsoft/pyright/pull/11284) | rchiodo | 2026-02-17 | 0 | 2026-02-17 | rchiodo | Fix prettier mistake from latest commit |
+
+### Pull Requests merged in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#11285](https://github.com/microsoft/pyright/pull/11285) | ptarjan | 2026-02-17 | 3 | 2026-02-20 | rchiodo | Preserve diagnostic rule overrides when positional args override include |
+| \* | [#11285](https://github.com/microsoft/pyright/pull/11285) | ptarjan | 2026-02-17 | 3 | 2026-02-20 | rchiodo | Preserve diagnostic rule overrides when positional args override include |
+| \* | [#11284](https://github.com/microsoft/pyright/pull/11284) | rchiodo | 2026-02-17 | 0 | 2026-02-17 | rchiodo | Fix prettier mistake from latest commit |
+| \* | [#11284](https://github.com/microsoft/pyright/pull/11284) | rchiodo | 2026-02-17 | 0 | 2026-02-17 | rchiodo | Fix prettier mistake from latest commit |
+| \* | [#11221](https://github.com/microsoft/pyright/pull/11221) | timrid | 2026-01-10 | 38 | 2026-02-17 | rchiodo | Add iOS and Android as `pythonPlatform` |
+| \* | [#11221](https://github.com/microsoft/pyright/pull/11221) | timrid | 2026-01-10 | 38 | 2026-02-17 | rchiodo | Add iOS and Android as `pythonPlatform` |
+
+### Pull Requests closed (not merged) in the past 7 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#11290](https://github.com/microsoft/pyright/pull/11290) | GregMFriedman | 2026-02-20 | 0 | 2026-02-20 | - | Add noImplicitReexport Config Option |
 
 ### Pull Requests still open that were opened more than 7 days ago:
 
@@ -277,8 +299,161 @@ Generated on 2026-02-23 using: stale=30, all=True
 
 
 
+## MOST FREQUENTLY CHANGED FILES (by # of PRs):
+
+ 69: packages/pyright-internal/src/analyzer/typeEvaluator.ts
+
+
+ 17: packages/pyright-internal/src/analyzer/checker.ts
+
+
+ 16: packages/pyright-internal/src/analyzer/sourceFile.ts
+
+
+ 15: packages/pyright-internal/src/analyzer/program.ts
+
+
+ 15: packages/pyright-internal/src/localization/package.nls.de.json
+
+
+ 15: packages/pyright-internal/src/localization/package.nls.en-us.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.cs.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.es.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.fr.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.it.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.ja.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.ko.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.pl.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.pt-br.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.ru.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.tr.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.zh-cn.json
+
+
+ 14: packages/pyright-internal/src/localization/package.nls.zh-tw.json
+
+
+ 14: packages/pyright-internal/src/localization/localize.ts
+
+
+ 13: packages/pyright-internal/src/analyzer/service.ts
+
+
+ 13: packages/pyright-internal/src/parser/parser.ts
+
+
+ 12: packages/pyright-internal/src/languageServerBase.ts
+
+
+ 12: packages/pyright-internal/src/analyzer/binder.ts
+
+
+ 11: packages/vscode-pyright/package-lock.json
+
+
+ 11: packages/pyright-internal/src/localization/package.nls.qps-ploc.json
+
+
+ 10: packages/pyright-internal/src/tests/typeEvaluator1.test.ts
+
+
+ 10: build/azuredevops/azure-pipelines-release.yml
+
+
+ 10: packages/pyright-internal/src/analyzer/importResolver.ts
+
+
+ 10: packages/pyright-internal/src/analyzer/typeEvaluatorTypes.ts
+
+
+  9: packages/pyright-internal/src/parser/tokenizer.ts
+
+
+  9: packages/pyright-internal/src/analyzer/types.ts
+
+
+  9: packages/pyright-internal/src/analyzer/typeGuards.ts
+
+
+  8: packages/pyright-internal/src/common/serviceProviderExtensions.ts
+
+
+  8: packages/vscode-pyright/package.json
+
+
+  8: packages/pyright-internal/src/tests/typeEvaluator5.test.ts
+
+
+  8: packages/pyright-internal/src/tests/typeEvaluator6.test.ts
+
+
+  8: packages/pyright-internal/src/analyzer/operations.ts
+
+
+  7: packages/pyright-internal/src/pyright.ts
+
+
+  7: packages/pyright-internal/src/analyzer/parseTreeUtils.ts
+
+
+  7: packages/pyright-internal/src/tests/checker.test.ts
+
+
+  7: packages/pyright-internal/src/languageService/completionProvider.ts
+
+
+  7: packages/pyright-internal/src/analyzer/typeUtils.ts
+
+
+  6: packages/pyright-internal/src/common/fullAccessHost.ts
+
+
+  6: package-lock.json
+
+
+  6: packages/pyright-internal/src/tests/typeEvaluator2.test.ts
+
+
+  6: packages/pyright-internal/src/tests/samples/operator8.py
+
+
+  5: packages/pyright-internal/src/tests/sourceFile.test.ts
+
+
+  5: packages/pyright-internal/src/tests/lsp/languageServerTestUtils.ts
+
+
+  5: packages/pyright-internal/src/common/configOptions.ts
+
+
+  5: packages/pyright-internal/package-lock.json
+
 
 ![](bugcount.png)
+
+![](issuecount.png)
 
 ![](time_to_merge_prs.png)
 
