@@ -392,9 +392,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   5: src/features/pythonApi.ts
 
 
-![](bugcount.png)
-
-![](issuecount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
