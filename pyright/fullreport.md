@@ -118,7 +118,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  OP:282  |[10457](https://github.com/microsoft/pyright/issues/10457 "&quot;possibly unbound&quot; error when redefining builtin in try-except") | "possibly unbound" error when redefining builtin in try-except |
  |  OP:292  |[10420](https://github.com/microsoft/pyright/issues/10420 "Regression: crtp type bounds lost") | Regression: crtp type bounds lost |
  |  OP:306  |[10364](https://github.com/microsoft/pyright/issues/10364 "Pyright hangs when a generic type alias definition refers to itself via typevar bound") | Pyright hangs when a generic type alias definition refers to itself via typevar bound |
- |  OP:321  |[10271](https://github.com/microsoft/pyright/issues/10271 "Type inference bug with self-application of a generic function containing `ParamSpec`") | Type inference bug with self-application of a generic function containing `ParamSpec` |
+ |  OP:322  |[10271](https://github.com/microsoft/pyright/issues/10271 "Type inference bug with self-application of a generic function containing `ParamSpec`") | Type inference bug with self-application of a generic function containing `ParamSpec` |
  |  OP:329  |[10231](https://github.com/microsoft/pyright/issues/10231 "Pyright fails to fully infer the type of a curried function when applied to a generic function") | Pyright fails to fully infer the type of a curried function when applied to a generic function |
  |  OP:334  |[10174](https://github.com/microsoft/pyright/issues/10174 "&quot;Type is partially unknown&quot; under very specific circumstances") | "Type is partially unknown" under very specific circumstances |
 
@@ -178,7 +178,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:229  |[10688](https://github.com/microsoft/pyright/issues/10688 "Unexpected `Unknown` type arguments when using class factory which has access to bound and defaults") | Unexpected `Unknown` type arguments when using class factory which has access to bound and defaults |
  |  TM:236  |[10667](https://github.com/microsoft/pyright/issues/10667 "When a data-class with `order=True` is being subclassed, the comparator methods get re-synthesized, and therefore have argument types narrowed") | When a data-class with `order=True` is being subclassed, the comparator methods get re-synthesized, and therefore have argument types narrowed |
  |  TM:243  |[10645](https://github.com/microsoft/pyright/issues/10645 "implicit override not reported for overloaded methods without implementation") | implicit override not reported for overloaded methods without implementation |
- |  TM:243  |[10643](https://github.com/microsoft/pyright/issues/10643 "False positive incompatible override with *args + keyword-only param") | False positive incompatible override with *args + keyword-only param |
+ |  TM:244  |[10643](https://github.com/microsoft/pyright/issues/10643 "False positive incompatible override with *args + keyword-only param") | False positive incompatible override with *args + keyword-only param |
  |  TM:247  |[10632](https://github.com/microsoft/pyright/issues/10632 "Shadowing names in cases of a match with non-trivial scrutinee") | Shadowing names in cases of a match with non-trivial scrutinee |
  |  TM:255  |[10605](https://github.com/microsoft/pyright/issues/10605 "`isinstance` detects module as a type") | `isinstance` detects module as a type |
  |  TM:266  |[10528](https://github.com/microsoft/pyright/issues/10528 "reassigning instance attribute causes it to become unbound") | reassigning instance attribute causes it to become unbound |
@@ -236,7 +236,7 @@ Generated on 2026-02-23 using: stale=30, all=True
 | --- | --- | --- |
  |  TM:131  |[11036](https://github.com/microsoft/pyright/issues/11036 "Keyword-only first argument in instance method not reported") | Keyword-only first argument in instance method not reported |
  |  TM:145  |[10986](https://github.com/microsoft/pyright/issues/10986 "Magic calls to deprecated __getitem__ not flagged as deprecated") | Magic calls to deprecated __getitem__ not flagged as deprecated |
- |  TM:182  |[10795](https://github.com/microsoft/pyright/issues/10795 "Extend exclude config option") | Extend exclude config option |
+ |  TM:183  |[10795](https://github.com/microsoft/pyright/issues/10795 "Extend exclude config option") | Extend exclude config option |
 
 ## PULL REQUEST ACTIVITY
 
@@ -451,9 +451,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   5: packages/pyright-internal/package-lock.json
 
 
-![](bugcount.png)
-
-![](issuecount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
