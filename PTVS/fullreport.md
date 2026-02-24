@@ -28,7 +28,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:375, OP:375  |[8121](https://github.com/microsoft/PTVS/issues/8121 "Features not working consistently: task list, navigation dropdown menus") | Features not working consistently: task list, navigation dropdown menus |
  |  TM:531, OP:530  |[7974](https://github.com/microsoft/PTVS/issues/7974 "No change with the type information when change the sys.exc_info with the latest typeshed. ") | No change with the type information when change the sys.exc_info with the latest typeshed.  |
  |  TM:734, OP:585  |[7828](https://github.com/microsoft/PTVS/issues/7828 "IntelliSense for Search Paths doesn't work when import folder outside the workspace.") | IntelliSense for Search Paths doesn't work when import folder outside the workspace. |
- |  TM:914, OP:913  |[7631](https://github.com/microsoft/PTVS/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
+ |  TM:915, OP:913  |[7631](https://github.com/microsoft/PTVS/issues/7631 "An unexpected error occured when first creating the conda env.") | An unexpected error occured when first creating the conda env. |
  |  TM:1194, OP:1193  |[7219](https://github.com/microsoft/PTVS/issues/7219 "No output with using ipython interactive window") | No output with using ipython interactive window |
  |  TM:1095, OP:1095  |[7206](https://github.com/microsoft/PTVS/issues/7206 "The active environment doesn't change with the Cookiecutter Explorer is open") | The active environment doesn't change with the Cookiecutter Explorer is open |
 
@@ -68,7 +68,7 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  OP:215  |[8266](https://github.com/microsoft/PTVS/issues/8266 "NullReferenceException") | NullReferenceException |
  |  OP:228  |[8261](https://github.com/microsoft/PTVS/issues/8261 "&quot;An unexpected error occurred&quot; while opening solution file.") | "An unexpected error occurred" while opening solution file. |
  |  OP:238  |[8259](https://github.com/microsoft/PTVS/issues/8259 "import dill   is unresolved in VS 2022 Community") | import dill   is unresolved in VS 2022 Community |
- |  OP:249  |[8256](https://github.com/microsoft/PTVS/issues/8256 "vs关闭时有bug") | vs关闭时有bug |
+ |  OP:250  |[8256](https://github.com/microsoft/PTVS/issues/8256 "vs关闭时有bug") | vs关闭时有bug |
  |  OP:254  |[8255](https://github.com/microsoft/PTVS/issues/8255 "The &quot;Enable Mixed Mode Debugging&quot; feature in Python projects seems not to support the python3.13t (free-threaded) version.") | The "Enable Mixed Mode Debugging" feature in Python projects seems not to support the python3.13t (free-threaded) version. |
  |  OP:291  |[8230](https://github.com/microsoft/PTVS/issues/8230 "VS can only recognize one environment when Python and Anaconda have the same version.") | VS can only recognize one environment when Python and Anaconda have the same version. |
  |  OP:300  |[8209](https://github.com/microsoft/PTVS/issues/8209 "Error List only works in first project.") | Error List only works in first project. |
@@ -95,9 +95,9 @@ Generated on 2026-02-23 using: stale=30, all=True
  |  TM:222, OP:213  |[8263](https://github.com/microsoft/PTVS/issues/8263 "Env folder not showing in Git Changes after creating virtual environment only with Python3.13.") | Env folder not showing in Git Changes after creating virtual environment only with Python3.13. |
  |  TM:405, OP:404  |[8136](https://github.com/microsoft/PTVS/issues/8136 "After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package.") | After installing a package for the first time on Microsoft Store Python, 'pip list' only shows the installed package. |
  |  TM:416, OP:413  |[8125](https://github.com/microsoft/PTVS/issues/8125 "Format Document not responding.") | Format Document not responding. |
- |  TM:433, OP:433  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.") | Cannot run all tests in a large number of tests. |
+ |  TM:434, OP:433  |[7984](https://github.com/microsoft/PTVS/issues/7984 "Cannot run all tests in a large number of tests.") | Cannot run all tests in a large number of tests. |
  |  TM:783, OP:782  |[7794](https://github.com/microsoft/PTVS/issues/7794 "Unable to debug python code in a C++ application that embeds the python interpreter") | Unable to debug python code in a C++ application that embeds the python interpreter |
- |  TM:816, OP:815  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
+ |  TM:817, OP:815  |[7760](https://github.com/microsoft/PTVS/issues/7760 "Failed to create &quot;tiangolo/full-stack-fastapi-postgresql&quot; template in Cookiecutter. ") | Failed to create "tiangolo/full-stack-fastapi-postgresql" template in Cookiecutter.  |
  |  TM:845, OP:845  |[7743](https://github.com/microsoft/PTVS/issues/7743 "environment load sequence broken") | environment load sequence broken |
  |  TM:780, OP:780  |[7724](https://github.com/microsoft/PTVS/issues/7724 "An error pops up after clicking 'Find' when attach to python remote.") | An error pops up after clicking 'Find' when attach to python remote. |
  |  TM:1034, OP:1026  |[7429](https://github.com/microsoft/PTVS/issues/7429 "Start without Debug and Start with Debug button not available in right click menu") | Start without Debug and Start with Debug button not available in right click menu |
@@ -148,8 +148,8 @@ Generated on 2026-02-23 using: stale=30, all=True
 | \* | [#7702](https://github.com/microsoft/PTVS/pull/7702) | hassan20990 | 2023-08-23 | 915 | - | - | Refactor tests |
 | \* | [#7779](https://github.com/microsoft/PTVS/pull/7779) | StellaHuang95 | 2023-12-07 | 809 | - | - | [Draft] Add python 3.12 support |
 | \* | [#8337](https://github.com/microsoft/PTVS/pull/8337) | bschnurr | 2025-11-27 | 88 | - | - | improve TestExplorer test |
-| \* | [#8338](https://github.com/microsoft/PTVS/pull/8338) | bschnurr | 2025-11-27 | 87 | - | - | Fix TestExplorer by selecting the grouping button in this form 'Proje… |
-| \* | [#8344](https://github.com/microsoft/PTVS/pull/8344) | bschnurr | 2025-12-05 | 79 | - | - | NOT ready: Add dynamic runtimesettings (#8341) |
+| \* | [#8338](https://github.com/microsoft/PTVS/pull/8338) | bschnurr | 2025-11-27 | 88 | - | - | Fix TestExplorer by selecting the grouping button in this form 'Proje… |
+| \* | [#8344](https://github.com/microsoft/PTVS/pull/8344) | bschnurr | 2025-12-05 | 80 | - | - | NOT ready: Add dynamic runtimesettings (#8341) |
 | \* | [#8345](https://github.com/microsoft/PTVS/pull/8345) | csigs | 2025-12-06 | 79 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251206201415174 to main |
 | \* | [#8347](https://github.com/microsoft/PTVS/pull/8347) | csigs | 2025-12-09 | 76 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20251209201138188 to main |
 | \* | [#8351](https://github.com/microsoft/PTVS/pull/8351) | csigs | 2026-01-06 | 48 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20260106110929974 to main |
@@ -201,7 +201,7 @@ Generated on 2026-02-23 using: stale=30, all=True
   8: azure-pipelines.yml
 
 
-![](bugcount.png)
+![](issuecounts.png)
 
 ![](time_to_merge_prs.png)
 
