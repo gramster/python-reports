@@ -2,32 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-02-10 using: stale=30, all=False
+Generated on 2026-02-24 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python-environments that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:177, OP:1  |[664](https://github.com/microsoft/vscode-python-environments/issues/664 "The automatic activation mechanism has been damaged")  |The automatic activation mechanism has been damaged |
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python-environments that need a response from team:
+### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1219](https://github.com/microsoft/vscode-python-environments/issues/1219 "vscode-python-envs forgets environment and writes faulty ./.vscode/settings.json")  |vscode-python-envs forgets environment and writes faulty ./.vscode/settings.json |
- | \* OP:1  |[1214](https://github.com/microsoft/vscode-python-environments/issues/1214 "add smoke tests for extension")  |add smoke tests for extension |
+ | \* TM:5, OP:0  |[1253](https://github.com/microsoft/vscode-python-environments/issues/1253 "Jupyter kernel startup delayed 30s when extension is installed (pixi environment)")  |Jupyter kernel startup delayed 30s when extension is installed (pixi environment) |
 
 ## PULL REQUEST ACTIVITY
 
@@ -36,27 +26,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1222](https://github.com/microsoft/vscode-python-environments/pull/1222) | karthiknadig | 2026-02-10 | 0 | - | - | Normalize file paths across environment managers |
-| \* | [#1221](https://github.com/microsoft/vscode-python-environments/pull/1221) | karthiknadig | 2026-02-10 | 0 | - | - | Add verbose logging for environment resolution failures in utils |
-| \* | [#1220](https://github.com/microsoft/vscode-python-environments/pull/1220) | karthiknadig | 2026-02-10 | 0 | - | - | Fix empty path handling in pythonProjects for workspace root projects |
-| \* | [#1218](https://github.com/microsoft/vscode-python-environments/pull/1218) | karthiknadig | 2026-02-10 | 0 | - | - | Add platform-specific default paths for Poetry cache and virtualenvs |
-| \* | [#1217](https://github.com/microsoft/vscode-python-environments/pull/1217) | eleanorjboyd | 2026-02-10 | 0 | 2026-02-10 | eleanorjboyd | bump 1.18.1 version |
-| \* | [#1217](https://github.com/microsoft/vscode-python-environments/pull/1217) | eleanorjboyd | 2026-02-10 | 0 | 2026-02-10 | eleanorjboyd | bump 1.18.1 version |
+| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
+| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
+| \* | [#1272](https://github.com/microsoft/vscode-python-environments/pull/1272) | StellaHuang95 | 2026-02-24 | 0 | - | - | Add `ENVIRONMENT_TOOL_USAGE` telemetry to track actual environment tool usage |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1211](https://github.com/microsoft/vscode-python-environments/pull/1211) | copilot-swe-agent | 2026-02-07 | 2 | 2026-02-10 | karthiknadig | Add POETRY_VIRTUALENVS_IN_PROJECT environment variable support |
-| \* | [#1211](https://github.com/microsoft/vscode-python-environments/pull/1211) | copilot-swe-agent | 2026-02-07 | 2 | 2026-02-10 | karthiknadig | Add POETRY_VIRTUALENVS_IN_PROJECT environment variable support |
-| \* | [#1217](https://github.com/microsoft/vscode-python-environments/pull/1217) | eleanorjboyd | 2026-02-10 | 0 | 2026-02-10 | eleanorjboyd | bump 1.18.1 version |
-| \* | [#1217](https://github.com/microsoft/vscode-python-environments/pull/1217) | eleanorjboyd | 2026-02-10 | 0 | 2026-02-10 | eleanorjboyd | bump 1.18.1 version |
-
-### Pull Requests closed (not merged) in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1213](https://github.com/microsoft/vscode-python-environments/pull/1213) | copilot-swe-agent | 2026-02-07 | 2 | 2026-02-10 | - | Fix platform-specific default virtualenvs path for Poetry on Windows and macOS |
+| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
+| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -65,10 +44,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:66  |[1032](https://github.com/microsoft/vscode-python-environments/issues/1032 "Issues working on workspaces with multiple components subfolders, each with it's own venv.")  |Issues working on workspaces with multiple components subfolders, each with it's own venv. |
- | \* TM:5  |[1183](https://github.com/microsoft/vscode-python-environments/issues/1183 "Poetry: Missing support for POETRY_VIRTUALENVS_IN_PROJECT environment variable")  |Poetry: Missing support for POETRY_VIRTUALENVS_IN_PROJECT environment variable |
- | \* TM:88  |[987](https://github.com/microsoft/vscode-python-environments/issues/987 "VSCode Python test discovery not activating the environment")  |VSCode Python test discovery not activating the environment |
- | \* TM:18  |[1116](https://github.com/microsoft/vscode-python-environments/issues/1116 "Auto-installed when I request just the Python extension")  |Auto-installed when I request just the Python extension |
+ | \* TM:0  |[1274](https://github.com/microsoft/vscode-python-environments/issues/1274 "PET configure timeout kills process, preventing recovery on large workspaces")  |PET configure timeout kills process, preventing recovery on large workspaces |
+ | \* TM:0  |[1266](https://github.com/microsoft/vscode-python-environments/issues/1266 "Extension breaks uv venv interpreter detection in dev containers")  |Extension breaks uv venv interpreter detection in dev containers |
+ | \* TM:0  |[1271](https://github.com/microsoft/vscode-python-environments/issues/1271 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1270](https://github.com/microsoft/vscode-python-environments/issues/1270 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1269](https://github.com/microsoft/vscode-python-environments/issues/1269 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1267](https://github.com/microsoft/vscode-python-environments/issues/1267 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1268](https://github.com/microsoft/vscode-python-environments/issues/1268 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:43  |[1094](https://github.com/microsoft/vscode-python-environments/issues/1094 "pythonProjects setting messed up with remote multi-root environment")  |pythonProjects setting messed up with remote multi-root environment |
 
 
 
