@@ -2,32 +2,31 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-02-10 using: stale=30, all=False
+Generated on 2026-02-24 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
----
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## FOR ISSUES THAT ARE MARKED AS BUGS:
 
 
 ### Issues in pyright that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[11278](https://github.com/microsoft/pyright/issues/11278 "Allow more fine-grained configuration of tagged hints")  |Allow more fine-grained configuration of tagged hints |
- | \* OP:0  |[11277](https://github.com/microsoft/pyright/issues/11277 "`--verifytypes --ignoreexternal` reports public parameter as partially unknown with conditional optional-dependency alias")  |`--verifytypes --ignoreexternal` reports public parameter as partially unknown with conditional optional-dependency alias |
+ | \* OP:1  |[11294](https://github.com/microsoft/pyright/issues/11294 "False unreachable warning when matching type[X]")  |False unreachable warning when matching type[X] |
 
-## RECENTLY CLOSED ISSUES
+---
+
+## PULL REQUEST ACTIVITY
 
 
-### Issues closed in the past 1 day(s):
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:50  |[11181](https://github.com/microsoft/pyright/issues/11181 "Everything is slow")  |Everything is slow |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#11296](https://github.com/microsoft/pyright/pull/11296) | dependabot | 2026-02-24 | 0 | - | - | Bump minimatch in /packages/vscode-pyright |
 
 
 
