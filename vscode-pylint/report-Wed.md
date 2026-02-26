@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2026-02-04 using: stale=30, all=False
+Generated on 2026-02-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in vscode-pylint that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[707](https://github.com/microsoft/vscode-pylint/issues/707 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,37 +26,25 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#646](https://github.com/microsoft/vscode-pylint/pull/646) | edvilme | 2026-02-04 | 0 | - | - | Add score in statusbar |
-| \* | [#645](https://github.com/microsoft/vscode-pylint/pull/645) | edvilme | 2026-02-04 | 0 | 2026-02-04 | edvilme | pygls -> 2.0 |
-| \* | [#645](https://github.com/microsoft/vscode-pylint/pull/645) | edvilme | 2026-02-04 | 0 | 2026-02-04 | edvilme | pygls -> 2.0 |
-| \* | [#644](https://github.com/microsoft/vscode-pylint/pull/644) | edvilme | 2026-02-03 | 0 | - | - | Upgrade requirements automatically |
+| \* | [#711](https://github.com/microsoft/vscode-pylint/pull/711) | dependabot | 2026-02-25 | 0 | - | - | Bump glob from 13.0.5 to 13.0.6 in the npm-minor-patch group |
+| \* | [#710](https://github.com/microsoft/vscode-pylint/pull/710) | dependabot | 2026-02-25 | 0 | - | - | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
+| \* | [#709](https://github.com/microsoft/vscode-pylint/pull/709) | dependabot | 2026-02-25 | 0 | - | - | Bump github/gh-aw from 0.47.5 to 0.50.4 in the github-actions-minor-patch group |
+| \* | [#708](https://github.com/microsoft/vscode-pylint/pull/708) | dependabot | 2026-02-25 | 0 | - | - | Bump pylint from 4.0.4 to 4.0.5 in the pip-minor-patch group |
+| \* | [#706](https://github.com/microsoft/vscode-pylint/pull/706) | copilot-swe-agent | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#706](https://github.com/microsoft/vscode-pylint/pull/706) | copilot-swe-agent | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#705](https://github.com/microsoft/vscode-pylint/pull/705) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#705](https://github.com/microsoft/vscode-pylint/pull/705) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#643](https://github.com/microsoft/vscode-pylint/pull/643) | edvilme | 2026-02-03 | 1 | 2026-02-04 | edvilme | Update min version (3.10) and requirements |
-| \* | [#643](https://github.com/microsoft/vscode-pylint/pull/643) | edvilme | 2026-02-03 | 1 | 2026-02-04 | edvilme | Update min version (3.10) and requirements |
-| \* | [#645](https://github.com/microsoft/vscode-pylint/pull/645) | edvilme | 2026-02-04 | 0 | 2026-02-04 | edvilme | pygls -> 2.0 |
-| \* | [#645](https://github.com/microsoft/vscode-pylint/pull/645) | edvilme | 2026-02-04 | 0 | 2026-02-04 | edvilme | pygls -> 2.0 |
-
-### Pull Requests closed (not merged) in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#642](https://github.com/microsoft/vscode-pylint/pull/642) | dependabot | 2026-02-02 | 1 | 2026-02-04 | - | Bump pip from 25.0.1 to 26.0 |
-| \* | [#638](https://github.com/microsoft/vscode-pylint/pull/638) | dependabot | 2026-01-13 | 22 | 2026-02-04 | - | Bump virtualenv from 20.29.2 to 20.36.1 |
-| \* | [#640](https://github.com/microsoft/vscode-pylint/pull/640) | dependabot | 2026-01-22 | 13 | 2026-02-04 | - | Bump wheel from 0.45.1 to 0.46.2 |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:81  |[626](https://github.com/microsoft/vscode-pylint/issues/626 "crash when `pygls>=2.0.0` is installed and `importStrategy` is `&quot;fromEnvironment&quot;`")  |crash when `pygls>=2.0.0` is installed and `importStrategy` is `"fromEnvironment"` |
- | \* TM:64  |[628](https://github.com/microsoft/vscode-pylint/issues/628 "Keep this wrapper up-to-date v4.0.4 is the current release")  |Keep this wrapper up-to-date v4.0.4 is the current release |
+| \* | [#705](https://github.com/microsoft/vscode-pylint/pull/705) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#705](https://github.com/microsoft/vscode-pylint/pull/705) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#706](https://github.com/microsoft/vscode-pylint/pull/706) | copilot-swe-agent | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#706](https://github.com/microsoft/vscode-pylint/pull/706) | copilot-swe-agent | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#701](https://github.com/microsoft/vscode-pylint/pull/701) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Extension template sync |
+| \* | [#701](https://github.com/microsoft/vscode-pylint/pull/701) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Extension template sync |
 
 
 
