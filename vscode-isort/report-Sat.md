@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-02-07 using: stale=30, all=False
+Generated on 2026-02-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues in vscode-isort that have comments from 3rd party after last team response:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#502](https://github.com/microsoft/vscode-isort/pull/502) | dependabot | 2026-02-07 | 0 | - | - | Bump webpack from 5.101.3 to 5.105.0 |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[409](https://github.com/microsoft/vscode-isort/issues/409 "Isort server crashed")  |Isort server crashed |
 
 
 
