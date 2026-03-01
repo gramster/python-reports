@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-07 using: stale=30, all=False
+Generated on 2026-02-28 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,20 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in pylance-release that need a response from team:
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[7858](https://github.com/microsoft/pylance-release/issues/7858 "reportMissingImports")  |reportMissingImports |
-
-### Issues in pylance-release that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:1,  |[6658](https://github.com/microsoft/pylance-release/issues/6658 "pylance slow performance")  |pylance slow performance |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#7922](https://github.com/microsoft/pyrx/pull/7922) | dependabot | 2026-02-27 | 0 | - | - | Bump koa from 3.1.1 to 3.1.2 |
 
 
 
