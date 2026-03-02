@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-02-08 using: stale=30, all=False
+Generated on 2026-03-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,18 +15,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[11275](https://github.com/microsoft/pyright/issues/11275 "deprecateTypingAliases incorrectly reports Optional as deprecated")  |deprecateTypingAliases incorrectly reports Optional as deprecated |
+ | \* OP:1  |[11301](https://github.com/microsoft/pyright/issues/11301 "&quot;TypeAliasType&quot; not assignable to &quot;TypeForm[Any]&quot; for dict keys, but same expression works inline")  |"TypeAliasType" not assignable to "TypeForm[Any]" for dict keys, but same expression works inline |
 
 ---
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0  |[11276](https://github.com/microsoft/pyright/issues/11276 "Passing an unpacked tuple of types as type arguments to the type parameters `[T, *Ts]` gets error")  |Passing an unpacked tuple of types as type arguments to the type parameters `[T, *Ts]` gets error |
 
 
 
