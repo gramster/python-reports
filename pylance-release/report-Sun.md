@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-08 using: stale=30, all=False
+Generated on 2026-03-01 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[7858](https://github.com/microsoft/pylance-release/issues/7858 "reportMissingImports")  |reportMissingImports |
+ | \* OP:0  |[7912](https://github.com/microsoft/pylance-release/issues/7912 "ERR_OSSL_EVP_BAD_DECRYPT")  |ERR_OSSL_EVP_BAD_DECRYPT |
 
 
 
