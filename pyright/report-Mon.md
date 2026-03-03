@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-02-23 using: stale=30, all=False
+Generated on 2026-03-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,18 +15,19 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[11294](https://github.com/microsoft/pyright/issues/11294 "False unreachable warning when matching type[X]")  |False unreachable warning when matching type[X] |
+ | \* OP:0  |[11304](https://github.com/microsoft/pyright/issues/11304 "nullcontext: untyped or Any enter_result type is ignored and inferred as None on __enter__")  |nullcontext: untyped or Any enter_result type is ignored and inferred as None on __enter__ |
+ | \* OP:0  |[11303](https://github.com/microsoft/pyright/issues/11303 "Type inference fails for application of higher-order generic function")  |Type inference fails for application of higher-order generic function |
 
 ---
 
-## RECENTLY CLOSED ISSUES
+## PULL REQUEST ACTIVITY
 
 
-### Issues closed in the past 1 day(s):
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0  |[11295](https://github.com/microsoft/pyright/issues/11295 "Pylance false positive for missing method on a wrapt.ObjectProxy subclass")  |Pylance false positive for missing method on a wrapt.ObjectProxy subclass |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#11302](https://github.com/microsoft/pyright/pull/11302) | Viicos | 2026-03-02 | 0 | - | - | Made PEP 747 (Annotating Type Forms) no longer experimental |
 
 
 
