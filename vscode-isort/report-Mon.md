@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-02-23 using: stale=30, all=False
+Generated on 2026-03-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,26 +17,34 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#535](https://github.com/microsoft/vscode-isort/pull/535) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
-| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
-| \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
+| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | - | - | Rewrite extension-template-sync to detect unsynced PRs and create issues |
+| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#530](https://github.com/microsoft/vscode-isort/pull/530) | dependabot | 2026-02-20 | 3 | 2026-02-23 | edvilme | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
-| \* | [#530](https://github.com/microsoft/vscode-isort/pull/530) | dependabot | 2026-02-20 | 3 | 2026-02-23 | edvilme | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
-| \* | [#529](https://github.com/microsoft/vscode-isort/pull/529) | dependabot | 2026-02-20 | 3 | 2026-02-23 | github-actions | Bump github/gh-aw from 0.43.22 to 0.47.3 in the github-actions-minor-patch group |
-| \* | [#529](https://github.com/microsoft/vscode-isort/pull/529) | dependabot | 2026-02-20 | 3 | 2026-02-23 | github-actions | Bump github/gh-aw from 0.43.22 to 0.47.3 in the github-actions-minor-patch group |
-| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#534](https://github.com/microsoft/vscode-isort/pull/534) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
-| \* | [#531](https://github.com/microsoft/vscode-isort/pull/531) | edvilme | 2026-02-20 | 2 | 2026-02-23 | edvilme | Agentic Workflows: Check issues on Python Tools Extension Template |
-| \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
-| \* | [#533](https://github.com/microsoft/vscode-isort/pull/533) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add files for signing. switch back to main branch of templates |
+| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#555](https://github.com/microsoft/vscode-isort/pull/555) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#555](https://github.com/microsoft/vscode-isort/pull/555) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[561](https://github.com/microsoft/vscode-isort/issues/561 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* TM:0  |[559](https://github.com/microsoft/vscode-isort/issues/559 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* TM:0  |[557](https://github.com/microsoft/vscode-isort/issues/557 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* TM:0  |[558](https://github.com/microsoft/vscode-isort/issues/558 "[agentics] Issue Triage failed")  |[agentics] Issue Triage failed |
+ | \* TM:146  |[476](https://github.com/microsoft/vscode-isort/issues/476 "isort server segfaults on WSL")  |isort server segfaults on WSL |
+ | \* TM:320  |[433](https://github.com/microsoft/vscode-isort/issues/433 "Feature Request: Split 1st Party Imports")  |Feature Request: Split 1st Party Imports |
+ | \* TM:161  |[463](https://github.com/microsoft/vscode-isort/issues/463 "Multiple isort handlers getting registered")  |Multiple isort handlers getting registered |
+ | \* TM:3  |[545](https://github.com/microsoft/vscode-isort/issues/545 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
 
 
 
