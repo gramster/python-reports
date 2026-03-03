@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2026-02-23 using: stale=30, all=False
+Generated on 2026-03-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in vscode-pylint that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[719](https://github.com/microsoft/vscode-pylint/issues/719 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,34 +26,36 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#696](https://github.com/microsoft/vscode-pylint/pull/696) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
-| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
-| \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
+| \* | [#721](https://github.com/microsoft/vscode-pylint/pull/721) | edvilme | 2026-03-02 | 0 | - | - | Rewrite extension-template-sync to detect unsynced PRs and create issues |
+| \* | [#720](https://github.com/microsoft/vscode-pylint/pull/720) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#720](https://github.com/microsoft/vscode-pylint/pull/720) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#718](https://github.com/microsoft/vscode-pylint/pull/718) | dependabot | 2026-03-02 | 0 | - | - | Bump webpack from 5.105.2 to 5.105.3 in the npm-minor-patch group across 1 directory |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
-| \* | [#692](https://github.com/microsoft/vscode-pylint/pull/692) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
-| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#695](https://github.com/microsoft/vscode-pylint/pull/695) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#697](https://github.com/microsoft/vscode-pylint/pull/697) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
-| \* | [#694](https://github.com/microsoft/vscode-pylint/pull/694) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget for pipeline |
-| \* | [#691](https://github.com/microsoft/vscode-pylint/pull/691) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump nox from 2025.11.12 to 2026.2.9 |
-| \* | [#691](https://github.com/microsoft/vscode-pylint/pull/691) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump nox from 2025.11.12 to 2026.2.9 |
-| \* | [#690](https://github.com/microsoft/vscode-pylint/pull/690) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
-| \* | [#690](https://github.com/microsoft/vscode-pylint/pull/690) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
-| \* | [#689](https://github.com/microsoft/vscode-pylint/pull/689) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump github/gh-aw from 0.43.22 to 0.46.1 in the github-actions-minor-patch group |
-| \* | [#689](https://github.com/microsoft/vscode-pylint/pull/689) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump github/gh-aw from 0.43.22 to 0.46.1 in the github-actions-minor-patch group |
-| \* | [#688](https://github.com/microsoft/vscode-pylint/pull/688) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump glob from 13.0.3 to 13.0.5 in the npm-minor-patch group |
-| \* | [#688](https://github.com/microsoft/vscode-pylint/pull/688) | dependabot | 2026-02-18 | 4 | 2026-02-23 | edvilme | Bump glob from 13.0.3 to 13.0.5 in the npm-minor-patch group |
+| \* | [#720](https://github.com/microsoft/vscode-pylint/pull/720) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#720](https://github.com/microsoft/vscode-pylint/pull/720) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#716](https://github.com/microsoft/vscode-pylint/pull/716) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#716](https://github.com/microsoft/vscode-pylint/pull/716) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#711](https://github.com/microsoft/vscode-pylint/pull/711) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump glob from 13.0.5 to 13.0.6 in the npm-minor-patch group |
+| \* | [#711](https://github.com/microsoft/vscode-pylint/pull/711) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump glob from 13.0.5 to 13.0.6 in the npm-minor-patch group |
+| \* | [#715](https://github.com/microsoft/vscode-pylint/pull/715) | dependabot | 2026-02-27 | 2 | 2026-03-02 | rzhao271 | Bump minimatch |
+| \* | [#715](https://github.com/microsoft/vscode-pylint/pull/715) | dependabot | 2026-02-27 | 2 | 2026-03-02 | rzhao271 | Bump minimatch |
+| \* | [#710](https://github.com/microsoft/vscode-pylint/pull/710) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
+| \* | [#710](https://github.com/microsoft/vscode-pylint/pull/710) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
+| \* | [#709](https://github.com/microsoft/vscode-pylint/pull/709) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump github/gh-aw from 0.47.5 to 0.50.4 in the github-actions-minor-patch group |
+| \* | [#709](https://github.com/microsoft/vscode-pylint/pull/709) | dependabot | 2026-02-25 | 4 | 2026-03-02 | rzhao271 | Bump github/gh-aw from 0.47.5 to 0.50.4 in the github-actions-minor-patch group |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:5  |[707](https://github.com/microsoft/vscode-pylint/issues/707 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
 
 
 
