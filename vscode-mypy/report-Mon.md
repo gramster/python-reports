@@ -2,22 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-02-23 using: stale=30, all=False
+Generated on 2026-03-02 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
+---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
 ### Issues in vscode-mypy that need a response from team:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[431](https://github.com/microsoft/vscode-mypy/issues/431 "module 'pygls.server' has no attribute 'LanguageServer'")  |module 'pygls.server' has no attribute 'LanguageServer' |
-
----
+ | \* OP:1  |[450](https://github.com/microsoft/vscode-mypy/issues/450 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,30 +26,39 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#435](https://github.com/microsoft/vscode-mypy/pull/435) | bschnurr | 2026-02-23 | 0 | - | - | Add PR creation skill for Copilot |
-| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#433](https://github.com/microsoft/vscode-mypy/pull/433) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#433](https://github.com/microsoft/vscode-mypy/pull/433) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
-| \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
+| \* | [#453](https://github.com/microsoft/vscode-mypy/pull/453) | edvilme | 2026-03-02 | 0 | - | - | Rewrite extension-template-sync to detect unsynced PRs and create issues |
+| \* | [#452](https://github.com/microsoft/vscode-mypy/pull/452) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#452](https://github.com/microsoft/vscode-mypy/pull/452) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#451](https://github.com/microsoft/vscode-mypy/pull/451) | dependabot | 2026-03-02 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 7 updates |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#386](https://github.com/microsoft/vscode-mypy/pull/386) | frazar | 2025-11-28 | 87 | 2026-02-23 | edvilme | Fix typo in README |
-| \* | [#386](https://github.com/microsoft/vscode-mypy/pull/386) | frazar | 2025-11-28 | 87 | 2026-02-23 | edvilme | Fix typo in README |
-| \* | [#433](https://github.com/microsoft/vscode-mypy/pull/433) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#433](https://github.com/microsoft/vscode-mypy/pull/433) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | Disable CI trigger in stable pipeline |
-| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
-| \* | [#428](https://github.com/microsoft/vscode-mypy/pull/428) | edvilme | 2026-02-19 | 4 | 2026-02-23 | edvilme | Agentic Workflow: Update Python versions using JSON endpoint |
-| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#434](https://github.com/microsoft/vscode-mypy/pull/434) | edvilme | 2026-02-23 | 0 | 2026-02-23 | edvilme | Agentic Workflow: Check issues on Python Tools Extension Template |
-| \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
-| \* | [#432](https://github.com/microsoft/vscode-mypy/pull/432) | bschnurr | 2026-02-23 | 0 | 2026-02-23 | bschnurr | add nuget pipeline |
-| \* | [#430](https://github.com/microsoft/vscode-mypy/pull/430) | dependabot | 2026-02-21 | 1 | 2026-02-23 | github-actions | Bump minimatch from 10.1.1 to 10.2.1 |
-| \* | [#430](https://github.com/microsoft/vscode-mypy/pull/430) | dependabot | 2026-02-21 | 1 | 2026-02-23 | github-actions | Bump minimatch from 10.1.1 to 10.2.1 |
+| \* | [#452](https://github.com/microsoft/vscode-mypy/pull/452) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#452](https://github.com/microsoft/vscode-mypy/pull/452) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#449](https://github.com/microsoft/vscode-mypy/pull/449) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#449](https://github.com/microsoft/vscode-mypy/pull/449) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#390](https://github.com/microsoft/vscode-mypy/pull/390) | dependabot | 2026-01-13 | 47 | 2026-03-02 | github-actions | Bump virtualenv from 20.29.2 to 20.36.1 |
+| \* | [#390](https://github.com/microsoft/vscode-mypy/pull/390) | dependabot | 2026-01-13 | 47 | 2026-03-02 | github-actions | Bump virtualenv from 20.29.2 to 20.36.1 |
+| \* | [#448](https://github.com/microsoft/vscode-mypy/pull/448) | dependabot | 2026-02-27 | 2 | 2026-03-02 | rzhao271 | Bump minimatch |
+| \* | [#448](https://github.com/microsoft/vscode-mypy/pull/448) | dependabot | 2026-02-27 | 2 | 2026-03-02 | rzhao271 | Bump minimatch |
+
+### Pull Requests closed (not merged) in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#398](https://github.com/microsoft/vscode-mypy/pull/398) | dependabot | 2026-02-07 | 23 | 2026-03-02 | - | Bump webpack from 5.101.3 to 5.105.0 |
+| \* | [#410](https://github.com/microsoft/vscode-mypy/pull/410) | dependabot | 2026-02-13 | 16 | 2026-03-02 | - | Bump the npm-minor-patch group with 8 updates |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:5  |[437](https://github.com/microsoft/vscode-mypy/issues/437 "mypy.ini, setup.cfg not checked for ${nearestConfig} cwd")  |mypy.ini, setup.cfg not checked for ${nearestConfig} cwd |
 
 
 
