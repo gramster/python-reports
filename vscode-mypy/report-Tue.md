@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-02-24 using: stale=30, all=False
+Generated on 2026-03-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-mypy that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:1  |[431](https://github.com/microsoft/vscode-mypy/issues/431 "module 'pygls.server' has no attribute 'LanguageServer'")  |module 'pygls.server' has no attribute 'LanguageServer' |
 
 ---
 
@@ -26,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[438](https://github.com/microsoft/vscode-mypy/issues/438 "[agentics] Issue Root-Cause & Template Check failed")  |[agentics] Issue Root-Cause & Template Check failed |
- | \* OP:0  |[437](https://github.com/microsoft/vscode-mypy/issues/437 "mypy.ini, setup.cfg not checked for ${nearestConfig} cwd")  |mypy.ini, setup.cfg not checked for ${nearestConfig} cwd |
+ | \* OP:0  |[456](https://github.com/microsoft/vscode-mypy/issues/456 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 ## PULL REQUEST ACTIVITY
 
@@ -36,26 +26,34 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#441](https://github.com/microsoft/vscode-mypy/pull/441) | dependabot | 2026-02-24 | 0 | - | - | Bump minimatch from 3.1.2 to 10.2.3 |
-| \* | [#440](https://github.com/microsoft/vscode-mypy/pull/440) | edvilme | 2026-02-24 | 0 | - | - | Agentic Workflow: Extension template sync |
-| \* | [#439](https://github.com/microsoft/vscode-mypy/pull/439) | edvilme | 2026-02-24 | 0 | - | - | Agentic Workflow: Check tool repo for issue triage |
-| \* | [#436](https://github.com/microsoft/vscode-mypy/pull/436) | bschnurr | 2026-02-24 | 0 | 2026-02-24 | bschnurr | Update @vscode/vsce to ^3.7.1-1 |
-| \* | [#436](https://github.com/microsoft/vscode-mypy/pull/436) | bschnurr | 2026-02-24 | 0 | 2026-02-24 | bschnurr | Update @vscode/vsce to ^3.7.1-1 |
+| \* | [#455](https://github.com/microsoft/vscode-mypy/pull/455) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Gracefully handle OSError in change_cwd |
+| \* | [#455](https://github.com/microsoft/vscode-mypy/pull/455) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Gracefully handle OSError in change_cwd |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#435](https://github.com/microsoft/vscode-mypy/pull/435) | bschnurr | 2026-02-23 | 0 | 2026-02-24 | bschnurr | Add PR creation skill for Copilot |
-| \* | [#435](https://github.com/microsoft/vscode-mypy/pull/435) | bschnurr | 2026-02-23 | 0 | 2026-02-24 | bschnurr | Add PR creation skill for Copilot |
-| \* | [#436](https://github.com/microsoft/vscode-mypy/pull/436) | bschnurr | 2026-02-24 | 0 | 2026-02-24 | bschnurr | Update @vscode/vsce to ^3.7.1-1 |
-| \* | [#436](https://github.com/microsoft/vscode-mypy/pull/436) | bschnurr | 2026-02-24 | 0 | 2026-02-24 | bschnurr | Update @vscode/vsce to ^3.7.1-1 |
+| \* | [#455](https://github.com/microsoft/vscode-mypy/pull/455) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Gracefully handle OSError in change_cwd |
+| \* | [#455](https://github.com/microsoft/vscode-mypy/pull/455) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Gracefully handle OSError in change_cwd |
+| \* | [#414](https://github.com/microsoft/vscode-mypy/pull/414) | dependabot | 2026-02-13 | 17 | 2026-03-03 | github-actions | Bump actions/setup-python from 5 to 6 |
+| \* | [#414](https://github.com/microsoft/vscode-mypy/pull/414) | dependabot | 2026-02-13 | 17 | 2026-03-03 | github-actions | Bump actions/setup-python from 5 to 6 |
+| \* | [#453](https://github.com/microsoft/vscode-mypy/pull/453) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
+| \* | [#453](https://github.com/microsoft/vscode-mypy/pull/453) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
 
 ### Pull Requests closed (not merged) in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#421](https://github.com/microsoft/vscode-mypy/pull/421) | dependabot | 2026-02-13 | 10 | 2026-02-24 | - | Bump @vscode/vsce from 2.32.0 to 3.7.1 |
+| \* | [#427](https://github.com/microsoft/vscode-mypy/pull/427) | dependabot | 2026-02-18 | 12 | 2026-03-03 | - | Bump actions/download-artifact from 6.0.0 to 7.0.0 |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[454](https://github.com/microsoft/vscode-mypy/issues/454 "Template Sync: Gracefully handle OSError in change_cwd")  |Template Sync: Gracefully handle OSError in change_cwd |
 
 
 
