@@ -2,22 +2,41 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-02-24 using: stale=30, all=False
+Generated on 2026-03-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in vscode-python-environments that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[1059](https://github.com/microsoft/vscode-python-environments/issues/1059 "Refreshing virtual environments keeps on spinning due to missing pyenv")  |Refreshing virtual environments keeps on spinning due to missing pyenv |
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
+### Issues in vscode-python-environments that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[1313](https://github.com/microsoft/vscode-python-environments/issues/1313 "Conda Error caused by wrong activate command")  |Conda Error caused by wrong activate command |
+ | \* OP:0  |[1312](https://github.com/microsoft/vscode-python-environments/issues/1312 "Terminal: Auto-activation command injected before shell prompt initializes")  |Terminal: Auto-activation command injected before shell prompt initializes |
+ | \* OP:0  |[1310](https://github.com/microsoft/vscode-python-environments/issues/1310 "python.useEnvsExtension on true - python interpreter can't select environments")  |python.useEnvsExtension on true - python interpreter can't select environments |
+ | \* OP:0  |[1309](https://github.com/microsoft/vscode-python-environments/issues/1309 "Stuck on initializing virtual environments")  |Stuck on initializing virtual environments |
+ | \* OP:1  |[1302](https://github.com/microsoft/vscode-python-environments/issues/1302 "malfunction")  |malfunction |
+
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:5, OP:0  |[1253](https://github.com/microsoft/vscode-python-environments/issues/1253 "Jupyter kernel startup delayed 30s when extension is installed (pixi environment)")  |Jupyter kernel startup delayed 30s when extension is installed (pixi environment) |
+ | \* TM:1, OP:0  |[1303](https://github.com/microsoft/vscode-python-environments/issues/1303 "Pixi environments are no longer detected")  |Pixi environments are no longer detected |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,16 +45,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
-| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
-| \* | [#1272](https://github.com/microsoft/vscode-python-environments/pull/1272) | StellaHuang95 | 2026-02-24 | 0 | - | - | Add `ENVIRONMENT_TOOL_USAGE` telemetry to track actual environment tool usage |
+| \* | [#1314](https://github.com/microsoft/vscode-python-environments/pull/1314) | rzhao271 | 2026-03-03 | 0 | - | - | chore: run npm audit fix |
+| \* | [#1311](https://github.com/microsoft/vscode-python-environments/pull/1311) | eleanorjboyd | 2026-03-03 | 0 | - | - | feat: switch to event-driven approach for environment retrieval in integration tests |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
-| \* | [#1275](https://github.com/microsoft/vscode-python-environments/pull/1275) | karthiknadig | 2026-02-24 | 0 | 2026-02-24 | karthiknadig | fix: graduate PET configure timeout to avoid killing process prematurely (Fixes #1274) |
+| \* | [#1297](https://github.com/microsoft/vscode-python-environments/pull/1297) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | Implement tests for manager timeout handling |
+| \* | [#1297](https://github.com/microsoft/vscode-python-environments/pull/1297) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | Implement tests for manager timeout handling |
+| \* | [#1292](https://github.com/microsoft/vscode-python-environments/pull/1292) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | feat: enhance telemetry with error classification and duration tracking for environment manager registration |
+| \* | [#1292](https://github.com/microsoft/vscode-python-environments/pull/1292) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | feat: enhance telemetry with error classification and duration tracking for environment manager registration |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -44,14 +64,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[1274](https://github.com/microsoft/vscode-python-environments/issues/1274 "PET configure timeout kills process, preventing recovery on large workspaces")  |PET configure timeout kills process, preventing recovery on large workspaces |
- | \* TM:0  |[1266](https://github.com/microsoft/vscode-python-environments/issues/1266 "Extension breaks uv venv interpreter detection in dev containers")  |Extension breaks uv venv interpreter detection in dev containers |
- | \* TM:0  |[1271](https://github.com/microsoft/vscode-python-environments/issues/1271 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1270](https://github.com/microsoft/vscode-python-environments/issues/1270 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1269](https://github.com/microsoft/vscode-python-environments/issues/1269 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1267](https://github.com/microsoft/vscode-python-environments/issues/1267 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1268](https://github.com/microsoft/vscode-python-environments/issues/1268 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:43  |[1094](https://github.com/microsoft/vscode-python-environments/issues/1094 "pythonProjects setting messed up with remote multi-root environment")  |pythonProjects setting messed up with remote multi-root environment |
+ | \* TM:218  |[660](https://github.com/microsoft/vscode-python-environments/issues/660 "Enabling extension breaks configured defaultInterpreterPath usage")  |Enabling extension breaks configured defaultInterpreterPath usage |
 
 
 
