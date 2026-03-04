@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-24 using: stale=30, all=False
+Generated on 2026-03-03 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[7915](https://github.com/microsoft/pylance-release/issues/7915 "Pylance crashes with EISDIR when workspace contains a .env directory instead of a .env file")  |Pylance crashes with EISDIR when workspace contains a .env directory instead of a .env file |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,10 +26,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7886](https://github.com/microsoft/pyrx/pull/7886) | heejaechang | 2026-02-24 | 0 | - | - | Refactor MCP server launcher from Python to Node.js |
-| \* | [#7885](https://github.com/microsoft/pyrx/pull/7885) | heejaechang | 2026-02-24 | 0 | - | - | Handle py.typed changes in watch mode for typed-package refresh |
-| \* | [#7884](https://github.com/microsoft/pyrx/pull/7884) | heejaechang | 2026-02-24 | 0 | - | - | feat: add in-proc language server Jest harness for notebook APIs |
-| \* | [#7882](https://github.com/microsoft/pyrx/pull/7882) | dependabot | 2026-02-24 | 0 | - | - | Bump minimatch and @microsoft/api-extractor in /tests/pylance-browser |
+| \* | [#7933](https://github.com/microsoft/pyrx/pull/7933) | dependabot | 2026-03-03 | 0 | - | - | Bump underscore from 1.13.7 to 1.13.8 in /packages/vscode-pylance |
 
 
 
