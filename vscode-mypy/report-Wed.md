@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-02-25 using: stale=30, all=False
+Generated on 2026-03-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[437](https://github.com/microsoft/vscode-mypy/issues/437 "mypy.ini, setup.cfg not checked for ${nearestConfig} cwd")  |mypy.ini, setup.cfg not checked for ${nearestConfig} cwd |
+ | \* OP:0  |[457](https://github.com/microsoft/vscode-mypy/issues/457 "[aw] No-Op Runs")  |[aw] No-Op Runs |
+ | \* OP:1  |[456](https://github.com/microsoft/vscode-mypy/issues/456 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,28 +27,23 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#442](https://github.com/microsoft/vscode-mypy/pull/442) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
-| \* | [#442](https://github.com/microsoft/vscode-mypy/pull/442) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
+| \* | [#459](https://github.com/microsoft/vscode-mypy/pull/459) | dependabot | 2026-03-04 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 3 updates |
+| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
+| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#442](https://github.com/microsoft/vscode-mypy/pull/442) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
-| \* | [#442](https://github.com/microsoft/vscode-mypy/pull/442) | edvilme | 2026-02-25 | 0 | 2026-02-25 | edvilme | Sync with template: Fix duplicate server handlers on concurrent restarts |
-| \* | [#440](https://github.com/microsoft/vscode-mypy/pull/440) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Extension template sync |
-| \* | [#440](https://github.com/microsoft/vscode-mypy/pull/440) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Extension template sync |
-| \* | [#439](https://github.com/microsoft/vscode-mypy/pull/439) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Check tool repo for issue triage |
-| \* | [#439](https://github.com/microsoft/vscode-mypy/pull/439) | edvilme | 2026-02-24 | 0 | 2026-02-25 | edvilme | Agentic Workflow: Check tool repo for issue triage |
+| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
+| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
 
-## RECENTLY CLOSED ISSUES
+### Pull Requests closed (not merged) in the past 1 day(s):
 
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1  |[438](https://github.com/microsoft/vscode-mypy/issues/438 "[agentics] Issue Root-Cause & Template Check failed")  |[agentics] Issue Root-Cause & Template Check failed |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#451](https://github.com/microsoft/vscode-mypy/pull/451) | dependabot | 2026-03-02 | 2 | 2026-03-04 | - | Bump the npm-minor-patch group across 1 directory with 7 updates |
+| \* | [#371](https://github.com/microsoft/vscode-mypy/pull/371) | dependabot | 2025-08-06 | 210 | 2026-03-04 | - | Bump tmp from 0.2.1 to 0.2.4 |
 
 
 
