@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-02-25 using: stale=30, all=False
+Generated on 2026-03-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1281](https://github.com/microsoft/vscode-python-environments/issues/1281 "Support `uv run` as an optional default run action.")  |Support `uv run` as an optional default run action. |
+ | \* OP:0  |[1319](https://github.com/microsoft/vscode-python-environments/issues/1319 "Environment manager 'ms-python.python:conda' is not registered")  |Environment manager 'ms-python.python:conda' is not registered |
+ | \* OP:0  |[1316](https://github.com/microsoft/vscode-python-environments/issues/1316 "${workspaceFolder} in python.defaultInterpreterPath reported unresolvable on startup")  |${workspaceFolder} in python.defaultInterpreterPath reported unresolvable on startup |
+ | \* OP:0  |[1315](https://github.com/microsoft/vscode-python-environments/issues/1315 "Failed to resolve environment")  |Failed to resolve environment |
+ | \* OP:1  |[1310](https://github.com/microsoft/vscode-python-environments/issues/1310 "python.useEnvsExtension on true - python interpreter can't select environments")  |python.useEnvsExtension on true - python interpreter can't select environments |
+ | \* OP:1  |[1309](https://github.com/microsoft/vscode-python-environments/issues/1309 "Stuck on initializing virtual environments")  |Stuck on initializing virtual environments |
 
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:6, OP:1  |[1253](https://github.com/microsoft/vscode-python-environments/issues/1253 "Jupyter kernel startup delayed 30s when extension is installed (pixi environment)")  |Jupyter kernel startup delayed 30s when extension is installed (pixi environment) |
+ | \* TM:0, OP:0  |[1313](https://github.com/microsoft/vscode-python-environments/issues/1313 "Conda Error caused by wrong activate command")  |Conda Error caused by wrong activate command |
+ | \* TM:2, OP:0  |[1303](https://github.com/microsoft/vscode-python-environments/issues/1303 "Pixi environments are no longer detected")  |Pixi environments are no longer detected |
 
 ## PULL REQUEST ACTIVITY
 
@@ -32,14 +37,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1282](https://github.com/microsoft/vscode-python-environments/pull/1282) | dependabot | 2026-02-25 | 0 | - | - | chore(deps): bump minimatch |
-| \* | [#1276](https://github.com/microsoft/vscode-python-environments/pull/1276) | dependabot | 2026-02-25 | 0 | 2026-02-25 | - | chore(deps): bump minimatch |
+| \* | [#1321](https://github.com/microsoft/vscode-python-environments/pull/1321) | karthiknadig | 2026-03-04 | 0 | - | - | fix: use shell-specific conda activation and check conda init status (Fixes #1313) |
+| \* | [#1320](https://github.com/microsoft/vscode-python-environments/pull/1320) | dependabot | 2026-03-04 | 0 | - | - | chore(deps): bump @tootallnate/once and @vscode/test-electron |
+| \* | [#1318](https://github.com/microsoft/vscode-python-environments/pull/1318) | anthonykim1 | 2026-03-04 | 0 | - | - | Better handle activateEnvInCurrentTerminal from Python extension |
+| \* | [#1317](https://github.com/microsoft/vscode-python-environments/pull/1317) | StellaHuang95 | 2026-03-04 | 0 | - | - | Add @vscode/python-environments npm package |
 
-### Pull Requests closed (not merged) in the past 1 day(s):
+### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1276](https://github.com/microsoft/vscode-python-environments/pull/1276) | dependabot | 2026-02-25 | 0 | 2026-02-25 | - | chore(deps): bump minimatch |
+| \* | [#1314](https://github.com/microsoft/vscode-python-environments/pull/1314) | rzhao271 | 2026-03-03 | 0 | 2026-03-04 | rzhao271 | chore: run npm audit fix |
+| \* | [#1314](https://github.com/microsoft/vscode-python-environments/pull/1314) | rzhao271 | 2026-03-03 | 0 | 2026-03-04 | rzhao271 | chore: run npm audit fix |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -48,9 +56,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[1280](https://github.com/microsoft/vscode-python-environments/issues/1280 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1279](https://github.com/microsoft/vscode-python-environments/issues/1279 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1278](https://github.com/microsoft/vscode-python-environments/issues/1278 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1312](https://github.com/microsoft/vscode-python-environments/issues/1312 "Terminal: Auto-activation command injected before shell prompt initializes")  |Terminal: Auto-activation command injected before shell prompt initializes |
+ | \* TM:355  |[1038](https://github.com/microsoft/vscode-python-environments/issues/1038 "Support symbolic link for `python.venvPath`")  |Support symbolic link for `python.venvPath` |
 
 
 
