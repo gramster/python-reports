@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2026-02-25 using: stale=30, all=False
+Generated on 2026-03-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,15 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in debugpy that have comments from OP after last team response:
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1, OP:1  |[1999](https://github.com/microsoft/debugpy/issues/1999 "debugpy keeps objects alive via the frame object")  |debugpy keeps objects alive via the frame object |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#2004](https://github.com/microsoft/debugpy/pull/2004) | maxbachmann | 2026-03-04 | 0 | - | - | don't store exceptionfor identity check |
+| \* | [#2003](https://github.com/microsoft/debugpy/pull/2003) | copilot-swe-agent | 2026-03-04 | 0 | - | - | Defer frame acquisition in sys.monitoring callbacks to reduce object retention |
 
 
 
