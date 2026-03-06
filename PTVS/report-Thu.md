@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2026-02-26 using: stale=30, all=False
+Generated on 2026-03-05 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,21 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues in PTVS that need a response from team:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8419](https://github.com/microsoft/PTVS/pull/8419) | csigs | 2026-02-26 | 0 | - | - | LEGO: Pull request from lego/hb_00719690-99d0-4d46-875c-cfd2b9712715_20260226101639300 to main |
-
-### Pull Requests merged in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8418](https://github.com/microsoft/PTVS/pull/8418) | bschnurr | 2026-02-25 | 1 | 2026-02-26 | bschnurr | Consolidate CI pipeline jobs and add NuGet caching |
-| \* | [#8418](https://github.com/microsoft/PTVS/pull/8418) | bschnurr | 2026-02-25 | 1 | 2026-02-26 | bschnurr | Consolidate CI pipeline jobs and add NuGet caching |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:1  |[8430](https://github.com/microsoft/PTVS/issues/8430 "Failed to load &quot;Buuntu/fastapi-react&quot; and &quot;MSOneCode/cookiecutter-active-directory-python-graphapi-oauth2-0-access&quot; cookiecutter template with error &quot;name 'unicode' is not defined&quot;")  |Failed to load "Buuntu/fastapi-react" and "MSOneCode/cookiecutter-active-directory-python-graphapi-oauth2-0-access" cookiecutter template with error "name 'unicode' is not defined" |
 
 
 
