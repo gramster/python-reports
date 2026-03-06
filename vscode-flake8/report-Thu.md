@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-02-26 using: stale=30, all=False
+Generated on 2026-03-05 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-flake8 that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[403](https://github.com/microsoft/vscode-flake8/issues/403 "It's not using the correct interpreter")  |It's not using the correct interpreter |
 
 ---
 
@@ -26,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[402](https://github.com/microsoft/vscode-flake8/issues/402 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* OP:1  |[429](https://github.com/microsoft/vscode-flake8/issues/429 "[aw] No-Op Runs")  |[aw] No-Op Runs |
 
 ## PULL REQUEST ACTIVITY
 
@@ -35,8 +26,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#405](https://github.com/microsoft/vscode-flake8/pull/405) | edvilme | 2026-02-26 | 0 | - | - | Update template sync workflow and add copilot instructions |
-| \* | [#404](https://github.com/microsoft/vscode-flake8/pull/404) | edvilme | 2026-02-26 | 0 | - | - | Sync with template: expand get_cwd() variable substitution and add tests |
+| \* | [#431](https://github.com/microsoft/vscode-flake8/pull/431) | copilot-swe-agent | 2026-03-05 | 0 | - | - | Fix server spawn failure when flake8.cwd contains unresolved file-based variables |
+| \* | [#430](https://github.com/microsoft/vscode-flake8/pull/430) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
+| \* | [#430](https://github.com/microsoft/vscode-flake8/pull/430) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
+
+### Pull Requests merged in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#430](https://github.com/microsoft/vscode-flake8/pull/430) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
+| \* | [#430](https://github.com/microsoft/vscode-flake8/pull/430) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
 
 
 
