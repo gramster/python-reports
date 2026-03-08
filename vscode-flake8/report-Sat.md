@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-02-28 using: stale=30, all=False
+Generated on 2026-03-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[413](https://github.com/microsoft/vscode-flake8/issues/413 "[aw] Extension Template Sync failed")  |[aw] Extension Template Sync failed |
- | \* OP:1  |[412](https://github.com/microsoft/vscode-flake8/issues/412 "[aw] No-Op Runs")  |[aw] No-Op Runs |
+ | \* OP:1  |[432](https://github.com/microsoft/vscode-flake8/issues/432 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 
 
