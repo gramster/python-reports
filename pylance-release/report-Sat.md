@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-02-28 using: stale=30, all=False
+Generated on 2026-03-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,28 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues in pylance-release that need a response from team:
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7922](https://github.com/microsoft/pyrx/pull/7922) | dependabot | 2026-02-27 | 0 | - | - | Bump koa from 3.1.1 to 3.1.2 |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[7920](https://github.com/microsoft/pylance-release/issues/7920 "Is it possible to set the typeCheckingMode for the whole jupyter notebook?")  |Is it possible to set the typeCheckingMode for the whole jupyter notebook? |
+ | \* OP:0  |[7919](https://github.com/microsoft/pylance-release/issues/7919 "Multiple :class: or :meth: attributes in a docstring break blue links")  |Multiple :class: or :meth: attributes in a docstring break blue links |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:0  |[7904](https://github.com/microsoft/pylance-release/issues/7904 ".bashrc env vars for Python are ignored after latest release")  |.bashrc env vars for Python are ignored after latest release |
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[7866](https://github.com/microsoft/pylance-release/issues/7866 "Pylance is crashing every ~10 minutes - handleover error")  |Pylance is crashing every ~10 minutes - handleover error |
+ | \* P:0,  |[4682](https://github.com/microsoft/pylance-release/issues/4682 "Auto-import is limited by packageIndexDepth")  |Auto-import is limited by packageIndexDepth |
 
 
 
