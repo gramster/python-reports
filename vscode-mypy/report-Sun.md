@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-03-01 using: stale=30, all=False
+Generated on 2026-03-08 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[450](https://github.com/microsoft/vscode-mypy/issues/450 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* OP:1  |[462](https://github.com/microsoft/vscode-mypy/issues/462 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 
 
