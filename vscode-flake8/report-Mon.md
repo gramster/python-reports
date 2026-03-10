@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-03-02 using: stale=30, all=False
+Generated on 2026-03-09 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[416](https://github.com/microsoft/vscode-flake8/issues/416 "[aw] No-Op Runs")  |[aw] No-Op Runs |
+ | \* OP:0  |[433](https://github.com/microsoft/vscode-flake8/issues/433 "Template Sync: Use `@vscode/python-environment`")  |Template Sync: Use `@vscode/python-environment` |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,20 +26,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#418](https://github.com/microsoft/vscode-flake8/pull/418) | edvilme | 2026-03-02 | 0 | - | - | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#417](https://github.com/microsoft/vscode-flake8/pull/417) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#417](https://github.com/microsoft/vscode-flake8/pull/417) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#414](https://github.com/microsoft/vscode-flake8/pull/414) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add Python Environments extension support with legacy fallback |
-| \* | [#414](https://github.com/microsoft/vscode-flake8/pull/414) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add Python Environments extension support with legacy fallback |
-
-### Pull Requests merged in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#417](https://github.com/microsoft/vscode-flake8/pull/417) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#417](https://github.com/microsoft/vscode-flake8/pull/417) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#414](https://github.com/microsoft/vscode-flake8/pull/414) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add Python Environments extension support with legacy fallback |
-| \* | [#414](https://github.com/microsoft/vscode-flake8/pull/414) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add Python Environments extension support with legacy fallback |
+| \* | [#434](https://github.com/microsoft/vscode-flake8/pull/434) | edvilme | 2026-03-09 | 0 | - | - | Replace hand-rolled typings with @vscode/python-environments npm package |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -48,9 +35,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[415](https://github.com/microsoft/vscode-flake8/issues/415 "[aw] No-Op Runs")  |[aw] No-Op Runs |
- | \* TM:1  |[413](https://github.com/microsoft/vscode-flake8/issues/413 "[aw] Extension Template Sync failed")  |[aw] Extension Template Sync failed |
- | \* TM:2  |[412](https://github.com/microsoft/vscode-flake8/issues/412 "[aw] No-Op Runs")  |[aw] No-Op Runs |
+ | \* TM:2  |[432](https://github.com/microsoft/vscode-flake8/issues/432 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 
 
