@@ -2,41 +2,23 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-03-03 using: stale=30, all=False
+Generated on 2026-03-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python-environments that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:1,  |[1059](https://github.com/microsoft/vscode-python-environments/issues/1059 "Refreshing virtual environments keeps on spinning due to missing pyenv")  |Refreshing virtual environments keeps on spinning due to missing pyenv |
 
 ---
 
 ## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
 
 
-### Issues in vscode-python-environments that need a response from team:
+### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1313](https://github.com/microsoft/vscode-python-environments/issues/1313 "Conda Error caused by wrong activate command")  |Conda Error caused by wrong activate command |
- | \* OP:0  |[1312](https://github.com/microsoft/vscode-python-environments/issues/1312 "Terminal: Auto-activation command injected before shell prompt initializes")  |Terminal: Auto-activation command injected before shell prompt initializes |
- | \* OP:0  |[1310](https://github.com/microsoft/vscode-python-environments/issues/1310 "python.useEnvsExtension on true - python interpreter can't select environments")  |python.useEnvsExtension on true - python interpreter can't select environments |
- | \* OP:0  |[1309](https://github.com/microsoft/vscode-python-environments/issues/1309 "Stuck on initializing virtual environments")  |Stuck on initializing virtual environments |
- | \* OP:1  |[1302](https://github.com/microsoft/vscode-python-environments/issues/1302 "malfunction")  |malfunction |
-
-### Issues in vscode-python-environments that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1, OP:0  |[1303](https://github.com/microsoft/vscode-python-environments/issues/1303 "Pixi environments are no longer detected")  |Pixi environments are no longer detected |
+ | \* P:0,  |[1335](https://github.com/microsoft/vscode-python-environments/issues/1335 "Python interpreter versions not detected")  |Python interpreter versions not detected |
+ | \* P:1,  |[1253](https://github.com/microsoft/vscode-python-environments/issues/1253 "Jupyter kernel startup delayed 30s when extension is installed (pixi environment)")  |Jupyter kernel startup delayed 30s when extension is installed (pixi environment) |
 
 ## PULL REQUEST ACTIVITY
 
@@ -45,17 +27,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1314](https://github.com/microsoft/vscode-python-environments/pull/1314) | rzhao271 | 2026-03-03 | 0 | - | - | chore: run npm audit fix |
-| \* | [#1311](https://github.com/microsoft/vscode-python-environments/pull/1311) | eleanorjboyd | 2026-03-03 | 0 | - | - | feat: switch to event-driven approach for environment retrieval in integration tests |
+| \* | [#1336](https://github.com/microsoft/vscode-python-environments/pull/1336) | StellaHuang95 | 2026-03-09 | 0 | 2026-03-09 | StellaHuang95 | Modify Azure pipeline for Azure Artifacts publishing |
+| \* | [#1336](https://github.com/microsoft/vscode-python-environments/pull/1336) | StellaHuang95 | 2026-03-09 | 0 | 2026-03-09 | StellaHuang95 | Modify Azure pipeline for Azure Artifacts publishing |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1297](https://github.com/microsoft/vscode-python-environments/pull/1297) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | Implement tests for manager timeout handling |
-| \* | [#1297](https://github.com/microsoft/vscode-python-environments/pull/1297) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | Implement tests for manager timeout handling |
-| \* | [#1292](https://github.com/microsoft/vscode-python-environments/pull/1292) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | feat: enhance telemetry with error classification and duration tracking for environment manager registration |
-| \* | [#1292](https://github.com/microsoft/vscode-python-environments/pull/1292) | eleanorjboyd | 2026-02-27 | 3 | 2026-03-03 | eleanorjboyd | feat: enhance telemetry with error classification and duration tracking for environment manager registration |
+| \* | [#1336](https://github.com/microsoft/vscode-python-environments/pull/1336) | StellaHuang95 | 2026-03-09 | 0 | 2026-03-09 | StellaHuang95 | Modify Azure pipeline for Azure Artifacts publishing |
+| \* | [#1336](https://github.com/microsoft/vscode-python-environments/pull/1336) | StellaHuang95 | 2026-03-09 | 0 | 2026-03-09 | StellaHuang95 | Modify Azure pipeline for Azure Artifacts publishing |
+| \* | [#1318](https://github.com/microsoft/vscode-python-environments/pull/1318) | anthonykim1 | 2026-03-04 | 4 | 2026-03-09 | eleanorjboyd | Better handle activateEnvInCurrentTerminal from Python extension |
+| \* | [#1318](https://github.com/microsoft/vscode-python-environments/pull/1318) | anthonykim1 | 2026-03-04 | 4 | 2026-03-09 | eleanorjboyd | Better handle activateEnvInCurrentTerminal from Python extension |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -64,7 +46,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:218  |[660](https://github.com/microsoft/vscode-python-environments/issues/660 "Enabling extension breaks configured defaultInterpreterPath usage")  |Enabling extension breaks configured defaultInterpreterPath usage |
+ | \* TM:9  |[1300](https://github.com/microsoft/vscode-python-environments/issues/1300 "Ensure that extension inherits core python activation settings")  |Ensure that extension inherits core python activation settings |
 
 
 
