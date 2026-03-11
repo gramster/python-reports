@@ -2,31 +2,13 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-03-03 using: stale=30, all=False
+Generated on 2026-03-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-isort that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:0,  |[160](https://github.com/microsoft/vscode-isort/issues/160 "Enabling the extension makes save very slow")  |Enabling the extension makes save very slow |
-
 ---
-
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
-
-
-### Issues in vscode-isort that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[566](https://github.com/microsoft/vscode-isort/issues/566 "[aw] No-Op Runs")  |[aw] No-Op Runs |
 
 ## PULL REQUEST ACTIVITY
 
@@ -35,26 +17,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
+| \* | [#584](https://github.com/microsoft/vscode-isort/pull/584) | copilot-swe-agent | 2026-03-10 | 0 | - | - | Fix bundled LSP paths always inserted at front of sys.path regardless of importStrategy |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#582](https://github.com/microsoft/vscode-isort/pull/582) | dependabot | 2026-03-10 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 14 updates |
+| \* | [#581](https://github.com/microsoft/vscode-isort/pull/581) | bschnurr | 2026-03-10 | 0 | - | - | Bump version to 2026.3.0-dev |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#528](https://github.com/microsoft/vscode-isort/pull/528) | dependabot | 2026-02-20 | 11 | 2026-03-03 | github-actions | Bump isort from 7.0.0 to 8.0.0 |
-| \* | [#528](https://github.com/microsoft/vscode-isort/pull/528) | dependabot | 2026-02-20 | 11 | 2026-03-03 | github-actions | Bump isort from 7.0.0 to 8.0.0 |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-
-### Pull Requests closed (not merged) in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#549](https://github.com/microsoft/vscode-isort/pull/549) | dependabot | 2026-02-27 | 3 | 2026-03-03 | - | Bump actions/download-artifact from 6.0.0 to 8.0.0 |
-| \* | [#550](https://github.com/microsoft/vscode-isort/pull/550) | dependabot | 2026-02-27 | 3 | 2026-03-03 | - | Bump actions/upload-artifact from 6.0.0 to 7.0.0 |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | 2026-03-10 | edvilme | Replace hand-rolled typings with @vscode/python-environments npm package |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -63,8 +36,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[564](https://github.com/microsoft/vscode-isort/issues/564 "[aw] No-Op Runs")  |[aw] No-Op Runs |
- | \* TM:0  |[563](https://github.com/microsoft/vscode-isort/issues/563 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* TM:0  |[580](https://github.com/microsoft/vscode-isort/issues/580 "Template Sync: Update to Pygls 2.0 with minimum Python 3.10")  |Template Sync: Update to Pygls 2.0 with minimum Python 3.10 |
+ | \* TM:0  |[578](https://github.com/microsoft/vscode-isort/issues/578 "Template Sync: Use `@vscode/python-environment`")  |Template Sync: Use `@vscode/python-environment` |
 
 
 
