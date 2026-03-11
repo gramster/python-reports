@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/PTVS
 
 
-Generated on 2026-03-03 using: stale=30, all=False
+Generated on 2026-03-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,23 +17,24 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8429](https://github.com/microsoft/PTVS/pull/8429) | bschnurr | 2026-03-03 | 0 | 2026-03-03 | bschnurr | Revert to old pipeline |
-| \* | [#8429](https://github.com/microsoft/PTVS/pull/8429) | bschnurr | 2026-03-03 | 0 | 2026-03-03 | bschnurr | Revert to old pipeline |
+| \* | [#8441](https://github.com/microsoft/PTVS/pull/8441) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Fix "From Existing Python code" wizard error by removing hard-coded assembly version in templates |
+| \* | [#8441](https://github.com/microsoft/PTVS/pull/8441) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Fix "From Existing Python code" wizard error by removing hard-coded assembly version in templates |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8429](https://github.com/microsoft/PTVS/pull/8429) | bschnurr | 2026-03-03 | 0 | 2026-03-03 | bschnurr | Revert to old pipeline |
-| \* | [#8429](https://github.com/microsoft/PTVS/pull/8429) | bschnurr | 2026-03-03 | 0 | 2026-03-03 | bschnurr | Revert to old pipeline |
+| \* | [#8441](https://github.com/microsoft/PTVS/pull/8441) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Fix "From Existing Python code" wizard error by removing hard-coded assembly version in templates |
+| \* | [#8441](https://github.com/microsoft/PTVS/pull/8441) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Fix "From Existing Python code" wizard error by removing hard-coded assembly version in templates |
 
-### Pull Requests closed (not merged) in the past 1 day(s):
+## RECENTLY CLOSED ISSUES
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8421](https://github.com/microsoft/PTVS/pull/8421) | bschnurr | 2026-02-27 | 3 | 2026-03-03 | - | remove pylance cache attempt |
-| \* | [#8425](https://github.com/microsoft/PTVS/pull/8425) | bschnurr | 2026-03-02 | 0 | 2026-03-03 | - | update from old build |
-| \* | [#8426](https://github.com/microsoft/PTVS/pull/8426) | bschnurr | 2026-03-02 | 0 | 2026-03-03 | - | try to revert back to old pipeline but keep dev18 |
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1  |[8437](https://github.com/microsoft/PTVS/issues/8437 "An error pops up when create &quot;From Existing Python code&quot;.")  |An error pops up when create "From Existing Python code". |
 
 
 
