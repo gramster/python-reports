@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-03-04 using: stale=30, all=False
+Generated on 2026-03-11 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[457](https://github.com/microsoft/vscode-mypy/issues/457 "[aw] No-Op Runs")  |[aw] No-Op Runs |
- | \* OP:1  |[456](https://github.com/microsoft/vscode-mypy/issues/456 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
+ | \* OP:1  |[474](https://github.com/microsoft/vscode-mypy/issues/474 "Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync")  |Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync |
 
 ## PULL REQUEST ACTIVITY
 
@@ -27,23 +26,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#459](https://github.com/microsoft/vscode-mypy/pull/459) | dependabot | 2026-03-04 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 3 updates |
-| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
-| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
-
-### Pull Requests merged in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
-| \* | [#458](https://github.com/microsoft/vscode-mypy/pull/458) | rzhao271 | 2026-03-04 | 0 | 2026-03-04 | rzhao271 | Fix CG alerts |
+| \* | [#476](https://github.com/microsoft/vscode-mypy/pull/476) | dependabot | 2026-03-11 | 0 | - | - | Bump the github-actions-minor-patch group across 1 directory with 2 updates |
+| \* | [#475](https://github.com/microsoft/vscode-mypy/pull/475) | edvilme | 2026-03-11 | 0 | - | - | Align pipeline npm registry with .npmrc feed |
 
 ### Pull Requests closed (not merged) in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#451](https://github.com/microsoft/vscode-mypy/pull/451) | dependabot | 2026-03-02 | 2 | 2026-03-04 | - | Bump the npm-minor-patch group across 1 directory with 7 updates |
-| \* | [#371](https://github.com/microsoft/vscode-mypy/pull/371) | dependabot | 2025-08-06 | 210 | 2026-03-04 | - | Bump tmp from 0.2.1 to 0.2.4 |
+| \* | [#426](https://github.com/microsoft/vscode-mypy/pull/426) | dependabot | 2026-02-18 | 21 | 2026-03-11 | - | Bump github/gh-aw from 0.43.22 to 0.46.1 in the github-actions-minor-patch group |
 
 
 
