@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/lsprotocol
 
 
-Generated on 2026-03-06 using: stale=30, all=False
+Generated on 2026-03-13 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,14 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in lsprotocol that need a response from team:
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:1  |[447](https://github.com/microsoft/lsprotocol/issues/447 "Update LSP schema and model")  |Update LSP schema and model |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#448](https://github.com/microsoft/lsprotocol/pull/448) | lheckemann | 2026-03-13 | 0 | - | - | python generator: cleanup, extra Range utility methods |
 
 
 
