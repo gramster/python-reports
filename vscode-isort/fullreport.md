@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-03-08 using: stale=30, all=True
+Generated on 2026-03-15 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -15,7 +15,7 @@ Generated on 2026-03-08 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:5,  |[160](https://github.com/microsoft/vscode-isort/issues/160 "Enabling the extension makes save very slow")  |Enabling the extension makes save very slow |
+ |  P:12,  |[160](https://github.com/microsoft/vscode-isort/issues/160 "Enabling the extension makes save very slow") | Enabling the extension makes save very slow |
 
 ---
 
@@ -26,15 +26,15 @@ Generated on 2026-03-08 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[575](https://github.com/microsoft/vscode-isort/issues/575 "Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests")  |Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
- | \* OP:1  |[574](https://github.com/microsoft/vscode-isort/issues/574 "Template Sync: Use contextlib.suppress instead of try-except-pass")  |Template Sync: Use contextlib.suppress instead of try-except-pass |
- | \* OP:5  |[566](https://github.com/microsoft/vscode-isort/issues/566 "[aw] No-Op Runs")  |[aw] No-Op Runs |
+ | \* OP:0  |[592](https://github.com/microsoft/vscode-isort/issues/592 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
+ | \* OP:1  |[591](https://github.com/microsoft/vscode-isort/issues/591 "Template Sync: align importStrategy in typescript to python")  |Template Sync: align importStrategy in typescript to python |
+ |  OP:12  |[566](https://github.com/microsoft/vscode-isort/issues/566 "[aw] No-Op Runs") | [aw] No-Op Runs |
 
 ### Issues in vscode-isort that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  TM:738  |[343](https://github.com/microsoft/vscode-isort/issues/343 "Add the &quot;Sort Imports&quot; back to the context menu options as &quot;Organize Imports&quot;") | Add the "Sort Imports" back to the context menu options as "Organize Imports" |
+ |  TM:745  |[343](https://github.com/microsoft/vscode-isort/issues/343 "Add the &quot;Sort Imports&quot; back to the context menu options as &quot;Organize Imports&quot;") | Add the "Sort Imports" back to the context menu options as "Organize Imports" |
 
 ## PULL REQUEST ACTIVITY
 
@@ -43,65 +43,57 @@ Generated on 2026-03-08 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#573](https://github.com/microsoft/vscode-isort/pull/573) | dependabot | 2026-03-06 | 0 | 2026-03-06 | github-actions | Bump github/gh-aw from 0.52.1 to 0.53.6 in the github-actions-minor-patch group |
-| \* | [#573](https://github.com/microsoft/vscode-isort/pull/573) | dependabot | 2026-03-06 | 0 | 2026-03-06 | github-actions | Bump github/gh-aw from 0.52.1 to 0.53.6 in the github-actions-minor-patch group |
-| \* | [#572](https://github.com/microsoft/vscode-isort/pull/572) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Exclude `.dist-info` directories from extension package and fix `.pyc` glob |
-| \* | [#572](https://github.com/microsoft/vscode-isort/pull/572) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Exclude `.dist-info` directories from extension package and fix `.pyc` glob |
-| \* | [#571](https://github.com/microsoft/vscode-isort/pull/571) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Fix glob pattern for .pyc files in .vscodeignore |
-| \* | [#571](https://github.com/microsoft/vscode-isort/pull/571) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Fix glob pattern for .pyc files in .vscodeignore |
-| \* | [#568](https://github.com/microsoft/vscode-isort/pull/568) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
-| \* | [#568](https://github.com/microsoft/vscode-isort/pull/568) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
-| \* | [#567](https://github.com/microsoft/vscode-isort/pull/567) | dependabot | 2026-03-04 | 4 | - | - | Bump @tootallnate/once and @vscode/test-electron |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
+| \* | [#590](https://github.com/microsoft/vscode-isort/pull/590) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | bschnurr | Fix feeds |
+| \* | [#590](https://github.com/microsoft/vscode-isort/pull/590) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | bschnurr | Fix feeds |
+| \* | [#589](https://github.com/microsoft/vscode-isort/pull/589) | dependabot | 2026-03-13 | 2 | - | - | Bump the github-actions-minor-patch group with 2 updates |
+| \* | [#588](https://github.com/microsoft/vscode-isort/pull/588) | edvilme | 2026-03-13 | 0 | 2026-03-13 | - | Update validation triggers |
+| \* | [#587](https://github.com/microsoft/vscode-isort/pull/587) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | - | use msft_consumption feed for python-environments |
+| \* | [#586](https://github.com/microsoft/vscode-isort/pull/586) | bschnurr | 2026-03-11 | 1 | 2026-03-13 | - | new vside feed |
+| \* | [#585](https://github.com/microsoft/vscode-isort/pull/585) | edvilme | 2026-03-11 | 2 | 2026-03-13 | - | Align pipeline npm registry with .npmrc feed |
+| \* | [#584](https://github.com/microsoft/vscode-isort/pull/584) | copilot-swe-agent | 2026-03-10 | 4 | - | - | Fix bundled LSP paths always inserted at front of sys.path regardless of importStrategy |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#582](https://github.com/microsoft/vscode-isort/pull/582) | dependabot | 2026-03-10 | 5 | - | - | Bump the npm-minor-patch group across 1 directory with 14 updates |
+| \* | [#581](https://github.com/microsoft/vscode-isort/pull/581) | bschnurr | 2026-03-10 | 5 | - | - | Bump version to 2026.3.0-dev |
+| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | 2026-03-10 | edvilme | Replace hand-rolled typings with @vscode/python-environments npm package |
+| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | 2026-03-10 | edvilme | Replace hand-rolled typings with @vscode/python-environments npm package |
+| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
+| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
+| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
 
 ### Pull Requests merged in the past 7 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#573](https://github.com/microsoft/vscode-isort/pull/573) | dependabot | 2026-03-06 | 0 | 2026-03-06 | github-actions | Bump github/gh-aw from 0.52.1 to 0.53.6 in the github-actions-minor-patch group |
-| \* | [#573](https://github.com/microsoft/vscode-isort/pull/573) | dependabot | 2026-03-06 | 0 | 2026-03-06 | github-actions | Bump github/gh-aw from 0.52.1 to 0.53.6 in the github-actions-minor-patch group |
-| \* | [#572](https://github.com/microsoft/vscode-isort/pull/572) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Exclude `.dist-info` directories from extension package and fix `.pyc` glob |
-| \* | [#572](https://github.com/microsoft/vscode-isort/pull/572) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Exclude `.dist-info` directories from extension package and fix `.pyc` glob |
-| \* | [#571](https://github.com/microsoft/vscode-isort/pull/571) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Fix glob pattern for .pyc files in .vscodeignore |
-| \* | [#571](https://github.com/microsoft/vscode-isort/pull/571) | copilot-swe-agent | 2026-03-06 | 0 | 2026-03-06 | edvilme | Fix glob pattern for .pyc files in .vscodeignore |
-| \* | [#568](https://github.com/microsoft/vscode-isort/pull/568) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
-| \* | [#568](https://github.com/microsoft/vscode-isort/pull/568) | bschnurr | 2026-03-05 | 0 | 2026-03-05 | bschnurr | Enable publishing by default in pre-release pipeline |
-| \* | [#553](https://github.com/microsoft/vscode-isort/pull/553) | dependabot | 2026-02-27 | 4 | 2026-03-04 | github-actions | Bump webpack-cli from 5.1.4 to 6.0.1 |
-| \* | [#553](https://github.com/microsoft/vscode-isort/pull/553) | dependabot | 2026-02-27 | 4 | 2026-03-04 | github-actions | Bump webpack-cli from 5.1.4 to 6.0.1 |
-| \* | [#548](https://github.com/microsoft/vscode-isort/pull/548) | dependabot | 2026-02-27 | 4 | 2026-03-04 | edvilme | Bump actions/checkout from 5.0.1 to 6.0.2 |
-| \* | [#548](https://github.com/microsoft/vscode-isort/pull/548) | dependabot | 2026-02-27 | 4 | 2026-03-04 | edvilme | Bump actions/checkout from 5.0.1 to 6.0.2 |
-| \* | [#547](https://github.com/microsoft/vscode-isort/pull/547) | dependabot | 2026-02-27 | 4 | 2026-03-04 | github-actions | Bump github/gh-aw from 0.47.5 to 0.50.7 in the github-actions-minor-patch group |
-| \* | [#547](https://github.com/microsoft/vscode-isort/pull/547) | dependabot | 2026-02-27 | 4 | 2026-03-04 | github-actions | Bump github/gh-aw from 0.47.5 to 0.50.7 in the github-actions-minor-patch group |
-| \* | [#528](https://github.com/microsoft/vscode-isort/pull/528) | dependabot | 2026-02-20 | 11 | 2026-03-03 | github-actions | Bump isort from 7.0.0 to 8.0.0 |
-| \* | [#528](https://github.com/microsoft/vscode-isort/pull/528) | dependabot | 2026-02-20 | 11 | 2026-03-03 | github-actions | Bump isort from 7.0.0 to 8.0.0 |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#565](https://github.com/microsoft/vscode-isort/pull/565) | edvilme | 2026-03-03 | 0 | 2026-03-03 | edvilme | Add notebook cell support for isort |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#562](https://github.com/microsoft/vscode-isort/pull/562) | edvilme | 2026-03-02 | 0 | 2026-03-03 | edvilme | Rewrite extension-template-sync to detect unsynced PRs and create issues |
-| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#560](https://github.com/microsoft/vscode-isort/pull/560) | edvilme | 2026-03-02 | 0 | 2026-03-02 | edvilme | Add automated tests for interpreter resolution |
-| \* | [#555](https://github.com/microsoft/vscode-isort/pull/555) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
-| \* | [#555](https://github.com/microsoft/vscode-isort/pull/555) | edvilme | 2026-02-27 | 2 | 2026-03-02 | edvilme | Template Sync: Prefer Python Environments extension for interpreter resolution with legacy fallback |
+| \* | [#590](https://github.com/microsoft/vscode-isort/pull/590) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | bschnurr | Fix feeds |
+| \* | [#590](https://github.com/microsoft/vscode-isort/pull/590) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | bschnurr | Fix feeds |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#583](https://github.com/microsoft/vscode-isort/pull/583) | edvilme | 2026-03-10 | 0 | 2026-03-10 | edvilme | Fix Pygls 2.0 test mock names and add onNotebook activation events |
+| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | 2026-03-10 | edvilme | Replace hand-rolled typings with @vscode/python-environments npm package |
+| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | 2026-03-10 | edvilme | Replace hand-rolled typings with @vscode/python-environments npm package |
+| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
+| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
 
 ### Pull Requests closed (not merged) in the past 7 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#549](https://github.com/microsoft/vscode-isort/pull/549) | dependabot | 2026-02-27 | 3 | 2026-03-03 | - | Bump actions/download-artifact from 6.0.0 to 8.0.0 |
-| \* | [#550](https://github.com/microsoft/vscode-isort/pull/550) | dependabot | 2026-02-27 | 3 | 2026-03-03 | - | Bump actions/upload-artifact from 6.0.0 to 7.0.0 |
+| \* | [#587](https://github.com/microsoft/vscode-isort/pull/587) | bschnurr | 2026-03-13 | 0 | 2026-03-13 | - | use msft_consumption feed for python-environments |
+| \* | [#586](https://github.com/microsoft/vscode-isort/pull/586) | bschnurr | 2026-03-11 | 1 | 2026-03-13 | - | new vside feed |
+| \* | [#588](https://github.com/microsoft/vscode-isort/pull/588) | edvilme | 2026-03-13 | 0 | 2026-03-13 | - | Update validation triggers |
+| \* | [#585](https://github.com/microsoft/vscode-isort/pull/585) | edvilme | 2026-03-11 | 2 | 2026-03-13 | - | Align pipeline npm registry with .npmrc feed |
+| \* | [#551](https://github.com/microsoft/vscode-isort/pull/551) | dependabot | 2026-02-27 | 10 | 2026-03-10 | - | Bump the npm-minor-patch group with 16 updates |
 
 ### Pull Requests still open that were opened more than 7 days ago:
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#518](https://github.com/microsoft/vscode-isort/pull/518) | dependabot | 2026-02-13 | 23 | - | - | Bump pytest from 8.3.5 to 9.0.2 in /src/test/python_tests |
-|   | [#551](https://github.com/microsoft/vscode-isort/pull/551) | dependabot | 2026-02-27 | 9 | - | - | Bump the npm-minor-patch group with 16 updates |
-|   | [#552](https://github.com/microsoft/vscode-isort/pull/552) | dependabot | 2026-02-27 | 9 | - | - | Bump eslint from 9.35.0 to 10.0.2 |
+| \* | [#518](https://github.com/microsoft/vscode-isort/pull/518) | dependabot | 2026-02-13 | 30 | - | - | Bump pytest from 8.3.5 to 9.0.2 in /src/test/python_tests |
+| \* | [#552](https://github.com/microsoft/vscode-isort/pull/552) | dependabot | 2026-02-27 | 16 | - | - | Bump eslint from 9.35.0 to 10.0.2 |
+|   | [#567](https://github.com/microsoft/vscode-isort/pull/567) | dependabot | 2026-03-04 | 11 | - | - | Bump @tootallnate/once and @vscode/test-electron |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -110,18 +102,10 @@ Generated on 2026-03-08 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[570](https://github.com/microsoft/vscode-isort/issues/570 "Template Sync: Exclude `.dist-info` directories from extension package")  |Template Sync: Exclude `.dist-info` directories from extension package |
- | \* TM:0  |[569](https://github.com/microsoft/vscode-isort/issues/569 "Template Sync: Fix glob pattern for `.pyc` files in `.vscodeignore`")  |Template Sync: Fix glob pattern for `.pyc` files in `.vscodeignore` |
- | \* TM:0  |[564](https://github.com/microsoft/vscode-isort/issues/564 "[aw] No-Op Runs")  |[aw] No-Op Runs |
- | \* TM:0  |[563](https://github.com/microsoft/vscode-isort/issues/563 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
- | \* TM:0  |[561](https://github.com/microsoft/vscode-isort/issues/561 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
- | \* TM:0  |[559](https://github.com/microsoft/vscode-isort/issues/559 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
- | \* TM:0  |[557](https://github.com/microsoft/vscode-isort/issues/557 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
- | \* TM:0  |[558](https://github.com/microsoft/vscode-isort/issues/558 "[agentics] Issue Triage failed")  |[agentics] Issue Triage failed |
- | \* TM:146  |[476](https://github.com/microsoft/vscode-isort/issues/476 "isort server segfaults on WSL")  |isort server segfaults on WSL |
- | \* TM:320  |[433](https://github.com/microsoft/vscode-isort/issues/433 "Feature Request: Split 1st Party Imports")  |Feature Request: Split 1st Party Imports |
- | \* TM:161  |[463](https://github.com/microsoft/vscode-isort/issues/463 "Multiple isort handlers getting registered")  |Multiple isort handlers getting registered |
- | \* TM:3  |[545](https://github.com/microsoft/vscode-isort/issues/545 "[agentics] No-Op Runs")  |[agentics] No-Op Runs |
+ | \* TM:0  |[580](https://github.com/microsoft/vscode-isort/issues/580 "Template Sync: Update to Pygls 2.0 with minimum Python 3.10")  |Template Sync: Update to Pygls 2.0 with minimum Python 3.10 |
+ | \* TM:0  |[578](https://github.com/microsoft/vscode-isort/issues/578 "Template Sync: Use `@vscode/python-environment`")  |Template Sync: Use `@vscode/python-environment` |
+ | \* TM:2  |[575](https://github.com/microsoft/vscode-isort/issues/575 "Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests")  |Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+ | \* TM:2  |[574](https://github.com/microsoft/vscode-isort/issues/574 "Template Sync: Use contextlib.suppress instead of try-except-pass")  |Template Sync: Use contextlib.suppress instead of try-except-pass |
 
 
 
@@ -129,10 +113,10 @@ Generated on 2026-03-08 using: stale=30, all=True
 
 ## MOST FREQUENTLY CHANGED FILES (by # of PRs):
 
- 26: package-lock.json
+ 28: package-lock.json
 
 
- 14: package.json
+ 17: package.json
 
 
   9: .github/workflows/check-python-versions.lock.yml
