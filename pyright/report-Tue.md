@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-03-10 using: stale=30, all=False
+Generated on 2026-03-17 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,7 +15,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[11319](https://github.com/microsoft/pyright/issues/11319 "Errors from use of pyright with pydantic's RootModel")  |Errors from use of pyright with pydantic's RootModel |
+ | \* OP:0  |[11332](https://github.com/microsoft/pyright/issues/11332 "Incorrect `reportOperatorIssue` on `uuid.UUID().int`")  |Incorrect `reportOperatorIssue` on `uuid.UUID().int` |
 
 ---
 
