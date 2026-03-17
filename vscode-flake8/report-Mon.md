@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-03-09 using: stale=30, all=False
+Generated on 2026-03-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[433](https://github.com/microsoft/vscode-flake8/issues/433 "Template Sync: Use `@vscode/python-environment`")  |Template Sync: Use `@vscode/python-environment` |
+ | \* OP:0  |[442](https://github.com/microsoft/vscode-flake8/issues/442 "Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync")  |Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,16 +26,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#434](https://github.com/microsoft/vscode-flake8/pull/434) | edvilme | 2026-03-09 | 0 | - | - | Replace hand-rolled typings with @vscode/python-environments npm package |
+| \* | [#443](https://github.com/microsoft/vscode-flake8/pull/443) | copilot-swe-agent | 2026-03-16 | 0 | 2026-03-16 | - | [WIP] [WIP] Address feedback on Jupyter notebook cell support via LSP 3.17 |
 
-## RECENTLY CLOSED ISSUES
+### Pull Requests closed (not merged) in the past 1 day(s):
 
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:2  |[432](https://github.com/microsoft/vscode-flake8/issues/432 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#443](https://github.com/microsoft/vscode-flake8/pull/443) | copilot-swe-agent | 2026-03-16 | 0 | 2026-03-16 | - | [WIP] [WIP] Address feedback on Jupyter notebook cell support via LSP 3.17 |
 
 
 
