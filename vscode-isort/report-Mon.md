@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-03-09 using: stale=30, all=False
+Generated on 2026-03-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[578](https://github.com/microsoft/vscode-isort/issues/578 "Template Sync: Use `@vscode/python-environment`")  |Template Sync: Use `@vscode/python-environment` |
+ | \* OP:1  |[592](https://github.com/microsoft/vscode-isort/issues/592 "Template Sync: Fix duplicate server handlers on concurrent restarts")  |Template Sync: Fix duplicate server handlers on concurrent restarts |
 
 ## PULL REQUEST ACTIVITY
 
@@ -26,30 +26,18 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#579](https://github.com/microsoft/vscode-isort/pull/579) | edvilme | 2026-03-09 | 0 | - | - | Replace hand-rolled typings with @vscode/python-environments npm package |
-| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
-| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
-| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
-| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
+| \* | [#594](https://github.com/microsoft/vscode-isort/pull/594) | bschnurr | 2026-03-16 | 0 | 2026-03-16 | bschnurr | Update validation pipeline for main and release branches |
+| \* | [#594](https://github.com/microsoft/vscode-isort/pull/594) | bschnurr | 2026-03-16 | 0 | 2026-03-16 | bschnurr | Update validation pipeline for main and release branches |
+| \* | [#593](https://github.com/microsoft/vscode-isort/pull/593) | bschnurr | 2026-03-16 | 0 | - | - | update python environments |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
-| \* | [#576](https://github.com/microsoft/vscode-isort/pull/576) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
-| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
-| \* | [#577](https://github.com/microsoft/vscode-isort/pull/577) | copilot-swe-agent | 2026-03-09 | 0 | 2026-03-09 | edvilme | Use contextlib.suppress instead of try-except-pass |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:2  |[575](https://github.com/microsoft/vscode-isort/issues/575 "Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests")  |Template Sync: Bump pytest from 8.3.5 to 8.4.1 in /src/test/python_tests |
- | \* TM:2  |[574](https://github.com/microsoft/vscode-isort/issues/574 "Template Sync: Use contextlib.suppress instead of try-except-pass")  |Template Sync: Use contextlib.suppress instead of try-except-pass |
+| \* | [#594](https://github.com/microsoft/vscode-isort/pull/594) | bschnurr | 2026-03-16 | 0 | 2026-03-16 | bschnurr | Update validation pipeline for main and release branches |
+| \* | [#594](https://github.com/microsoft/vscode-isort/pull/594) | bschnurr | 2026-03-16 | 0 | 2026-03-16 | bschnurr | Update validation pipeline for main and release branches |
+| \* | [#588](https://github.com/microsoft/vscode-isort/pull/588) | edvilme | 2026-03-13 | 3 | 2026-03-16 | bschnurr | Update validation triggers |
+| \* | [#588](https://github.com/microsoft/vscode-isort/pull/588) | edvilme | 2026-03-13 | 3 | 2026-03-16 | bschnurr | Update validation triggers |
 
 
 
