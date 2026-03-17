@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-09 using: stale=30, all=False
+Generated on 2026-03-16 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,14 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7923](https://github.com/microsoft/pylance-release/issues/7923 "Disabling the default auto-import behavior for `src` folder")  |Disabling the default auto-import behavior for `src` folder |
- | \* OP:1  |[7921](https://github.com/microsoft/pylance-release/issues/7921 "Add #AARRGGBB color mode option")  |Add #AARRGGBB color mode option |
+ | \* OP:0  |[7933](https://github.com/microsoft/pylance-release/issues/7933 "Import suggestions from .venv not working")  |Import suggestions from .venv not working |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have no external responses since team response in 30+ days:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:0,  |[4682](https://github.com/microsoft/pylance-release/issues/4682 "Auto-import is limited by packageIndexDepth")  |Auto-import is limited by packageIndexDepth |
+ | \* TM:30  |[7649](https://github.com/microsoft/pylance-release/issues/7649 "Inlay hints for call argument names not displayed when method has Union type annotation on self parameter")  |Inlay hints for call argument names not displayed when method has Union type annotation on self parameter |
 
 ## PULL REQUEST ACTIVITY
 
@@ -33,20 +32,12 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#7974](https://github.com/microsoft/pyrx/pull/7974) | heejaechang | 2026-03-09 | 0 | - | - | Track Review Center AI review status on server with SSE streaming |
-| \* | [#7973](https://github.com/microsoft/pyrx/pull/7973) | heejaechang | 2026-03-09 | 0 | - | - | Stage deferred plans under .github/plans/future |
-| \* | [#7971](https://github.com/microsoft/pyrx/pull/7971) | dependabot | 2026-03-09 | 0 | - | - | Bump express-rate-limit from 8.2.1 to 8.3.1 in /packages/pylance-mcp |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0  |[7922](https://github.com/microsoft/pylance-release/issues/7922 "Extension causes high cpu load")  |Extension causes high cpu load |
- | \* TM:1  |[7920](https://github.com/microsoft/pylance-release/issues/7920 "Is it possible to set the typeCheckingMode for the whole jupyter notebook?")  |Is it possible to set the typeCheckingMode for the whole jupyter notebook? |
- | \* TM:1  |[7919](https://github.com/microsoft/pylance-release/issues/7919 "Multiple :class: or :meth: attributes in a docstring break blue links")  |Multiple :class: or :meth: attributes in a docstring break blue links |
+| \* | [#8027](https://github.com/microsoft/pyrx/pull/8027) | heejaechang | 2026-03-16 | 0 | - | - | Rename indexing.followSymlinkedFolders to userFileIndexFollowSymlinkedFolders |
+| \* | [#8026](https://github.com/microsoft/pyrx/pull/8026) | rchiodo | 2026-03-16 | 0 | - | - | Creation of an issue_browser tool that lets you compare and analyze issues |
+| \* | [#8025](https://github.com/microsoft/pyrx/pull/8025) | rchiodo | 2026-03-16 | 0 | - | - | Fix #7863: Syntax highlighting doesn't work with escape characters |
+| \* | [#8024](https://github.com/microsoft/pyrx/pull/8024) | rchiodo | 2026-03-16 | 0 | - | - | Fix #7925: No auto import completions for the `rich` library |
+| \* | [#8022](https://github.com/microsoft/pyrx/pull/8022) | dependabot | 2026-03-16 | 0 | - | - | Bump undici from 7.18.2 to 7.24.4 in /packages/pyright/packages/vscode-pyright |
+| \* | [#8020](https://github.com/microsoft/pyrx/pull/8020) | bschnurr | 2026-03-16 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 
 
