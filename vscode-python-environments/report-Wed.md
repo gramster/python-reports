@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-03-11 using: stale=30, all=False
+Generated on 2026-03-18 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1341](https://github.com/microsoft/vscode-python-environments/issues/1341 "Windows: error when running environment activation script due to execution policy")  |Windows: error when running environment activation script due to execution policy |
- | \* OP:0  |[1337](https://github.com/microsoft/vscode-python-environments/issues/1337 "Shell integration not injected for debug terminals in remote environments")  |Shell integration not injected for debug terminals in remote environments |
+ | \* OP:1  |[1364](https://github.com/microsoft/vscode-python-environments/issues/1364 "[Python Environments]")  |[Python Environments] |
+ | \* OP:1  |[1361](https://github.com/microsoft/vscode-python-environments/issues/1361 "[Python Environments] ")  |[Python Environments]  |
+
+### Issues in vscode-python-environments that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:0  |[1363](https://github.com/microsoft/vscode-python-environments/issues/1363 "Visual Studio Code failed to recognize default python interpreter path")  |Visual Studio Code failed to recognize default python interpreter path |
 
 ### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
@@ -33,23 +39,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1340](https://github.com/microsoft/vscode-python-environments/pull/1340) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET release version |
-| \* | [#1340](https://github.com/microsoft/vscode-python-environments/pull/1340) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET release version |
-| \* | [#1339](https://github.com/microsoft/vscode-python-environments/pull/1339) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET version for release |
-| \* | [#1339](https://github.com/microsoft/vscode-python-environments/pull/1339) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET version for release |
-| \* | [#1338](https://github.com/microsoft/vscode-python-environments/pull/1338) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Add consumption feed publishing to Azure pipeline |
-| \* | [#1338](https://github.com/microsoft/vscode-python-environments/pull/1338) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Add consumption feed publishing to Azure pipeline |
+| \* | [#1365](https://github.com/microsoft/vscode-python-environments/pull/1365) | StellaHuang95 | 2026-03-17 | 0 | - | - | Add telemetry for manager registration failures |
 
-### Pull Requests merged in the past 1 day(s):
+## RECENTLY CLOSED ISSUES
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1338](https://github.com/microsoft/vscode-python-environments/pull/1338) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Add consumption feed publishing to Azure pipeline |
-| \* | [#1338](https://github.com/microsoft/vscode-python-environments/pull/1338) | StellaHuang95 | 2026-03-10 | 0 | 2026-03-10 | StellaHuang95 | Add consumption feed publishing to Azure pipeline |
-| \* | [#1339](https://github.com/microsoft/vscode-python-environments/pull/1339) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET version for release |
-| \* | [#1339](https://github.com/microsoft/vscode-python-environments/pull/1339) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET version for release |
-| \* | [#1340](https://github.com/microsoft/vscode-python-environments/pull/1340) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET release version |
-| \* | [#1340](https://github.com/microsoft/vscode-python-environments/pull/1340) | eleanorjboyd | 2026-03-10 | 0 | 2026-03-10 | rzhao271 | bump PET release version |
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:13  |[1315](https://github.com/microsoft/vscode-python-environments/issues/1315 "Failed to resolve environment")  |Failed to resolve environment |
+ | \* TM:15  |[1302](https://github.com/microsoft/vscode-python-environments/issues/1302 "malfunction")  |malfunction |
 
 
 
