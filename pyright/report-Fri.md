@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-03-13 using: stale=30, all=False
+Generated on 2026-03-20 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in pyright that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:1  |[11324](https://github.com/microsoft/pyright/issues/11324 "Cannot resolve `TypeDict` into `Union` *only* when the `Union` contains an `Awaitable`")  |Cannot resolve `TypeDict` into `Union` *only* when the `Union` contains an `Awaitable` |
 
 ---
 
@@ -26,15 +17,27 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#11327](https://github.com/microsoft/pyright/pull/11327) | Rohan5commit | 2026-03-12 | 0 | 2026-03-12 | erictraut | docs: remove duplicate word in import statements |
-| \* | [#11327](https://github.com/microsoft/pyright/pull/11327) | Rohan5commit | 2026-03-12 | 0 | 2026-03-12 | erictraut | docs: remove duplicate word in import statements |
+| \* | [#11338](https://github.com/microsoft/pyright/pull/11338) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Fix type narrowing for empty mapping patterns in match statements |
+| \* | [#11337](https://github.com/microsoft/pyright/pull/11337) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Fix ternary expression error |
+| \* | [#11336](https://github.com/microsoft/pyright/pull/11336) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Copilot/fix pyright narrowing issue |
 
-### Pull Requests merged in the past 1 day(s):
+### Pull Requests closed (not merged) in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#11327](https://github.com/microsoft/pyright/pull/11327) | Rohan5commit | 2026-03-12 | 0 | 2026-03-12 | erictraut | docs: remove duplicate word in import statements |
-| \* | [#11327](https://github.com/microsoft/pyright/pull/11327) | Rohan5commit | 2026-03-12 | 0 | 2026-03-12 | erictraut | docs: remove duplicate word in import statements |
+| \* | [#11336](https://github.com/microsoft/pyright/pull/11336) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Copilot/fix pyright narrowing issue |
+| \* | [#11337](https://github.com/microsoft/pyright/pull/11337) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Fix ternary expression error |
+| \* | [#11338](https://github.com/microsoft/pyright/pull/11338) | gramster | 2026-03-19 | 0 | 2026-03-19 | - | Fix type narrowing for empty mapping patterns in match statements |
+
+## RECENTLY CLOSED ISSUES
+
+
+### Issues closed in the past 1 day(s):
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:2  |[11332](https://github.com/microsoft/pyright/issues/11332 "Incorrect `reportOperatorIssue` on `uuid.UUID().int`")  |Incorrect `reportOperatorIssue` on `uuid.UUID().int` |
+ | \* TM:0  |[11335](https://github.com/microsoft/pyright/issues/11335 "@override assignability not enforced for `__init__`")  |@override assignability not enforced for `__init__` |
 
 
 
