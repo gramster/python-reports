@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/debugpy
 
 
-Generated on 2026-03-13 using: stale=30, all=False
+Generated on 2026-03-20 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,15 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## PULL REQUEST ACTIVITY
+## RECENTLY CLOSED ISSUES
 
 
-### Pull Requests merged in the past 1 day(s):
+### Issues closed in the past 1 day(s):
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#2012](https://github.com/microsoft/debugpy/pull/2012) | copilot-swe-agent | 2026-03-11 | 1 | 2026-03-13 | rchiodo | Fix: ContinueRequest with specific threadId resumes all threads (in-process adapter fix) |
-| \* | [#2012](https://github.com/microsoft/debugpy/pull/2012) | copilot-swe-agent | 2026-03-11 | 1 | 2026-03-13 | rchiodo | Fix: ContinueRequest with specific threadId resumes all threads (in-process adapter fix) |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[2013](https://github.com/microsoft/debugpy/issues/2013 "Breakpoints can be set on blank/comment-only lines but never resolve or warn")  |Breakpoints can be set on blank/comment-only lines but never resolve or warn |
 
 
 
