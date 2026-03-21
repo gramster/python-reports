@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-03-14 using: stale=30, all=False
+Generated on 2026-03-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python-environments that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[1357](https://github.com/microsoft/vscode-python-environments/issues/1357 "[BUG] Unable to detect or recognize python executable on certain machines")  |[BUG] Unable to detect or recognize python executable on certain machines |
 
 ---
 
@@ -26,30 +17,22 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1358](https://github.com/microsoft/vscode-python-environments/issues/1358 "[Python Environments] ")  |[Python Environments]  |
+ | \* OP:1  |[1371](https://github.com/microsoft/vscode-python-environments/issues/1371 "[Python Environments] ")  |[Python Environments]  |
 
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0, OP:0  |[378](https://github.com/microsoft/vscode-python-environments/issues/378 "Extension API: How to map it to hatch?")  |Extension API: How to map it to hatch? |
+ | \* TM:4, OP:0  |[1363](https://github.com/microsoft/vscode-python-environments/issues/1363 "Visual Studio Code failed to recognize default python interpreter path")  |Visual Studio Code failed to recognize default python interpreter path |
 
-## RECENTLY CLOSED ISSUES
+## PULL REQUEST ACTIVITY
 
 
-### Issues closed in the past 1 day(s):
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0  |[1349](https://github.com/microsoft/vscode-python-environments/issues/1349 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1348](https://github.com/microsoft/vscode-python-environments/issues/1348 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1350](https://github.com/microsoft/vscode-python-environments/issues/1350 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1351](https://github.com/microsoft/vscode-python-environments/issues/1351 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1352](https://github.com/microsoft/vscode-python-environments/issues/1352 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1353](https://github.com/microsoft/vscode-python-environments/issues/1353 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1355](https://github.com/microsoft/vscode-python-environments/issues/1355 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:0  |[1356](https://github.com/microsoft/vscode-python-environments/issues/1356 "[Python Environments] ")  |[Python Environments]  |
- | \* TM:15  |[1285](https://github.com/microsoft/vscode-python-environments/issues/1285 "[Python Environments] ")  |[Python Environments]  |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#1372](https://github.com/microsoft/vscode-python-environments/pull/1372) | dependabot | 2026-03-20 | 0 | - | - | chore(deps-dev): bump flatted from 3.3.2 to 3.4.2 in /examples/sample1 |
 
 
 
