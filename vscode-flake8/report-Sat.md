@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-03-14 using: stale=30, all=False
+Generated on 2026-03-21 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,7 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[441](https://github.com/microsoft/vscode-flake8/issues/441 "Template Sync: align importStrategy in typescript to python")  |Template Sync: align importStrategy in typescript to python |
+ | \* OP:1  |[450](https://github.com/microsoft/vscode-flake8/issues/450 "Template Sync: pip(deps): bump pygls from 2.0.1 to 2.1.0")  |Template Sync: pip(deps): bump pygls from 2.0.1 to 2.1.0 |
 
 
 
