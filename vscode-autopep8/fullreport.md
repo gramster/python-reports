@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-autopep8
 
 
-Generated on 2026-03-15 using: stale=30, all=True
+Generated on 2026-03-22 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -17,8 +17,15 @@ Generated on 2026-03-15 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#348](https://github.com/microsoft/vscode-autopep8/pull/348) | dependabot | 2026-03-13 | 2 | - | - | Bump undici from 7.15.0 to 7.24.1 |
-| \* | [#347](https://github.com/microsoft/vscode-autopep8/pull/347) | bschnurr | 2026-03-10 | 5 | - | - | Bump version to 2026.3.0-dev |
+| \* | [#350](https://github.com/microsoft/vscode-autopep8/pull/350) | dependabot | 2026-03-21 | 1 | - | - | Bump flatted from 3.3.3 to 3.4.2 |
+| \* | [#349](https://github.com/microsoft/vscode-autopep8/pull/349) | dependabot | 2026-03-18 | 4 | - | - | Bump ujson from 5.10.0 to 5.12.0 in /src/test/python_tests |
+
+### Pull Requests still open that were opened more than 7 days ago:
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | [#347](https://github.com/microsoft/vscode-autopep8/pull/347) | bschnurr | 2026-03-10 | 12 | - | - | Bump version to 2026.3.0-dev |
+|   | [#348](https://github.com/microsoft/vscode-autopep8/pull/348) | dependabot | 2026-03-13 | 9 | - | - | Bump undici from 7.15.0 to 7.24.1 |
 
 
 
