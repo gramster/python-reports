@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-15 using: stale=30, all=False
+Generated on 2026-03-22 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,14 +17,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7932](https://github.com/microsoft/pylance-release/issues/7932 "Ram Eater")  |Ram Eater |
- | \* OP:0  |[7931](https://github.com/microsoft/pylance-release/issues/7931 "High CPU usage and UI freezes when typing in .py files (Remote-SSH, Pylance enabled)")  |High CPU usage and UI freezes when typing in .py files (Remote-SSH, Pylance enabled) |
+ | \* OP:0  |[7945](https://github.com/microsoft/pylance-release/issues/7945 "the pygame dosent work it have a yellow line under it")  |the pygame dosent work it have a yellow line under it |
+ | \* OP:0  |[7944](https://github.com/microsoft/pylance-release/issues/7944 "python")  |python |
+ | \* OP:0  |[7943](https://github.com/microsoft/pylance-release/issues/7943 "py cham")  |py cham |
+ | \* OP:0  |[7942](https://github.com/microsoft/pylance-release/issues/7942 "py cham")  |py cham |
+ | \* OP:0  |[7941](https://github.com/microsoft/pylance-release/issues/7941 "module not found")  |module not found |
 
-### Issues in pylance-release that have comments from 3rd party after last team response:
+### Issues in pylance-release that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[6453](https://github.com/microsoft/pylance-release/issues/6453 "Don't show errors in stdlib files")  |Don't show errors in stdlib files |
+ | \* TM:3, OP:1  |[7936](https://github.com/microsoft/pylance-release/issues/7936 "VSCode Remote SSH Server Lag Issue Report")  |VSCode Remote SSH Server Lag Issue Report |
 
 
 
