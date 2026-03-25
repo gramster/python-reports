@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-03-18 using: stale=30, all=False
+Generated on 2026-03-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,20 +17,21 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[1364](https://github.com/microsoft/vscode-python-environments/issues/1364 "[Python Environments]")  |[Python Environments] |
- | \* OP:1  |[1361](https://github.com/microsoft/vscode-python-environments/issues/1361 "[Python Environments] ")  |[Python Environments]  |
+ | \* OP:1  |[1385](https://github.com/microsoft/vscode-python-environments/issues/1385 "Projects selector for status bar environment selector no longer allows select for current script nor does its job properly.")  |Projects selector for status bar environment selector no longer allows select for current script nor does its job properly. |
+ | \* OP:1  |[1379](https://github.com/microsoft/vscode-python-environments/issues/1379 "Extension causes high cpu load")  |Extension causes high cpu load |
+ | \* OP:1  |[1378](https://github.com/microsoft/vscode-python-environments/issues/1378 "Not playing captcha")  |Not playing captcha |
 
 ### Issues in vscode-python-environments that have comments from OP after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:0  |[1363](https://github.com/microsoft/vscode-python-environments/issues/1363 "Visual Studio Code failed to recognize default python interpreter path")  |Visual Studio Code failed to recognize default python interpreter path |
+ | \* TM:1, OP:1  |[378](https://github.com/microsoft/vscode-python-environments/issues/378 "Extension API: How to map it to hatch?")  |Extension API: How to map it to hatch? |
 
 ### Issues in vscode-python-environments that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* P:1,  |[1335](https://github.com/microsoft/vscode-python-environments/issues/1335 "Python interpreter versions not detected")  |Python interpreter versions not detected |
+ | \* P:1,  |[1354](https://github.com/microsoft/vscode-python-environments/issues/1354 "VS Codium: None of python interpreters considered valid")  |VS Codium: None of python interpreters considered valid |
 
 ## PULL REQUEST ACTIVITY
 
@@ -39,7 +40,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1365](https://github.com/microsoft/vscode-python-environments/pull/1365) | StellaHuang95 | 2026-03-17 | 0 | - | - | Add telemetry for manager registration failures |
+| \* | [#1390](https://github.com/microsoft/vscode-python-environments/pull/1390) | eleanorjboyd | 2026-03-24 | 0 | - | - | feat: add telemetry for PET initialization duration and improve timeout handling |
+| \* | [#1389](https://github.com/microsoft/vscode-python-environments/pull/1389) | eleanorjboyd | 2026-03-24 | 0 | - | - | enhance issue reporter with title and required description prompts |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -48,8 +50,12 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:13  |[1315](https://github.com/microsoft/vscode-python-environments/issues/1315 "Failed to resolve environment")  |Failed to resolve environment |
- | \* TM:15  |[1302](https://github.com/microsoft/vscode-python-environments/issues/1302 "malfunction")  |malfunction |
+ | \* TM:4  |[1371](https://github.com/microsoft/vscode-python-environments/issues/1371 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:1  |[1377](https://github.com/microsoft/vscode-python-environments/issues/1377 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:1  |[1381](https://github.com/microsoft/vscode-python-environments/issues/1381 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:1  |[1382](https://github.com/microsoft/vscode-python-environments/issues/1382 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1384](https://github.com/microsoft/vscode-python-environments/issues/1384 "[Python Environments] ")  |[Python Environments]  |
+ | \* TM:0  |[1388](https://github.com/microsoft/vscode-python-environments/issues/1388 "[Python Environments] ")  |[Python Environments]  |
 
 
 
