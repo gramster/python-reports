@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-03-18 using: stale=30, all=False
+Generated on 2026-03-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in vscode-flake8 that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[453](https://github.com/microsoft/vscode-flake8/issues/453 "Template Sync: pip(deps): bump pygls from 2.1.0 to 2.1.1")  |Template Sync: pip(deps): bump pygls from 2.1.0 to 2.1.1 |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,16 +26,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#447](https://github.com/microsoft/vscode-flake8/pull/447) | dependabot | 2026-03-18 | 0 | - | - | Bump the github-actions-minor-patch group across 1 directory with 2 updates |
-| \* | [#446](https://github.com/microsoft/vscode-flake8/pull/446) | dependabot | 2026-03-18 | 0 | - | - | Bump webpack-cli from 6.0.1 to 7.0.2 |
-| \* | [#445](https://github.com/microsoft/vscode-flake8/pull/445) | dependabot | 2026-03-18 | 0 | - | - | Bump sinon from 21.0.2 to 21.0.3 in the npm-minor-patch group |
-| \* | [#444](https://github.com/microsoft/vscode-flake8/pull/444) | dependabot | 2026-03-18 | 0 | - | - | Bump ujson from 5.11.0 to 5.12.0 in /src/test/python_tests |
-
-### Pull Requests closed (not merged) in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#439](https://github.com/microsoft/vscode-flake8/pull/439) | dependabot | 2026-03-11 | 7 | 2026-03-18 | - | Bump github/gh-aw from 0.53.2 to 0.57.2 in the github-actions-minor-patch group |
+| \* | [#454](https://github.com/microsoft/vscode-flake8/pull/454) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch from 2.3.1 to 2.3.2 |
+| \* | [#452](https://github.com/microsoft/vscode-flake8/pull/452) | dependabot | 2026-03-25 | 0 | - | - | Bump pygls from 2.0.1 to 2.1.1 in the pip-minor-patch group |
 
 
 
