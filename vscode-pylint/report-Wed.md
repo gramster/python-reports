@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2026-03-18 using: stale=30, all=False
+Generated on 2026-03-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,32 +17,23 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#754](https://github.com/microsoft/vscode-pylint/pull/754) | dependabot | 2026-03-18 | 0 | - | - | Bump webpack-cli from 5.1.4 to 7.0.2 |
-| \* | [#753](https://github.com/microsoft/vscode-pylint/pull/753) | dependabot | 2026-03-18 | 0 | - | - | Bump sinon and @types/sinon |
-| \* | [#752](https://github.com/microsoft/vscode-pylint/pull/752) | dependabot | 2026-03-18 | 0 | - | - | Bump the npm-minor-patch group with 2 updates |
-| \* | [#751](https://github.com/microsoft/vscode-pylint/pull/751) | dependabot | 2026-03-18 | 0 | - | - | Bump ujson from 5.11.0 to 5.12.0 in /src/test/python_tests |
+| \* | [#761](https://github.com/microsoft/vscode-pylint/pull/761) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch |
+| \* | [#760](https://github.com/microsoft/vscode-pylint/pull/760) | dependabot | 2026-03-25 | 0 | - | - | Bump the pip-minor-patch group across 1 directory with 2 updates |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#742](https://github.com/microsoft/vscode-pylint/pull/742) | edvilme | 2026-03-10 | 8 | 2026-03-18 | edvilme | Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync |
-| \* | [#742](https://github.com/microsoft/vscode-pylint/pull/742) | edvilme | 2026-03-10 | 8 | 2026-03-18 | edvilme | Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync |
+| \* | [#758](https://github.com/microsoft/vscode-pylint/pull/758) | copilot-swe-agent | 2026-03-23 | 2 | 2026-03-25 | edvilme | Bump pygls from 2.0.1 to 2.1.0 |
+| \* | [#758](https://github.com/microsoft/vscode-pylint/pull/758) | copilot-swe-agent | 2026-03-23 | 2 | 2026-03-25 | edvilme | Bump pygls from 2.0.1 to 2.1.0 |
+| \* | [#759](https://github.com/microsoft/vscode-pylint/pull/759) | edvilme | 2026-03-23 | 1 | 2026-03-25 | edvilme | Template sync: skip dependency update PRs |
+| \* | [#759](https://github.com/microsoft/vscode-pylint/pull/759) | edvilme | 2026-03-23 | 1 | 2026-03-25 | edvilme | Template sync: skip dependency update PRs |
 
 ### Pull Requests closed (not merged) in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#745](https://github.com/microsoft/vscode-pylint/pull/745) | dependabot | 2026-03-11 | 7 | 2026-03-18 | - | Bump sinon and @types/sinon |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:8  |[741](https://github.com/microsoft/vscode-pylint/issues/741 "Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync")  |Template Sync: Add Jupyter notebook cell support via LSP 3.17 Notebook Document Sync |
+| \* | [#744](https://github.com/microsoft/vscode-pylint/pull/744) | dependabot | 2026-03-11 | 13 | 2026-03-25 | - | Bump black from 26.1.0 to 26.3.0 in the pip-minor-patch group |
 
 
 
