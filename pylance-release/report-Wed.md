@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-18 using: stale=30, all=False
+Generated on 2026-03-25 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,21 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7937](https://github.com/microsoft/pylance-release/issues/7937 "Pylance &quot;Organize Imports&quot; overrides isort force_single_line")  |Pylance "Organize Imports" overrides isort force_single_line |
+ | \* OP:0  |[7951](https://github.com/microsoft/pylance-release/issues/7951 "[TSP][Pyrefly][Completion] Auto-import completions don't work")  |[TSP][Pyrefly][Completion] Auto-import completions don't work |
+ | \* OP:0  |[7950](https://github.com/microsoft/pylance-release/issues/7950 "[TSP] Double errors with pyrefly")  |[TSP] Double errors with pyrefly |
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:1, OP:1  |[7934](https://github.com/microsoft/pylance-release/issues/7934 "Intermittent incorrect autofill of type annotation")  |Intermittent incorrect autofill of type annotation |
+ | \* P:0,  |[7931](https://github.com/microsoft/pylance-release/issues/7931 "High CPU usage and UI freezes when typing in .py files (Remote-SSH, Pylance enabled)")  |High CPU usage and UI freezes when typing in .py files (Remote-SSH, Pylance enabled) |
+ | \* P:0,  |[7443](https://github.com/microsoft/pylance-release/issues/7443 "Pylance using the wrong interpreter")  |Pylance using the wrong interpreter |
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7897](https://github.com/microsoft/pylance-release/issues/7897 "Triple quotes not getting auto closed for format strings")  |Triple quotes not getting auto closed for format strings |
 
 ## PULL REQUEST ACTIVITY
 
@@ -32,7 +40,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8053](https://github.com/microsoft/pyrx/pull/8053) | rchiodo | 2026-03-18 | 0 | - | - | Fix external type server notebook tests |
+| \* | [#8099](https://github.com/microsoft/pyrx/pull/8099) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch in /packages/vscode-pylance |
+| \* | [#8098](https://github.com/microsoft/pyrx/pull/8098) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch in /packages/pyright |
+| \* | [#8097](https://github.com/microsoft/pyrx/pull/8097) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch from 2.3.1 to 2.3.2 in /packages/pylance |
+| \* | [#8096](https://github.com/microsoft/pyrx/pull/8096) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch in /packages/pyright/packages/pyright-internal |
+| \* | [#8095](https://github.com/microsoft/pyrx/pull/8095) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch in /packages/pylance-internal |
+| \* | [#8094](https://github.com/microsoft/pyrx/pull/8094) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch in /packages/pylance-server |
+| \* | [#8093](https://github.com/microsoft/pyrx/pull/8093) | dependabot | 2026-03-25 | 0 | - | - | Bump picomatch from 2.3.1 to 2.3.2 in /packages/type-server |
+| \* | [#8091](https://github.com/microsoft/pyrx/pull/8091) | dependabot | 2026-03-25 | 0 | - | - | Bump smol-toml from 1.6.0 to 1.6.1 in /packages/vscode-pylance |
+| \* | [#8090](https://github.com/microsoft/pyrx/pull/8090) | dependabot | 2026-03-25 | 0 | - | - | Bump smol-toml from 1.6.0 to 1.6.1 in /packages/pylance-internal |
+| \* | [#8085](https://github.com/microsoft/pyrx/pull/8085) | bschnurr | 2026-03-25 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -41,12 +58,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7939](https://github.com/microsoft/pylance-release/issues/7939 "pylance")  |pylance |
- | \* TM:20  |[7907](https://github.com/microsoft/pylance-release/issues/7907 "Pylance crashes when pyproject.toml contains pytest python_classes with bracket glob patterns")  |Pylance crashes when pyproject.toml contains pytest python_classes with bracket glob patterns |
- | \* TM:20  |[7904](https://github.com/microsoft/pylance-release/issues/7904 ".bashrc env vars for Python are ignored after latest release")  |.bashrc env vars for Python are ignored after latest release |
- | \* TM:35  |[7866](https://github.com/microsoft/pylance-release/issues/7866 "Pylance is crashing every ~10 minutes - handleover error")  |Pylance is crashing every ~10 minutes - handleover error |
- | \* TM:28  |[7884](https://github.com/microsoft/pylance-release/issues/7884 "[macOS] False &quot;Match statements require Python 3.10 or newer&quot;")  |[macOS] False "Match statements require Python 3.10 or newer" |
- | \* TM:0  |[7935](https://github.com/microsoft/pylance-release/issues/7935 "Pylance server fails to start: &quot;Stopping the server timed out&quot; and &quot;illegal state - object is disposed&quot;")  |Pylance server fails to start: "Stopping the server timed out" and "illegal state - object is disposed" |
+ | \* TM:0  |[7949](https://github.com/microsoft/pylance-release/issues/7949 "Hover displays default values for floats with underscores incorrectly")  |Hover displays default values for floats with underscores incorrectly |
 
 
 
