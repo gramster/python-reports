@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-03-19 using: stale=30, all=False
+Generated on 2026-03-26 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -10,16 +10,14 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
-## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+## PULL REQUEST ACTIVITY
 
 
-### Issues in vscode-mypy that need a response from team:
+### Pull Requests opened in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[483](https://github.com/microsoft/vscode-mypy/issues/483 "Template Sync: pip(deps): bump pygls from 2.0.1 to 2.1.0")  |Template Sync: pip(deps): bump pygls from 2.0.1 to 2.1.0 |
- | \* OP:0  |[484](https://github.com/microsoft/vscode-mypy/issues/484 "Template Sync: pip(deps): bump packaging from 24.2 to 26.0")  |Template Sync: pip(deps): bump packaging from 24.2 to 26.0 |
- | \* OP:0  |[482](https://github.com/microsoft/vscode-mypy/issues/482 "Template Sync: Update to Pygls 2.0 with minimum Python 3.10")  |Template Sync: Update to Pygls 2.0 with minimum Python 3.10 |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#492](https://github.com/microsoft/vscode-mypy/pull/492) | dependabot | 2026-03-26 | 0 | - | - | Bump picomatch from 2.3.1 to 2.3.2 |
 
 
 
