@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-22 using: stale=30, all=False
+Generated on 2026-03-29 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,17 +17,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7945](https://github.com/microsoft/pylance-release/issues/7945 "the pygame dosent work it have a yellow line under it")  |the pygame dosent work it have a yellow line under it |
- | \* OP:0  |[7944](https://github.com/microsoft/pylance-release/issues/7944 "python")  |python |
- | \* OP:0  |[7943](https://github.com/microsoft/pylance-release/issues/7943 "py cham")  |py cham |
- | \* OP:0  |[7942](https://github.com/microsoft/pylance-release/issues/7942 "py cham")  |py cham |
- | \* OP:0  |[7941](https://github.com/microsoft/pylance-release/issues/7941 "module not found")  |module not found |
+ | \* OP:1  |[7957](https://github.com/microsoft/pylance-release/issues/7957 "Add an opt-in hover/signature expansion for **kwargs: Unpack[TypedDict]")  |Add an opt-in hover/signature expansion for **kwargs: Unpack[TypedDict] |
+ | \* OP:1  |[7956](https://github.com/microsoft/pylance-release/issues/7956 "False positive reportCallIssue for generic constructor call using inferred private instance attribute")  |False positive reportCallIssue for generic constructor call using inferred private instance attribute |
 
-### Issues in pylance-release that have comments from OP after last team response:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:3, OP:1  |[7936](https://github.com/microsoft/pylance-release/issues/7936 "VSCode Remote SSH Server Lag Issue Report")  |VSCode Remote SSH Server Lag Issue Report |
+ | \* P:0,  |[6316](https://github.com/microsoft/pylance-release/issues/6316 "Correctly resolve `collections(.abc)` class/method Definition to source file instead of typing.py or typeshed-fallback")  |Correctly resolve `collections(.abc)` class/method Definition to source file instead of typing.py or typeshed-fallback |
+
+### Issues in pylance-release that have no external responses since team response in 30+ days:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:30  |[7910](https://github.com/microsoft/pylance-release/issues/7910 "Feature Request: Filter or Visually Distinguish Workspace vs Library Symbols in Outgoing Call Hierarchy")  |Feature Request: Filter or Visually Distinguish Workspace vs Library Symbols in Outgoing Call Hierarchy |
 
 
 
