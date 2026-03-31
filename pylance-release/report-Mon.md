@@ -2,13 +2,22 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-23 using: stale=30, all=False
+Generated on 2026-03-30 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:1,  |[6316](https://github.com/microsoft/pylance-release/issues/6316 "Correctly resolve `collections(.abc)` class/method Definition to source file instead of typing.py or typeshed-fallback")  |Correctly resolve `collections(.abc)` class/method Definition to source file instead of typing.py or typeshed-fallback |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,11 +26,11 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8071](https://github.com/microsoft/pyrx/pull/8071) | rchiodo | 2026-03-23 | 0 | - | - | Fix deepCopy false cycle detection for shared references |
-| \* | [#8070](https://github.com/microsoft/pyrx/pull/8070) | rchiodo | 2026-03-23 | 0 | - | - | Fix #7351: Pytest fixture completions don't work in test class functions |
-| \* | [#8069](https://github.com/microsoft/pyrx/pull/8069) | rchiodo | 2026-03-23 | 0 | - | - | Fix #7165: Inserting inlay return types is missing originating module for generic types |
-| \* | [#8066](https://github.com/microsoft/pyrx/pull/8066) | StellaHuang95 | 2026-03-23 | 0 | - | - | Add new MCP tools for code navigation and analysis, expand standalone MCP server |
-| \* | [#8065](https://github.com/microsoft/pyrx/pull/8065) | dependabot | 2026-03-23 | 0 | - | - | Bump flatted from 3.3.3 to 3.4.2 in /packages/pyright |
+| \* | [#8137](https://github.com/microsoft/pyrx/pull/8137) | rchiodo | 2026-03-30 | 0 | - | - | Remove Python interpreter dependency from MCP server startup |
+| \* | [#8135](https://github.com/microsoft/pyrx/pull/8135) | heejaechang | 2026-03-30 | 0 | - | - | Add Language Server Mode status item for easier mode switching |
+| \* | [#8132](https://github.com/microsoft/pyrx/pull/8132) | bschnurr | 2026-03-30 | 0 | - | - | Merge release/2026.2 into main |
+| \* | [#8128](https://github.com/microsoft/pyrx/pull/8128) | dependabot | 2026-03-30 | 0 | - | - | Bump pygments from 2.19.2 to 2.20.0 in /packages/ruff/python/py-fuzzer |
+| \* | [#8126](https://github.com/microsoft/pyrx/pull/8126) | bschnurr | 2026-03-30 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -30,12 +39,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:0  |[7946](https://github.com/microsoft/pylance-release/issues/7946 "Hover on overload is no longer working")  |Hover on overload is no longer working |
- | \* TM:1  |[7943](https://github.com/microsoft/pylance-release/issues/7943 "py cham")  |py cham |
- | \* TM:0  |[7945](https://github.com/microsoft/pylance-release/issues/7945 "the pygame dosent work it have a yellow line under it")  |the pygame dosent work it have a yellow line under it |
- | \* TM:1  |[7944](https://github.com/microsoft/pylance-release/issues/7944 "python")  |python |
- | \* TM:1  |[7942](https://github.com/microsoft/pylance-release/issues/7942 "py cham")  |py cham |
- | \* TM:1  |[7941](https://github.com/microsoft/pylance-release/issues/7941 "module not found")  |module not found |
+ | \* TM:0  |[7959](https://github.com/microsoft/pylance-release/issues/7959 "Python syntax highlighting regression with Pylance after recent VSCode update (semantic tokens override theme)")  |Python syntax highlighting regression with Pylance after recent VSCode update (semantic tokens override theme) |
+ | \* TM:2  |[7957](https://github.com/microsoft/pylance-release/issues/7957 "Add an opt-in hover/signature expansion for **kwargs: Unpack[TypedDict]")  |Add an opt-in hover/signature expansion for **kwargs: Unpack[TypedDict] |
 
 
 
