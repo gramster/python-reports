@@ -2,22 +2,28 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-03-28 using: stale=30, all=False
+Generated on 2026-04-04 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in pyright that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:1  |[11358](https://github.com/microsoft/pyright/issues/11358 "&quot;Arguments for ParamSpec are missing&quot; error")  |"Arguments for ParamSpec are missing" error |
+
+### Issues in pyright that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:1  |[11359](https://github.com/microsoft/pyright/issues/11359 "Significant Performance Regression in 1.1.405+")  |Significant Performance Regression in 1.1.405+ |
+
 ---
-
-## PULL REQUEST ACTIVITY
-
-
-### Pull Requests opened in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#11353](https://github.com/microsoft/pyright/pull/11353) | dependabot | 2026-03-27 | 0 | - | - | Bump handlebars from 4.7.8 to 4.7.9 |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -26,7 +32,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:21  |[11317](https://github.com/microsoft/pyright/issues/11317 "LSP: Slow semantic completion for built in types")  |LSP: Slow semantic completion for built in types |
+ | \* TM:0  |[11361](https://github.com/microsoft/pyright/issues/11361 "Recognize valid pattern of dataclasses with @property")  |Recognize valid pattern of dataclasses with @property |
 
 
 
