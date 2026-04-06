@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/sarif-tools
 
 
-Generated on 2026-03-29 using: stale=30, all=True
+Generated on 2026-04-05 using: stale=30, all=True
 
 
 * marks items that are new to report in past 7 day(s)
@@ -17,15 +17,15 @@ Generated on 2026-03-29 using: stale=30, all=True
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- |  OP:58  |[112](https://github.com/microsoft/sarif-tools/issues/112 "`KeyError: 'ruleId'` when converting SARIF file to CodeClimate") | `KeyError: 'ruleId'` when converting SARIF file to CodeClimate |
- |  OP:64  |[111](https://github.com/microsoft/sarif-tools/issues/111 "Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos") | Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos |
- |  OP:104  |[110](https://github.com/microsoft/sarif-tools/issues/110 "Trouble With Locations Sharing A Common Prefix") | Trouble With Locations Sharing A Common Prefix |
- |  OP:115  |[109](https://github.com/microsoft/sarif-tools/issues/109 "Description truncated to only 1 character") | Description truncated to only 1 character |
- |  OP:210  |[104](https://github.com/microsoft/sarif-tools/issues/104 "codeclimate: Absolute line numbers SHOULD NOT be used for fingerprinting") | codeclimate: Absolute line numbers SHOULD NOT be used for fingerprinting |
- |  OP:326  |[87](https://github.com/microsoft/sarif-tools/issues/87 "Stricter filter rules parsing") | Stricter filter rules parsing |
- |  OP:387  |[86](https://github.com/microsoft/sarif-tools/issues/86 "When similar warnings are grouped they shouldn't be truncated in the output") | When similar warnings are grouped they shouldn't be truncated in the output |
- |  OP:402  |[85](https://github.com/microsoft/sarif-tools/issues/85 "HTML autotrim bug") | HTML autotrim bug |
- |  OP:426  |[84](https://github.com/microsoft/sarif-tools/issues/84 "Diff with line change not recognized") | Diff with line change not recognized |
+ |  OP:65  |[112](https://github.com/microsoft/sarif-tools/issues/112 "`KeyError: 'ruleId'` when converting SARIF file to CodeClimate") | `KeyError: 'ruleId'` when converting SARIF file to CodeClimate |
+ |  OP:71  |[111](https://github.com/microsoft/sarif-tools/issues/111 "Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos") | Add sarif blame --blame-file to apply precomputed blame/annotate data (CSV/JSONL) for non-git repos |
+ |  OP:111  |[110](https://github.com/microsoft/sarif-tools/issues/110 "Trouble With Locations Sharing A Common Prefix") | Trouble With Locations Sharing A Common Prefix |
+ |  OP:122  |[109](https://github.com/microsoft/sarif-tools/issues/109 "Description truncated to only 1 character") | Description truncated to only 1 character |
+ |  OP:217  |[104](https://github.com/microsoft/sarif-tools/issues/104 "codeclimate: Absolute line numbers SHOULD NOT be used for fingerprinting") | codeclimate: Absolute line numbers SHOULD NOT be used for fingerprinting |
+ |  OP:333  |[87](https://github.com/microsoft/sarif-tools/issues/87 "Stricter filter rules parsing") | Stricter filter rules parsing |
+ |  OP:394  |[86](https://github.com/microsoft/sarif-tools/issues/86 "When similar warnings are grouped they shouldn't be truncated in the output") | When similar warnings are grouped they shouldn't be truncated in the output |
+ |  OP:409  |[85](https://github.com/microsoft/sarif-tools/issues/85 "HTML autotrim bug") | HTML autotrim bug |
+ |  OP:433  |[84](https://github.com/microsoft/sarif-tools/issues/84 "Diff with line change not recognized") | Diff with line change not recognized |
 
 ## PULL REQUEST ACTIVITY
 
@@ -34,9 +34,9 @@ Generated on 2026-03-29 using: stale=30, all=True
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#92](https://github.com/microsoft/sarif-tools/pull/92) | copilot-swe-agent | 2025-05-28 | 305 | - | - | Fix truncated warning descriptions in emacs output format |
-| \* | [#93](https://github.com/microsoft/sarif-tools/pull/93) | copilot-swe-agent | 2025-05-28 | 305 | - | - | Fix HTML autotrim bug - respect directory boundaries when computing common prefix |
-| \* | [#95](https://github.com/microsoft/sarif-tools/pull/95) | copilot-swe-agent | 2025-05-28 | 305 | - | - | Add pre-commit hook to run black |
+| \* | [#92](https://github.com/microsoft/sarif-tools/pull/92) | copilot-swe-agent | 2025-05-28 | 312 | - | - | Fix truncated warning descriptions in emacs output format |
+| \* | [#93](https://github.com/microsoft/sarif-tools/pull/93) | copilot-swe-agent | 2025-05-28 | 312 | - | - | Fix HTML autotrim bug - respect directory boundaries when computing common prefix |
+| \* | [#95](https://github.com/microsoft/sarif-tools/pull/95) | copilot-swe-agent | 2025-05-28 | 312 | - | - | Add pre-commit hook to run black |
 
 
 
