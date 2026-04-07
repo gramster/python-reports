@@ -10,6 +10,15 @@ Only showing items that are new to report in past 1 day(s)
 
 ---
 
+## PULL REQUEST ACTIVITY
+
+
+### Pull Requests opened in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#772](https://github.com/microsoft/vscode-pylint/pull/772) | edvilme | 2026-04-06 | 0 | - | - | refactor: extract envFile.ts module from server.ts |
+
 
 
 
