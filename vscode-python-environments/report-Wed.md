@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-python-environments
 
 
-Generated on 2026-04-01 using: stale=30, all=False
+Generated on 2026-04-08 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-python-environments that have comments from 3rd party after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* P:1,  |[1277](https://github.com/microsoft/vscode-python-environments/issues/1277 "Prefix the environment activation command with a space")  |Prefix the environment activation command with a space |
 
 ---
 
@@ -26,9 +17,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[1417](https://github.com/microsoft/vscode-python-environments/issues/1417 "In multi-root workspaces, folder-level `python-envs.workspaceSearchPaths` is ignored silently")  |In multi-root workspaces, folder-level `python-envs.workspaceSearchPaths` is ignored silently |
- | \* OP:0  |[1416](https://github.com/microsoft/vscode-python-environments/issues/1416 "ms-python.vscode-python-envs 在执行 refreshCondaEnvs 时崩在 .map()，说明它期望拿到的是“环境列表数组”，但实际拿到 undefined。")  |ms-python.vscode-python-envs 在执行 refreshCondaEnvs 时崩在 .map()，说明它期望拿到的是“环境列表数组”，但实际拿到 undefined。 |
- | \* OP:1  |[1415](https://github.com/microsoft/vscode-python-environments/issues/1415 "[Python Environments] ")  |[Python Environments]  |
+ | \* OP:0  |[1443](https://github.com/microsoft/vscode-python-environments/issues/1443 "Localization support for Environments extension")  |Localization support for Environments extension |
+ | \* OP:1  |[1440](https://github.com/microsoft/vscode-python-environments/issues/1440 "[Python Environments] ")  |[Python Environments]  |
+
+### Issues in vscode-python-environments that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:4, OP:0  |[378](https://github.com/microsoft/vscode-python-environments/issues/378 "Extension API: How to map it to hatch?")  |Extension API: How to map it to hatch? |
+
+### Issues in vscode-python-environments that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[1363](https://github.com/microsoft/vscode-python-environments/issues/1363 "Visual Studio Code failed to recognize default python interpreter path")  |Visual Studio Code failed to recognize default python interpreter path |
 
 ## PULL REQUEST ACTIVITY
 
@@ -37,23 +39,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1418](https://github.com/microsoft/vscode-python-environments/pull/1418) | karthiknadig | 2026-03-31 | 0 | 2026-03-31 | karthiknadig | Update dependencies in package-lock.json to latest versions |
-| \* | [#1418](https://github.com/microsoft/vscode-python-environments/pull/1418) | karthiknadig | 2026-03-31 | 0 | 2026-03-31 | karthiknadig | Update dependencies in package-lock.json to latest versions |
+| \* | [#1444](https://github.com/microsoft/vscode-python-environments/pull/1444) | copilot-swe-agent | 2026-04-07 | 0 | - | - | fix: add `?? []` guards on all environment manager collection assignments |
 
 ### Pull Requests merged in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1418](https://github.com/microsoft/vscode-python-environments/pull/1418) | karthiknadig | 2026-03-31 | 0 | 2026-03-31 | karthiknadig | Update dependencies in package-lock.json to latest versions |
-| \* | [#1418](https://github.com/microsoft/vscode-python-environments/pull/1418) | karthiknadig | 2026-03-31 | 0 | 2026-03-31 | karthiknadig | Update dependencies in package-lock.json to latest versions |
-| \* | [#1401](https://github.com/microsoft/vscode-python-environments/pull/1401) | edvilme | 2026-03-25 | 5 | 2026-03-31 | edvilme | Choose project for terminal |
-| \* | [#1401](https://github.com/microsoft/vscode-python-environments/pull/1401) | edvilme | 2026-03-25 | 5 | 2026-03-31 | edvilme | Choose project for terminal |
-
-### Pull Requests closed (not merged) in the past 1 day(s):
-
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#1404](https://github.com/microsoft/vscode-python-environments/pull/1404) | StellaHuang95 | 2026-03-26 | 5 | 2026-03-31 | - | Add Kusto telemetry dashboard and queries |
+| \* | [#1442](https://github.com/microsoft/vscode-python-environments/pull/1442) | StellaHuang95 | 2026-04-06 | 0 | 2026-04-07 | StellaHuang95 | Fix refresh failure caused by JSON-RPC sending [null] params to pet binary |
+| \* | [#1442](https://github.com/microsoft/vscode-python-environments/pull/1442) | StellaHuang95 | 2026-04-06 | 0 | 2026-04-07 | StellaHuang95 | Fix refresh failure caused by JSON-RPC sending [null] params to pet binary |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -62,9 +55,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:354  |[291](https://github.com/microsoft/vscode-python-environments/issues/291 "'Python: Create Terminal' doesn't consider multiroot option")  |'Python: Create Terminal' doesn't consider multiroot option |
- | \* TM:9  |[1373](https://github.com/microsoft/vscode-python-environments/issues/1373 "Notification shown whenever I save an env file")  |Notification shown whenever I save an env file |
- | \* TM:39  |[1252](https://github.com/microsoft/vscode-python-environments/issues/1252 "Recommend Pixi extension when Pixi environments are detected")  |Recommend Pixi extension when Pixi environments are detected |
+ | \* TM:15  |[1380](https://github.com/microsoft/vscode-python-environments/issues/1380 "[Python Environments] ")  |[Python Environments]  |
 
 
 
