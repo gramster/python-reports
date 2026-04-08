@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-isort
 
 
-Generated on 2026-03-31 using: stale=30, all=False
+Generated on 2026-04-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[616](https://github.com/microsoft/vscode-isort/issues/616 "Phase 2: Add missing test coverage before shared package extraction")  |Phase 2: Add missing test coverage before shared package extraction |
- | \* OP:0  |[614](https://github.com/microsoft/vscode-isort/issues/614 "Feature Parity: Priority fixes before shared package extraction")  |Feature Parity: Priority fixes before shared package extraction |
+ | \* OP:0  |[620](https://github.com/microsoft/vscode-isort/issues/620 "Phase 4: Normalize codebase for shared package extraction")  |Phase 4: Normalize codebase for shared package extraction |
 
 ## PULL REQUEST ACTIVITY
 
@@ -27,8 +26,9 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#617](https://github.com/microsoft/vscode-isort/pull/617) | edvilme | 2026-03-31 | 0 | - | - | test: add missing test coverage for PRs #519, #522, #541 |
-| \* | [#615](https://github.com/microsoft/vscode-isort/pull/615) | edvilme | 2026-03-31 | 0 | - | - | Feature Parity: Tier 1 priority fixes |
+| \* | [#623](https://github.com/microsoft/vscode-isort/pull/623) | edvilme | 2026-04-07 | 0 | - | - | Refactor: add RunResult exit_code and align lsp_runner sys.path |
+| \* | [#622](https://github.com/microsoft/vscode-isort/pull/622) | edvilme | 2026-04-07 | 0 | - | - | Refactor: normalize_path resolve_symlinks, add is_match |
+| \* | [#621](https://github.com/microsoft/vscode-isort/pull/621) | edvilme | 2026-04-07 | 0 | - | - | Refactor: expandTilde dedup, ConnectionError, update_environ_path |
 
 
 
