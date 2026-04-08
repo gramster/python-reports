@@ -2,11 +2,20 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-pylint
 
 
-Generated on 2026-03-31 using: stale=30, all=False
+Generated on 2026-04-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
+
+## FOR ISSUES THAT ARE MARKED AS BUGS:
+
+
+### Issues in vscode-pylint that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[775](https://github.com/microsoft/vscode-pylint/issues/775 "All jupyter notebooks are now covered in flake8 / pylint diagnostic errors")  |All jupyter notebooks are now covered in flake8 / pylint diagnostic errors |
 
 ---
 
@@ -17,9 +26,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[766](https://github.com/microsoft/vscode-pylint/issues/766 "[aw] Issue Triage failed")  |[aw] Issue Triage failed |
- | \* OP:0  |[765](https://github.com/microsoft/vscode-pylint/issues/765 "Phase 2: Add missing test coverage before shared package extraction")  |Phase 2: Add missing test coverage before shared package extraction |
- | \* OP:0  |[763](https://github.com/microsoft/vscode-pylint/issues/763 "Feature Parity: Priority fixes before shared package extraction")  |Feature Parity: Priority fixes before shared package extraction |
+ | \* OP:0  |[773](https://github.com/microsoft/vscode-pylint/issues/773 "Phase 4: Normalize codebase for shared package extraction")  |Phase 4: Normalize codebase for shared package extraction |
 
 ## PULL REQUEST ACTIVITY
 
@@ -28,7 +35,15 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#764](https://github.com/microsoft/vscode-pylint/pull/764) | edvilme | 2026-03-31 | 0 | - | - | Feature Parity: Tier 1 priority fixes |
+| \* | [#776](https://github.com/microsoft/vscode-pylint/pull/776) | edvilme | 2026-04-07 | 0 | - | - | Refactor: add exit_code field to RunResult |
+| \* | [#774](https://github.com/microsoft/vscode-pylint/pull/774) | edvilme | 2026-04-07 | 0 | - | - | Refactor: normalize_path resolve_symlinks, is_match workspace_root |
+
+### Pull Requests merged in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#772](https://github.com/microsoft/vscode-pylint/pull/772) | edvilme | 2026-04-06 | 0 | 2026-04-07 | edvilme | refactor: extract envFile.ts module from server.ts |
+| \* | [#772](https://github.com/microsoft/vscode-pylint/pull/772) | edvilme | 2026-04-06 | 0 | 2026-04-07 | edvilme | refactor: extract envFile.ts module from server.ts |
 
 
 
