@@ -2,13 +2,36 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-03-31 using: stale=30, all=False
+Generated on 2026-04-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
 
 ---
+
+## FOR ISSUES THAT ARE NOT MARKED AS BUGS:
+
+
+### Issues in pylance-release that need a response from team:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* OP:0  |[7974](https://github.com/microsoft/pylance-release/issues/7974 "x file and 0 cells to analyze")  |x file and 0 cells to analyze |
+ | \* OP:0  |[7972](https://github.com/microsoft/pylance-release/issues/7972 "variable type inlay hints seem to be truncated to 32 characters, regardless of the editor inline hint length setting")  |variable type inlay hints seem to be truncated to 32 characters, regardless of the editor inline hint length setting |
+
+### Issues in pylance-release that have comments from OP after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:1, OP:1  |[7968](https://github.com/microsoft/pylance-release/issues/7968 "Quick fix for '&quot;function&quot; is not defined' change does not match hint")  |Quick fix for '"function" is not defined' change does not match hint |
+
+### Issues in pylance-release that have comments from 3rd party after last team response:
+
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* P:0,  |[7615](https://github.com/microsoft/pylance-release/issues/7615 "Pylance is extremly slow with 'transformers' package")  |Pylance is extremly slow with 'transformers' package |
+ | \* P:0,  |[7443](https://github.com/microsoft/pylance-release/issues/7443 "Pylance using the wrong interpreter")  |Pylance using the wrong interpreter |
 
 ## PULL REQUEST ACTIVITY
 
@@ -17,25 +40,14 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8149](https://github.com/microsoft/pyrx/pull/8149) | dependabot | 2026-03-31 | 0 | - | - | Bump @xmldom/xmldom from 0.8.11 to 0.8.12 in /packages/magicpython |
-| \* | [#8147](https://github.com/microsoft/pyrx/pull/8147) | rchiodo | 2026-03-31 | 0 | - | - | Fix #6716: Autocomplete suggestions don't work inside Pytest test functions when the suggestion logic returns more than 1 result. |
-| \* | [#8146](https://github.com/microsoft/pyrx/pull/8146) | rchiodo | 2026-03-31 | 0 | - | - | Fix #6654: Extracting a method  creates methods that take functions as arguments |
-| \* | [#8145](https://github.com/microsoft/pyrx/pull/8145) | rchiodo | 2026-03-31 | 0 | - | - | Fix #6584: `Pylance: Report Issue...` command is not working on web |
-| \* | [#8144](https://github.com/microsoft/pyrx/pull/8144) | rchiodo | 2026-03-31 | 0 | - | - | Fix #6529: Suggestions not match current selected interpreter |
-| \* | [#8141](https://github.com/microsoft/pyrx/pull/8141) | heejaechang | 2026-03-31 | 0 | - | - | Add pylancePythonDebug MCP tool with debugpy-backed DAP sessions |
-| \* | [#8140](https://github.com/microsoft/pyrx/pull/8140) | heejaechang | 2026-03-31 | 0 | - | - | [NOT FOR CHECKIN] temp draft PR harness iteration 1 |
-| \* | [#8138](https://github.com/microsoft/pyrx/pull/8138) | bschnurr | 2026-03-31 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
-
-## RECENTLY CLOSED ISSUES
-
-
-### Issues closed in the past 1 day(s):
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:5  |[7950](https://github.com/microsoft/pylance-release/issues/7950 "[TSP] Double errors with pyrefly")  |[TSP] Double errors with pyrefly |
- | \* TM:5  |[7951](https://github.com/microsoft/pylance-release/issues/7951 "[TSP][Pyrefly][Completion] Auto-import completions don't work")  |[TSP][Pyrefly][Completion] Auto-import completions don't work |
- | \* TM:12  |[7937](https://github.com/microsoft/pylance-release/issues/7937 "Pylance &quot;Organize Imports&quot; overrides isort force_single_line")  |Pylance "Organize Imports" overrides isort force_single_line |
+| \* | [#8191](https://github.com/microsoft/pyrx/pull/8191) | dependabot | 2026-04-07 | 0 | - | - | Bump transformers from 4.53.0 to 5.0.0rc3 in /packages/pylance-internal/src/tests/data/installable_package |
+| \* | [#8190](https://github.com/microsoft/pyrx/pull/8190) | dependabot | 2026-04-07 | 0 | - | - | Bump hono from 4.12.0 to 4.12.12 in /packages/pylance-copilot |
+| \* | [#8189](https://github.com/microsoft/pyrx/pull/8189) | dependabot | 2026-04-07 | 0 | - | - | Bump hono from 4.12.2 to 4.12.12 in /packages/pylance-mcp |
+| \* | [#8188](https://github.com/microsoft/pyrx/pull/8188) | dependabot | 2026-04-07 | 0 | - | - | Bump hono from 4.11.7 to 4.12.12 in /packages/pylance-dev |
+| \* | [#8187](https://github.com/microsoft/pyrx/pull/8187) | dependabot | 2026-04-07 | 0 | - | - | Bump @hono/node-server from 1.19.9 to 1.19.13 in /packages/pylance-mcp |
+| \* | [#8186](https://github.com/microsoft/pyrx/pull/8186) | dependabot | 2026-04-07 | 0 | - | - | Bump @hono/node-server from 1.19.9 to 1.19.13 in /packages/pylance-copilot |
+| \* | [#8185](https://github.com/microsoft/pyrx/pull/8185) | dependabot | 2026-04-07 | 0 | - | - | Bump @hono/node-server from 1.19.9 to 1.19.13 in /packages/pylance-dev |
+| \* | [#8184](https://github.com/microsoft/pyrx/pull/8184) | bschnurr | 2026-04-07 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
 
 
 
