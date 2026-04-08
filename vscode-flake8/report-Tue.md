@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-flake8
 
 
-Generated on 2026-03-31 using: stale=30, all=False
+Generated on 2026-04-07 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,8 +17,7 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[458](https://github.com/microsoft/vscode-flake8/issues/458 "Phase 2: Add missing test coverage before shared package extraction")  |Phase 2: Add missing test coverage before shared package extraction |
- | \* OP:0  |[456](https://github.com/microsoft/vscode-flake8/issues/456 "Feature Parity: Priority fixes before shared package extraction")  |Feature Parity: Priority fixes before shared package extraction |
+ | \* OP:0  |[465](https://github.com/microsoft/vscode-flake8/issues/465 "Phase 4: Normalize codebase for shared package extraction")  |Phase 4: Normalize codebase for shared package extraction |
 
 ## PULL REQUEST ACTIVITY
 
@@ -27,7 +26,16 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#457](https://github.com/microsoft/vscode-flake8/pull/457) | edvilme | 2026-03-31 | 0 | - | - | Feature Parity: Tier 1 priority fixes |
+| \* | [#468](https://github.com/microsoft/vscode-flake8/pull/468) | edvilme | 2026-04-07 | 0 | - | - | Refactor: add exit_code field to RunResult |
+| \* | [#467](https://github.com/microsoft/vscode-flake8/pull/467) | edvilme | 2026-04-07 | 0 | - | - | Refactor: is_match add workspace_root parameter |
+| \* | [#466](https://github.com/microsoft/vscode-flake8/pull/466) | edvilme | 2026-04-07 | 0 | - | - | Refactor: expandTilde dedup, USE_DEBUGPY gate, jsonrpc env+ConnectionError, _get_settings_by_path |
+
+### Pull Requests merged in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#464](https://github.com/microsoft/vscode-flake8/pull/464) | edvilme | 2026-04-06 | 0 | 2026-04-07 | edvilme | refactor: extract envFile.ts module from server.ts |
+| \* | [#464](https://github.com/microsoft/vscode-flake8/pull/464) | edvilme | 2026-04-06 | 0 | 2026-04-07 | edvilme | refactor: extract envFile.ts module from server.ts |
 
 
 
