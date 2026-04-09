@@ -2,20 +2,11 @@
 # GITHUB ISSUES REPORT FOR microsoft/vscode-mypy
 
 
-Generated on 2026-04-01 using: stale=30, all=False
+Generated on 2026-04-08 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
 
-
-## FOR ISSUES THAT ARE MARKED AS BUGS:
-
-
-### Issues in vscode-mypy that need a response from team:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* OP:0  |[497](https://github.com/microsoft/vscode-mypy/issues/497 "incorrectly reports type error for union types in property setters")  |incorrectly reports type error for union types in property setters |
 
 ---
 
@@ -26,8 +17,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[496](https://github.com/microsoft/vscode-mypy/issues/496 "Phase 2: Add missing test coverage before shared package extraction")  |Phase 2: Add missing test coverage before shared package extraction |
- | \* OP:1  |[494](https://github.com/microsoft/vscode-mypy/issues/494 "Feature Parity: Priority fixes before shared package extraction")  |Feature Parity: Priority fixes before shared package extraction |
+ | \* OP:0  |[511](https://github.com/microsoft/vscode-mypy/issues/511 "[aw] Issue Triage failed")  |[aw] Issue Triage failed |
+ | \* OP:1  |[504](https://github.com/microsoft/vscode-mypy/issues/504 "Phase 4: Normalize codebase for shared package extraction")  |Phase 4: Normalize codebase for shared package extraction |
 
 ## PULL REQUEST ACTIVITY
 
@@ -36,14 +27,34 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#499](https://github.com/microsoft/vscode-mypy/pull/499) | dependabot | 2026-04-01 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 5 updates |
-| \* | [#498](https://github.com/microsoft/vscode-mypy/pull/498) | edvilme | 2026-04-01 | 0 | - | - | test: add missing test coverage for PRs #325, #347, #357, #467 |
+| \* | [#513](https://github.com/microsoft/vscode-mypy/pull/513) | dependabot | 2026-04-08 | 0 | - | - | Bump pytest from 8.3.4 to 9.0.3 in /src/test/python_tests |
+| \* | [#512](https://github.com/microsoft/vscode-mypy/pull/512) | dependabot | 2026-04-08 | 0 | - | - | Bump the npm-minor-patch group across 1 directory with 7 updates |
+| \* | [#510](https://github.com/microsoft/vscode-mypy/pull/510) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: add l10n bundle directory for localization |
+| \* | [#510](https://github.com/microsoft/vscode-mypy/pull/510) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: add l10n bundle directory for localization |
+| \* | [#509](https://github.com/microsoft/vscode-mypy/pull/509) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: merge vscodeapi.ts to cross-repo superset |
+| \* | [#509](https://github.com/microsoft/vscode-mypy/pull/509) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: merge vscodeapi.ts to cross-repo superset |
+| \* | [#508](https://github.com/microsoft/vscode-mypy/pull/508) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: upgrade configWatcher.ts disposal pattern |
+| \* | [#508](https://github.com/microsoft/vscode-mypy/pull/508) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: upgrade configWatcher.ts disposal pattern |
+
+### Pull Requests merged in the past 1 day(s):
+
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#509](https://github.com/microsoft/vscode-mypy/pull/509) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: merge vscodeapi.ts to cross-repo superset |
+| \* | [#509](https://github.com/microsoft/vscode-mypy/pull/509) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: merge vscodeapi.ts to cross-repo superset |
+| \* | [#508](https://github.com/microsoft/vscode-mypy/pull/508) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: upgrade configWatcher.ts disposal pattern |
+| \* | [#508](https://github.com/microsoft/vscode-mypy/pull/508) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: upgrade configWatcher.ts disposal pattern |
+| \* | [#510](https://github.com/microsoft/vscode-mypy/pull/510) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: add l10n bundle directory for localization |
+| \* | [#510](https://github.com/microsoft/vscode-mypy/pull/510) | edvilme | 2026-04-08 | 0 | 2026-04-08 | edvilme | Refactor: add l10n bundle directory for localization |
+| \* | [#506](https://github.com/microsoft/vscode-mypy/pull/506) | edvilme | 2026-04-07 | 1 | 2026-04-08 | edvilme | Refactor: normalize_path resolve_symlinks, is_match optional workspace_root |
+| \* | [#506](https://github.com/microsoft/vscode-mypy/pull/506) | edvilme | 2026-04-07 | 1 | 2026-04-08 | edvilme | Refactor: normalize_path resolve_symlinks, is_match optional workspace_root |
 
 ### Pull Requests closed (not merged) in the past 1 day(s):
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#489](https://github.com/microsoft/vscode-mypy/pull/489) | dependabot | 2026-03-23 | 9 | 2026-04-01 | - | Bump the npm-minor-patch group across 1 directory with 4 updates |
+| \* | [#405](https://github.com/microsoft/vscode-mypy/pull/405) | dependabot | 2026-02-13 | 54 | 2026-04-08 | - | Bump pytest from 8.3.4 to 9.0.2 in /src/test/python_tests |
+| \* | [#503](https://github.com/microsoft/vscode-mypy/pull/503) | dependabot | 2026-04-07 | 1 | 2026-04-08 | - | Bump the npm-minor-patch group across 1 directory with 6 updates |
 
 
 
