@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pylance-release
 
 
-Generated on 2026-04-03 using: stale=30, all=False
+Generated on 2026-04-10 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -17,13 +17,13 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7963](https://github.com/microsoft/pylance-release/issues/7963 "No supported option to completely disable current and future 'python.analysis.aiCodeActions' settings")  |No supported option to completely disable current and future 'python.analysis.aiCodeActions' settings |
+ | \* OP:0  |[7983](https://github.com/microsoft/pylance-release/issues/7983 "[zh-CN] reportUntypedFunctionDecorator message implies users should remove decorator")  |[zh-CN] reportUntypedFunctionDecorator message implies users should remove decorator |
 
-### Issues in pylance-release that have no external responses since team response in 30+ days:
+### Issues in pylance-release that have comments from 3rd party after last team response:
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:30  |[7916](https://github.com/microsoft/pylance-release/issues/7916 "Cannot resolve packages from the virtual environment")  |Cannot resolve packages from the virtual environment |
+ | \* P:1,  |[7615](https://github.com/microsoft/pylance-release/issues/7615 "Pylance is extremly slow with 'transformers' package")  |Pylance is extremly slow with 'transformers' package |
 
 ## PULL REQUEST ACTIVITY
 
@@ -32,7 +32,12 @@ Only showing items that are new to report in past 1 day(s)
 
 | | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8175](https://github.com/microsoft/pyrx/pull/8175) | bschnurr | 2026-04-03 | 0 | - | - | **Do Not Submit** Pull Pyright Only Nightly Test |
+| \* | [#8222](https://github.com/microsoft/pyrx/pull/8222) | StellaHuang95 | 2026-04-10 | 0 | - | - | Suppress "Add type annotation" for for-loop target variables |
+| \* | [#8221](https://github.com/microsoft/pyrx/pull/8221) | heejaechang | 2026-04-10 | 0 | - | - | WIP: Add pylancePrFeedback thread reply/resolve actions and test coverage |
+| \* | [#8220](https://github.com/microsoft/pyrx/pull/8220) | heejaechang | 2026-04-10 | 0 | - | - | Add excludeLibraryDiagnostics to suppress diagnostics in library files |
+| \* | [#8219](https://github.com/microsoft/pyrx/pull/8219) | rchiodo | 2026-04-10 | 0 | - | - | Fix #6612: IntelliSense not working for documents with custom URI schemes |
+| \* | [#8218](https://github.com/microsoft/pyrx/pull/8218) | rchiodo | 2026-04-10 | 0 | - | - | Fix #7976: Add capability to ignore certain packages |
+| \* | [#8215](https://github.com/microsoft/pyrx/pull/8215) | heejaechang | 2026-04-10 | 0 | - | - | feat: add Generate Dependency File command with MCP support |
 
 ## RECENTLY CLOSED ISSUES
 
@@ -41,20 +46,8 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* TM:9  |[7951](https://github.com/microsoft/pylance-release/issues/7951 "[TSP][Pyrefly][Completion] Auto-import completions don't work")  |[TSP][Pyrefly][Completion] Auto-import completions don't work |
- | \* TM:360  |[7110](https://github.com/microsoft/pylance-release/issues/7110 "Deleting a cell/scrolling causes error in language server (pylance)")  |Deleting a cell/scrolling causes error in language server (pylance) |
- | \* TM:345  |[7148](https://github.com/microsoft/pylance-release/issues/7148 "Suppress diagnostic for terminal scheme")  |Suppress diagnostic for terminal scheme |
- | \* TM:340  |[7165](https://github.com/microsoft/pylance-release/issues/7165 "Inserting inlay return types is missing originating module for generic types")  |Inserting inlay return types is missing originating module for generic types |
- | \* TM:286  |[7343](https://github.com/microsoft/pylance-release/issues/7343 "Dismiss certain notifications.")  |Dismiss certain notifications. |
- | \* TM:283  |[7351](https://github.com/microsoft/pylance-release/issues/7351 "Pytest fixture completions don't work in test class functions")  |Pytest fixture completions don't work in test class functions |
- | \* TM:187  |[7595](https://github.com/microsoft/pylance-release/issues/7595 "Feature Request - live output for `pylanceRunCodeSnippet`")  |Feature Request - live output for `pylanceRunCodeSnippet` |
- | \* TM:79  |[7829](https://github.com/microsoft/pylance-release/issues/7829 "Restructured text for empty references is removing `_` on the end or front of the reference text")  |Restructured text for empty references is removing `_` on the end or front of the reference text |
- | \* TM:64  |[7848](https://github.com/microsoft/pylance-release/issues/7848 "Signature help doesn't work with @wrap")  |Signature help doesn't work with @wrap |
- | \* TM:54  |[7863](https://github.com/microsoft/pylance-release/issues/7863 "Syntax highlighting doesn't work with escape characters")  |Syntax highlighting doesn't work with escape characters |
- | \* TM:30  |[7915](https://github.com/microsoft/pylance-release/issues/7915 "Pylance crashes with EISDIR when workspace contains a .env directory instead of a .env file")  |Pylance crashes with EISDIR when workspace contains a .env directory instead of a .env file |
- | \* TM:24  |[7925](https://github.com/microsoft/pylance-release/issues/7925 "No auto import completions for the `rich` library")  |No auto import completions for the `rich` library |
- | \* TM:17  |[7934](https://github.com/microsoft/pylance-release/issues/7934 "Intermittent incorrect autofill of type annotation")  |Intermittent incorrect autofill of type annotation |
- | \* TM:9  |[7947](https://github.com/microsoft/pylance-release/issues/7947 "Pylance crashes when VSCode Python REPL is opened with a `uv tool` installed Ipython3")  |Pylance crashes when VSCode Python REPL is opened with a `uv tool` installed Ipython3 |
+ | \* TM:0  |[7982](https://github.com/microsoft/pylance-release/issues/7982 "error 1")  |error 1 |
+ | \* TM:0  |[7981](https://github.com/microsoft/pylance-release/issues/7981 "Bug: `isinstance` + reassignment fails to narrow for slice operations")  |Bug: `isinstance` + reassignment fails to narrow for slice operations |
 
 
 
