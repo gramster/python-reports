@@ -2,7 +2,7 @@
 # GITHUB ISSUES REPORT FOR microsoft/pyright
 
 
-Generated on 2026-04-04 using: stale=30, all=False
+Generated on 2026-04-11 using: stale=30, all=False
 
 
 Only showing items that are new to report in past 1 day(s)
@@ -15,24 +15,20 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:1  |[11358](https://github.com/microsoft/pyright/issues/11358 "&quot;Arguments for ParamSpec are missing&quot; error")  |"Arguments for ParamSpec are missing" error |
-
-### Issues in pyright that have comments from OP after last team response:
-
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:1, OP:1  |[11359](https://github.com/microsoft/pyright/issues/11359 "Significant Performance Regression in 1.1.405+")  |Significant Performance Regression in 1.1.405+ |
+ | \* OP:0  |[11377](https://github.com/microsoft/pyright/issues/11377 "resulting `ItemsView` isn't narrowed after `isinstance(..., Mapping)` check (and other oddities)")  |resulting `ItemsView` isn't narrowed after `isinstance(..., Mapping)` check (and other oddities) |
+ | \* OP:1  |[11374](https://github.com/microsoft/pyright/issues/11374 "Union type incorrectly satisfies TypeVar bound to Protocol with Self in contravariant position")  |Union type incorrectly satisfies TypeVar bound to Protocol with Self in contravariant position |
 
 ---
 
-## RECENTLY CLOSED ISSUES
+## PULL REQUEST ACTIVITY
 
 
-### Issues closed in the past 1 day(s):
+### Pull Requests merged in the past 1 day(s):
 
-| Days Ago | Issue | Title |
-| --- | --- | --- |
- | \* TM:0  |[11361](https://github.com/microsoft/pyright/issues/11361 "Recognize valid pattern of dataclasses with @property")  |Recognize valid pattern of dataclasses with @property |
+| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \* | [#11375](https://github.com/microsoft/pyright/pull/11375) | pt-anthropic | 2026-04-09 | 0 | 2026-04-10 | rchiodo | reportPrivateUsage: honor __all__ for module-level _name in non-py.typed source |
+| \* | [#11375](https://github.com/microsoft/pyright/pull/11375) | pt-anthropic | 2026-04-09 | 0 | 2026-04-10 | rchiodo | reportPrivateUsage: honor __all__ for module-level _name in non-py.typed source |
 
 
 
