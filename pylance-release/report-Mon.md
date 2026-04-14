@@ -17,18 +17,17 @@ Only showing items that are new to report in past 1 day(s)
 
 | Days Ago | Issue | Title |
 | --- | --- | --- |
- | \* OP:0  |[7986](https://github.com/microsoft/pylance-release/issues/7986 "Pylance MCP tool schemas include $schema key, causing 400 error with Claude/Anthropic API (Property keys must match '^[a-zA-Z0-9_.-]{1,64}$')")  |Pylance MCP tool schemas include $schema key, causing 400 error with Claude/Anthropic API (Property keys must match '^[a-zA-Z0-9_.-]{1,64}$') |
- | \* OP:0  |[7985](https://github.com/microsoft/pylance-release/issues/7985 "Type inference didn't take into account instance field being changed in method")  |Type inference didn't take into account instance field being changed in method |
- | \* OP:1  |[7984](https://github.com/microsoft/pylance-release/issues/7984 "Extension causes high cpu load")  |Extension causes high cpu load |
+ | \* OP:0  |[7988](https://github.com/microsoft/pylance-release/issues/7988 "Incorrect Text for Pylance MCP Tools Descriptor")  |Incorrect Text for Pylance MCP Tools Descriptor |
 
-## PULL REQUEST ACTIVITY
+## RECENTLY CLOSED ISSUES
 
 
-### Pull Requests opened in the past 1 day(s):
+### Issues closed in the past 1 day(s):
 
-| | PR | Created By | Created | Days Open | Closed/Merged | Closed/Merged By | Title |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| \* | [#8223](https://github.com/microsoft/pyrx/pull/8223) | dependabot | 2026-04-12 | 0 | - | - | Bump axios from 1.13.5 to 1.15.0 |
+| Days Ago | Issue | Title |
+| --- | --- | --- |
+ | \* TM:0  |[7987](https://github.com/microsoft/pylance-release/issues/7987 "improt  mein pygame erray hai ise karn hasi")  |improt  mein pygame erray hai ise karn hasi |
+ | \* TM:0  |[7986](https://github.com/microsoft/pylance-release/issues/7986 "Pylance MCP tool schemas include $schema key, causing 400 error with Claude/Anthropic API (Property keys must match '^[a-zA-Z0-9_.-]{1,64}$')")  |Pylance MCP tool schemas include $schema key, causing 400 error with Claude/Anthropic API (Property keys must match '^[a-zA-Z0-9_.-]{1,64}$') |
 
 
 
