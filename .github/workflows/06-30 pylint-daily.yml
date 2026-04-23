@@ -1,8 +1,8 @@
 name: 'Generate Daily Report for pylint'
 
 on:
-  schedule:
-    - cron: 30 6 * * *    
+  #schedule:
+  #  - cron: 30 6 * * *    
   workflow_dispatch:
   
 permissions:

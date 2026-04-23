@@ -1,8 +1,8 @@
 name: 'Generate Daily Report for vscode-flake8'
 
 on:
-  schedule:
-    - cron: 30 5 * * *    
+  #schedule:
+  #  - cron: 30 5 * * *    
   workflow_dispatch:
   
 permissions:

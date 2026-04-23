@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for sarif-tools'
 
 on:
-  schedule:
-    - cron: 50 1 * * 1    
+  #schedule:
+  #  - cron: 50 1 * * 1    
   workflow_dispatch:
   
 permissions:

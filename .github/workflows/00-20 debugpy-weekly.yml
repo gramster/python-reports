@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for debugpy'
 
 on:
-  schedule:
-    - cron: 20 0 * * 1    
+  #schedule:
+  #  - cron: 20 0 * * 1    
   workflow_dispatch:
   
 permissions:

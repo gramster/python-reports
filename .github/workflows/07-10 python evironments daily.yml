@@ -1,8 +1,8 @@
 name: 'Generate Daily Report for vscode-python-environments'
 
 on:
-  schedule:
-    - cron: 10 7 * * *    
+  #schedule:
+  #  - cron: 10 7 * * *    
   workflow_dispatch:
   
 permissions:

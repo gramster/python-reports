@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for vscode-pylint'
 
 on:
-  schedule:
-    - cron: 30 1 * * 1    
+  #schedule:
+  #  - cron: 30 1 * * 1    
   workflow_dispatch:
   
 permissions:

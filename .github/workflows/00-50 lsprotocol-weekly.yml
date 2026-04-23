@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for lsprotocol'
 
 on:
-  schedule:
-    - cron: 50 0 * * 1    
+  #schedule:
+  #  - cron: 50 0 * * 1    
   workflow_dispatch:
   
 permissions:

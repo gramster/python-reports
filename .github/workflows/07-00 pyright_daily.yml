@@ -1,8 +1,8 @@
 name: 'Generate Daily Report for pyright'
 
 on:
-  schedule:
-    - cron: 00 7 * * *    
+  #schedule:
+  #  - cron: 00 7 * * *    
   workflow_dispatch:
   
 permissions:

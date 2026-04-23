@@ -1,8 +1,8 @@
 name: 'Generate Weekly Full Report for pylance'
 
 on:
-  schedule:
-    - cron: 20 1 * * 1    
+  #schedule:
+  #  - cron: 20 1 * * 1    
   workflow_dispatch:
   
 permissions:
